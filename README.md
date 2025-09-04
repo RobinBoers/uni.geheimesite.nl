@@ -6,6 +6,7 @@ Dit is een kopie van mijn [originele geducktapete site](//school.geheimesite.nl)
 
 ### Kennismaking met onderzoeksmethoden en statistiek
 
+- [Literatuur](/OWW1/KOM/Literatuur)
 - [Begrippenlijst](/OWW1/KOM/Begrippenlijst)
 - [Hoorcollege 1](/OWW1/KOM/HC1)
 
