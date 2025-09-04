@@ -1,0 +1,43 @@
+#!/bin/bash
+
+required ruby
+
+DIST=_site
+
+FORMAT="prettier --log-level warn --write"
+JEKYLL="bundle exec jekyll"
+
+setup() {
+  gem install bundler
+  bundle install
+}
+
+format() {
+  $FORMAT *VWO/**/*.md
+}
+
+build() {
+  printf "Generating index... "
+  ./generate-index.sh && finish || echo "warning: couldn't regenerate index; old index kept as-is."
+
+  printf "Building site... "
+  $JEKYLL build --quiet && finish
+
+  printf "Formatting... "
+  $FORMAT $DIST && finish
+}
+
+serve() {
+  $JEKYLL server --quiet --watch --livereload
+}
+
+clean() {
+  rm -rf $DIST
+}
+
+finish() {
+  GREEN="\033[1;32m"
+  CLEAR="\033[0m"
+
+  printf "${GREEN}done${CLEAR}\n"
+}
