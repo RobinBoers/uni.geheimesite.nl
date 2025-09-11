@@ -131,3 +131,14 @@ tbody tr:last-of-type,
 table > tr:last-of-type {
   border-bottom: 0;
 }
+
+/* Print */
+@media print {
+  body > header {
+    display: none;
+  }
+
+  body > footer {
+    display: none;
+  }
+}
