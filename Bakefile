@@ -17,9 +17,6 @@ format() {
 }
 
 build() {
-  printf "Generating index... "
-  ./generate-index.sh && finish || echo "warning: couldn't regenerate index; old index kept as-is."
-
   printf "Building site... "
   $JEKYLL build --quiet && finish
 
