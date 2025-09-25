@@ -76,8 +76,8 @@ Dit artikel lijkt interessant voor de opdracht omdat het een koppeling maakt tus
 
 ### Andere bronnen gevonden:
 
-- <https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/01443410701413753>
-- <https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/0022-0663.96.4.778>
-- <https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/0022-0663.94.3.562>
-- <http://dx.doi.org/10.12973/iji.2016.923a>
+- <https://doi.org/10.1080/01443410701413753>
+- <https://doi.org/10.1037/0022-0663.96.4.778>
+- <https://doi.org/10.1037/0022-0663.94.3.562>
 - <https://doi.org/10.1016/j.chb.2010.05.006>
+- <https://doi.org/10.12973/iji.2016.923a>

@@ -1,6 +1,8 @@
 # 👋 Hallo studiegenoot
 
-Dit is een kopie van mijn [originele geducktapete site](//school.geheimesite.nl), maar dan voor Onderwijswetenschappen shtuff. Misschien heb je er iets aan ¯\_(ツ)_/¯
+Dit is een kopie van mijn [originele geducktapete site](//school.geheimesite.nl), maar dan voor Onderwijswetenschappen shtuff.
+
+Misschien heb je er iets aan :)
 
 ## OWW1
 

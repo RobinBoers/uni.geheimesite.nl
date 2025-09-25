@@ -41,8 +41,8 @@ Een **replicatie** is het opnieuw uitvoeren van een studie om te controlleren of
 
 Hoe de theorie tot stand komt ligt aan het type onderzoek:
 
-- **Inductief**
-- **Deductief**
+- **Inductief**: specifieke observaties → patronen → theorie.
+- **Deductief**: theorie → hypotheses → specifieke situaties.
 
 Kwalitatief onderzoek is inductief, kwantitatief onderzoek is deductief.
 
@@ -74,6 +74,12 @@ Vooraf hebben onderzoekers een vermoeden van de onderzoeksuitkomsten op basis va
 
 <!--In sociaal-wetenschappelijk onderzoek is vaak de context zeer relevant. Denk bijvoorbeeld aan culturele verschillen, motieven en interpersoonlijke relaties binnen de samenhang van de doelgroep.-->
 Kwalitatief onderzoek draait om het begrijpen van sociale fenomenen in hun natuurlijke context (in contrast met een streng gecontroleerde lab-setting).
+
+<!-- Kenmerken uit hoorcollege: 
+- natuurlijke omgeving respondent
+- contextuele benadering
+- perspectief van respondent centraal
+-->
 
 <!--Kwantitatief onderzoek reduceert ervaringen tot een datapunt. Kwalitatief onderzoek beschrijft de sociale werkelijkheid en al haar diversiteit in zijn totaliteit neemt belangrijke context zoals omgevingsfactoren, interpersoonlijke relaties binnen een groep, etc. mee.-->
 
@@ -117,13 +123,13 @@ Positivitisch onderzoek is meestal etic, en interpretivistisch is meestal emic.
 
 Een goede onderzoeksvraag in kwalitatief onderzoek moet in ieder geval de volgende vier elementen bevatten:
 
-- **Setting**: in welke sociaal-economische context voer je je onderzoek uit?
+- **Setting**: in welke sociaal-economische context voer je het onderzoek uit?
   <small>(bijv. wijk/stad/regio/land etc.)</small>
-- **Perspective** (of populatie): wie is de doelgroep die je onderzoekt?
+- **Perspective** (of populatie): welke doelgroep wordt onderzocht?
   <small>(bijv. subcultuur, leeftijdsgroep, etnische groep etc.)</small>
 - **Interest**: welk specifiek fenomeen, sociaal patroon of onderwerp wil je onderzoeken?
 - **(C)omparison**: welke vergelijking willen we trekken?
-- **Evaluation**: hoe meet je de interest? Je meet I indirect via E.
+- **Evaluation**: hoe meet je de interest? Je meet I indirect via E. <small>(Tip: meestal een werkwoord.)</small>
 
 De vergelijking is optioneel, daarom staat hij tussen haakjes.
 
@@ -185,7 +191,7 @@ Als nieuwe gegevens (extra interviews/observaties) geen nieuwe inzichten of abno
 Bij het kwalitatieve interview of de focusgroep ga je met mensen in gesprek. Geinterviewden vallen in één van twee categoriën:
 
 - **Respondenten** zijn deel van de onderzochte doelgroep <small>(bijvoorbeeld leerlingen, ouderen etc.)</small>
-- **Informanten** staan dicht bij de onderzochte doelgroepM<!--, hebben informatie door sociale of professionele positie--> <small>(bijv. leraren, ouders, mantelzorgers)</small>
+- **Informanten** staan dicht bij de onderzochte doelgroep<!--, hebben informatie door sociale of professionele positie--> <small>(bijv. leraren, ouders, mantelzorgers)</small>
 
 Afhankelijk van de situatie is de respondent zelf, of juist een informant, een betere informatiebron.
 
@@ -229,6 +235,15 @@ De **verstandhouding** (rapport) tussen de onderzoeker en respondent is daarom e
 
 Om te voorkomen dat de interviewer *teveel* stuurt is het belangrijk dat deze zich bewust is van zijn eigen invloed en biases. **Zelfinzicht** ('reflexivity') hebben is belangrijk, dit kan bijvoorbeeld door vantevoren op te schrijven hoe je ergens in staat. Dit is extra belangrijk als de interviewer (persoonlijk) belang heeft bij een bepaald onderzoeksresultaat.
 
+#### Field notes
+
+Tijdens gesprekken maakt de onderzoeker field notes, waarin aantekeningen worden gemaakt die tijdens analyse waardevol kunnen zijn, zoals:
+
+- wie/waar wordt gesproken? wie neemt het interview af?
+- gezichtsuitdrukking en lichaamstaal van de respondent
+- gevoelens en interpretatie van de interviewer
+- bij een focusgroep: de interacties tussen respondenten
+
 ### Etnografie
 
 Bij observatieonderzoek ga je niet met mensen in gesprek, maar doe je observaties van hun gedrag. (Dit verschilt van onderzoeksjournalisme, omdat er bij etnografie specifiek een sociale theorie getoetst wordt.) Dit kan op een aantal manieren:
@@ -237,23 +252,17 @@ Bij observatieonderzoek ga je niet met mensen in gesprek, maar doe je observatie
 - **Verhuld** vs **onverhuld**: weten mensen dat ze geobserveerd worden?
 - **Systematisch** vs **niet-systematisch**: is vooraf vastgelegd aan welke gedragingen aandacht wordt besteed?
 
-<!-- #### Rollen uit de literatuur
-
-- **Complete participant** (undercover): moeilijk vol omdat mensen continu moet worden voorgelogen. Het is ook ethisch gezien questionable.
-
-- **Participant observer**: sommigen mensen weten dat je hen onderzoekt, anderen niet.
-  - je kan gewoon vragen stellen en notities maken zonder het te hoeven verhullen
-  - het is minder ethisch onverantwoord, er wordt consent gegeven door de onderzoeker 'toe te laten' in je wereld. (MAAR: soms is het moeilijk om terug te trekken uit een situatie in het geval je niet onderzocht wil worden)
-  - aanwezigheid van de onderzoeker kan beinvloeden hoe mensen zich gedragen ('hawthorne effect'), maar dit verdwijnt in langdurig onderzoek snel.
-  - tevens kan de onderzoeker het 'nieuw zijn' ook benutten door de kans te gebruiken bepaalde vragen te stellen over de sociale situatie etc.
-
-- **Observer**: je neemt niet deel aan de situatie, maar laat mensen wel weten dat je ze observeert. Dit gebeurt bijvoorbeeld als je niet mee *kan* doen, zoals bij topsport. Je mist wel de 'feel' van de situatie.
-
-- **Covert observer**: je neemt niet deel, en verteld ook niet dat aan mensen dat ze onderzocht worden. Er is dus geen reactiviteit, maar je kan handelingen ook misinterpreteren, omdat je verder weg staat en daardoor een stukje sociale context mist.
-
--->
-
 > Systematisch betekent hier 'gestructureerd,' en staat los van het kenmerk van wetenschappelijk onderzoek, dat eerder 'consistent' betekent. Onderzoek is dus altijd systematisch op globaal niveau (als in, herhaald en consistent), maar de aanpak kan systematischer of minder systematisch zijn (als in, gestructureerd of 'go with the flow').
+
+<details open>
+<summary style="font-weight: normal">In de literatuur werden de volgende rollen benoemd:</summary>
+<ul>
+<li><b>Complete participant</b> (undercover): verhuld/participerend</li>
+<li><b>Participant observer</b>: onverhuld/participerend</li>
+<li><b>Observer</b>: onverhuld/niet-participerend</li>
+<li><b>Covert observer</b>: verhuld/niet-participerend</li>
+</ul>
+</details>
 
 Het voordeel van participerend observatieonderzoek is dat de onderzoeker dicht op de doelgroep zit en daardoor veel informatie kan verzamelen<!-- (niet alleen acties, maar ook sociale context, interacties met anderen en emotioneel/psychologische kenmerken)-->. Er is wel een risico dat de onderzoeker té betrokken raakt bij de doelgroep en zichzelf in het onderzoek verliest ('going native'). Aan de andere kant kan niet-participerend onderzoek tot objectievere observaties, met het risico ze verkeerd te interpreteren (omdat de onderzoeker minder context heeft).
 
@@ -335,15 +344,14 @@ Datamanagement heeft betrekking op de opslag van gegevens tijdens en na het onde
 - **Vertrouwelijk onderzoek** verzamelt wel persoonsgegevens, maar wordt gedeidentificeerd.
   **De-identificatie** houdt in dat persoonsgegevens los of versleuteld worden opgeslagen.
 
+Datamanagement is belangrijk voor de transparantie en reproduceerbaarheid van onderzoek.
+
 ### Herstructureren
 
-Na het verzamelen heeft de onderzoeker een hele hoop ongestructureerde data. De eerste stap is orde brengen in deze data (digitaliseren, transcriberen).
+Na het verzamelen heeft de onderzoeker een hele hoop ongestructureerde data. De eerste stap is orde brengen in deze data (digitaliseren, transcriberen etc.) Dit kost gemiddeld acht uur per uur verzameld materiaal.
 
-Het voordeel van zelf transcriberen tenopzichte van outsourcen is dat de onderzoeker gelijk "de data leert kennen", en tijdens transcriberen al patronen kan vinden, fragmenten kan samenvatten, of highlighten.
-
-De onderzoeker "leert de data kennen", vat samen en highlight belangrijke delen.
-
-Dit kost gemiddeld acht uur per uur verzameld materiaal.
+Deze stap kunnen we outsourcen, als we dit zelf doen kunnen we gelijk "de data leren kennen."
+Tijdens transcriberen kan je al patronen vinden, fragmenten samenvatten en belangrijke informatie highlighten of bookmarken. 
 
 ### Coderen
 
@@ -382,10 +390,10 @@ Echter: kan niet het mechanisme (de 'waarom?') van de causaliteit uitleggen, en 
 
 #### Mechanismes / processen
 
-Deze aanpak stelt dat kwalitatief onderzoek alleen geen causaliteit *kan* aantonen (daar is altijd kwantitatief onderzoek voor nodig), maar wel het onderliggende mechanisme van een eerder aangetoond causaal verband kan uitleggen, aan de hand van de volgende vragen:
+Deze aanpak stelt dat kwalitatief onderzoek geen causaliteit kan aantonen (daar is ander onderzoek voor nodig), maar wel het onderliggende mechanisme (de 'waarom?') van een eerder aangetoond causaal verband kan uitleggen. Aan de hand van de volgende vragen:
 
-- *Wat* doen mensen? wat is hun doel?
-- *Hoe* doen ze het? Welke technieken/strategiën gebruiken ze?
+- Wat doen mensen? wat is hun doel?
+- Hoe doen ze het? Welke technieken/strategiën gebruiken ze?
 - Hoe begrijpen/praten mensen over hun eigen situatie?
 - Welke veronderstellingen maken mensen?
 - Wat zie ik (als onderzoeker)? Wat heb ik geleerd?
@@ -421,6 +429,162 @@ Ook alternatieve verklaringen moeten worden geevalueerd (interne validiteit). Di
 De resultaten kunnen gedeeld worden als **matrix**: een tabel met frequenties van bepaalde codes. In (geanonimiseerd) etnografisch onderzoek noemen we dit een **etnoarray**, en in biologisch onderzoek een **microarray**.
 
 # Correlationeel onderzoek
+
+## Voorkennis
+
+### Centrummaten
+
+Onderzoekers willen graag iets kunnen zeggen over de dataset. Dit doen ze aan de hand van een van de drie centrummaten:
+
+- **Modus**: meest voorkomende score.
+- **Mediaan**: middelste score.
+- **Gemiddelde**: som gedeeld door aantal.
+
+### Meetniveaus <small>(NOIR)</small>
+
+- **Nominaal**: categorisch, met woorden.
+- **Ordinaal**: rangorde; wel een volgorde maar geen schaal.
+- **Interval**: een schaal zonder betekenisvol nulpunt (bijv. IQ of &deg;C).
+- **Ratio**: een schaal met een betekenisvol nulpunt (bijv. euro's of Kelvin).
+
+Ondanks de naam meet de **Likert-schaal** (zeer eens, eens, neutraal, oneens, zeer oneens) op *ordinaal* meetniveau.
+
+### Standaarddeviatie & andere termen
+
+- **Gemiddelde**: \\(M = \frac{\Sigma(X)}{n}\\)
+- **Deviatiescore**: \\(X - M\\)
+- **Gemiddeld verschil**: \\(\frac{\Sigma(X - M)}{n}\\) &nbsp;&nbsp;&nbsp;<small>← niet praktisch want + en - verschillen cancellen uit</small>
+- **Sum-of-squares**: \\(SS = \Sigma((X- M)^2)\\)
+- **Variantie** (spreiding): \\(s^2 = \frac{SS}{n - 1}\\)
+- **Standaardeviatie**: \\(s = \sqrt{s^2}\\) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>← wiskundig gezien zou dit \\(\left\| s \right\|\\) moeten zijn</small>
+
+\\[s = \sqrt{\frac{\Sigma((X-M)^2)}{n-1}}\\]
+
+## CAPS
+
+Een goede onderzoeksvraag in kwantitatief onderzoek moet in ieder geval de volgende vier elementen bevatten:
+
+- **Constructs**: tussen welke variabelen verwacht je een verband?
+- **Association**: wat voor soort verband verwacht je te vinden?
+- **Populatie**: welke doelgroep wordt onderzocht?
+- **Setting**: in welke sociaal-economische context voer je het onderzoek uit?
+
+> Wederom, CAPS biedt enkel een handvat voor het herkennen en formuleren van kwantitatieve onderzoeksvragen. Een een CAPS-vraag is niet automatisch goed en een niet&#8209;CAPS vraag is niet per definitie fout.
+
+## Aselecte steekproefmethoden
+
+In kwantitatief onderzoek is het belangrijk een representatieve, **aselecte steekproef** te gebruiken, omdat dit verzekerd dat resultaten onderling onafhankelijk zijn, en met redelijke zekerheid kunnen worden gegeneraliseerd (inferentie).
+
+- **Enkelvoudige aselect steekproef**: er is een lijst van de gehele populatie, en uit die lijst worden met behulp van een computerprogramma willekeurige participanten gekozen.
+
+- **Gestratificeerde steekproef**: de populatie wordt verdeeld in **strata** met een bepaald kenmerk, en binnen elk stratum wordt een enkelvoudig aselecte steekproef uitgevoerd.
+
+- **Clustersteekproef**: er is een lijst met clusters, aaruit willekeurig clusters gekozen worden.; de gehele cluster doet vervolgens mee aan de steekproef.
+
+- **Getrapte steekproef**: er is een lijst met clusters, waaruit willekeurig clusters gekozen worden. en binnen de cluster wordt een aselecte enkelvoudige steekproef uitgevoerd.
+
+- **Systematische steekproef**: XXX
+
+Met willekeurig ('random') wordt bedoeld dat elke deelnemer en elke combinatie van deelnemers, een gelijke kans heeft gekozen te worden.
+
+## Statistische toetsen
+
+### Correlatie
+
+Een **statistische toets** is een methode om een correlatie vast te stellen. De twee die wij nu moeten kennen zijn:
+
+- Pearson-correlatie (\\(r\\))
+- Spearman-correlatie (\\(r_s\\))
+
+Een **Pearson-correlatiecoëfficient** is een maat voor de gemiddelde afwijking van datapunten tenopzichte van het gemiddelde, en geeft informatie over de sterkte en richting van een linear verband.
+
+\\[r = \frac{\text{steekproef}}{\text{gehele populatie}}\\]
+
+\\[-1 < r < 1\\]
+
+<center style="margin-top: -2em"><small>(hoe verder van nul, hoe sterker het verband; teken geeft richting van de correlatie aan)</small></center>
+
+Voor het gebruik van een Pearson-correlatiecoëfficient moet aan de volgende drie kenmerken voldaan zijn (geschiktheid):
+
+- De steekproef moet aselect zijn.
+- De variabelen moeten op interval of ratio meetniveau zijn.
+- Het verband moet linear zijn.
+
+Voor variabelen op ordinaal meetniveau, of niet-lineare verbanden wordt de **Spearman-correlatiecoëfficient** gebruikt. Daarvoor moet aan de volgende voorwaarden voldaan zijn:
+
+- Het verband moet **monotoon** zijn (alleen stijgend of alleen dalend).
+- De variabelen zijn oorspronkelijk ordinaal gemeten; of
+- de variabelen zijn ordinaal gemaakt met behulp van **rangscores**.
+
+**Rangscores** trekken een kromme lijn recht door alle datapunten een rangnummer te geven, ongeacht numerieke waarde.
+
+> Een correlatie noteren we in drie decimalen, beginnend met de punt (de nul laten we weg).
+
+### Causaliteit
+
+- **Correlatie**: er is een samenhang.
+- **Causatie**: er is ook sprake van oorzaak gevolg.
+
+Een causaal verband moet aan de volgende drie kenmerken voldoen:
+
+- **Covariantie**: de variabelen moeten gecorreleerd zijn.
+- **Temporal precedence**: de tijdsvolgorde moet kloppen (oorzaak voor gevolg).
+- **Interne validiteit**: alternatieve verklaringen moeten zijn uitgesloten.
+
+> Op basis van alleen een grafiek kan je dus geen uitspraak doen over causaliteit, omdat de onderste twee kenmerken missen.
+
+## Betrouwbaarheid
+
+Betrouwbaarheid draait om de consistentie van de meetresultaten, en gaat vooral om het minimaliseren van meetfouten. Er zijn vijf manieren om betrouwbaarheid te testen:
+
+- **Test-hertest**: als je dezelfde test met dezelfde experimentele groep op een later moment herhaalt, levert dit dan dezelfde resultaten op? (Alleen toepasselijk bij theoretische begrippen die relatief stabiel zijn door de tijd, zoals intelligentie, ambitie, empathie etc; dit zou niet werken voor zeer variabele begrippen, zoals emotie of pijn.)
+
+- **Interbeoordelaar**: als dezelfde test op dezelfde experimentele groep door twee verschillende onderzoekers wordt afgenomen, levert dit dan nog steeds dezelfde resultaten op? (Zo nee, zullen waarschijnlijk de instructies voor de afnemer nader gespecificeerd moeten worden.)
+
+- **Paralleltest**: als twee vergelijkbare versies van de test op dezelfde experimentele groep worden afgenomen, geeft dit dan dezelfde resultaten?
+
+- **Split-halftest**: als de test door tweeën gesplitst wordt, en beide helften op dezelfde experimentele groep worden afgenomen, levert dit dan vergelijkbare resultaten op?
+
+- **Interne betrouwbaarheid**: binnen een instrument moeten meerdere componenten (lees: vragen) die hetzelfde theoretische begrip/aspect testen, dezelfde resultaten opleveren.
+
+Bij al deze testen wordt de Pearson-correlatie tussen de resultaten van de afnames berekent, waarbij \\(r > 0.50\\) als voldoende wordt beschouwd.
+
+## Validiteit
+
+Validiteit draait om de bruikbaarheid van resultaten. Er kan geen validiteit zijn als er geen betrouwbaarheid is.
+
+- **Interne validiteit**: zijn alternatieve verklaringen uitgesloten?
+
+- **Externe validiteit**: zijn de meetresultaten te generaliseren worden naar een grotere populatie (inferentie)?
+
+- **Begripsvaliditeit**: meet je wat je wil meten?
+
+  - **Subjectief** (vooraf):
+
+    - **Indruksvaliditeit**: klopt de conceptuele definitie die we hanteren van het theoretische begrip? (Vaak gecheckt door experts.)
+
+    - **Inhoudsvaliditeit**: sluit de operationele definite aan op de conceptuele definitie? Meten we het theoretische begrip in zijn totaliteit? Missen we geen aspecten?
+
+  - **Emperisch** (achteraf):
+
+    - **Convergent validiteit**: het instrument moet vergelijkbare resultaten geven als bestaande instrumenten die hetzelfde theoretische begrip testen.
+
+    - **Divergente/discriminante validiteit**: kan het meetinstrument onderscheid maken tussen verschillende theoretische begrippen? Het instrument mag niet per ongeluk (ook) een ander theoretisch begrip meten (bijv. leesvaardigheid in plaats van intelligentie meten).
+
+    - **Criteriumvaliditeit**: in het geval de test voorspellend is, in hoeverre verhouden de resultaten van de test zich met de criteriumvariabele (de variabele in de toekomst, die je benadert het de resultaten).
+
+- **Statistische validiteit**:
+
+  - **Significantie**: is de nulhypothese uitgesloten?
+
+  - **Relevantie**: XXX
+
+  - **Nauwkeurigheid**: XXX
+
+  - **Geschiktheid**:
+    - is de juiste statistische toets gekozen?
+    - zijn de voorwaarden voor de toets niet geschonden?
+    - zijn de resultaten op de juiste manier geinterpreteerd?
 
 # Experimenteel onderzoek
 
