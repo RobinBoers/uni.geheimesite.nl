@@ -4,13 +4,14 @@ Dit is een kopie van mijn [originele geducktapete site](//school.geheimesite.nl)
 
 ## OWW1
 
-### Kennismaking met onderzoeksmethoden en statistiek
-
-- [Literatuur](/OWW1/KOM/Literatuur)
-- [Begrippenlijst](/OWW1/KOM/Begrippenlijst)
-- [Hoorcollege 1](/OWW1/KOM/HC1)
-
 ### Inleiding onderwijswetenschappen
 
-- [Hoorcollege 1](/OWW1/IOWW/HC1)
 - [Annotated Library](/OWW1/IOWW/Annotated-Library)
+
+### Kennismaking met onderzoeksmethoden en statistiek
+
+- [Samenvatting](/OWW1/KOM/Samenvatting)
+- [Literatuur](/OWW1/KOM/Literatuur)
+- [Begrippenlijst](/OWW1/KOM/Begrippenlijst)
+
+Quicklinks literatuur: [Morling et al.](/OWW1/LIT/Morling et al. - Research Methods in Psychology (2017).pdf), [Carr et al.](/OWW1/LIT/Carr et al. - The Art And Science Of Social Research (2018).pdf), [Sleijpen et al](/OWW1/LIT/Sleijpen et al. - Lives on hold: a qualitative study of young refugees resilience strategies (2017).pdf).
