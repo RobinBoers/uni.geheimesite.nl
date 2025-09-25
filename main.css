@@ -142,3 +142,11 @@ table > tr:last-of-type {
     display: none;
   }
 }
+
+h1:not(:first-child) {
+  margin-top: 2.5em;
+}
+
+summary h2, summary h3, summary h4, summary h5, summary h6 {
+  display: inline;
+}
