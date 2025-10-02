@@ -341,10 +341,10 @@ In kwalitatief onderzoek gebeurt dit vaak *tijdens het verzamelingsproces*. Daar
 Datamanagement heeft betrekking op de opslag van gegevens tijdens en na het onderzoek, en het delen van gegevens met andere onderzoekers. Er zijn twee typen onderzoek:
 
 - **Anoniem onderzoek** verzamelt geen persoonsgegevens.
-- **Vertrouwelijk onderzoek** verzamelt wel persoonsgegevens, maar wordt gedeidentificeerd.
+- **Vertrouwelijk onderzoek** verzamelt wel persoonsgegevens, maar voorkomt dat deze bekend worden.
   **De-identificatie** houdt in dat persoonsgegevens los of versleuteld worden opgeslagen.
 
-Datamanagement is belangrijk voor de transparantie en reproduceerbaarheid van onderzoek.
+Datamanagement is belangrijk voor de transparantie, controleerbaarheid, en reproduceerbaarheid van onderzoek.
 
 ### Herstructureren
 
@@ -417,7 +417,7 @@ Een model is een visueel inzichtelijke representatie van de conclusie, waarin al
 <summary>Om zeker te zijn van de conclusie</summary>
 <ul>
 <li>nul-hypothese uitgesloten</li>
-<li>alle data meenemen</li>
+<li>sterke basis in emperische gegevens</li>
 <li>geen onverklaarbare uitschieters</li>
 <li>geen afwijkende data weggooien</li>
 <li>tunnelvisie voorkomen met inconvience sample</li>
@@ -440,14 +440,15 @@ Onderzoekers willen graag iets kunnen zeggen over de dataset. Dit doen ze aan de
 - **Mediaan**: middelste score.
 - **Gemiddelde**: som gedeeld door aantal.
 
-### Meetniveaus <small>(NOIR)</small>
+De mediaan van de mediaan is een **kwartiel**, van Q1 tot Q3. De **interkwartielafstand** (IQR) is het verschil tussen Q1 en Q3, en bevat precies de helft van de datapunten.
 
-- **Nominaal**: categorisch, met woorden.
-- **Ordinaal**: rangorde; wel een volgorde maar geen schaal.
-- **Interval**: een schaal zonder betekenisvol nulpunt (bijv. IQ of &deg;C).
-- **Ratio**: een schaal met een betekenisvol nulpunt (bijv. euro's of Kelvin).
+### Boxplot
 
-Ondanks de naam meet de **Likert-schaal** (zeer eens, eens, neutraal, oneens, zeer oneens) op *ordinaal* meetniveau.
+Het **boxplot** is een manier om het centrum en de verdeling van de dataset te visualiseren. De 'box' loopt van Q1 tot Q3, en heeft een lijntje voor Q2 (de mediaan).
+
+De 'snorharen' laten het bereik (hoogste en laagste waarde) van de data zien. Eventuele uitschieters die niet zijn meegenomen in de dataset kunnen worden weergegeven met puntjes.
+
+<img src="boxplot.png" style="aspect-ratio: auto">
 
 ### Standaarddeviatie & andere termen
 
@@ -459,6 +460,13 @@ Ondanks de naam meet de **Likert-schaal** (zeer eens, eens, neutraal, oneens, ze
 - **Standaardeviatie**: \\(s = \sqrt{s^2}\\) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>← wiskundig gezien zou dit \\(\left\| s \right\|\\) moeten zijn</small>
 
 \\[s = \sqrt{\frac{\Sigma((X-M)^2)}{n-1}}\\]
+
+> Op **populatieniveau** gelden net andere regels dan op **steekproefniveau**. Daarom gebruiken we op populatieniveau Griekse letters, in plaats van het normale Romeinse alfabet:
+>
+> - \\(M = \mu\\)
+> - \\(s = \sigma\\)
+> - \\(r = \rho\\)
+> - \\(n = N\\)&nbsp;&nbsp;&nbsp;<small>← dit is dan weer een uitzondering; het kan ook nooit gwn logisch zijn</small>
 
 ## CAPS
 
@@ -487,7 +495,38 @@ In kwantitatief onderzoek is het belangrijk een representatieve, **aselecte stee
 
 Met willekeurig ('random') wordt bedoeld dat elke deelnemer en elke combinatie van deelnemers, een gelijke kans heeft gekozen te worden.
 
-## Statistische toetsen
+<details>
+<summary>Nadelen van een enkelvoudige aselecte steekproef</summary>
+<ul>
+<li>Lijst incompleet kan zijn: het steekproefkader dekt niet de volledige populatie. Dit noemen we de <b>dekkingsfout</b> (hoe groot deze is altijd een schatting).</li>
+<li>De gekozen proefpersonen kunnen niet antwoorden, of weigeren mee te doen aan het onderzoek. Dat noemen we <b>non-response</b>.</li>
+<p>Beide zijn vormen van vertekening: de resultaten zijn minder representatief en dit schaadt de externe validiteit.</p>
+</ul>
+</details>
+
+## Dataverzameling en -analyse
+
+### Operationaliseren
+
+Fysieke kenmerken, zoals lengte, gewicht, reactietijd, kan je eenvoudig meten. **Theoretische begrippen** (construct) moeten meetbaar gemaakt worden. Dat gaat in twee stappen:
+
+- **Conceptuele definitie**: wat bedoelen we precies?
+- **Operationele definitie**: hoe gaan we dit meten?
+
+<center><small>construct → conceptuele definitie → operationele definitie → variabele</small></center>
+
+<!--Na het **operationaliseren** is het **construct** veranderd in een meetbare **variabele**.-->
+
+### Meetniveaus <small>(NOIR)</small>
+
+- **Nominaal**: categorisch, met woorden.
+- **Ordinaal**: rangorde; wel een volgorde maar geen schaal.
+- **Interval**: een schaal zonder betekenisvol nulpunt (bijv. IQ of &deg;C).
+- **Ratio**: een schaal met een betekenisvol nulpunt (bijv. euro's of Kelvin).
+
+<!--De laatste drie zijn kwantitatief: uitgedrukt in getallen. Nominaal meetniveau is categorisch: uitgedrukt in woorden.-->
+
+Ondanks de naam meet de **Likert-schaal** (zeer eens, eens, neutraal, oneens, zeer oneens) op *ordinaal* meetniveau.
 
 ### Correlatie
 
@@ -498,7 +537,7 @@ Een **statistische toets** is een methode om een correlatie vast te stellen. De 
 
 Een **Pearson-correlatiecoëfficient** is een maat voor de gemiddelde afwijking van datapunten tenopzichte van het gemiddelde, en geeft informatie over de sterkte en richting van een linear verband.
 
-\\[r = \frac{\text{steekproef}}{\text{gehele populatie}}\\]
+\\[r = \frac{\text{covariantie}}{\text{variantie}} = \frac{\text{Cov}(X)}{\sqrt{\text{Var}(X)\text{Var}(Y)}}\\]
 
 \\[-1 < r < 1\\]
 
@@ -547,7 +586,9 @@ Betrouwbaarheid draait om de consistentie van de meetresultaten, en gaat vooral 
 
 - **Interne betrouwbaarheid**: binnen een instrument moeten meerdere componenten (lees: vragen) die hetzelfde theoretische begrip/aspect testen, dezelfde resultaten opleveren.
 
-Bij al deze testen wordt de Pearson-correlatie tussen de resultaten van de afnames berekent, waarbij \\(r > 0.50\\) als voldoende wordt beschouwd.
+Bij de eerste vier testen wordt de Pearson-correlatie tussen de resultaten van de afnames berekent, waarbij \\(r > .500\\) als voldoende wordt beschouwd.
+
+Voor interne betrouwbaarheid gebruiken we **Cronbach's alfa**. Dat is een maat (\\(0 \leq \alpha \leq 1\\)) om samenhang van vragen binnen een survey te meten (hoger is beter).
 
 ## Validiteit
 
@@ -561,7 +602,7 @@ Validiteit draait om de bruikbaarheid van resultaten. Er kan geen validiteit zij
 
   - **Subjectief** (vooraf):
 
-    - **Indruksvaliditeit**: klopt de conceptuele definitie die we hanteren van het theoretische begrip? (Vaak gecheckt door experts.)
+    - **Indruksvaliditeit**: klopt de conceptuele definitie die we hanteren van het theoretische begrip? (Wat vinden experts op het eerste gezicht van het meetinstrument?)
 
     - **Inhoudsvaliditeit**: sluit de operationele definite aan op de conceptuele definitie? Meten we het theoretische begrip in zijn totaliteit? Missen we geen aspecten?
 
@@ -569,9 +610,17 @@ Validiteit draait om de bruikbaarheid van resultaten. Er kan geen validiteit zij
 
     - **Convergent validiteit**: het instrument moet vergelijkbare resultaten geven als bestaande instrumenten die hetzelfde theoretische begrip testen.
 
+      Gemeten met het Pearson-correlatiecoëfficient. We verwachten een hoge samenhang.
+
     - **Divergente/discriminante validiteit**: kan het meetinstrument onderscheid maken tussen verschillende theoretische begrippen? Het instrument mag niet per ongeluk (ook) een ander theoretisch begrip meten (bijv. leesvaardigheid in plaats van intelligentie meten).
 
-    - **Criteriumvaliditeit**: in het geval de test voorspellend is, in hoeverre verhouden de resultaten van de test zich met de criteriumvariabele (de variabele in de toekomst, die je benadert het de resultaten).
+      Gemeten met het Pearson-correlatiecoëfficient. We verwachten een hele zwakke samenhang.
+
+    - **Criteriumvaliditeit**: de resultaten van het instrument moeten aan een voorwaarde voldoen.
+
+      - In het geval het instrument voorspellend van aard is, zeggen de meetresultaten iets over de verwachte toekomstige waarde de criteriumvariabele; de voorspelling moet (tot op zekere hoogte) kloppen.
+
+      - In het geval er vanuit de literatuur bekend verschil tussen twee groepen is, verwachten we dit ook terug te zien in de resultaten. We spreken dan van **groepsparadigma's**.
 
 - **Statistische validiteit**:
 
@@ -587,6 +636,8 @@ Validiteit draait om de bruikbaarheid van resultaten. Er kan geen validiteit zij
     - zijn de resultaten op de juiste manier geinterpreteerd?
 
 # Experimenteel onderzoek
+
+hello world :)
 
 # Ethiek & Integriteit
 
