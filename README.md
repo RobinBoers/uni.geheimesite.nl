@@ -2,13 +2,12 @@
 
 Dit is een kopie van mijn [originele geducktapete site](//school.geheimesite.nl), maar dan voor Onderwijswetenschappen shtuff.
 
-Misschien heb je er iets aan :)
-
 ## OWW1
 
 ### Inleiding onderwijswetenschappen
 
 - [Annotated Library](/OWW1/IOWW/Annotated-Library)
+- [Excursie](/OWW1/IOWW/Excursie)
 
 ### Kennismaking met onderzoeksmethoden en statistiek
 
