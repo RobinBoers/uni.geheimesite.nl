@@ -1,3 +1,7 @@
+---
+title: Hoorcollege 7
+---
+
 triangulatie kan ook mixed methods zijn
 
 pearson is voor:

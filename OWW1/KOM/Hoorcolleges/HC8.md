@@ -1,3 +1,7 @@
+---
+title: Hoorcollege 8
+---
+
 causaliteit:
 
 - correlatie (covariantie)

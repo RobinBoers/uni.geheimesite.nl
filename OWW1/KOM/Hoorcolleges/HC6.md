@@ -1,5 +1,5 @@
 ---
-title: Werkgroep 6
+title: Hoorcollege 6
 ---
 
 twee 'fases': 1) theoretisch/conceptueel 2) operationeel
