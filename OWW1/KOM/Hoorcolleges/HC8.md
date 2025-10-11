@@ -85,7 +85,7 @@ NHST
 - keuze & berekenen van een toetsingsgroothei
 - kans bepalen op resultaat of nog extremer gegeven h0
 - h0 wel of niet verwerpen
-+ conclusie schrijven
++ conclusie schrijven (extra stap)
 ----
 
 als h0, dan geen verschil => manipulatie heeft geen effect
