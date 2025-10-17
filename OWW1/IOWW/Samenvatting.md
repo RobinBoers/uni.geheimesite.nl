@@ -44,15 +44,19 @@ In het onderwijs staat het primaire leer- en instructieproces centraal. Dit word
 
 - **Didactisch handelen** (of instructieactiviteiten): beslissingen die de instructieverantwoordelijken (of andere actoren) maken om leeractiviteiten uit te lokken bij leerlingen.
 
-#### Didactisch handelen
+<details open>
+  <summary>Didactisch handelen</summary>
 
-Didactisch handelen kan verder worden ondergebracht in vijf onderdelen:
+  <p>Kan verder worden ondergebracht in vijf onderdelen:</p>
 
-- **Leerdoelen**: wat wil je bereiken en hoe meet je dit?
-- **Lesstof** (of curriculum): wat wordt er inhoudelijk geleerd?
-- **Werkvormen**: handelingen waarmee leeractiviteiten uitgelokt worden.
-- **Media**: hoe wordt de lesstof aangeboden? (bijv: boek, audio, video, digitaal etc.)
-- **Toetsing**: hoe controlleer je of de leerdoelen bereikt zijn?
+  <ul>
+    <li><strong>Leerdoelen</strong>: wat wil je bereiken en hoe meet je dit?</li>
+    <li><strong>Lesstof</strong> (of curriculum): wat wordt er inhoudelijk geleerd?</li>
+    <li><strong>Werkvormen</strong>: handelingen waarmee leeractiviteiten uitgelokt worden.</li>
+    <li><strong>Media</strong>: hoe wordt de lesstof aangeboden? (bijv: boek, audio, video, digitaal etc.)</li>
+    <li><strong>Toetsing</strong>: hoe controlleer je of de leerdoelen bereikt zijn?</li>
+  </ul>
+</details>
 
 <details open>
   <summary>Leeractiviteiten</summary>
@@ -324,7 +328,7 @@ Echter, binnen de overige 20% zijn wel grote verschillen tussen effectief en ine
 
 De invloed van de school is indirect, via de leraren. Op effectieve scholen doen alle leraren hetzelfde, en zijn alle leraren effectief; er is een intolerantie voor slechte leraren.
 
-## Didactiek
+## Didactiek & beroep
 
 ### Competentiemodel van de leraar
 
@@ -350,11 +354,73 @@ Afgelopen eeuw zijn er verschillende perspectieven geweest op de rol van de lera
 
   Eigenlijk dus terugvallen op het simplistische perspectief---gedrag leidt tot resultaat. Leraren mogen alleen gedrag vertonen dat aantoonbaar tot resultaten leidt.
 
-Voor lange tijd werd de leraar ook vooral gezien als 'iemand die veel weet'. Echter, in recente jaren is dit beeld verzwakt, mede door de bredere toegankelijkheid aan kennis<!-- (maar ook omdat in het constructivisische perspectief geen sprake van kennisoverdacht is) -->.
+Voor lange tijd werd de leraar ook vooral gezien als 'iemand die veel weet'. Echter, in recente jaren is dit beeld verzwakt, mogelijk mede door de bredere toegankelijkheid van kennis<!-- (maar ook omdat in het constructivisische perspectief geen sprake van kennisoverdacht is) -->.
 
-### Beroepsstatus van de leraar
+### Beroepsbeeld & status van de leraar
 
 XXX
 
+## Interpersoonlijke theorie
+
+Leerkrachtgedrag kan worden verklaard vanuit het interpersoonlijk perspectief: de manier waarop de leerkracht en de leerlingen met elkaar omgaan. Daaronder vallen:
+
+- **Gedrag**: observeerbare handelingen; wat iemand op een bepaald moment doet.
+- <p style="margin-top: 5px"><strong>Interacties</strong>: een reeks aan opeenvolgende gedragingen, bestaand uit actie-reactie.</p>
+  <p>Interacties kunnen plaatsvinden tussen leerkracht en leerling, met groepen leerlingen, de klas als geheel, of leerlingen onderling.</p>
+
+- **Leerkracht-leerlingrelatie**: hoe de leerkracht en leerling zich verhouden; hoe ze met elkaar omgaan en hoe ze elkaar over het algemeen zien.
+
+- **Leerkracht-klasrelatie** (of sfeer in de klas): alle leerkracht-leerling relaties en onderlinge leerlingrelaties samen leiden tot de sfeer of het klimaat van de klas.
+
+- **Interpersoonlijke stijl**: het gewoonlijke gedrag dat een leraar in al zijn klassen vertoont, en hoe hij bij de meeste leerlingen overkomt of bekend staat.
+
+- **Klassenmanagement**: alles dat de leerkracht doet om een leeromgeving te creeëren die aansluit op het intellectuele en sociaal-emotionele niveau van de leerlingen.
+
+<details open>
+  <summary>Er zijn drie belangrijke vuistregels binnen klassenmanagement:</summary>
+  <ul>
+    <li>Perceptie die anderen van gedrag hebben is leidend in hun reactie, niet het gedrag zelf.</li>
+    <li>De leerkracht heeft alleen eigen gedrag als aangrijping om interacties te verbeteren.</li>
+    <li>Je kunt niet niet communiceren.</li>
+  </ul>
+</details>
+
+Elke vorm van gedrag bevat twee aspecten: **inhoudelijk**: de expliciete, letterlijke boodschap, en **betrekkelijk**: hoe de inhoud moet worden opgevat.
+
+De inhoudelijke aspecten brengen we vooral over met behulp van taal. De interpersoonlijke boodschappen volgen echter vooral uit non-verbaal gedrag (gezichtsuitdrukking, intonatie, lichaamstaal). <!-- Je kunt inhoudelijke communicatie vermijden door niets te zeggen, maar het is onmogelijk om je niet non-verbaal te gedragen -->
+
 ### Interpersoonlijke cirkel
 
+Mensen presteren beter in een vriendelijke en positieve omgeving. Dit geldt niet alleen voor de leerlingen, maar ook voor de leerkracht. <!-- Ook is er vanuit leerlingen behoefte aan sturing en duidelijke verwachtingen. --> Er is daarom een goede balans nodig tussen sturing (invloed) en vriendelijkheid (nabijheid).
+
+De **interpersoonlijke cirkel** is een instrument dat gebruikt kan worden om leerkrachtgedrag te duiden. De cirkel bestaat uit een assenstelsel met daarin twee **dimensies** (invloed en nabijheid) en acht **sectoren**<!-- (sturend, helpend, begrijpend, inschikkelijk, onzeker, gefrustreerd, confronterend, corrigerend)-->. De afstand tot het midden bepaald de intensiteit van het gedrag.
+
+![](interpersoonlijke-cirkel.png)
+
+<small><center>Voor invloed noemen we de uitersten <b>boven</b> en <b>onder</b>, en voor nabijheid <b>samen</b> en <b>tegen</b>.</center></small>
+
+### Complimentariteit
+
+Voor interpersoonlijk gedrag geldt het concept van complementariteit:
+
+- Op de **invloed-as** geldt **oppositeness**: de natuurlijke reactie op autorairiteit is een terughoudendere houding.
+
+- Op de **nabijheid-as** geldt **sameness**: de natuurlijke reactie op vriendelijkheid is vriendelijkheid, en de natuurlijke reactie op aggressie is agressie.
+
+<details open>
+  <summary>Let op:</summary>
+  <ul>
+    <li>
+      <p>De dimensies invloed en nabijheid zijn onafhankelijk, maar sommige gedragingen gaan wel beter samen, vooral in de extremen. Daarom staan de gedragingen op een cirkel, en niet een vierkant.</p>
+    </li>
+    <li>
+      <p>Beide kanten van de cirkel kunnen zowel functioneel als disfunctioneel zijn. Echter, tegengedrag stelt hoge eisen aan de professionaliteit van de leerkracht, en vereist achteraf herstel van de relatie.</p>
+    </li>
+    <li>
+      <p>Sommige leerkrachten verwarren confronterend gedrag met een erg lage nabijheid nog weleens met streng gedrag waarbij het veel meer om invloed draait.</p>
+    </li>
+    <li>
+      <p>Beginnende leerkrachten zien gedrag vaker als een ééndimensionale lijn (‘streng’ vs ‘aardig’), dan als een tweedimensionale cirkel.</p>
+    </li>
+  </ul>
+</details>
