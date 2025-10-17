@@ -111,13 +111,16 @@ Organisatie duidt de inrichting van het onderwijssysteem (basisonderwijs, vmbo, 
 
 De context omvat de politieke situatie (welke partijen zitten in de kamer en  in het kabinet?), de economie, afspraken in het regeerakkoord en de rijksbegroting, en de huidige staat van het onderwijs (bijvoorbeeld PISA-scores).
 
+<!--
 ## Leertheoriën
 
-<!--Één van de belangrijkste doelstellingen van het leerproces is **transfer**. Transfer is de mogelijkheid om het geleerde in een nieuwe situatie of context toe te kunnen passen. Om transfer te bewerkstelligen hebben we drie leerhtheoriën.-->
+Één van de belangrijkste doelstellingen van het leerproces is **transfer**. Transfer is de mogelijkheid om het geleerde in een nieuwe situatie of context toe te kunnen passen. Om transfer te bewerkstelligen hebben we drie leerhtheoriën.
 
 Er zijn drie perspectieven op hoe mensen leren.
 
 > Het is goed om te beseffen dat deze theoriën *geen wetmatigheden* zijn, en dus *niet universeel gelden*. In de onderwijswetenschappen geldt: niet alles werkt, en niets werkt altijd.
+
+Instructional design is het raakvlak tussen de leerheoriën en de praktijk.-->
 
 ## Behaviorisme
 
@@ -208,7 +211,9 @@ De **vergeetcurve** van Ebbinghaus visualiseert voor hoe lang informatie in het 
 
 Uit onderzoek blijkt ook dat gespreid leren ('spaced practise') effectiever is dan alles in één keer leren ('massed practise').
 
-### Constructivisme
+## Constructivisme
+
+WIP.
 
 ## Effect sizes
 
