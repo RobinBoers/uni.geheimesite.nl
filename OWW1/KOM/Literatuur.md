@@ -1,8 +1,6 @@
 ---
-title: Literatuur
+title: Literatuur vinden
 ---
-
-## Literatuur vinden
 
 [Thesaurus](https://thesaurus.com) gebruiken om synoniemen te vinden.
 
