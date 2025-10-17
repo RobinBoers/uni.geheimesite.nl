@@ -213,7 +213,19 @@ Uit onderzoek blijkt ook dat gespreid leren ('spaced practise') effectiever is d
 
 ## Constructivisme
 
-WIP.
+Het constructivische perspectief is dat kennis een model (of constructie) van de werkelijkheid is, en dat iedereen dat model zelf construeert:
+
+- Kennis is **niet één-op-één overdraagbaar**, het is een constructief proces.
+- Kennis is **contextgebonden**, dus moet plaatsvinden in betekenisvolle context.
+- Kennis is **een sociale constructie**, dus leren moet plaatsvinden in interactie met anderen.
+
+Binnen het constructivisme zijn twee stromingen te onderscheiden:
+
+- **Cognitief constructivisme** gaat in op de cognitieve processen die bijdragen aan kennisconstructie, en zoomt in op het individu en de rol van voorkennis.
+
+- **Sociaal constructivisme** gaat in op leren in sociaal verband, de co-constructie van kennis, en de rol van de leeromgeving bij kennisconstructie.
+
+<!--In bepaalde opzichten kan constructivisme worden beschouwd meer als een filosofische theorie van kennis, dan een onderwijskundige leertheorie. Toch heeft het toepassingen binnen de onderwijspraktijk.-->
 
 ## Effect sizes
 
