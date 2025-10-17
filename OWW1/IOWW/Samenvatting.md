@@ -73,6 +73,7 @@ Didactisch handelen kan verder worden ondergebracht in vijf onderdelen:
   </ul>
 </details>
 
+<!--
 ### Voorbeelden op verschillende aggregatieniveau's
 
 Concreet vind je op elk aggregatie de volgende aspecten terug:
@@ -110,6 +111,22 @@ Kenmerken van actoren zijn nóg breder: bijvoorbeeld demografische opbouw van de
 Organisatie duidt de inrichting van het onderwijssysteem (basisonderwijs, vmbo, havo, vwo, mbo, hbo, wo) als geheel. Begeleiding op macroniveau komt voornamelijk van adviesorganen (zoals de vo-raad) en belangenverenigingen (zoals de vakbond of LAKS).
 
 De context omvat de politieke situatie (welke partijen zitten in de kamer en  in het kabinet?), de economie, afspraken in het regeerakkoord en de rijksbegroting, en de huidige staat van het onderwijs (bijvoorbeeld PISA-scores).
+
+-->
+
+### Effect sizes
+
+Om de de effectiviteit van verschillende variabelen en interventies in het referentiekader te kwantificeren gebruiken we effect sizes (\\(d\\)). We hebben inmiddels bij [KOM](/OWW1/KOM/Samenvatting) geleerd wat effect sizes & \\(p\\)-waardes inhouden, dus dat laat ik hier achterwege.
+
+Echter, binnen de onderwijswetenchappen stelt Hattie (2009) dat effect sizes pas relevant zijn bij \\(d > .40\\), door:
+
+- **Ontwikkelingseffecten** (of maturiteitseffecten): leerlingen leren 'van nature'; dat betekent dat ook zonder (effectieve) instructie over tijd voortgang te meten is.
+
+- **Leerkrachteffecten**: als leerkrachten de aanpak aanpassen aan de experimentele conditie wordt er beter opgelet, omdat leerlingen zich moeten aanpassen aan een andere situatie.
+
+Negatieve effect sizes ('reverse effects') worden altijd als relevant beschouwd.
+
+Het is belangrijk te blijven realiseren dat een effect size een *gemiddelde* is, dat niet per defintie in elke willekeurige context kan worden toegepast.
 
 <!--
 ## Leertheoriën
@@ -219,6 +236,8 @@ Het constructivische perspectief is dat kennis een model (of constructie) van de
 - Kennis is **contextgebonden**, dus moet plaatsvinden in betekenisvolle context.
 - Kennis is **een sociale constructie**, dus leren moet plaatsvinden in interactie met anderen.
 
+De lerende heeft binnen het constructivisme een *actieve rol* (door zelfstandigheid, zelfsturing, metacognitie). Daarnaast moet onderwijs realistisch zijn / koppeling met de praktijk hebben.
+
 Binnen het constructivisme zijn twee stromingen te onderscheiden:
 
 - **Cognitief constructivisme** gaat in op de cognitieve processen die bijdragen aan kennisconstructie, en zoomt in op het individu en de rol van voorkennis.
@@ -227,16 +246,115 @@ Binnen het constructivisme zijn twee stromingen te onderscheiden:
 
 <!--In bepaalde opzichten kan constructivisme worden beschouwd meer als een filosofische theorie van kennis, dan een onderwijskundige leertheorie. Toch heeft het toepassingen binnen de onderwijspraktijk.-->
 
-## Effect sizes
+## Onderwijseffectiviteit
 
-We hebben inmiddels bij [KOM](/OWW1/KOM/Samenvatting) geleerd wat effect sizes & p-waardes inhouden, dus dat laat in hier achterwege.
+<!--Onderwijsopbrengst bestaat uit drie componenten: de resultaten (cijfers), de mate waarin leerlingen gemotiveerd en geinteresseerd zijn, en de mate waarin leerlingen op persoonlijk vlak verder geholpen worden.-->
 
-Echter, binnen de onderwijswetenchappen stelt Hattie (2009) dat effect sizes pas relevant zijn boven de \\(.40\\), want:
+Leerlingkenmerken verklaren gemiddeld voor 80-90% alle verschillen in leerprestaties tussen leerlingen. Onder leerlingkenmerken vallen:
 
-- **Ontwikkelingseffecten** (of maturiteitseffecten): leerlingen leren 'van nature'; dat betekent dat ook zonder (effectieve) instructie over tijd voortgang te meten is.
+<table>
+  <tr>
+    <td rowspan="2">Demografisch</td>
+    <td>Geslacht</td>
+  </tr>
+  <tr>
+    <td>Leeftijd</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Begaafdheid</td>
+    <td>Intelligentie</td>
+  </tr>
+  <tr>
+    <td>Creativiteit</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Persoonlijkheid</td>
+    <td>Zorgvuldigheid</td>
+  </tr>
+  <tr>
+    <td>Openheid</td>
+  </tr>
+  <tr>
+    <td>Vriendelijkheid</td>
+  </tr>
+  <tr>
+    <td>Stabiliteit</td>
+  </tr>
+  <tr>
+    <td>Extraversie</td>
+  </tr>
+  <tr>
+    <td rowspan="9">Achtergrond</td>
+    <td>Etniciteit</td>
+  </tr>
+  <tr>
+    <td>Cultuur</td>
+  </tr>
+  <tr>
+    <td>(Moeder)taal</td>
+  </tr>
+  <tr>
+    <td>Sociaal-economische status</td>
+  </tr>
+  <tr>
+    <td>Opleidingsniveau ouders</td>
+  </tr>
+  <tr>
+    <td>Inkomen</td>
+  </tr>
+  <tr>
+    <td>Ambitie</td>
+  </tr>
+  <tr>
+    <td>Verwachtingen</td>
+  </tr>
+  <tr>
+    <td>Startniveau</td>
+  </tr>
+</table>
 
-- **Leerkrachteffecten**: als leerkrachten de aanpak aanpassen aan de experimentele conditie wordt er beter opgelet, omdat leerlingen zich moeten aanpassen aan een andere situatie.
+Echter, binnen de overige 20% zijn wel grote verschillen tussen effectief en ineffectief onderwijs. Uit onderzoek blijkt dat variatie in onderwijs vooral per klas verschilt \\(\implies\\) de leraar maakt het verschil.
 
-Negatieve effect sizes ('reverse effects') worden altijd als relevant beschouwd.
+| | Leerwinst<br><small>(gem. toename prestaties / jaar)</small> |
+|--|--|
+| Geen leraar (maturiteitseffecten) | 6% |
+| Minst effectieve leraar | 14% |
+| Gemiddelde leraar | 34% |
+| Meest effectieve leraar | 53% |
 
-Het is belangrijk te blijven realiseren dat een effect size een *gemiddelde* is, dat niet per defintie in elke willekeurige context kan worden toegepast.
+De invloed van de school is indirect, via de leraren. Op effectieve scholen doen alle leraren hetzelfde, en zijn alle leraren effectief; er is een intolerantie voor slechte leraren.
+
+## Didactiek
+
+### Competentiemodel van de leraar
+
+Effectiviteit van een leraar kan worden verklaard aan de hand van het volgende competentiemodel:
+
+![](competentiemodel.png)
+
+**Disposities** is de kennisbasis, ervaring en houding die jij als leraar hebt. **Expertise** is kunnen toepassen in een specifieke situatie, en **competentie** is het vermogen daar ook uitvoering aan te geven.
+
+### Perspectieven op de leraar
+
+Afgelopen eeuw zijn er verschillende perspectieven geweest op de rol van de leraar:
+
+- **Pedagogisch** (~1950): leraar is een pedagoog met een voorbeeldfunctie en verzorgt morele opvoeding; vooral houding was belangrijk.
+
+- **Gedragsgericht** (~1965): leraar beheerst didactische routines; welk gedrag vertoont een leraar en tot welk resultaat leidt dat?
+
+- **Praktijkgericht** (~1985): leraar heeft onderwijsexpertise; brede kennisbasis helpt om juiste beslissingen te nemen in veranderende situaties, want didactische routines zijn contextafhankelijk en kunnen dus niet universeel toegepast worden.
+
+  Hierin wordt onderscheidt gemaakt tussen vakinhoudelijke kennis ('content knowledge') en didactische kennis ('pedagogical content knowledge'), dus kennis over hoe je onderwijs vormgeeft voor een bepaalde groep leerlingen.
+
+- **Evidence-based** (~2000): leraar is uitvoerder van didactische routines, waarvan effectiviteit in onderzoek is vastgesteld.  
+
+  Eigenlijk dus terugvallen op het simplistische perspectief---gedrag leidt tot resultaat. Leraren mogen alleen gedrag vertonen dat aantoonbaar tot resultaten leidt.
+
+Voor lange tijd werd de leraar ook vooral gezien als 'iemand die veel weet'. Echter, in recente jaren is dit beeld verzwakt, mede door de bredere toegankelijkheid aan kennis<!-- (maar ook omdat in het constructivisische perspectief geen sprake van kennisoverdacht is) -->.
+
+### Beroepsstatus van de leraar
+
+XXX
+
+### Interpersoonlijke cirkel
+

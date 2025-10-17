@@ -491,7 +491,9 @@ In kwantitatief onderzoek is het belangrijk een representatieve, **aselecte stee
 
 - **Getrapte steekproef**: er is een lijst met clusters, waaruit willekeurig clusters gekozen worden. en binnen de cluster wordt een aselecte enkelvoudige steekproef uitgevoerd.
 
+<!--
 - **Systematische steekproef**: XXX
+-->
 
 Met willekeurig ('random') wordt bedoeld dat elke deelnemer en elke combinatie van deelnemers, een gelijke kans heeft gekozen te worden.
 
@@ -526,7 +528,7 @@ Fysieke kenmerken, zoals lengte, gewicht, reactietijd, kan je eenvoudig meten. *
 
 <!--De laatste drie zijn kwantitatief: uitgedrukt in getallen. Nominaal meetniveau is categorisch: uitgedrukt in woorden.-->
 
-Ondanks de naam meet de **Likert-schaal** (zeer eens, eens, neutraal, oneens, zeer oneens) op *ordinaal* meetniveau.
+Ondanks de naam meet de **Likert-schaal** (zeer eens, eens, neutraal, oneens, zeer oneens) op *ordinaal* meetniveau. Echter, als uit deze scores een **schaalscore** wordt berekend, is die wel op *interval* meetniveau.
 
 ### Correlatie
 
@@ -694,7 +696,6 @@ De APA heeft hier drie toevoegingen aan gedaan, specifiek voor sociologisch onde
 Soms is misleiding door omission (verhullen) of comission (liegen) nodig. In dat geval is **debriefing**  voor het herstellen van de vertrouwensrelatie verplicht, waarin wordt uitgelegd wat het onderzoek inhoudt en waarom de misleiding noodzakelijk was.<!--Debriefing kan ook nuttig zijn als er geen sprake was van misleiding, bijvoorbeeld omdat het leerzaam kan zijn voor studenten etc.-->
 
 <!--In het geval van verhuld onderzoek moet er óf achteraf toestemming worden gevraagd, óf moet een gemachtigde (bijvoorbeeld ouder/verzorger) vooraf toestemming hebben gegeven.-->
-
 
 ## Publicatie
 
