@@ -178,7 +178,7 @@ Bij reinforcement moedig je gewenst gedrag aan door te belonen. Bij punishment m
 </details>
 -->
 
-Op de lange termijn is reinforcement een effectievere manier om gedragsverandering te bewerkstelligen. Met andere woorden: als je stop met belonen blijven leerlingen positief gedrag vertonen, maar als je stop met straffen vallen mensen snel terug op negatief gedrag.
+Op de lange termijn is reinforcement een effectievere manier om gedragsverandering te bewerkstelligen. Met andere woorden: als je stopt met belonen blijven leerlingen positief gedrag vertonen, maar als je stopt met straffen vallen mensen snel terug op negatief gedrag.
 
 <details open>
   <summary>Concreet voorbeeld</summary>
