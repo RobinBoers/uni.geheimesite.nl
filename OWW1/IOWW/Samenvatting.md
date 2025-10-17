@@ -63,7 +63,7 @@ In het onderwijs staat het primaire leer- en instructieproces centraal. Dit word
 
   Er zijn drie soorten leeractiviteiten:
   <ul>
-    <li><b>Cognitief</b>: structureren, analyseren, relateren, reproduceren en toepassen van stof.</li>
+    <li><b>Cognitief</b>: structureren, analyseren, relateren, reproduceren, toepassen etc.</li>
     <li><b>Metacognitief</b>: oriënteren, plannen, bijsturen, etc.</li>
     <li><b>Affectief</b>: attribueren, waarderen, motiveren, etc.</li>
   </ul>
@@ -135,13 +135,13 @@ Het is belangrijk te blijven realiseren dat een effect size een *gemiddelde* is,
 <!--
 ## Leertheoriën
 
-Één van de belangrijkste doelstellingen van het leerproces is **transfer**. Transfer is de mogelijkheid om het geleerde in een nieuwe situatie of context toe te kunnen passen. Om transfer te bewerkstelligen hebben we drie leerhtheoriën.
-
 Er zijn drie perspectieven op hoe mensen leren.
 
 > Het is goed om te beseffen dat deze theoriën *geen wetmatigheden* zijn, en dus *niet universeel gelden*. In de onderwijswetenschappen geldt: niet alles werkt, en niets werkt altijd.
 
 Instructional design is het raakvlak tussen de leerheoriën en de praktijk.-->
+
+<!-- Één van de belangrijkste doelstellingen van het leerproces is **transfer**. Transfer is de mogelijkheid om het geleerde in een nieuwe situatie of context toe te kunnen passen. Om transfer te bewerkstelligen hebben we drie leerhtheoriën. -->
 
 ## Behaviorisme
 
@@ -228,9 +228,15 @@ Als het werkgeheugen wordt **overbelast** kan er geen nieuwe informatie in het l
 
 ### Geheugen & leerstrategiën
 
+**Chunking** is een manier om meer informatie tegelijk in het werkgeheugen vast te houden, door elementen te groeperen in chunks.
+
+> Bijvoorbeeld, de getallen 7, 1, 0, 2 nemen vier van de 5-9 slots van het werkgeheugen in beslag, maar 'het jaartal 2017, maar dan andersom', neemt maar 1 slot in beslag.
+
 De **vergeetcurve** van Ebbinghaus visualiseert voor hoe lang informatie in het langetermijn-geheugen blijft opgeslagen als het niet herhaald wordt. Door herhaling blijft kennis beter hangen.
 
 Uit onderzoek blijkt ook dat gespreid leren ('spaced practise') effectiever is dan alles in één keer leren ('massed practise').
+
+Tenslotte kan informatie met 'trucjes' (mnemonics) worden onthouden. Dit doe je vooral zodat je de informatie later makkelijker weer *uit* je langetermijngeheugen kan vissen.
 
 ## Constructivisme
 
