@@ -23,7 +23,6 @@ organiseren/coordinatie = afstemmen van acties om doelstellingen te bereiken
 - structurele organisatie: formele kenmerken van de organisatie (opbouw, taakverdeling, hierarchie)
     -> verminderd behoefte aan organisatie, want gwn duidelijkheid.
 - produdurele organisatie: wat wordt er feitelijk gedaan?
-    -> 
 
 organogram visualiseert de hiërachie
 

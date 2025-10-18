@@ -258,70 +258,14 @@ Binnen het constructivisme zijn twee stromingen te onderscheiden:
 
 ## Onderwijseffectiviteit
 
-<!--Onderwijsopbrengst bestaat uit drie componenten: de resultaten (cijfers), de mate waarin leerlingen gemotiveerd en geinteresseerd zijn, en de mate waarin leerlingen op persoonlijk vlak verder geholpen worden.-->
+**Onderwijsopbrengst** bestaat uit drie componenten: de resultaten (cijfers), de mate waarin leerlingen gemotiveerd en geïnteresseerd zijn, en de mate waarin leerlingen op persoonlijk vlak verder geholpen worden.
 
 **Leerlingkenmerken** verklaren gemiddeld voor 80-90% alle verschillen in onderwijsopbrengst tussen leerlingen. Onder leerlingkenmerken vallen:
 
-<table style="writing-mode: tb-rl">
-  <tr>
-    <td rowspan="2" style="padding-inline-end: 2em">Demografisch</td>
-    <td>Geslacht</td>
-  </tr>
-  <tr>
-    <td>Leeftijd</td>
-  </tr>
-  <tr>
-    <td rowspan="2" style="padding-inline-end: 2em">Begaafdheid</td>
-    <td>Intelligentie</td>
-  </tr>
-  <tr>
-    <td>Creativiteit</td>
-  </tr>
-  <tr>
-    <td rowspan="5" style="padding-inline-end: 2em">Persoonlijkheid</td>
-    <td>Zorgvuldigheid</td>
-  </tr>
-  <tr>
-    <td>Openheid</td>
-  </tr>
-  <tr>
-    <td>Vriendelijkheid</td>
-  </tr>
-  <tr>
-    <td>Stabiliteit</td>
-  </tr>
-  <tr>
-    <td>Extraversie</td>
-  </tr>
-  <tr>
-    <td rowspan="9" style="padding-inline-end: 2em">Achtergrond</td>
-    <td>Etniciteit</td>
-  </tr>
-  <tr>
-    <td>Cultuur</td>
-  </tr>
-  <tr>
-    <td>(Moeder)taal</td>
-  </tr>
-  <tr>
-    <td>Sociaal-economische status</td>
-  </tr>
-  <tr>
-    <td>Opleidingsniveau ouders</td>
-  </tr>
-  <tr>
-    <td>Inkomen</td>
-  </tr>
-  <tr>
-    <td>Ambitie</td>
-  </tr>
-  <tr>
-    <td>Verwachtingen</td>
-  </tr>
-  <tr>
-    <td>Startniveau</td>
-  </tr>
-</table>
+- **Demografisch**: geslacht, leeftijd
+- **Begaafdheid**: intelligentie, creativiteit
+- **Persoonlijkheid**: zorgvuldigheid, openheid, vriendelijkheid, stabiliteit, extraversie
+- **Achtergrond**: etniciteit, cultuur, (moeder)taal, sociaal-economische status, ambitie, verwachtingen, startniveau
 
 **Onderwijseffectiviteit** is de variatie in de spreiding verklaard door onderwijsvariabelen (aka de overige 20%). Uit onderzoek blijkt dat dit vooral per klas verschilt \\(\implies\\) de leraar maakt het verschil.
 
@@ -333,6 +277,10 @@ Binnen het constructivisme zijn twee stromingen te onderscheiden:
 | Meest effectieve leraar | 53% |
 
 De invloed van de school is indirect, via de leraren. Op effectieve scholen doen alle leraren hetzelfde, en zijn alle leraren effectief; er is een intolerantie voor slechte leraren.
+
+Effectief onderwijs verkleint de spreiding in leerprestaties; het compenseert als het ware voor verschillen in leerlingkenmerken. We noemen dit het **compenserend vermogen** van scholen.
+
+<!--Schooleffectiviteit is moeilijk te definiëren, omdat het afhankelijk is van het beoogde doel van het onderwijs, en daarnaast moeilijk meetbaar te maken is. De schoolinspectie hanteert hiervoor het landelijke inspectiekader.-->
 
 ## Didactiek & beroep
 
@@ -430,3 +378,55 @@ Voor interpersoonlijk gedrag geldt het concept van complementariteit:
     </li>
   </ul>
 </details>
+
+## Schoolorganisatie
+
+**Schoolverbetering** is het vergroten van vaardigheden om verandering te realiseren met als doel het verbeteren van de onderwijseffectiviteit. Daarvoor is goede coördinatie zeer belangrijk.
+
+### Coördinatie
+
+**Coördinatie** is het afstemmen van acties om doelstellingen te bereiken. Daaronder vallen:
+
+- **Structurele organisatie**: coördinatie met betrekking tot de formele kenmerken van een organisatie; hiërarchisch systeem waarin verdeling van taken en bevoegdheden wordt geregeld en vastgelegd (wie stuurt wie aan?)
+
+- **Procuderele organisatie**: coördinatie met betrekking tot datgene dat feitelijk wordt gedaan om afstemming en integratie te bereiken (wie doet wat?)
+
+Een **organogram** is een diagram dat de hiërarchie van een organisatie inzichtelijk maakt.
+
+<details open>
+  <summary>Coördinatiemechanismes</summary>
+  <p>Procuderele coördinatie kan vervolgens worden gesplitst in 6 coördinatiemechanismes:</p>
+
+  <ul>
+    <li>
+      <p><strong>Direct leiding geven</strong></p>
+    </li>
+    <li>
+      <p><strong>Standaardisatie van werkprocessen</strong>: afspraken over hoe werkzaamheden moeten worden uitgevoerd.</p>
+    </li>
+    <li>
+      <p><strong>Standaardisatie van kennis en vaardigheden</strong>: gemeenschappelijke kennisbasis verzorgen, bijvoorbeeld door onboarding, trainingen, informeel leren etc.</p>
+    </li>
+    <li>
+      <p><strong>Standaardisatie van doelen</strong>: XXX</p>
+    </li>
+    <li>
+      <p><strong>Wederzijds afstemmen</strong>: tijdige informatieverstrekking, overleg- en beslisbevoegdheid voor medewerkers.</p>
+    </li>
+    <li>
+      <p><strong>Ideologie</strong>: gemeenschappelijke visie, opvattingen, normen en waarden.</p>
+    </li>
+  </ul>
+</details>
+
+### Dichotoom karakter
+
+Een school is een professionele bureaucratie, verdeeld in twee domeinen/invloedssferen. Dit noemen we het **dichotome karakter** van scholen.
+
+- **Beheersdomein**: randvoorwaardelijke zaken en voorwaarden voor het verzorgen van het primaire instructie en leerproces.
+
+- **Onderwijsdomein**: onderwijsexpertise en inhoudelijke kennis voor het daadwerkelijk geven van onderwijs.
+
+Volgens sommige onderwijskundigen is er ook sprake van een derde domein, het 'betwist gebied', op het raakvlak van de domeinen. <!--Het bestuur oefent door middel van beleid invloed uit op de onderwijspraktijk, en de onderwijspraktijk omzeilt het bestuur door collegiale besluiten.--> Dit domein draait om communicatie, onderhandeling, en conflictbeheersing.
+
+Scholen functioneren dus als losjes gekoppelde systemen met veel autonomie (leerkrachten, collegiale besluitvorming), weinig centrale autoriteit en veel gedeelde verantwoordlijkheid tussen actoren.
