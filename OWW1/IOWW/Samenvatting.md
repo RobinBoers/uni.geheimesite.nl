@@ -260,25 +260,25 @@ Binnen het constructivisme zijn twee stromingen te onderscheiden:
 
 <!--Onderwijsopbrengst bestaat uit drie componenten: de resultaten (cijfers), de mate waarin leerlingen gemotiveerd en geinteresseerd zijn, en de mate waarin leerlingen op persoonlijk vlak verder geholpen worden.-->
 
-Leerlingkenmerken verklaren gemiddeld voor 80-90% alle verschillen in leerprestaties tussen leerlingen. Onder leerlingkenmerken vallen:
+**Leerlingkenmerken** verklaren gemiddeld voor 80-90% alle verschillen in onderwijsopbrengst tussen leerlingen. Onder leerlingkenmerken vallen:
 
-<table>
+<table style="writing-mode: tb-rl">
   <tr>
-    <td rowspan="2">Demografisch</td>
+    <td rowspan="2" style="padding-inline-end: 2em">Demografisch</td>
     <td>Geslacht</td>
   </tr>
   <tr>
     <td>Leeftijd</td>
   </tr>
   <tr>
-    <td rowspan="2">Begaafdheid</td>
+    <td rowspan="2" style="padding-inline-end: 2em">Begaafdheid</td>
     <td>Intelligentie</td>
   </tr>
   <tr>
     <td>Creativiteit</td>
   </tr>
   <tr>
-    <td rowspan="5">Persoonlijkheid</td>
+    <td rowspan="5" style="padding-inline-end: 2em">Persoonlijkheid</td>
     <td>Zorgvuldigheid</td>
   </tr>
   <tr>
@@ -294,7 +294,7 @@ Leerlingkenmerken verklaren gemiddeld voor 80-90% alle verschillen in leerpresta
     <td>Extraversie</td>
   </tr>
   <tr>
-    <td rowspan="9">Achtergrond</td>
+    <td rowspan="9" style="padding-inline-end: 2em">Achtergrond</td>
     <td>Etniciteit</td>
   </tr>
   <tr>
@@ -323,7 +323,7 @@ Leerlingkenmerken verklaren gemiddeld voor 80-90% alle verschillen in leerpresta
   </tr>
 </table>
 
-Echter, binnen de overige 20% zijn wel grote verschillen tussen effectief en ineffectief onderwijs. Uit onderzoek blijkt dat variatie in onderwijs vooral per klas verschilt \\(\implies\\) de leraar maakt het verschil.
+**Onderwijseffectiviteit** is de variatie in de spreiding verklaard door onderwijsvariabelen (aka de overige 20%). Uit onderzoek blijkt dat dit vooral per klas verschilt \\(\implies\\) de leraar maakt het verschil.
 
 | | Leerwinst<br><small>(gem. toename prestaties / jaar)</small> |
 |--|--|
