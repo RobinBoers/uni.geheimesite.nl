@@ -379,9 +379,13 @@ Voor interpersoonlijk gedrag geldt het concept van complementariteit:
   </ul>
 </details>
 
-## Schoolorganisatie
+## Schoolorganisatie & -verbetering
+
+**Schoolcultuur** zijn de overtuigingen, normen, en waarden van het schoolpersoneel en de leerlingpopulatie. Het **schoolklimaat** is het observeerbare gedrag dat zij vertonen, en is een uiting van de cultuur.
 
 **Schoolverbetering** is het vergroten van vaardigheden om verandering te realiseren met als doel het verbeteren van de onderwijseffectiviteit. Daarvoor is goede coördinatie zeer belangrijk.
+
+<!--Een goed schoolklimaat draagt bij aan betere leerprestaties. Voor schoolverbetering is het klimaat dus ook van belang.-->
 
 ### Coördinatie
 
@@ -393,7 +397,7 @@ Voor interpersoonlijk gedrag geldt het concept van complementariteit:
 
 Een **organogram** is een diagram dat de hiërarchie van een organisatie inzichtelijk maakt.
 
-<details open>
+<details>
   <summary>Coördinatiemechanismes</summary>
   <p>Procuderele coördinatie kan vervolgens worden gesplitst in 6 coördinatiemechanismes:</p>
 
@@ -427,6 +431,38 @@ Een school is een professionele bureaucratie, verdeeld in twee domeinen/invloeds
 
 - **Onderwijsdomein**: onderwijsexpertise en inhoudelijke kennis voor het daadwerkelijk geven van onderwijs.
 
-Volgens sommige onderwijskundigen is er ook sprake van een derde domein, het 'betwist gebied', op het raakvlak van de domeinen. <!--Het bestuur oefent door middel van beleid invloed uit op de onderwijspraktijk, en de onderwijspraktijk omzeilt het bestuur door collegiale besluiten.--> Dit domein draait om communicatie, onderhandeling, en conflictbeheersing.
+Volgens sommige onderwijskundigen is er ook sprake van een derde (tussen)domein, het 'betwist gebied', op het raakvlak van de domeinen. <!--Het bestuur oefent door middel van beleid invloed uit op de onderwijspraktijk, en de onderwijspraktijk omzeilt het bestuur door collegiale besluiten.--> Dit domein draait om communicatie, onderhandeling, en conflictbeheersing.
 
 Scholen functioneren dus als losjes gekoppelde systemen met veel autonomie (leerkrachten, collegiale besluitvorming), weinig centrale autoriteit en veel gedeelde verantwoordlijkheid tussen actoren.
+
+### Mechanistische benadering
+
+De mechanistische benadering is een planmatige, kenmerkgerichte aanpak van school-verbetering, gecentreerd rond sterke leiding van bovenaf (top-down). De aanpak is gericht op het reproduceren van kenmerken van schooleffectiviteit.
+
+Coördinatiemechanismes zijn directe leiding, en standaardisatie van werkprocessen, kennis, vaardigheden en doelen. Leraren zijn hierin uitvoerder.
+
+<small>(Dit past in bepaalde opzichten bij het evidence-based perspectief op didactiek.)</small>
+
+### Organische benadering
+
+De organische benadering is een flexibele aanpak van schoolverbetering, waarin rekening wordt gehouden met de rol van veranderprocessen. De schoolverbetering is gericht op het creëren van omstandigheden (condities) die de leraren in staat stellen om vanuit de praktijk (bottom-up) het onderwijs te verbeteren.
+
+Coördinatiemechanismes zijn wederzijdse afstemming en ideologie. Leerbereidheid, motivatie en betrokkenheid van leraren zijn belangrijk en docenten spelen een actieve rol via participatie in beleidsvorming.
+
+<details>
+  <summary>Verschillen tussen mechanistische en organistische benaderingen:</summary>
+  <p>De mechanistische benadering gaat uit van het bovenaf <em>reproduceren</em> van een stabiele schoolcultuur. De organistische benadering gaat uit van een flexibele schoolcultuur die leraren instaat stelt van onderaf het onderwijs <em>om te vormen</em> tot een stabiele schoolcultuur.</p>
+</details>
+
+### Transformatief leiderschap
+
+De rol van de schoolleider in schoolverbetering is die van transformatief leiderschap. Dat houdt in dat hij moet zorgen voor condities die de veranderkracht van de school vergroten, en daarmee leiden tot schoolverbetering, zoals het vergroten van betrokkenheid of versterken van de professionele capaciteiten van het personeel.
+
+Hiervoor zijn een aantal belangrijke punten:
+
+- Ontwikkelen van een visie
+- Consensus over doelen
+- Hoge verwachtingen van docenten
+- Individuele ondersteuning & laagdrempelige communicatie
+- Instellectuele stimulans
+- Voorbeeldfunctie ('modelleren')
