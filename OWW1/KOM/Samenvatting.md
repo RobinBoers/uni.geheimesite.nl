@@ -60,10 +60,7 @@ Een onderzoeksvraag is het startpunt van wetenschappelijk onderzoek en stelt vra
 
 Het onderzoek kan in één van twee categoriën vallen:
 
-- **Kwantitatief**: cijfermatig
-  - **Correlationeel**
-  - **Experimenteel**
-
+- **Kwantitatief**: cijfermatig (correlationeel of experimenteel)
 - **Kwalitatief**: niet-cijfermatig.
 
 ### Onderzoekshypothese
@@ -454,7 +451,7 @@ De 'snorharen' laten het bereik (hoogste en laagste waarde) van de data zien. Ev
 
 - **Gemiddelde**: \\(M = \frac{\Sigma(X)}{n}\\)
 - **Deviatiescore**: \\(X - M\\)
-- **Gemiddeld verschil**: \\(\frac{\Sigma(X - M)}{n}\\) &nbsp;&nbsp;&nbsp;<small>← niet praktisch want + en - verschillen cancellen uit</small>
+- **Gemiddeld verschil**: \\(\frac{\Sigma(X - M)}{n}\\)<!-- &nbsp;&nbsp;&nbsp;<small>← niet praktisch want + en - verschillen cancellen uit</small>-->
 - **Sum-of-squares**: \\(SS = \Sigma((X- M)^2)\\)
 - **Variantie** (spreiding): \\(s^2 = \frac{SS}{n - 1}\\)
 - **Standaardeviatie**: \\(s = \sqrt{s^2}\\) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>← wiskundig gezien zou dit \\(\left\| s \right\|\\) moeten zijn</small>
@@ -470,14 +467,14 @@ De 'snorharen' laten het bereik (hoogste en laagste waarde) van de data zien. Ev
 
 ## CAPS
 
-Een goede onderzoeksvraag in kwantitatief onderzoek moet in ieder geval de volgende vier elementen bevatten:
+Een goede onderzoeksvraag in correlationeel onderzoek moet in ieder geval de volgende vier elementen bevatten:
 
 - **Constructs**: tussen welke variabelen verwacht je een verband?
 - **Association**: wat voor soort verband verwacht je te vinden?
 - **Populatie**: welke doelgroep wordt onderzocht?
 - **Setting**: in welke sociaal-economische context voer je het onderzoek uit?
 
-> Wederom, CAPS biedt enkel een handvat voor het herkennen en formuleren van kwantitatieve onderzoeksvragen. Een een CAPS-vraag is niet automatisch goed en een niet&#8209;CAPS vraag is niet per definitie fout.
+> Wederom, CAPS biedt enkel een handvat voor het herkennen en formuleren van correlationele onderzoeksvragen. Een een CAPS-vraag is niet automatisch goed en een niet&#8209;CAPS vraag is niet per definitie fout.
 
 ## Aselecte steekproefmethoden
 
@@ -502,8 +499,8 @@ Met willekeurig ('random') wordt bedoeld dat elke deelnemer en elke combinatie v
 <ul>
 <li>Lijst incompleet kan zijn: het steekproefkader dekt niet de volledige populatie. Dit noemen we de <b>dekkingsfout</b> (hoe groot deze is altijd een schatting).</li>
 <li>De gekozen proefpersonen kunnen niet antwoorden, of weigeren mee te doen aan het onderzoek. Dat noemen we <b>non-response</b>.</li>
-<p>Beide zijn vormen van vertekening: de resultaten zijn minder representatief en dit schaadt de externe validiteit.</p>
 </ul>
+<p>Beide zijn vormen van vertekening: de resultaten zijn minder representatief en dit schaadt de externe validiteit.</p>
 </details>
 
 ## Dataverzameling en -analyse
@@ -515,7 +512,10 @@ Fysieke kenmerken, zoals lengte, gewicht, reactietijd, kan je eenvoudig meten. *
 - **Conceptuele definitie**: wat bedoelen we precies?
 - **Operationele definitie**: hoe gaan we dit meten?
 
-<center><small>construct → conceptuele definitie → operationele definitie → variabele</small></center>
+```mermaid
+flowchart LR
+    A[construct] --> B[conceptuele definitie] --> C[operationele definitie] --> D[variabele]
+```
 
 <!--Na het **operationaliseren** is het **construct** veranderd in een meetbare **variabele**.-->
 
@@ -572,7 +572,76 @@ Een causaal verband moet aan de volgende drie kenmerken voldoen:
 - **Temporal precedence**: de tijdsvolgorde moet kloppen (oorzaak voor gevolg).
 - **Interne validiteit**: alternatieve verklaringen moeten zijn uitgesloten.
 
-> Op basis van alleen een grafiek kan je dus geen uitspraak doen over causaliteit, omdat de onderste twee kenmerken missen.
+Met behulp van correlationeel onderzoek alleen kan je geen uitspraak doen over causaliteit, omdat je geen informatie hebt over tijdsvolgorde, en interne validiteit laag is.
+
+# Experimenteel onderzoek
+
+In correlationeel onderzoek meet de samenhang in natuurlijke variatie van variabelen. In experimenteel onderzoek manipuleert de onderzoeker variabelen in een gecontrolleerde labsetting.
+
+- **Onafhankelijke variabele**: wordt gemanipuleerd.
+- **Afhankelijke variabele**: wordt gemeten.
+
+In een experiment kan je causaliteit aantonen. Er is invloed op volgorde van meten, en daarmee **temporal precedence**. De resultaten worden verzameld in een gecontrolleerde omgeving, waarin alle andere variabele zoveel mogelijk constant gehouden kunnen worden, wat zorgt voor hoge **interne validiteit**.
+
+## Interne validiteit
+
+In experimenteel onderzoek wordt de interne validiteit bedreigt door **confounding variabelen**: extra variabelen die onvoorzien verschillen tussen de experimentele conditie en controlegroep veroorzaken.
+
+- **Design confounds**: de onafhankelijke variabele is niet het *enige* verschil in de *behandeling* van de groepen; fout in het onderzoeksontwerp.
+
+- **Selectie-effecten**: groepen zijn überhaupt niet vergelijkbaar bij aanvang; er is een verschil veroorzaakt door een verschil in de samenstelling van de groepen.
+
+Er is sprake van **contaminatie** als de groepen in een experiment informatie met elkaar delen waardoor het experiment mislukt, omdat er geen verschil meer is tussen de groepen. Dit is een vorm van design confounds.
+
+### Randomisatie
+
+Selectie-effecten voorkom je door middel van **randomisatie**: de steekproef willekeurig in twee groepen verdelen, waarbij elke deelnemer een gelijke kans heeft in beide groepen te komen.
+
+```mermaid
+flowchart LR
+    A[populatie] -->|aselecte steekproef| B[steekproef]
+    B -->|randomisatie| C[experimentele groep en controlegroep]
+```
+
+<center><small>De steekproef heeft betrekking op de externe validiteit; de randomsatie op de interne validiteit.</small></center>
+
+Het doel is gelijke groepen bij aanvang, met ongeveer gelijke gemiddelde en spreiding op alle variabelen (zowel gemeten als ongemeten).
+
+> Het is niet voldoende twee groepen in te delen op basis van kenmerken waarvan we *weten* dat ze invloed hebben op de afhankelijke variabele, omdat er ook vele kenmerken zijn waarvan we *niet weten* dat ze invloed hebben; die moeten ook allemaal gelijk verdeeld zijn.
+
+<!-- > Er is statistisch gezien geen verschil tussen twee aselecte steekproeven trekken en één aselecte steekproef trekken en daarbinnen twee groepen te maken door middel van randomisatie. Dat tweede is gewoon logistiek gezien makkelijker. -->
+
+<!-- Andere manieren van indelen zijn:
+
+- **Natuurlijke indeling: toevallige plekken bij binnenkomen, eigen keuze deelnemers etc.
+- **Explicite selectie** op basis van persoonskenmerken
+- **Willekeurige toewijzing** (aka randomisatie)
+-->
+
+## PICO
+
+Een goede onderzoeksvraag in experimenteel onderzoek moet in ieder geval de volgende vier elementen bevatten:
+
+- **Populatie**: welke doelgroep wordt onderzocht?
+- **Intervention**: hoe onafhankelijke variabele manipuleren?
+- **Comparison**: wat doet de controlegroep?
+- **Output**: wat is de onafhankelijke variabele?
+
+> PICO biedt weer enkel een handvat voor het herkennen en formuleren van experimentele onderzoeksvragen. Een een PICO-vraag is niet automatisch goed en een niet&#8209;PICO vraag is niet per definitie fout.
+
+# Statistiek
+
+## Steekproeven
+
+De gevonden waarde in een steekproef wijkt *altijd een beetje af* van de populatiewaarde. Dit verschil noemen we de **steekproeffout**.
+
+De waarde van de steekproeffout weten we niet, want we weten niet wat de populatiewaarde is. We kunnen wel het gemiddelde van de steekproeffouten schatten: de **standaardfout** (\\(\text{SE}\\)).
+
+## Null-hypothesis significance testing (NHST)
+
+NHST probeert uit te sluiten dat de gevonden correlatie (bij correlationeel) of het gevonden verschil (bij experimenteel) uit toeval volgt, door te berekenen hoe aannemelijk het zou zijn dat je het gevonden effect, of extremer, zou vinden onder de nulhypothese.
+
+De **nulhypothese** (\\(r = 0 \vee t = 0\\)) is de hypothese dat er *geen* relatie/effect is in de populatie.
 
 ## Betrouwbaarheid
 
@@ -636,10 +705,6 @@ Validiteit draait om de bruikbaarheid van resultaten. Er kan geen validiteit zij
     - is de juiste statistische toets gekozen?
     - zijn de voorwaarden voor de toets niet geschonden?
     - zijn de resultaten op de juiste manier geinterpreteerd?
-
-# Experimenteel onderzoek
-
-hello world :)
 
 # Ethiek & Integriteit
 
