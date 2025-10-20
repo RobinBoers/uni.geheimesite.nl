@@ -122,8 +122,5 @@ in geval van nulhypothese:
 - dus t laag
 - dus hoge t = goed, want dan nulhypothese niet geldig
 
-(standaardfout correlationeel = gemiddelde steekproeffout)
-(standaardfout experimenteel = ...???)
-
 aan de hand van t kan de computer p berekenen
 (want t = equivalent van r, dus gwn weer overschrijdingskans, opp voor extremer)
