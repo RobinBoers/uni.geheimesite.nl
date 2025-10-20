@@ -437,7 +437,7 @@ Scholen functioneren dus als losjes gekoppelde systemen met veel autonomie (leer
 
 ### Mechanistische benadering
 
-De mechanistische benadering is een planmatige, kenmerkgerichte aanpak van school-verbetering, gecentreerd rond sterke leiding van bovenaf (top-down). De aanpak is gericht op het reproduceren van kenmerken van schooleffectiviteit.
+De mechanistische benadering is een planmatige, kenmerkgerichte aanpak van school&shy;verbetering, gecentreerd rond sterke leiding van bovenaf (top-down). De aanpak is gericht op het reproduceren van kenmerken van schooleffectiviteit.
 
 Coördinatiemechanismes zijn directe leiding, en standaardisatie van werkprocessen, kennis, vaardigheden en doelen. Leraren zijn hierin uitvoerder.
 

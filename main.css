@@ -7,6 +7,7 @@ body {
   padding: 7px;
   margin: 4em auto;
   min-height: fit-content;
+  hyphens: manual;
 }
 
 img,

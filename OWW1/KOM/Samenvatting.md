@@ -427,54 +427,17 @@ De resultaten kunnen gedeeld worden als **matrix**: een tabel met frequenties va
 
 # Correlationeel onderzoek
 
-## Voorkennis
+Fysieke kenmerken, zoals lengte, gewicht, reactietijd, kan je eenvoudig meten. **Theoretische begrippen** (constructs) moeten meetbaar gemaakt worden. Dit noemen we **operationaliseren**, en gaat in twee stappen:
 
-### Centrummaten
+- **Conceptuele definitie**: wat bedoelen we precies?
+- **Operationele definitie**: hoe gaan we dit meten?
 
-Onderzoekers willen graag iets kunnen zeggen over de dataset. Dit doen ze aan de hand van een van de drie centrummaten:
+```mermaid
+flowchart LR
+    A[construct] --> B[conceptuele definitie] --> C[operationele definitie] --> D[variabele]
+```
 
-- **Modus**: meest voorkomende score.
-- **Mediaan**: middelste score.
-- **Gemiddelde**: som gedeeld door aantal.
-
-De mediaan van de mediaan is een **kwartiel**, van Q1 tot Q3. De **interkwartielafstand** (IQR) is het verschil tussen Q1 en Q3, en bevat precies de helft van de datapunten.
-
-### Boxplot
-
-Het **boxplot** is een manier om het centrum en de verdeling van de dataset te visualiseren. De 'box' loopt van Q1 tot Q3, en heeft een lijntje voor Q2 (de mediaan).
-
-De 'snorharen' laten het bereik (hoogste en laagste waarde) van de data zien. Eventuele uitschieters die niet zijn meegenomen in de dataset kunnen worden weergegeven met puntjes.
-
-<img src="boxplot.png" style="aspect-ratio: auto">
-
-### Standaarddeviatie & andere termen
-
-- **Gemiddelde**: \\(M = \frac{\Sigma(X)}{n}\\)
-- **Deviatiescore**: \\(X - M\\)
-- **Gemiddeld verschil**: \\(\frac{\Sigma(X - M)}{n}\\)<!-- &nbsp;&nbsp;&nbsp;<small>← niet praktisch want + en - verschillen cancellen uit</small>-->
-- **Sum-of-squares**: \\(SS = \Sigma((X- M)^2)\\)
-- **Variantie** (spreiding): \\(s^2 = \frac{SS}{n - 1}\\)
-- **Standaardeviatie**: \\(s = \sqrt{s^2}\\) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>← wiskundig gezien zou dit \\(\left\| s \right\|\\) moeten zijn</small>
-
-\\[s = \sqrt{\frac{\Sigma((X-M)^2)}{n-1}}\\]
-
-> Op **populatieniveau** gelden net andere regels dan op **steekproefniveau**. Daarom gebruiken we op populatieniveau Griekse letters, in plaats van het normale Romeinse alfabet:
->
-> - \\(M = \mu\\)
-> - \\(s = \sigma\\)
-> - \\(r = \rho\\)
-> - \\(n = N\\)&nbsp;&nbsp;&nbsp;<small>← dit is dan weer een uitzondering; het kan ook nooit gwn logisch zijn</small>
-
-## CAPS
-
-Een goede onderzoeksvraag in correlationeel onderzoek moet in ieder geval de volgende vier elementen bevatten:
-
-- **Constructs**: tussen welke variabelen verwacht je een verband?
-- **Association**: wat voor soort verband verwacht je te vinden?
-- **Populatie**: welke doelgroep wordt onderzocht?
-- **Setting**: in welke sociaal-economische context voer je het onderzoek uit?
-
-> Wederom, CAPS biedt enkel een handvat voor het herkennen en formuleren van correlationele onderzoeksvragen. Een een CAPS-vraag is niet automatisch goed en een niet&#8209;CAPS vraag is niet per definitie fout.
+<!--Na het **operationaliseren** is het **construct** veranderd in een meetbare **variabele**.-->
 
 ## Aselecte steekproefmethoden
 
@@ -503,65 +466,18 @@ Met willekeurig ('random') wordt bedoeld dat elke deelnemer en elke combinatie v
 <p>Beide zijn vormen van vertekening: de resultaten zijn minder representatief en dit schaadt de externe validiteit.</p>
 </details>
 
-## Dataverzameling en -analyse
+## CAPS
 
-### Operationaliseren
+Een goede onderzoeksvraag in correlationeel onderzoek moet in ieder geval de volgende vier elementen bevatten:
 
-Fysieke kenmerken, zoals lengte, gewicht, reactietijd, kan je eenvoudig meten. **Theoretische begrippen** (construct) moeten meetbaar gemaakt worden. Dat gaat in twee stappen:
+- **Constructs**: tussen welke variabelen verwacht je een verband?
+- **Association**: wat voor soort verband verwacht je te vinden?
+- **Populatie**: welke doelgroep wordt onderzocht?
+- **Setting**: in welke sociaal-economische context voer je het onderzoek uit?
 
-- **Conceptuele definitie**: wat bedoelen we precies?
-- **Operationele definitie**: hoe gaan we dit meten?
+> Wederom, CAPS biedt enkel een handvat voor het herkennen en formuleren van correlationele onderzoeksvragen. Een een CAPS-vraag is niet automatisch goed en een niet&#8209;CAPS vraag is niet per definitie fout.
 
-```mermaid
-flowchart LR
-    A[construct] --> B[conceptuele definitie] --> C[operationele definitie] --> D[variabele]
-```
-
-<!--Na het **operationaliseren** is het **construct** veranderd in een meetbare **variabele**.-->
-
-### Meetniveaus <small>(NOIR)</small>
-
-- **Nominaal**: categorisch, met woorden.
-- **Ordinaal**: rangorde; wel een volgorde maar geen schaal.
-- **Interval**: een schaal zonder betekenisvol nulpunt (bijv. IQ of &deg;C).
-- **Ratio**: een schaal met een betekenisvol nulpunt (bijv. euro's of Kelvin).
-
-<!--De laatste drie zijn kwantitatief: uitgedrukt in getallen. Nominaal meetniveau is categorisch: uitgedrukt in woorden.-->
-
-Ondanks de naam meet de **Likert-schaal** (zeer eens, eens, neutraal, oneens, zeer oneens) op *ordinaal* meetniveau. Echter, als uit deze scores een **schaalscore** wordt berekend, is die wel op *interval* meetniveau.
-
-### Correlatie
-
-Een **statistische toets** is een methode om een correlatie vast te stellen. De twee die wij nu moeten kennen zijn:
-
-- Pearson-correlatie (\\(r\\))
-- Spearman-correlatie (\\(r_s\\))
-
-Een **Pearson-correlatiecoëfficient** is een maat voor de gemiddelde afwijking van datapunten tenopzichte van het gemiddelde, en geeft informatie over de sterkte en richting van een linear verband.
-
-\\[r = \frac{\text{covariantie}}{\text{variantie}} = \frac{\text{Cov}(X)}{\sqrt{\text{Var}(X)\text{Var}(Y)}}\\]
-
-\\[-1 < r < 1\\]
-
-<center style="margin-top: -2em"><small>(hoe verder van nul, hoe sterker het verband; teken geeft richting van de correlatie aan)</small></center>
-
-Voor het gebruik van een Pearson-correlatiecoëfficient moet aan de volgende drie kenmerken voldaan zijn (geschiktheid):
-
-- De steekproef moet aselect zijn.
-- De variabelen moeten op interval of ratio meetniveau zijn.
-- Het verband moet linear zijn.
-
-Voor variabelen op ordinaal meetniveau, of niet-lineare verbanden wordt de **Spearman-correlatiecoëfficient** gebruikt. Daarvoor moet aan de volgende voorwaarden voldaan zijn:
-
-- Het verband moet **monotoon** zijn (alleen stijgend of alleen dalend).
-- De variabelen zijn oorspronkelijk ordinaal gemeten; of
-- de variabelen zijn ordinaal gemaakt met behulp van **rangscores**.
-
-**Rangscores** trekken een kromme lijn recht door alle datapunten een rangnummer te geven, ongeacht numerieke waarde.
-
-> Een correlatie noteren we in drie decimalen, beginnend met de punt (de nul laten we weg).
-
-### Causaliteit
+## Causaliteit
 
 - **Correlatie**: er is een samenhang.
 - **Causatie**: er is ook sprake van oorzaak gevolg.
@@ -631,17 +547,182 @@ Een goede onderzoeksvraag in experimenteel onderzoek moet in ieder geval de volg
 
 # Statistiek
 
+## Voorkennis
+
+### Centrummaten
+
+Onderzoekers willen graag iets kunnen zeggen over de dataset. Dit doen ze aan de hand van een van de drie centrummaten:
+
+- **Modus**: meest voorkomende score.
+- **Mediaan**: middelste score.
+- **Gemiddelde**: som gedeeld door aantal.
+
+De mediaan van de mediaan is een **kwartiel**, van Q1 tot Q3. De **interkwartielafstand** (IQR) is het verschil tussen Q1 en Q3, en bevat precies de helft van de datapunten.
+
+### Boxplot
+
+Het **boxplot** is een manier om het centrum en de verdeling van de dataset te visualiseren. De 'box' loopt van Q1 tot Q3, en heeft een lijntje voor Q2 (de mediaan).
+
+De 'snorharen' laten het bereik (hoogste en laagste waarde) van de data zien. Eventuele uitschieters die niet zijn meegenomen in de dataset kunnen worden weergegeven met puntjes.
+
+<img src="boxplot.png" style="aspect-ratio: auto">
+
+### Standaarddeviatie & andere termen
+
+- **Gemiddelde**: \\(M = \frac{\Sigma(X)}{n}\\)
+- **Deviatiescore**: \\(X - M\\)
+- **Gemiddeld verschil**: \\(\frac{\Sigma(X - M)}{n}\\)<!-- &nbsp;&nbsp;&nbsp;<small>← niet praktisch want + en - verschillen cancellen uit</small>-->
+- **Sum-of-squares**: \\(SS = \Sigma((X- M)^2)\\)
+- **Variantie** (spreiding): \\(s^2 = \frac{SS}{n - 1}\\)
+- **Standaardeviatie**: \\(s = \sqrt{s^2}\\) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>← wiskundig gezien zou dit \\(\left\| s \right\|\\) moeten zijn</small>
+
+\\[s = \sqrt{\frac{\Sigma((X-M)^2)}{n-1}}\\]
+
+> Op **populatieniveau** gelden net andere regels dan op **steekproefniveau**. Daarom gebruiken we op populatieniveau Griekse letters, in plaats van het normale Romeinse alfabet:
+>
+> - \\(M = \mu\\)
+> - \\(s = \sigma\\)
+> - \\(r = \rho\\)
+> - \\(n = N\\)&nbsp;&nbsp;&nbsp;<small>← dit is dan weer een uitzondering; het kan ook nooit gwn logisch zijn</small>
+
+### Meetniveaus <small>(NOIR)</small>
+
+- **Nominaal**: categorisch, met woorden.
+- **Ordinaal**: rangorde; wel een volgorde maar geen schaal.
+- **Interval**: een schaal zonder betekenisvol nulpunt (bijv. IQ of &deg;C).
+- **Ratio**: een schaal met een betekenisvol nulpunt (bijv. euro's of Kelvin).
+
+<!--De laatste drie zijn kwantitatief: uitgedrukt in getallen. Nominaal meetniveau is categorisch: uitgedrukt in woorden.-->
+
+Ondanks de naam meet de **Likert-schaal** (zeer eens, eens, neutraal, oneens, zeer oneens) op *ordinaal* meetniveau. Echter, als uit deze scores een **schaalscore** wordt berekend, is die wel op *interval* meetniveau.
+
+## Statistische toetsen
+
+Een **statistische toets** is een methode om een correlatie vast te stellen. De vier die we voor nu moeten kennen zijn:
+
+- Pearson-correlatie (\\(r\\))
+- Spearman-correlatie (\\(r_s\\))
+- Reguliere \\(t\\)-toets
+- Welsch's \\(t\\)-toets
+
+> Een correlatie noteren we in 3 decimalen, beginnend met de punt ('leading zero' weglaten).
+
+### Pearson-correlatie
+
+Een **Pearson-correlatiecoëfficient** (\\(r\\)) is een maat voor de gemiddelde afwijking van datapunten tenopzichte van het gemiddelde, en geeft informatie over de sterkte en richting van een linear verband.
+
+\\[r = \frac{\text{covariantie}}{\text{variantie}} = \frac{\text{Cov}(X)}{\sqrt{\text{Var}(X)\text{Var}(Y)}}\\]
+
+\\[-1 < r < 1\\]
+
+<center style="margin-top: -2em"><small>(hoe verder van nul, hoe sterker het verband; teken geeft richting van de correlatie aan)</small></center>
+
+Voor het gebruik van een Pearson-correlatiecoëfficient moet aan de volgende drie kenmerken voldaan zijn (geschiktheid):
+
+- De steekproef moet aselect zijn.
+- De variabelen moeten op interval of ratio meetniveau zijn.
+- Het verband moet linear zijn.
+
+### Spearman-correlatie
+
+Voor variabelen op ordinaal meetniveau, of niet-lineare verbanden wordt de **Spearman-correlatiecoëfficient** (\\(r_s\\)) gebruikt. Daarvoor moet aan de volgende voorwaarden voldaan zijn:
+
+- Het verband moet **monotoon** zijn (alleen stijgend of alleen dalend).
+- De variabelen zijn oorspronkelijk ordinaal gemeten; of
+- de variabelen zijn ordinaal gemaakt met behulp van **rangscores**.
+
+**Rangscores** trekken een kromme lijn recht door alle datapunten een rangnummer te geven, ongeacht numerieke waarde.
+
+### Reguliere \\(t\\)-toets
+
+XXX
+
+### Welsch's \\(t\\)-toets
+
+XXX
+
+## Effect size
+
+XXX
+
 ## Steekproeven
 
 De gevonden waarde in een steekproef wijkt *altijd een beetje af* van de populatiewaarde. Dit verschil noemen we de **steekproeffout**.
 
-De waarde van de steekproeffout weten we niet, want we weten niet wat de populatiewaarde is. We kunnen wel het gemiddelde van de steekproeffouten schatten: de **standaardfout** (\\(\text{SE}\\)).
+De waarde van de steekproeffout weten we niet, want we weten niet wat de populatiewaarde is. We kunnen wel het gemiddelde van de steekproeffouten schatten: de **standaardfout** (\\(SE\\)).
 
-## Null-hypothesis significance testing (NHST)
+\\[\text{SE} = \sqrt{\frac{SD^ 2\_{\text{pooled}}}{n\_1}+\frac{SD^ 2\_{\text{pooled}}}{n\_2}}\\]
 
-NHST probeert uit te sluiten dat de gevonden correlatie (bij correlationeel) of het gevonden verschil (bij experimenteel) uit toeval volgt, door te berekenen hoe aannemelijk het zou zijn dat je het gevonden effect, of extremer, zou vinden onder de nulhypothese.
+Het bereik van \\(r\\) of \\(t\\) bij herhaald steekproef trekken noemen we de **steekproefspreiding**. De variatie, geplot in een histogram noemen we de **steekproevenverdeling**.
+
+> De steekproevenverdeling wordt, als er geen relatie of effect is in de populatie als geheel, een normaalverdeling rond de nul.
+
+## NHST: null-hypothesis significance testing
+
+NHST probeert uit te sluiten dat de gevonden correlatie (bij correlationeel) of het gevonden verschil (bij experimenteel) uit toeval volgt, door te berekenen hoe aannemelijk het zou zijn het effect te vinden onder de nulhypothese.
 
 De **nulhypothese** (\\(r = 0 \vee t = 0\\)) is de hypothese dat er *geen* relatie/effect is in de populatie.
+
+Op basis van statistiek die hierna wordt uitgelegd, besluit je om of de nulhypothese aan te houden of te verwerpen (en de alternatieve hypothese aan te nemen). Het kan zijn dat je het fout hebt:
+
+<table>
+  <tr>
+    <th></th>
+    <th>geen effect (\(H_0\) waar)</th>
+    <th>wel effect (\(H_0\) fout)</th>
+  </tr>
+  <tr>
+    <th>niet gevonden</th>
+    <td>betrouwbaarheid</td>
+    <td>miss (type II)</td>
+  </tr>
+  <tr>
+    <th>wel gevonden</th>
+    <td>false positive (type I)</td>
+    <td>power</td>
+  </tr>
+</table>
+
+De **alternatieve hypothese** is de hypothese dat er *wel* een relatie/effect is in de populatie. Deze hypothese kan éénzijdig of tweezijdig zijn:
+
+- **Eenzijdig**: je verwacht een verband en een specifieke richting.
+- **Tweezijdig**: je verwacht een verband maar geen specifieke richting.
+
+### Overschrijdingskans
+
+De **overschrijdingskans** (\\(p\\)-waarde) is de kans om onder \\(H_0\\) een bepaald effect of extremer te vinden. Dit kan gevisualiseerd worden als de oppervlakte onder een normaalverdeling:
+
+| Eenzijdig | Tweezijdig |
+|--|--|
+| ![](eenzijdig.png) | ![](tweezijdig.png) |
+
+<center style="margin-bottom: 1em; margin-top: 0.2em"><small>De complete oppervlakte onder de diagram is gelijk aan 1.</small></center>
+
+<details open>
+  <summary>Eenzijdig vs tweezijdig toetsen</summary>
+  <p>Bij éénzijdig toetsen check je alleen extremere waarden aan één kant van de normaalverdeling. Bij tweezijdig toetsen doe je geen aannamens over de richting van het verband, en check je dus beide kanten van de normaalverdeling.</p>
+  <blockquote><p>De \(p\)-waarde is dan dus twee keer zo groot (bij dezelfde \(r\)- of \(t\)-waarde).</p></blockquote>
+</details>
+
+De gekozen normaalverdeling hangt af van de steekproefgrootte (\\(n\\)). Hoe groter de steekproef, hoe smaller en hoger de piek:
+
+![](normaalverdelingen.png)
+
+Een lage \\(p\\)-waarde betekent dat er een kleine kans is dat het effect aan toeval toegeschreven kan worden. Een kleine \\(p\\) is dus beter.
+
+> Dus: hoe groter je steekproef, hoe kleiner de \\(p\\)-waarde bij dezelfde \\(r\\)- of \\(t\\)-waarde. Of andersom: hoe minder groot de \\(r\\)- of \\(t\\)-waarde hoeft te zijn voor dezelfde \\(p\\)-waarde.
+
+## Significantie
+
+De overschrijdingskans is de kans dat je fout zit; een type I fout maakt. Het **significantieniveau**  is de grenswaarde, de maximale kans op type I fouten die we tolereren.
+
+### Stappenplan
+
+1. Formuleren nulhypotheses (\\(H_0\\)) alternatieve hypothese (\\(H_A\\)).
+2. Keuze & berekenen toetsingsgrootheid (\\(r\\) of \\(t\\)).
+3. Overschrijdingskans (\\(p\\)) berekenen.
+4. Nulhypothese (\\(H_0\\)) wél of niét verwerpen.
+5. Conclusie schrijven &nbsp;&nbsp;<small>← deze stap is extra</small>
 
 ## Betrouwbaarheid
 
