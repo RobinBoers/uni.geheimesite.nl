@@ -644,19 +644,38 @@ De \\(t\\)-toets is een manier om een verschil uit te drukken relatief aan de st
 \\[t = \frac{M_1 - M_2}{SE}\\]
 
 \\[-\infty < t < \infty\\]
+
+<!--
 <center style="margin-top: -2em"><small>(in de praktijk ligt de waarde meestal op \([-3, 3]\))</small></center>
+-->
 
-De normaalverdeling bij de \\(t\\)-toets heeft een asymptoot op \\(y = 0\\), beginnend, afhankelijk van de steekproefgrootte (\\(n\\)), rond ongeveer \\(t = 3\\).
+<!-- De normaalverdeling bij de \\(t\\)-toets heeft een asymptoot op \\(y = 0\\), beginnend, afhankelijk van de steekproefgrootte (\\(n\\)), rond ongeveer \\(t = 3\\). -->
 
-Voor het gebruik van de \\(t\\)-toets voor onafhankelijke groepen, moet aan de volgende drie voorwaarden voldaan zijn (geschiktheid):
+Voor het gebruik van de \\(t\\)-toets voor onafhankelijke groepen, moet aan de volgende vier voorwaarden voldaan zijn (geschiktheid):
 
-- De groepen moeten onafhankelijk zijn
-- 
+- Er moet een aselecte steekproef gebruikt zijn.
+- De groepen moeten onafhankelijk zijn <small>(duh!)</small>
+- De afhankelijke variabele moet op minimaal interval/ratio meetniveau zijn.
+- Scores moeten normaal verdeeld zijn met ongeveer gelijke spreiding.
 
+De verdeling en spreiding worden visueel gecheckt door histogrammen te plotten. Het kan ook statistisch, maar dat hoeven we niet te kunnen. Bij een kleine schending van de verdeling, kan de \\(t\\)-toets alsnog gebruikt worden, mits de steekproef groot genoeg (\\(n > 30\\)) is.
+
+<details>
+  <summary>Onafhankelijkheid groepen</summary>
+  <p>Onafhankelijkheid van groepen houdt in dat de kenmerken of het gedrag van één groep niet mag afhangen van de kenmerken of het gedrag van de andere groep.</p>
+  <p>Er zijn twee situaties waarin dit mogelijk fout kan gaan:</p>
+  <ul>
+  <li><b>Herhaalde metingen</b>: je vergelijkt een groep met zichzelf; de eindscore is dan sterk samenhangend met de eerdere score.</li>
+  <li><b>Gekoppelde metingen</b>: bijvoorbeeld onderzoek naar tweelingen. De kenmerken en het gedrag van de tweeling zijn identiek.</li>
+  </ul>
+  <p>In deze gevallen kan je de Welsch's \(t\)-toets voor afhankelijke groepen gebruiken.</p>
+</details>
 
 ### Welsch's \\(t\\)-toets
 
-XXX
+Welsch's \\(t\\)-toets is in principe hetzelfde als de \\(t\\)-toets voor onafhankelijke groepen, maar deze mag wél worden gebruikt voor afhankelijke groepen, en in situaties waarin sprake is van grote spreiding in scores.
+
+De toets heeft wel een veel minder grote power.
 
 ## Steekproeven
 
@@ -712,9 +731,20 @@ De hypotheses kunnen worden genoteerd in statistische vorm:
 
 ### Power
 
-De power (\\(1 - \beta\\)) van een statistische toets is het vermogen een effect te vinden dat ook daadwerkelijk aanwezig is in de populatie. De power is afhankelijk van een groot aantal factoren, en kan niet direct 'ingesteld' worden:
+De power (\\(1 - \beta\\)) van een statistische toets is het vermogen een effect te vinden dat ook daadwerkelijk aanwezig is in de populatie. Hangt af van:
 
-Binnen de sociale wetenschappen streeft men voor een power van 80%.
+<ul>
+  <li>Significantieniveau (\(\alpha\))</li>
+  <li>Steekproefgrootte (\(n\))</li>
+  <li>Toetsingsgrootheid (\(t\) of \(r\))</li>
+  <li>Eenzijdig of tweezijdig toetsen</li>
+  <!--
+  <li style="opacity: 0.3">Effectgrootte (\(d\)) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>(komt pas bij TOE)</small></li>
+  <li style="opacity: 0.3">Spreiding in scores &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>(komt ook pas bij TOE)</small></li>
+  -->
+</ul>
+
+Omdat hij afhankelijk is van veel factoren, kan hij niet worden 'ingesteld', alleen geschat. Binnen de sociale wetenschappen streeft men voor een power van 80%.
 
 ### Overschrijdingskans
 
