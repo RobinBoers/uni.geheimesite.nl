@@ -641,10 +641,6 @@ XXX
 
 XXX
 
-## Effect size
-
-XXX
-
 ## Steekproeven
 
 De gevonden waarde in een steekproef wijkt *altijd een beetje af* van de populatiewaarde. Dit verschil noemen we de **steekproeffout**.
@@ -663,6 +659,11 @@ NHST probeert uit te sluiten dat de gevonden correlatie (bij correlationeel) of 
 
 De **nulhypothese** (\\(r = 0 \vee t = 0\\)) is de hypothese dat er *geen* relatie/effect is in de populatie.
 
+De **alternatieve hypothese** is de hypothese dat er *wel* een relatie/effect is in de populatie. Deze hypothese kan éénzijdig of tweezijdig zijn:
+
+- **Eenzijdig**: je verwacht een verband en een specifieke richting.
+- **Tweezijdig**: je verwacht een verband maar geen specifieke richting.
+
 Op basis van statistiek die hierna wordt uitgelegd, besluit je om of de nulhypothese aan te houden of te verwerpen (en de alternatieve hypothese aan te nemen). Het kan zijn dat je het fout hebt:
 
 <table>
@@ -673,24 +674,45 @@ Op basis van statistiek die hierna wordt uitgelegd, besluit je om of de nulhypot
   </tr>
   <tr>
     <th>niet gevonden</th>
-    <td>betrouwbaarheid</td>
-    <td>miss (type II)</td>
+    <td>betrouwbaarheid &nbsp;<small>(\(1 - \alpha\))</small></td>
+    <td>type II: miss &nbsp;<small>(\(\beta\))</small></td>
   </tr>
   <tr>
     <th>wel gevonden</th>
-    <td>false positive (type I)</td>
-    <td>power</td>
+    <td>type I: false positive &nbsp;<small>(\(\alpha\))</small></td>
+    <td>power &nbsp;<small>(\(1 - \beta\))</small></td>
   </tr>
 </table>
 
-De **alternatieve hypothese** is de hypothese dat er *wel* een relatie/effect is in de populatie. Deze hypothese kan éénzijdig of tweezijdig zijn:
+<!--
+<details>
+  <summary>Type I & II fouten</summary>
+  <ul>
+    <li><strong>Type I</strong> (\(\alpha\)): er is geen effect, maar je vindt wel een effect.</li>
+    <li><strong>Type II</strong> (\(\beta\)): er is wél een effect, maar je kan het niet vinden</li>
+  </ul>
+</details>
+-->
 
-- **Eenzijdig**: je verwacht een verband en een specifieke richting.
-- **Tweezijdig**: je verwacht een verband maar geen specifieke richting.
+<!--
+- Het significantieniveau (\\(\alpha\\)) is de kans op een type I fout.
+- Het betrouwbaarheidsniveau (\\(1 - \alpha\\)) is de kans op *geen* type I fout.
+- De kans op een type II fout (\\(\beta\\)) is zielig en heeft geen naam :(
+- De power (\\(1 - \beta\\)) van een statistische toets is het vermogen een effect te vinden dat ook daadwerkelijk aanwezig is in de populatie.
+-->
+
+<!--
+De hypotheses kunnen worden genoteerd in statistische vorm:
+
+| \\(H_0\\) | \\(\rho = 0\\) | \\(\mu_1 = \mu_2\\) |
+| \\(H_{A,ongericht}\\) | \\(\rho \neq 0\\) | \\(\mu_1 \neq \mu_2\\) |
+| \\(H_{A,eenzijdig}\\) | \\(\rho > 0\\) | \\(\mu_1 > \mu_2\\) |
+| \\(H_{A,eenzijdig}\\) | \\(\rho < 0\\) | \\(\mu_1 < \mu_2\\) |
+-->
 
 ### Overschrijdingskans
 
-De **overschrijdingskans** (\\(p\\)-waarde) is de kans om onder \\(H_0\\) een bepaald effect of extremer te vinden. Dit kan gevisualiseerd worden als de oppervlakte onder een normaalverdeling:
+De **overschrijdingskans** (\\(p\\)) is de kans om onder \\(H_0\\) een bepaald effect of extremer te vinden. Dit kan gevisualiseerd worden als de oppervlakte onder een normaalverdeling:
 
 | Eenzijdig | Tweezijdig |
 |--|--|
@@ -712,9 +734,32 @@ Een lage \\(p\\)-waarde betekent dat er een kleine kans is dat het effect aan to
 
 > Dus: hoe groter je steekproef, hoe kleiner de \\(p\\)-waarde bij dezelfde \\(r\\)- of \\(t\\)-waarde. Of andersom: hoe minder groot de \\(r\\)- of \\(t\\)-waarde hoeft te zijn voor dezelfde \\(p\\)-waarde.
 
-## Significantie
+### Significantie
 
-De overschrijdingskans is de kans dat je fout zit; een type I fout maakt. Het **significantieniveau**  is de grenswaarde, de maximale kans op type I fouten die we tolereren.
+Het **significantieniveau** (\\(\alpha\\)) is de grenswaarde voor \\(p\\). Met andere woorden: de maximale kans op type I fouten (overschrijdingskans) die we tolereren.
+
+We noemen een resultaat statistisch **significant**, als \\(p < \alpha\\). Dat betekent dat we met enige zekerheid kunnen stellen dat het geen toevalsbevinding is.
+
+### Nauwkeurigheid
+
+Het effect dat terugkomt uit het onderzoek is een **puntschatting**, die bijna zeker afwijkt van de populatiewaarde. Echter, de populatiewaarde ligt hoogstwaarschijnlijk wel *in de buurt* van het gevonden effect.
+
+Met een **betrouwbaarheidsinterval** kunnen we een schatting geven tussen welke waarden de populatiewaarde zou kunnen liggen. De breedte van het interval hangt af van:
+
+- **Het betrouwbaarheidsniveau** (\\(1 - \alpha\\)): hoe groter, hoe breder.
+- **De steekproefgrootte** (\\(n\\)): hoe groter, hoe smaller.
+
+Bij een groter betrouwbaarheidsniveau is het interval breder, dus is de kans dat de populatiewaarde erin ligt ook groter. Echter, is een breder interval ook minder informatief.
+
+> De kans dat in een breder interval de 0 ligt is groter, en dan kan \\(H_0\\) niet verworpen worden. Dit is logisch, want bij een grotere betrouwbaarheid is de grenswaarde voor \\(p\\) ook kleiner.
+
+### Relevantie
+
+Relevantie heeft betrekking op de grootte van een effect. Dat een effect significant is, wil niet gelijk betekenen dat het ook groot is.
+
+Om de grootte van een effect te duiden en effecten tussen onderzoeken te vergelijken, wordt gebruik gemaakt van Cohen's **effect size** (\\(d\\)).
+
+\\[d = \frac{M_1 - M_2}{SD}\\]
 
 ### Stappenplan
 
