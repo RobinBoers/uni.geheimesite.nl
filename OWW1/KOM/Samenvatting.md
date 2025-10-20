@@ -439,6 +439,17 @@ flowchart LR
 
 <!--Na het **operationaliseren** is het **construct** veranderd in een meetbare **variabele**.-->
 
+## CAPS
+
+Een goede onderzoeksvraag in correlationeel onderzoek moet in ieder geval de volgende vier elementen bevatten:
+
+- **Constructs**: tussen welke variabelen verwacht je een verband?
+- **Association**: wat voor soort verband verwacht je te vinden?
+- **Populatie**: welke doelgroep wordt onderzocht?
+- **Setting**: in welke sociaal-economische context voer je het onderzoek uit?
+
+> Wederom, CAPS biedt enkel een handvat voor het herkennen en formuleren van correlationele onderzoeksvragen. Een een CAPS-vraag is niet automatisch goed en een niet&#8209;CAPS vraag is niet per definitie fout.
+
 ## Aselecte steekproefmethoden
 
 In kwantitatief onderzoek is het belangrijk een representatieve, **aselecte steekproef** te gebruiken, omdat dit verzekerd dat resultaten onderling onafhankelijk zijn, en met redelijke zekerheid kunnen worden gegeneraliseerd (inferentie).
@@ -466,17 +477,6 @@ Met willekeurig ('random') wordt bedoeld dat elke deelnemer en elke combinatie v
 <p>Beide zijn vormen van vertekening: de resultaten zijn minder representatief en dit schaadt de externe validiteit.</p>
 </details>
 
-## CAPS
-
-Een goede onderzoeksvraag in correlationeel onderzoek moet in ieder geval de volgende vier elementen bevatten:
-
-- **Constructs**: tussen welke variabelen verwacht je een verband?
-- **Association**: wat voor soort verband verwacht je te vinden?
-- **Populatie**: welke doelgroep wordt onderzocht?
-- **Setting**: in welke sociaal-economische context voer je het onderzoek uit?
-
-> Wederom, CAPS biedt enkel een handvat voor het herkennen en formuleren van correlationele onderzoeksvragen. Een een CAPS-vraag is niet automatisch goed en een niet&#8209;CAPS vraag is niet per definitie fout.
-
 ## Causaliteit
 
 - **Correlatie**: er is een samenhang.
@@ -499,9 +499,20 @@ In correlationeel onderzoek meet de samenhang in natuurlijke variatie van variab
 
 In een experiment kan je causaliteit aantonen. Er is invloed op volgorde van meten, en daarmee **temporal precedence**. De resultaten worden verzameld in een gecontrolleerde omgeving, waarin alle andere variabele zoveel mogelijk constant gehouden kunnen worden, wat zorgt voor hoge **interne validiteit**.
 
+## PICO
+
+Een goede onderzoeksvraag in experimenteel onderzoek moet in ieder geval de volgende vier elementen bevatten:
+
+- **Populatie**: welke doelgroep wordt onderzocht?
+- **Intervention**: hoe onafhankelijke variabele manipuleren?
+- **Comparison**: wat doet de controlegroep?
+- **Output**: wat is de onafhankelijke variabele?
+
+> PICO biedt weer enkel een handvat voor het herkennen en formuleren van experimentele onderzoeksvragen. Een een PICO-vraag is niet automatisch goed en een niet&#8209;PICO vraag is niet per definitie fout.
+
 ## Interne validiteit
 
-In experimenteel onderzoek wordt de interne validiteit bedreigt door **confounding variabelen**: extra variabelen die onvoorzien verschillen tussen de experimentele conditie en controlegroep veroorzaken.
+In experimenteel onderzoek wordt de interne validiteit bedreigd door **confounding variables**: extra variabelen die onvoorzien verschillen tussen de experimentele conditie en controlegroep veroorzaken.
 
 - **Design confounds**: de onafhankelijke variabele is niet het *enige* verschil in de *behandeling* van de groepen; fout in het onderzoeksontwerp.
 
@@ -525,6 +536,8 @@ Het doel is gelijke groepen bij aanvang, met ongeveer gelijke gemiddelde en spre
 
 > Het is niet voldoende twee groepen in te delen op basis van kenmerken waarvan we *weten* dat ze invloed hebben op de afhankelijke variabele, omdat er ook vele kenmerken zijn waarvan we *niet weten* dat ze invloed hebben; die moeten ook allemaal gelijk verdeeld zijn.
 
+Een **quasi-experiment** is een experiment waarbij (wegens omstandigheden), de groepen niet gerandomiseerd kunnen worden, maar wel manipulatie van een onafhankelijke variabele plaatsvindt.
+
 <!-- > Er is statistisch gezien geen verschil tussen twee aselecte steekproeven trekken en één aselecte steekproef trekken en daarbinnen twee groepen te maken door middel van randomisatie. Dat tweede is gewoon logistiek gezien makkelijker. -->
 
 <!-- Andere manieren van indelen zijn:
@@ -533,17 +546,6 @@ Het doel is gelijke groepen bij aanvang, met ongeveer gelijke gemiddelde en spre
 - **Explicite selectie** op basis van persoonskenmerken
 - **Willekeurige toewijzing** (aka randomisatie)
 -->
-
-## PICO
-
-Een goede onderzoeksvraag in experimenteel onderzoek moet in ieder geval de volgende vier elementen bevatten:
-
-- **Populatie**: welke doelgroep wordt onderzocht?
-- **Intervention**: hoe onafhankelijke variabele manipuleren?
-- **Comparison**: wat doet de controlegroep?
-- **Output**: wat is de onafhankelijke variabele?
-
-> PICO biedt weer enkel een handvat voor het herkennen en formuleren van experimentele onderzoeksvragen. Een een PICO-vraag is niet automatisch goed en een niet&#8209;PICO vraag is niet per definitie fout.
 
 # Statistiek
 
@@ -602,7 +604,7 @@ Een **statistische toets** is een methode om een correlatie vast te stellen. De 
 
 - Pearson-correlatie (\\(r\\))
 - Spearman-correlatie (\\(r_s\\))
-- Reguliere \\(t\\)-toets
+- Reguliere \\(t\\)-toets <small>(voor onafhankelijke groepen)</small>
 - Welsch's \\(t\\)-toets
 
 > Een correlatie noteren we in 3 decimalen, beginnend met de punt ('leading zero' weglaten).
@@ -617,7 +619,7 @@ Een **Pearson-correlatiecoëfficient** (\\(r\\)) is een maat voor de gemiddelde 
 
 <center style="margin-top: -2em"><small>(hoe verder van nul, hoe sterker het verband; teken geeft richting van de correlatie aan)</small></center>
 
-Voor het gebruik van een Pearson-correlatiecoëfficient moet aan de volgende drie kenmerken voldaan zijn (geschiktheid):
+Voor het gebruik van een Pearson-correlatiecoëfficient moet aan de volgende drie voorwaarden voldaan zijn (geschiktheid):
 
 - De steekproef moet aselect zijn.
 - De variabelen moeten op interval of ratio meetniveau zijn.
@@ -633,9 +635,24 @@ Voor variabelen op ordinaal meetniveau, of niet-lineare verbanden wordt de **Spe
 
 **Rangscores** trekken een kromme lijn recht door alle datapunten een rangnummer te geven, ongeacht numerieke waarde.
 
-### Reguliere \\(t\\)-toets
+### Reguliere \\(t\\)-toets <small>(voor onafhankelijke groepen)</small>
 
-XXX
+> In experimenteel onderzoek bereken je het verschil in gemiddelden tussen twee condities. Dat betekent dat waar de correlatiecoëfficient in correlationeel onderzoek binnen \\([-1,1]\\) lag, de schaalverdeling in experimenteel onderzoek per experiment verschilt.
+
+De \\(t\\)-toets is een manier om een verschil uit te drukken relatief aan de standaardfout. Met andere woorden: de \\(t\\)-waarde is het aantal keer dat de standaardfout in \\(M_1 - M_2\\) past.
+
+\\[t = \frac{M_1 - M_2}{SE}\\]
+
+\\[-\infty < t < \infty\\]
+<center style="margin-top: -2em"><small>(in de praktijk ligt de waarde meestal op \([-3, 3]\))</small></center>
+
+De normaalverdeling bij de \\(t\\)-toets heeft een asymptoot op \\(y = 0\\), beginnend, afhankelijk van de steekproefgrootte (\\(n\\)), rond ongeveer \\(t = 3\\).
+
+Voor het gebruik van de \\(t\\)-toets voor onafhankelijke groepen, moet aan de volgende drie voorwaarden voldaan zijn (geschiktheid):
+
+- De groepen moeten onafhankelijk zijn
+- 
+
 
 ### Welsch's \\(t\\)-toets
 
@@ -685,23 +702,6 @@ Op basis van statistiek die hierna wordt uitgelegd, besluit je om of de nulhypot
 </table>
 
 <!--
-<details>
-  <summary>Type I & II fouten</summary>
-  <ul>
-    <li><strong>Type I</strong> (\(\alpha\)): er is geen effect, maar je vindt wel een effect.</li>
-    <li><strong>Type II</strong> (\(\beta\)): er is wél een effect, maar je kan het niet vinden</li>
-  </ul>
-</details>
--->
-
-<!--
-- Het significantieniveau (\\(\alpha\\)) is de kans op een type I fout.
-- Het betrouwbaarheidsniveau (\\(1 - \alpha\\)) is de kans op *geen* type I fout.
-- De kans op een type II fout (\\(\beta\\)) is zielig en heeft geen naam :(
-- De power (\\(1 - \beta\\)) van een statistische toets is het vermogen een effect te vinden dat ook daadwerkelijk aanwezig is in de populatie.
--->
-
-<!--
 De hypotheses kunnen worden genoteerd in statistische vorm:
 
 | \\(H_0\\) | \\(\rho = 0\\) | \\(\mu_1 = \mu_2\\) |
@@ -709,6 +709,12 @@ De hypotheses kunnen worden genoteerd in statistische vorm:
 | \\(H_{A,eenzijdig}\\) | \\(\rho > 0\\) | \\(\mu_1 > \mu_2\\) |
 | \\(H_{A,eenzijdig}\\) | \\(\rho < 0\\) | \\(\mu_1 < \mu_2\\) |
 -->
+
+### Power
+
+De power (\\(1 - \beta\\)) van een statistische toets is het vermogen een effect te vinden dat ook daadwerkelijk aanwezig is in de populatie. De power is afhankelijk van een groot aantal factoren, en kan niet direct 'ingesteld' worden:
+
+Binnen de sociale wetenschappen streeft men voor een power van 80%.
 
 ### Overschrijdingskans
 
@@ -740,6 +746,8 @@ Het **significantieniveau** (\\(\alpha\\)) is de grenswaarde voor \\(p\\). Met a
 
 We noemen een resultaat statistisch **significant**, als \\(p < \alpha\\). Dat betekent dat we met enige zekerheid kunnen stellen dat het geen toevalsbevinding is.
 
+Binnen de sociale wetenschappen wordt over het algemeen \\(\alpha = .05\\) als norm aangehouden.
+
 ### Nauwkeurigheid
 
 Het effect dat terugkomt uit het onderzoek is een **puntschatting**, die bijna zeker afwijkt van de populatiewaarde. Echter, de populatiewaarde ligt hoogstwaarschijnlijk wel *in de buurt* van het gevonden effect.
@@ -748,6 +756,11 @@ Met een **betrouwbaarheidsinterval** kunnen we een schatting geven tussen welke 
 
 - **Het betrouwbaarheidsniveau** (\\(1 - \alpha\\)): hoe groter, hoe breder.
 - **De steekproefgrootte** (\\(n\\)): hoe groter, hoe smaller.
+- **De spreiding (standaarddeviatie)**: hoe kleiner, hoe smaller.
+
+![](betrouwbaarheidsinterval.png)
+
+Het midden van het interval is altijd de puntschatting, met twee 'voelsprieten' die de intervalbreedte aangeven. De breedte is gelijk aan ongeveer \\(\pm 2 \cdot \text{SE}\\), afhankelijk van het gekozen betrouwbaarheidsniveau.
 
 Bij een groter betrouwbaarheidsniveau is het interval breder, dus is de kans dat de populatiewaarde erin ligt ook groter. Echter, is een breder interval ook minder informatief.
 
@@ -760,6 +773,14 @@ Relevantie heeft betrekking op de grootte van een effect. Dat een effect signifi
 Om de grootte van een effect te duiden en effecten tussen onderzoeken te vergelijken, wordt gebruik gemaakt van Cohen's **effect size** (\\(d\\)).
 
 \\[d = \frac{M_1 - M_2}{SD}\\]
+
+Voor de interpretatie van effect sizes en correlaties geldt binnen de sociale wetenschappen:
+
+| \\(d\\) | \\(r\\) | interpretatie |
+|-----------|-------------|---------|
+| \\(0.2\\) | \\(0.1\\)   | klein   |
+| \\(0.5\\) | \\(0.3\\)   | matig   |
+| \\(0.8\\) | \\(0.5\\)   | sterk   |
 
 ### Stappenplan
 
@@ -795,6 +816,8 @@ Validiteit draait om de bruikbaarheid van resultaten. Er kan geen validiteit zij
 
 - **Externe validiteit**: zijn de meetresultaten te generaliseren worden naar een grotere populatie (inferentie)?
 
+  - **Ecologische validiteit**: mate van overeenkomst tussen de experimentele setting en de werkelijkheid.
+
 - **Begripsvaliditeit**: meet je wat je wil meten?
 
   - **Subjectief** (vooraf):
@@ -821,12 +844,9 @@ Validiteit draait om de bruikbaarheid van resultaten. Er kan geen validiteit zij
 
 - **Statistische validiteit**:
 
-  - **Significantie**: is de nulhypothese uitgesloten?
-
-  - **Relevantie**: XXX
-
-  - **Nauwkeurigheid**: XXX
-
+  - **Significantie**: is de nulhypothese uitgesloten (\\(p < \alpha\\))?
+  - **Relevantie**: is het effect groot of klein (Cohen's \\(d\\))?
+  - **Nauwkeurigheid**: hoe breed is het betrouwbaarheidsinterval?
   - **Geschiktheid**:
     - is de juiste statistische toets gekozen?
     - zijn de voorwaarden voor de toets niet geschonden?
