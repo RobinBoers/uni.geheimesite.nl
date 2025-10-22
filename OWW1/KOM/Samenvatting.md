@@ -67,6 +67,18 @@ Het onderzoek kan in één van twee categoriën vallen:
 
 Vooraf hebben onderzoekers een vermoeden van de onderzoeksuitkomsten op basis van de theorie. Deze voorspelling noemen we de hypothese.<!--We toetsen de hypothese, en dit leidt tot het versterken van vertrouwen in de theorie of het (deels) herzien van óf het onderzoeksontwerp, óf de theorie.--> De theorie moet **preregistered** (= vooraf vastgelegd) zijn.
 
+### Reproductie & replicatie
+
+**Reproductie** is het opnieuw uitvoeren van de data-analyse door een andere wetenschapper. **Replicatie** is het opnieuw uitvoeren van het volledige onderzoek. Reproductie zou *hetzelfde* resultaat moeten opleveren, replicatie en *vergelijkbaar* resultaat.
+
+Er zijn drie soorten:
+
+- **Directe replicatie**: bestaand onderzoek opnieuw uitgevoerd, blijft zo dicht mogelijk bij oorspronkelijk onderzoeksprotocol.
+- **Conceptuele replicatie**: een compleet nieuw onderzoek, dat hetzelfde theoretische begrip anders operationaliseert.
+- **Uitbreiding**: bestaand onderzoek wordt opnieuw uitgevoerd, maar er wordt ook een extra onderzoeksvraag beantwoord.
+
+In de praktijk is er echter vaker sprake van een mengvorm.
+
 # Kwalitatief onderzoek
 
 <!--In sociaal-wetenschappelijk onderzoek is vaak de context zeer relevant. Denk bijvoorbeeld aan culturele verschillen, motieven en interpersoonlijke relaties binnen de samenhang van de doelgroep.-->
@@ -942,4 +954,84 @@ Soms is misleiding door omission (verhullen) of comission (liegen) nodig. In dat
 
 Onderzoek wordt gepubliceerd in wetenschappelijke tijdschriften ('journals'), bedoeld voor onderzoekers, studenten etc. Maar omdat onderzoek zowel XXX, is het niet altijd even geschikt voor het publiek.
 
-Journalisme is een versimpeld nieuwsverslag  dat wetenschappelijk onderzoek voor iedereen toegankelijk maakt. Dit is positief, maar ook negatief. Journalisten doen **secondaire rapportage** van onderzoek, en kunnen oa. de studie misinterpreteren, verkeerd uitleggen of opdikken voor engagement en clicks.
+### Journalisme
+
+**Journalisme** is een versimpeld nieuwsverslag dat wetenschappelijk onderzoek voor iedereen toegankelijk maakt. Dit is positief, maar ook negatief. Journalisten doen **secondaire rapportage** van onderzoek, en kunnen oa. de studie misinterpreteren, verkeerd uitleggen of opdikken voor engagement en clicks.
+
+### Publication bias <small>(en file-drawer problem)</small>
+
+**Publication bias** is een vertekening in de wetenschap die ontstaat doordat (zeker vroeger), voornamelijk alleen significante resultaten gepubliceerd werden. Door de afwezigheid van **nulresultaten**, is er vertekening in de richting van grote effecten; dit geeft een rooskleuriger beeld dan de werkelijkheid.
+
+Het **file-drawer probleem** houdt in dat onderzoeken (letterlijk) in de la blijven liggen, omdat tijdschriften ze niet willen publiceren, of omdat de onderzoekers bij voorbaat al stoppen met het onderzoek als ze een niet-significant resultaat vinden.
+
+Het file-drawer probleem is dus de *oorzaak* van publication bias.
+
+## Open Science
+
+### <abbr title="Findable, Accessible, Interoperable, Reusable">FAIR</abbr>-principes
+
+XXX
+
+### Open access
+
+**Open access** houdt in dat er geen financiele, wettelijke of technische belemmeringen zijn om toegang tot onderzoek te krijgen. Artikelen zijn voor iedereen toegankelijk, zonder toegang tot de universiteitsbibliotheek nodig te hebben of te moeten betalen.
+
+Je herkent open access artikelen aan een open slotje.
+
+## Integriteit
+
+Als wetenschapper zijn er twee '**deadly sins**':
+
+- **Fabricage**: bewust data verzinnen of vervalsen.
+- **Plagiaat**: bewust het werk van anderen kopiëren en presenteren als je eigen.
+
+Er is een derde, iets minder erge 'sin':
+
+- **Falsifying**: het bewust niet rapporteren van bepaalde bevindingen, data aanpassen (of 'corrigeren'), of het bewust foutief interpreteren van data.
+
+### Gedragscode
+
+De universiteiten in Nederland hebben gezamelijk een gedragscode voor wetenschappelijke integriteit opgesteld. Daarin staan 5 principes centraal:
+
+- **Eerlijkheid**: geen ongefundeerde claims, onderzoek correct rapporteren, niks verzinnen, alternatieve verklaringen serieus nemen, open zijn over onzekerheidsmarges, resultaten niet gunstiger of ongunstiger vooroen dan ze zijn.
+
+- **Zorgvuldigheid**: wetenschappelijke methode gebruiken, nauwkeurig/accuraat zijn tijdens meten, analyse, interpretatie en verslaglegging; slordigheidsfouten voorkomen.
+
+- **Transparantie**: open zijn over hoe het onderzoek is uitgevoerd, welke data gebruikt is, welke keuzes gemaakt zijn, en wie (eventueel extern) belanghebbend was.
+
+- **Onafhankelijkheid** (en onpartijdigheid): bij de uitvoering<!--(dataverzameling, -analyse en interpretatie)--> mogen onderzoekers zich niet laten leiden door niet-wetenschappelijke (bijv. politiek of commercieël) overwegingen; onafhankelijkheid is niet vereist voor het kiezen van een onderwerp of onderzoeksvraag.
+
+- **Verantwoordelijkheid**: onderzoek vindt niet in isolatie plaats; rekening houden met betrokken mensen of dieren, de omgeving, opdrachtgevers, samenleving; onderzoek moet ook maatschappelijk of wetenschappelijk relevant zijn.
+
+Als een onderzoeker opzettelijk fouten maakt is de **eerlijkheid** in het geding. Als een onderzoeker onbewust fouten maakt, is de **zorgvuldigheid** in het geding.
+
+### Questionable research practices (QRP)
+
+Er is vanuit de academische wereld druk op onderzoekers om te publiceren. Als je niet (genoeg) publiceert, kan je geen carrière maken.
+
+Er is bekend dat significante resultaten makkelijker gepubliceerd worden. Hierdoor kunnen onderzoekers nog wel eens, al dan niet onbewust, 'valsspelen' om een significant resultaat te krijgen. We noemen dit **questionable research practices**. Bijvoorbeeld:
+
+- **\\(p\\)-hacking**: een \\(p\\)-waarde nét significant te maken, door bijvoorbeeld:
+  - Uitschieters verwijderen
+  - Stiekem nog extra deelnemers toevoegen
+  - Andere analyse uitvoeren dan gepland<br><br>
+
+- **<abbr title="Hypothesizing After Results are Known">HARK</abbr>-ing**: ongeplande analyses blijven uitvoeren tot er ergens een significante effect wordt gevonden.
+
+  > Data doorzoeken voor patronen of verbanden is niet per definitie fout, zolang je daar transparant over bent. We noemen dit dan **exploratief** onderzoek.
+  >
+  > Het is vooral fout als je doet alsof dit exploratief gevonden resultaat, het resultaat is van **conformatief** onderzoek (waarin een hypothese getoetst wordt).
+
+### Oplossingen
+
+- **Replicatie**: door replicatie op te nemen als vast deel van de onderzoekscyclys, hebben we meer zekerheid in resultaten, en is het moeilijker om te frauderen.
+
+- **Retractie**: een artikel dat achteraf fout, vervalst, gefabriceerd of geplagieerd blijkt te zijn, kan door de auteurs, de universiteit, of het tijdschrift, wordt teruggetrokken.
+
+  Dit is het **zelf-corrigerend vermogen** van wetenschap. Echter, leidt het wel tot reputatieschade voor de onderzoeker, de universiteit, het tijdschrift, en de wetenschap in het algemeen. Ook zit er vaak lange tijd tussen publicatie en retractie, waarin (afhankelijk van de aard van het onderzoek), al schade gedaan zou kunnen zijn.
+
+- **Pre-registratie**: vooraf aan de dataverzameling, dient de onderzoeker de onderzoeks&shy;vraag, hypothese, en het onderzoeksprotocol openbaar in.<!--Dit maakt frauderen een actieve handeling, waardoor het minder gebeurt.-->
+
+  Tijdschriften kunnen ook beloven het onderzoek te publiceren, ongeacht de resultaten; hierdoor voorkomen we publication bias.
+
+- **<abbr title="Post-Publication Peer Review">PPPR</abbr>**: na de publicatie van het onderzoek kunnen vragen worden gesteld aan de auteurs op publieke discussieplatforms, door bijvoorbeeld redacteuren of collega's. 
