@@ -17,16 +17,16 @@ Er zijn drie soorten bronnen:
 Wetenschappelijk onderzoek gaat uit van **empirisme**: observaties op basis van de zintuigen of instrumenten (thermometer, timer, fotografie, weegschaal, survey). Het is:
 
 - **Systematisch**: gebaseerd op herhaalde, consistente waarnemingen.
-- **Controleerbaar**: repliceerbaar en gereviewed door een anonieme, onafhankelijke collega.
+- **Controleerbaar**: repliceerbaar en gereviewed door anonieme, onafhankelijke collega's.
 - **Probabilistisch**: houdt rekening met onzekerheid in de resultaten.
 
-Wetenschappelijk onderzoek *ondersteund* een theorie, maar *bewijst* nooit iets. Daarvoor moet *alles* geobserveerd zijn en dat is onmogelijk. Het doet uitspraak in onzekerheden (kans, risico etc.) en probeert vervolgens de onzekerheid zo klein mogelijk te maken.
+Wetenschappelijk onderzoek *ondersteunt* een theorie, maar *bewijst* nooit iets. Daarvoor moet *alles* geobserveerd zijn en dat is onmogelijk. Het doet uitspraak in onzekerheden (kans, risico etc.) en probeert vervolgens de onzekerheid zo klein mogelijk te maken.
 
 ### Theorie
 
 De werkelijkheid bestaat en is complex. Een theorie is een set aan statements/claims/veronderstellingen dat een (versimpeld) model geeft om de werkelijkheid te interpreteren, voorspellen, of manipuleren.
 
-Een goede theorie heeft XXX kenmerken:
+Een goede theorie heeft twee kenmerken:
 
 - **Falsifiseerbaar**: kan worden weerlegt aan de hand van tegenstrijdig bewijs.
 - **Spaarzaam** (parsimonious): een eenvoudige theorie die volstaat is beter dan een complexere theorie.
@@ -352,7 +352,7 @@ Datamanagement is belangrijk voor de transparantie, controleerbaarheid, en repro
 
 Na het verzamelen heeft de onderzoeker een hele hoop ongestructureerde data. De eerste stap is orde brengen in deze data (digitaliseren, transcriberen etc.) Dit kost gemiddeld acht uur per uur verzameld materiaal.
 
-Deze stap kunnen we outsourcen, als we dit zelf doen kunnen we gelijk "de data leren kennen."
+Deze stap kunnen we outsourcen, maar als we dit zelf doen kunnen we gelijk "de data leren kennen."
 Tijdens transcriberen kan je al patronen vinden, fragmenten samenvatten en belangrijke informatie highlighten of bookmarken. 
 
 ### Coderen
@@ -379,10 +379,10 @@ De grootste challenges tijdens het coderen zijn:
 
 #### Qualitative comparitive analysis (QCA)
 
-Deze aanpak toont causaliteit aan door het isoleren van variabelen over cases heen en te zoeken naar patronen. Er is sprake van een mogelijk causaal verband bij de volgende condities:
+Deze aanpak stelt causaliteit aan te tonen door het isoleren van variabelen over cases heen en te zoeken naar patronen. Er is sprake van een mogelijk causaal verband bij de volgende condities:
 
-- **Necessary**: komt B *alleen* voor als A ook voorkomt? (is A *nodig* om B te krijgen?)
-- **Sufficient**: komt B *altijd* voor als A ook voorkomt? (is A *genoeg* om B te krijgen?)
+- **Necessary**: komt B *alleen* voor als A ook voorkomt?<!-- komt B niet los voor?--> (is A *nodig* om B te krijgen?)
+- **Sufficient**: komt B *altijd* voor als A ook voorkomt?<!-- komt A niet los voor?--> (is A *genoeg* om B te krijgen?)
 
 Grote range aan cases nodig, zowel positief (B kwam wel voor) als negatief (B kwam niet voor). Je vat alle cases samen in een **truth table**, waarin per case alle variabelen staan.
 
@@ -394,7 +394,7 @@ Echter: kan niet het mechanisme (de 'waarom?') van de causaliteit uitleggen, en 
 
 Deze aanpak stelt dat kwalitatief onderzoek geen causaliteit kan aantonen (daar is ander onderzoek voor nodig), maar wel het onderliggende mechanisme (de 'waarom?') van een eerder aangetoond causaal verband kan uitleggen. Aan de hand van de volgende vragen:
 
-- Wat doen mensen? wat is hun doel?
+- Wat doen mensen? Wat is hun doel?
 - Hoe doen ze het? Welke technieken/strategiën gebruiken ze?
 - Hoe begrijpen/praten mensen over hun eigen situatie?
 - Welke veronderstellingen maken mensen?
@@ -555,6 +555,11 @@ Een **quasi-experiment** is een experiment waarbij (wegens omstandigheden), de g
 - **Explicite selectie** op basis van persoonskenmerken
 - **Willekeurige toewijzing** (aka randomisatie)
 -->
+
+### Matching
+
+Als er één kenmerk is waarvan je 100% zeker wil zijn dat deze gelijk verdeeld is tussen de groepen, kun je gebruik maken van **matching**. Je maakt dan een rangorde van scores op dat kenmerk, maakt tweetallen van ongeveer gelijke waardes, en wijst ze willekeurig toe aan een groep.
+
 
 # Statistiek
 
@@ -971,18 +976,6 @@ Journalisme is een versimpeld nieuwsverslag dat wetenschappelijk onderzoek voor 
 Het **file-drawer probleem** houdt in dat onderzoeken (letterlijk) in de la blijven liggen, omdat tijdschriften ze niet willen publiceren, of omdat de onderzoekers bij voorbaat al stoppen met het onderzoek als ze een niet-significant resultaat vinden.
 
 Het file-drawer probleem is dus de *oorzaak* van publication bias.
-
-### LeesPLAN
-
-Om artikelen kritisch te beoordelen, kan je het PLAN acroniem gebruiken:
-
-- **Preview**: wat is de impactfactor van het tijdschrift? wie zijn de auteurs? in welk jaar is het gepubliceerd? wat zegt de titel over het onderwerp? scan de abstract, inhoud, keywords en kopjes.
-
-- Lezen
-
-- Analyseren
-
-- Nabeschouwen
 
 ## Open Science
 
