@@ -56,28 +56,21 @@ Een onderzoeksvraag is het startpunt van wetenschappelijk onderzoek en stelt vra
   <li style="opacity: 0.3"><b>Translation</b>: tussenvorm die we niet hoeven te kennen maar wel voorkomt in literatuur.</li>
 </ul>
 
-### Onderzoeksontwerp
-
-Het onderzoek kan in één van twee categoriën vallen:
-
-- **Kwantitatief**: cijfermatig (correlationeel of experimenteel)
-- **Kwalitatief**: niet-cijfermatig.
-
 ### Onderzoekshypothese
 
-Vooraf hebben onderzoekers een vermoeden van de onderzoeksuitkomsten op basis van de theorie. Deze voorspelling noemen we de hypothese.<!--We toetsen de hypothese, en dit leidt tot het versterken van vertrouwen in de theorie of het (deels) herzien van óf het onderzoeksontwerp, óf de theorie.--> De theorie moet **preregistered** (= vooraf vastgelegd) zijn.
+Vooraf hebben onderzoekers een vermoeden van de onderzoeksuitkomsten op basis van de theorie. Deze voorspelling noemen we de **theoretische verwachting**.
 
-### Reproductie & replicatie
+Na het operationaliseren (komt later), ontstaat een stelling die getoetst kan worden. Dit noemen we de **hypothese**.<!--We toetsen de hypothese, en dit leidt tot het versterken van vertrouwen in de theorie of het (deels) herzien van óf het onderzoeksontwerp, óf de theorie.--> Hij moet **preregistered** (vooraf vastgelegd) zijn.
 
-**Reproductie** is het opnieuw uitvoeren van de data-analyse door een andere wetenschapper. **Replicatie** is het opnieuw uitvoeren van het volledige onderzoek. Reproductie zou *hetzelfde* resultaat moeten opleveren, replicatie en *vergelijkbaar* resultaat.
+### Biases
 
-Er zijn drie soorten:
+- **Availability heuristic**: we overschatten de frequentie van dingen die *available* zijn: zaken die recent gebeurd zijn, vers in ons geheugen zitten, of ons opvallen.
 
-- **Directe replicatie**: bestaand onderzoek opnieuw uitgevoerd, blijft zo dicht mogelijk bij oorspronkelijk onderzoeksprotocol.
-- **Conceptuele replicatie**: een compleet nieuw onderzoek, dat hetzelfde theoretische begrip anders operationaliseert.
-- **Uitbreiding**: bestaand onderzoek wordt opnieuw uitgevoerd, maar er wordt ook een extra onderzoeksvraag beantwoord.
+- **Present/present bias**: we kijken altijd naar *aanwezigheid* van effecten, en vergeten aandacht te geven aan de *afwezigheid* van effecten; hieronder valt ook conclusies trekken zonder controlegroep.
 
-In de praktijk is er echter vaker sprake van een mengvorm.
+- **Confirmation bias**: we selecteren (al dan niet onbewust) voornamelijk bewijs dat onze ideeën ondersteund; we vergeten te zoeken naar tegenstrijdig bewijs of alternatieve verklaringen, we lezen er sneller overheen, of negeren het als we ze tegenkomen.
+
+- **Bias blind spot**: denken dat we geen bias hebben; we gaan er standaard vanuit dat onze eigen ideeën kloppen, en dat bias vooral op anderen van toepassing is.<!--Dit is gevaarlijk omdat we hierdoor nóg meer gaan vertrouwen op onze *biased* redeneringen.-->
 
 # Kwalitatief onderzoek
 
@@ -425,7 +418,7 @@ Een model is een visueel inzichtelijke representatie van de conclusie, waarin al
 <details>
 <summary>Om zeker te zijn van de conclusie</summary>
 <ul>
-<li>nul-hypothese uitgesloten</li>
+<li>nulhypothese uitgesloten</li>
 <li>sterke basis in emperische gegevens</li>
 <li>geen onverklaarbare uitschieters</li>
 <li>geen afwijkende data weggooien</li>
@@ -956,7 +949,7 @@ Onderzoek wordt gepubliceerd in wetenschappelijke tijdschriften ('journals'), be
 
 ### Journalisme
 
-**Journalisme** is een versimpeld nieuwsverslag dat wetenschappelijk onderzoek voor iedereen toegankelijk maakt. Dit is positief, maar ook negatief. Journalisten doen **secondaire rapportage** van onderzoek, en kunnen oa. de studie misinterpreteren, verkeerd uitleggen of opdikken voor engagement en clicks.
+Journalisme is een versimpeld nieuwsverslag dat wetenschappelijk onderzoek voor iedereen toegankelijk maakt. Dit is positief, maar ook negatief. Journalisten doen **secondaire rapportage** van onderzoek, en kunnen oa. de studie misinterpreteren, verkeerd uitleggen of opdikken voor engagement en clicks.
 
 ### Publication bias <small>(en file-drawer problem)</small>
 
@@ -970,11 +963,17 @@ Het file-drawer probleem is dus de *oorzaak* van publication bias.
 
 ### <abbr title="Findable, Accessible, Interoperable, Reusable">FAIR</abbr>-principes
 
-XXX
+- **Findable**: maak je artikel vindbaar door een abstract, keywords, metadata, DOI, etc.
+
+- **Accessible**: data moet toegankelijk zijn voor andere onderzoekers; voor gevoelige informatie moet een data management plan opgesteld worden.
+
+- **Interoperable**: data moet worden opgeslagen in een open bestandsformaat (ondersteund door open-source software) zodat het in de toekomst niet onbruikbaar is.
+
+- **Reusable**: data moet een licentie hebben die hergebruik voor andere onderzoeks&shy;doeleinden toestaat; open publiceren met [Creative Commons](//creativecommons.org) of met restricties via een **data transfer agreement**.
 
 ### Open access
 
-**Open access** houdt in dat er geen financiele, wettelijke of technische belemmeringen zijn om toegang tot onderzoek te krijgen. Artikelen zijn voor iedereen toegankelijk, zonder toegang tot de universiteitsbibliotheek nodig te hebben of te moeten betalen.
+Open access houdt in dat er geen financiele, wettelijke of technische belemmeringen zijn om toegang tot onderzoek te krijgen. Artikelen zijn voor iedereen toegankelijk, zonder toegang tot de universiteitsbibliotheek nodig te hebben of te moeten betalen.
 
 Je herkent open access artikelen aan een open slotje.
 
@@ -1003,7 +1002,7 @@ De universiteiten in Nederland hebben gezamelijk een gedragscode voor wetenschap
 
 - **Verantwoordelijkheid**: onderzoek vindt niet in isolatie plaats; rekening houden met betrokken mensen of dieren, de omgeving, opdrachtgevers, samenleving; onderzoek moet ook maatschappelijk of wetenschappelijk relevant zijn.
 
-Als een onderzoeker opzettelijk fouten maakt is de **eerlijkheid** in het geding. Als een onderzoeker onbewust fouten maakt, is de **zorgvuldigheid** in het geding.
+> Als een onderzoeker opzettelijk fouten maakt is de **eerlijkheid** in het geding. Als een onderzoeker onbewust fouten maakt, is de **zorgvuldigheid** in het geding.
 
 ### Questionable research practices (QRP)
 
@@ -1020,7 +1019,21 @@ Er is bekend dat significante resultaten makkelijker gepubliceerd worden. Hierdo
 
   > Data doorzoeken voor patronen of verbanden is niet per definitie fout, zolang je daar transparant over bent. We noemen dit dan **exploratief** onderzoek.
   >
-  > Het is vooral fout als je doet alsof dit exploratief gevonden resultaat, het resultaat is van **conformatief** onderzoek (waarin een hypothese getoetst wordt).
+  > Het is vooral fout als je doet alsof dit exploratief gevonden resultaat, het resultaat van **conformatief** onderzoek is (waarin een hypothese getoetst wordt).
+
+### Reproductie & replicatie
+
+- **Reproductie**: opnieuw uitvoeren van de data-analyse (door een andere wetenschapper).
+- **Replicatie**: opnieuw uitvoeren van het volledige onderzoek.
+
+Reproductie zou *hetzelfde* resultaat moeten opleveren, replicatie en *vergelijkbaar* resultaat. Er zijn drie soorten replicatie:
+
+- **Directe replicatie**: bestaand onderzoek exact herhaald; blijft zo dicht mogelijk bij het oorspronkelijk onderzoeksprotocol.
+- **Conceptuele replicatie**: een compleet nieuw onderzoek, dat hetzelfde theoretische begrip op een andere manier operationaliseert.
+- **Uitbreiding** (direct + conceptueel): bestaand onderzoek wordt opnieuw uitgevoerd, maar wordt ook uitgebereidt zodat het een extra onderzoeksvraag beantwoordt.
+
+In de praktijk is er echter vaak sprake van een mengvorm.
+
 
 ### Oplossingen
 
@@ -1035,3 +1048,5 @@ Er is bekend dat significante resultaten makkelijker gepubliceerd worden. Hierdo
   Tijdschriften kunnen ook beloven het onderzoek te publiceren, ongeacht de resultaten; hierdoor voorkomen we publication bias.
 
 - **<abbr title="Post-Publication Peer Review">PPPR</abbr>**: na de publicatie van het onderzoek kunnen vragen worden gesteld aan de auteurs op publieke discussieplatforms, door bijvoorbeeld redacteuren of collega's. 
+
+  Dit vergroot de transparantie en verantwoordelijkheid, omdat onderzoekers niet zomaar kunnen 'weglopen' na het onderzoek.
