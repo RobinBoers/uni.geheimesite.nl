@@ -558,6 +558,10 @@ Een **quasi-experiment** is een experiment waarbij (wegens omstandigheden), de g
 
 # Statistiek
 
+- **Beschrijvende statistiek** vat een grote dataset samen aan de hand van centrummaten, plots, of andere visualisaties.
+
+- **Inferentiële statistiek** generaliseert op basis van een steekproef resultaten naar een grotere populatie.
+
 ## Voorkennis
 
 ### Centrummaten
@@ -968,6 +972,18 @@ Het **file-drawer probleem** houdt in dat onderzoeken (letterlijk) in de la blij
 
 Het file-drawer probleem is dus de *oorzaak* van publication bias.
 
+### LeesPLAN
+
+Om artikelen kritisch te beoordelen, kan je het PLAN acroniem gebruiken:
+
+- **Preview**: wat is de impactfactor van het tijdschrift? wie zijn de auteurs? in welk jaar is het gepubliceerd? wat zegt de titel over het onderwerp? scan de abstract, inhoud, keywords en kopjes.
+
+- Lezen
+
+- Analyseren
+
+- Nabeschouwen
+
 ## Open Science
 
 ### <abbr title="Findable, Accessible, Interoperable, Reusable">FAIR</abbr>-principes
@@ -1042,7 +1058,6 @@ Reproductie zou *hetzelfde* resultaat moeten opleveren, replicatie en *vergelijk
 - **Uitbreiding** (direct + conceptueel): bestaand onderzoek wordt opnieuw uitgevoerd, maar wordt ook uitgebereidt zodat het een extra onderzoeksvraag beantwoordt.
 
 In de praktijk is er echter vaak sprake van een mengvorm.
-
 
 ### Oplossingen
 
