@@ -442,7 +442,9 @@ flowchart LR
     A[construct] --> B[conceptuele definitie] --> C[operationele definitie] --> D[variabele]
 ```
 
-<!--Na het **operationaliseren** is het **construct** veranderd in een meetbare **variabele**.-->
+<!-- Na het operationaliseren is het **construct** veranderd in een meetbare **variabele**. -->
+
+> Operationaliseren is een werkveld op zich; je kan een hele studie schrijven over het ontwikkelen van een meetinstrument. Daarom worden in de meeste onderzoeken bestaande meetinstrumenten gebruikt voor het operationaliseren.
 
 ## CAPS
 
@@ -503,6 +505,8 @@ In correlationeel onderzoek meet de samenhang in natuurlijke variatie van variab
 - **Afhankelijke variabele**: wordt gemeten.
 
 In een experiment kan je causaliteit aantonen. Er is invloed op volgorde van meten, en daarmee **temporal precedence**. De resultaten worden verzameld in een gecontrolleerde omgeving, waarin alle andere variabele zoveel mogelijk constant gehouden kunnen worden, wat zorgt voor hoge **interne validiteit**.
+
+Om te controlleren of de manipulatie wel het gewenste effect heeft, kan de onderzoeker voorafgaand aan de dataverzameling een **manipulation check** doen, bijvoorbeeld door een variabele te meten waarvan bekend is dat deze afhankelijk is van de gemanipuleerde variabele.
 
 ## PICO
 
@@ -601,7 +605,12 @@ De 'snorharen' laten het bereik (hoogste en laagste waarde) van de data zien. Ev
 
 <!--De laatste drie zijn kwantitatief: uitgedrukt in getallen. Nominaal meetniveau is categorisch: uitgedrukt in woorden.-->
 
-Ondanks de naam meet de **Likert-schaal** (zeer eens, eens, neutraal, oneens, zeer oneens) op *ordinaal* meetniveau. Echter, als uit deze scores een **schaalscore** wordt berekend, is die wel op *interval* meetniveau.
+> Ondanks de naam meet de **Likert-schaal** (zeer eens, eens, neutraal, oneens, zeer oneens) op *ordinaal* meetniveau. Echter, als uit deze scores een **schaalscore** wordt berekend, is die wel op *interval* meetniveau.
+
+<details>
+  <summary>Ompolen</summary>
+  Bij een Likert-schaal is soms <strong>ompolen</strong> nodig. Dat houdt in dat de stellingen in de vragenlijst afwisselend positief/negatief geformuleerd zijn. Door ompolen zorg je ervoor dat alle schaalscores dezelfde richting hebben.
+</details>
 
 ## Statistische toetsen
 
