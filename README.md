@@ -32,5 +32,5 @@ Dit is een kopie van mijn [originele site](//school.geheimesite.nl), maar dan vo
 
 ## OWW1
 
-- [Inleiding in de onderwijswetenschappen](/OWW1/IOWW/Samenvatting)
-- [Kennismaking met onderzoeksmethoden en statistiek](/OWW1/KOM/Samenvatting)
+- [Inleiding in de onderwijswetenschappen](/OWW1/IOWW/Samenvatting.md)
+- [Kennismaking met onderzoeksmethoden en statistiek](/OWW1/KOM/Samenvatting.md)
