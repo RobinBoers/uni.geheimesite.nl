@@ -484,13 +484,13 @@ Het curriculum is een plan ter ondersteuning van het leren, bestaand uit doelen,
 
 Wat lerenden uiteindelijk aangeboden krijgen staat soms ver wat oorspronkelijk beoogd was:
 
-- **Ideaal curriculum**: het hypotetisch meest optimale curriculum
-- **Bedoelde curriculum**: het curriculum zoals bedoeld door de opdrachtgevers
-- **Formele curriculum**: het curriculum zoals ontworpen door ontwikkelaars<!--in opdracht van de opdrachtgevers-->
-- **Ervaren curriculum**: opvatting/herinterpretatie van de instructieverantwoordelijke
-- **Operationele curriculum**: het curriculum zoals weerspiegeld in de leeractiviteiten
-- **Bereikt curriculum**: wat er uiteindelijk door de lerenden is geleerd
-- **Getoetste curriculum**: deel dat uiteindelijk expliciet getoetst wordt door evaluatie
+- **Ideaal curriculum**: het hypotetisch meest optimale curriculum.
+- **Bedoelde curriculum**: het curriculum zoals bedoeld door de opdrachtgevers.
+- **Formele curriculum**: het curriculum zoals ontworpen door ontwikkelaars<!--in opdracht van de opdrachtgevers-->.
+- **Ervaren curriculum**: opvatting/herinterpretatie van de instructieverantwoordelijke.
+- **Operationele curriculum**: het curriculum zoals weerspiegeld in de leeractiviteiten.
+- **Bereikt curriculum**: wat er uiteindelijk door de lerenden is geleerd.
+- **Getoetste curriculum**: deel dat uiteindelijk expliciet getoetst wordt door evaluatie.
 
 Daarnaast is er ook nog sprake van **impliciet curriculum**, bestaand uit:
 
@@ -500,9 +500,9 @@ Daarnaast is er ook nog sprake van **impliciet curriculum**, bestaand uit:
 
 - **Hidden curriculum**: indirecte en verborgen socialisatie, waaronder drie vormen te onderscheiden zijn:
 
-  - hoe gaan lerenden om met beperkte aandacht in de klascontext?
-  - hoe gaan lerenden met elkaar en de doecent om?
-  - hoe gaan lerenden om met ongelijke machtsverhouding tussen hen en de docent?
+  - Hoe gaan lerenden om met beperkte aandacht in de klascontext?
+  - Hoe gaan lerenden met elkaar en de docent om (in termen van loyaliteit)?
+  - Hoe gaan lerenden om met ongelijke machtsverhouding tussen hen en de docent?
 
 ### Instructional design
 
@@ -650,6 +650,23 @@ De functies van het onderwijs hoeven elkaar niet uit te sluiten, maar soms ontst
 
 - **Optimalisatie vs gelijke kansen**: de differentiatie in ons onderwijssysteem is te vroeg en wordt vaak ook nog eens beinvloed door achtergrondkenmerken, en leidt daardoor tot grotere kansenongelijkheid.
 
+### Sociale ongelijkheid
+
+Er zijn twee indicatoren van sociale ongelijkheid (afhankelijke variabelen):
+
+- De **spreiding** van toetsscores in internationale metingen (PISA, TIMMS, PIRLS).
+- De mate waarin **achtergrondkenmerken** voorspellend zijn voor schoolprestaties.
+
+De verschillende functies en kenmerken (onafhankelijke variabelen) van onderwijs kunnen sociale ongelijkheid verminderen of juist in stand houden:
+
+- **Kwalificatie** (en meritocratie): er wordt alleen gekeken naar je capaciteiten en verdiensten. De best opgeleiden 'verdienen' op basis van hun waarde de beste positie. Hierdoor neemt sociale ongelijkheid af.
+
+- **Socialisatie**: je komt in aanraking met andere achtergronden en krijgt toegang tot andere netwerken. Daardoor neemt sociale ongelijkheid af.
+
+- **Differentiatie**: de selectie is vaak niet volledig op basis van prestaties, maar achtergrond&shy;kenmerken spelen ook mee (over- of onderadvies). Daarnaast is het vaak te vroeg, en is het later moeilijk om te switchen van stroming. Dit houdt sociale ongelijkheid in stand.
+
+- **Standaardisatie**: standaardisatie van curriculum, examens, budget, en personeel zorgt ervoor dat middelen eerlijk over scholen en leerlingen worden verdeeld. Hierdoor neemt sociale ongelijkheid af.
+
 ### Rol van de overheid
 
 De overheid is verantwoordelijk voor twee zaken:
@@ -658,7 +675,7 @@ De overheid is verantwoordelijk voor twee zaken:
   - Regelgeving omtrent bekwaamheden docenten
   - Controle van de Onderwijsinspectie
   - Kerndoelen, eindtermen en kwaliteit examens
-  <!-- ^doelen gaan alleen over 'wat', niet over 'hoe'; daar is, dankzij vrijheid van onderwijs, de school vrij in om zelf over te beslissen. -->
+  <!-- ^doelen gaan alleen over 'wat', niet over 'hoe'; daar is, dankzij vrijheid van onderwijs, de school vrij in om zelf over te beslissen. --><br><br>
 
 - **Garanderen van toegankelijkheid**, door:
   - Financiering door de basisbeurs of het leenstelsel
