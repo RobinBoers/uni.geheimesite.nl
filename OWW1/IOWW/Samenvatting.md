@@ -45,10 +45,7 @@ In het onderwijs staat het primaire leer- en instructieproces centraal. Dit word
 - **Didactisch handelen** (of instructieactiviteiten): beslissingen die de instructieverantwoordelijken (of andere actoren) maken om leeractiviteiten uit te lokken bij leerlingen.
 
 <details open>
-  <summary>Didactisch handelen</summary>
-
-  <p>Kan verder worden ondergebracht in vijf onderdelen:</p>
-
+  <summary>Aspecten van didactisch handelen</summary>
   <ul>
     <li><strong>Leerdoelen</strong>: wat wil je bereiken en hoe meet je dit?</li>
     <li><strong>Lesstof</strong> (of curriculum): wat wordt er inhoudelijk geleerd?</li>
@@ -59,9 +56,7 @@ In het onderwijs staat het primaire leer- en instructieproces centraal. Dit word
 </details>
 
 <details open>
-  <summary>Leeractiviteiten</summary>
-
-  Er zijn drie soorten leeractiviteiten:
+  <summary>Types leeractiviteiten</summary>
   <ul>
     <li><b>Cognitief</b>: structureren, analyseren, relateren, reproduceren, toepassen etc.</li>
     <li><b>Metacognitief</b>: oriënteren, plannen, bijsturen, etc.</li>
@@ -132,22 +127,21 @@ Negatieve effect sizes ('reverse effects') worden altijd als relevant beschouwd.
 
 Het is belangrijk te blijven realiseren dat een effect size een *gemiddelde* is, dat niet per defintie in elke willekeurige context kan worden toegepast.
 
-<!--
 ## Leertheoriën
 
 Er zijn drie perspectieven op hoe mensen leren.
 
-> Het is goed om te beseffen dat deze theoriën *geen wetmatigheden* zijn, en dus *niet universeel gelden*. In de onderwijswetenschappen geldt: niet alles werkt, en niets werkt altijd.
+> Het is goed om te beseffen dat deze theoriën *descriptief* zijn: het zijn generalisaties van observaties, *geen wetmatigheden* die universeel gelden. In de onderwijswetenschappen geldt: niet alles werkt, en niets werkt altijd.
 
-Instructional design is het raakvlak tussen de leerheoriën en de praktijk.-->
+**Instructional design** is het raakvlak tussen de leerheoriën en de praktijk.
 
 <!-- Één van de belangrijkste doelstellingen van het leerproces is **transfer**. Transfer is de mogelijkheid om het geleerde in een nieuwe situatie of context toe te kunnen passen. Om transfer te bewerkstelligen hebben we drie leerhtheoriën. -->
 
-## Behaviorisme
+<h3 style="font-size: 1.4em">Behaviorisme</h3>
 
 Behaviorisme is een gedrags-georienteerd perspectief op leren. <!--Het wordt daarom ook wel een 'black box' theorie genoemd: het gaat ervanuit dat we geen inzicht hebben in wat er in het brein gebeurd; we kunnen alleen het uitkomstige gedrag observeren.--> Leren is een vorm van gedragsverandering, die kan worden bewerkstelligt door **conditionering**.
 
-### Klassieke conditionering
+<h4 style="font-size: 1.1em; margin: 1em 0">Klassieke conditionering</h4>
 
 Klassieke conditionering is gebaseerd op Pavlov's onderzoek naar reflexen. Een reflex is een instinctieve reactie op bepaalde prikkels. Die prikkels noemen we de **stimulus**, en de reactie een **response**.
 
@@ -155,13 +149,13 @@ Door **associatie** op te bouwen tussen de stimulus die van nature de response o
 
 ![](conditionering.png)
 
-Een voormalig neutrale stimulus die door conditionering de response ook opwekt noemen we **geconditioneerd**. De stimulus dit van nature doet noemen we **ongeconditioneerd**.
+Een voormalig neutrale stimulus die door conditionering ook de response opwekt noemen we **geconditioneerd**. De stimulus dit van nature doet noemen we **ongeconditioneerd**.
 
 <!--Als een geconditoneerde response voor lange tijd niet 'gebruikt' wordt, kan deze **uitdoven**. De geconditoneerde stimulus wordt dan weer neutraal.-->
 
 Omdat de response een bestaand reflex moet zijn, is klassieke conditionering moeilijk toe te passen in de onderwijspraktijk, waar veelal nieuwe dingen moeten worden geleerd.
 
-### Operante conditionering
+<h4 style="font-size: 1.1em; margin: 1em 0">Operante conditionering</h4>
 
 Operante conditionering is gebaseerd op Skinner's onderzoek naar het **bekrachtigen** van gedrag. Het idee is dat door positieve of negatieve prikkels met gedrag te associëren, de frequentie van gewenst of juist ongewenst gedrag kan worden beïnvloed.
 
@@ -178,7 +172,7 @@ Bij reinforcement moedig je gewenst gedrag aan door te belonen. Bij punishment m
 </details>
 -->
 
-Op de lange termijn is reinforcement een effectievere manier om gedragsverandering te bewerkstelligen. Met andere woorden: als je stopt met belonen blijven leerlingen positief gedrag vertonen, maar als je stopt met straffen vallen mensen snel terug op negatief gedrag.
+Op de lange termijn is reinforcement een effectievere manier om gedragsverandering te bewerkstelligen. Met andere woorden: als je stopt met belonen blijven leerlingen gewenst gedrag vertonen, maar als je stopt met straffen vallen mensen snel terug op ongewenst gedrag.
 
 <details open>
   <summary>Concreet voorbeeld</summary>
@@ -201,13 +195,19 @@ Op de lange termijn is reinforcement een effectievere manier om gedragsveranderi
   </table>
 </details>
 
-## Cognitivisme
+Een toepassing van operante conditionering in het onderwijs is de **token economy**, waarbij leerlingen kleine belongingen krijgen bij goed gedrag, en de frequentie van beloningen steeds minder wordt.
+
+<h3 style="font-size: 1.4em">Cognitivisme</h3>
 
 Het cognitivisme (of cognitieve psychologie) legt de nadruk op wat er in je hoofd gebeurt, en stelt dat leren het verwerken van informatie is.
 
-Het actief verwerken van informatie gebeurt in het **werkgeheugen**. Dit werkgeheugen heeft een beperkte capaciteit van 5 tot 9 elementen of 'chunks' (afhankelijk van de persoon).
+**Sensorische input** (stimuli) wordt eerst kort opgeslagen in het **sensorisch geheugen**. Door middel van **aandacht** (of 'selectieve perceptie') komt het vervolgens in het werkgeheugen.
+
+Het actief verwerken van informatie gebeurt in het **werkgeheugen**. Dit werkgeheugen heeft een beperkte capaciteit van 5 tot 9 (afhankelijk van de persoon) elementen of 'chunks'.
 
 Kennis wordt voor langere tijd opgeslagen in het **langetermijngeheugen**, dat voor zover we weten onbeperkt is. Echter, om kennis op te slaan in het langetermijngeheugen moet het eerst door het beperkte werkgeheugen, dat dus een soort 'flessenhals' is.
+
+Het opslaan van kennis noemen we **encoding**, informatie ophalen noemen we **retrieval**.
 
 **Cognitive load theory** stelt dat het werkgeheugen wordt 'belast' door:
 
@@ -226,7 +226,7 @@ Als het werkgeheugen wordt **overbelast** kan er geen nieuwe informatie in het l
   </ul>
 </details>
 
-### Geheugen & leerstrategiën
+<h4 style="font-size: 1.1em; margin: 1em 0">Geheugen & leerstrategiën</h4>
 
 **Chunking** is een manier om meer informatie tegelijk in het werkgeheugen vast te houden, door elementen te groeperen in chunks.
 
@@ -236,17 +236,17 @@ De **vergeetcurve** van Ebbinghaus visualiseert voor hoe lang informatie in het 
 
 Uit onderzoek blijkt ook dat gespreid leren ('spaced practise') effectiever is dan alles in één keer leren ('massed practise').
 
-Tenslotte kan informatie met 'trucjes' (mnemonics) worden onthouden. Dit doe je vooral zodat je de informatie later makkelijker weer *uit* je langetermijngeheugen kan vissen.
+Tenslotte kan informatie met 'trucjes' (mnemonics), zoals onder andere het *geheugenpaleis*, worden onthouden. Dit doe je vooral om retrieval makkelijker te maken.
 
-## Constructivisme
+<h3 style="font-size: 1.4em">Constructivisme</h3>
 
 Het constructivische perspectief is dat kennis een model (of constructie) van de werkelijkheid is, en dat iedereen dat model zelf construeert:
 
-- Kennis is **niet één-op-één overdraagbaar**, het is een constructief proces.
+- Kennis is **niet één-op-één overdraagbaar**, leren is een constructief proces.
 - Kennis is **contextgebonden**, dus moet plaatsvinden in betekenisvolle context.
 - Kennis is **een sociale constructie**, dus leren moet plaatsvinden in interactie met anderen.
 
-De lerende heeft binnen het constructivisme een *actieve rol* (door zelfstandigheid, zelfsturing, metacognitie). Daarnaast moet onderwijs realistisch zijn / koppeling met de praktijk hebben.
+De lerende heeft binnen het constructivisme een *actieve rol* (door zelfstandigheid, zelfsturing, metacognitie), de docent heeft vooral een *begeleidende rol*. Daarnaast moet onderwijs realistisch zijn / koppeling met de praktijk hebben; denk aan probleemgestuurd onderwijs, waarin gewerkt wordt met casussen.
 
 Binnen het constructivisme zijn twee stromingen te onderscheiden:
 
@@ -255,6 +255,8 @@ Binnen het constructivisme zijn twee stromingen te onderscheiden:
 - **Sociaal constructivisme** gaat in op leren in sociaal verband, de co-constructie van kennis, en de rol van de leeromgeving bij kennisconstructie.
 
 <!--In bepaalde opzichten kan constructivisme worden beschouwd meer als een filosofische theorie van kennis, dan een onderwijskundige leertheorie. Toch heeft het toepassingen binnen de onderwijspraktijk.-->
+
+In de praktijk wordt constructivisme toegepast door leerlingen meer verantwoordelijkheid te geven (actief zelfstandig werken, zelfsturing, metacognitie), waarin de docent vooral een begeleidende rol heeft.
 
 ## Onderwijseffectiviteit
 
@@ -312,7 +314,7 @@ Voor lange tijd werd de leraar ook vooral gezien als 'iemand die veel weet'. Ech
 
 ### Beroepsbeeld & status van de leraar
 
-XXX
+Er is een toenemend lerarentekort, vooral omdat de boomers allemaal ineens met pensioen gaan. Minder mensen kiezen voor het beroep, en er is ook veel uitstroom (het 'lerarenlek'), vooral door toenemende werkdruk, minder werkplezier en gebrek aan doorgroeimogelijkheden.
 
 ## Interpersoonlijke theorie
 
