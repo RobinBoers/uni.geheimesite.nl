@@ -389,7 +389,7 @@ Voor interpersoonlijk gedrag geldt het concept van complementariteit:
 
 ### Coördinatie
 
-**Coördinatie** is het afstemmen van acties om doelstellingen te bereiken. Daaronder vallen:
+Coördinatie is het afstemmen van acties om doelstellingen te bereiken. Daaronder vallen:
 
 - **Structurele organisatie**: coördinatie met betrekking tot de formele kenmerken van een organisatie; hiërarchisch systeem waarin verdeling van taken en bevoegdheden wordt geregeld en vastgelegd (wie stuurt wie aan?)
 
@@ -435,19 +435,15 @@ Volgens sommige onderwijskundigen is er ook sprake van een derde (tussen)domein,
 
 Scholen functioneren dus als losjes gekoppelde systemen met veel autonomie (leerkrachten, collegiale besluitvorming), weinig centrale autoriteit en veel gedeelde verantwoordlijkheid tussen actoren.
 
-### Mechanistische benadering
+### Schoolverbetering
 
-De mechanistische benadering is een planmatige, kenmerkgerichte aanpak van school&shy;verbetering, gecentreerd rond sterke leiding van bovenaf (top-down). De aanpak is gericht op het reproduceren van kenmerken van schooleffectiviteit.
+- **Mechanistische benadering**: een planmatige, kenmerkgerichte aanpak van school&shy;verbetering, gecentreerd rond sterke leiding van bovenaf (top-down). De aanpak is gericht op het reproduceren van kenmerken van schooleffectiviteit.
 
-Coördinatiemechanismes zijn directe leiding, en standaardisatie van werkprocessen, kennis, vaardigheden en doelen. Leraren zijn hierin uitvoerder.
+  Coördinatiemechanismes zijn directe leiding, en standaardisatie van werkprocessen, kennis, vaardigheden en doelen. Leraren zijn hierin uitvoerder.<br><small>(Dit past in bepaalde opzichten bij het evidence-based perspectief op didactiek.)</small>
 
-<small>(Dit past in bepaalde opzichten bij het evidence-based perspectief op didactiek.)</small>
+- **Organische benadering**: een flexibele aanpak van schoolverbetering, waarin rekening wordt gehouden met de rol van veranderprocessen. De schoolverbetering is gericht op het creëren van omstandigheden (condities) die de leraren in staat stellen om vanuit de praktijk (bottom-up) het onderwijs te verbeteren.
 
-### Organische benadering
-
-De organische benadering is een flexibele aanpak van schoolverbetering, waarin rekening wordt gehouden met de rol van veranderprocessen. De schoolverbetering is gericht op het creëren van omstandigheden (condities) die de leraren in staat stellen om vanuit de praktijk (bottom-up) het onderwijs te verbeteren.
-
-Coördinatiemechanismes zijn wederzijdse afstemming en ideologie. Leerbereidheid, motivatie en betrokkenheid van leraren zijn belangrijk en docenten spelen een actieve rol via participatie in beleidsvorming.
+  Coördinatiemechanismes zijn wederzijdse afstemming en ideologie. Leerbereidheid, motivatie en betrokkenheid van leraren zijn belangrijk en docenten spelen een actieve rol via participatie in beleidsvorming.
 
 <details>
   <summary>Verschillen tussen mechanistische en organistische benaderingen:</summary>
@@ -456,7 +452,7 @@ Coördinatiemechanismes zijn wederzijdse afstemming en ideologie. Leerbereidheid
 
 ### Transformatief leiderschap
 
-De rol van de schoolleider in schoolverbetering is die van transformatief leiderschap. Dat houdt in dat hij moet zorgen voor condities die de veranderkracht van de school vergroten, en daarmee leiden tot schoolverbetering, zoals het vergroten van betrokkenheid of versterken van de professionele capaciteiten van het personeel.
+De rol van de schoolleider in schoolverbetering is die van **transformatief leiderschap**. Dat houdt in dat hij moet zorgen voor **condities** die de veranderkracht van de school vergroten, en daarmee leiden tot schoolverbetering, zoals het vergroten van betrokkenheid of versterken van de professionele capaciteiten van het personeel.
 
 Hiervoor zijn een aantal belangrijke punten:
 
@@ -499,17 +495,22 @@ Curriculum staat los van instructional design. Curriculumontwikkeling heeft betr
 
 Er zijn volgens Kliebard (1989), vier stromingen betreft curriculumdenken. Deze geven antwoord op de vraag 'Waarom leren we en wat leren we?'
 
-- **Humanisme** (of mentale discipline): het doel van onderwijs is kennisoverdracht van wetenschap en cultuur. Er zijn twee stromingen:
+- **Humanisme** (of 'mentale discipline'): onderwijs is overdracht van kennis en cultuur, met als doel behoud van traditie en cultuur. Er zijn twee stromingen:
 
-  - **Colonial curriculum**: de traditionele kennisbasis is belangrijk. Basisvaardigheden, normen, waarden, en de Nederlandse cultuur.
-  - **Humanistische benadering**: versneld state-of-the art kennis overbrengen naar de nieuwe generatie.
+  - **Colonial curriculum**: focus op klassieke kennisbasis, zoals basisvaardigheden, normen, waarden, en de Nederlandse cultuur.
+  - **Humanistische benadering**: focus op versneld state-of-the art kennis overbrengen naar de nieuwe generatie.
 
-- **Developmentalisme** (of studie van het kind): uitgangspunt van onderwijs is de ontwikkelingsverloop van kinderen. Wat hebben kinderen in hun ontwikkeling nodig? Zijn er kritische periodes waarin we bepaalde stof het best kunnen aanbieden?
+- **Developmentalisme** (of 'studie van het kind'): onderwijs is afgestemd op de natuurlijke ontwikkeling van kinderen, en heeft als doel hen verder te helpen. Er is focus op ervaring, groei, en kritische periodes waarin bepaalde stof het best kan worden aangeboden.
 
-- **Sociale efficiëntie**: het doel van onderwijs is een efficiënte samenleving realiseren. Lerenden moeten leren participeren in en aan de samenleving. Vooral praktisch bruikbare kennis, relevant voor de toekomst en de arbeidsmarkt, is belangrijk.
+- **Sociale efficiëntie**: onderwijs is een voorbereiding op een rol in de samenleving, en heeft als doel een efficiënte samenleving realiseren. De focus ligt op praktisch bruikbare kennis, relevant voor de toekomst en de arbeidsmarkt.
 
-- **Sociaal meliorisme** (of 'activistisch'): het doel van onderwijs is het verbeteren van de samenleving. Lerenden moeten worden opgevoed tot kritische burgers die kennis en vaardigheden hebben om hun eigen leefsituatie te verbeteren, en een rechtvaardige wereld kunnen realiseren.
+- **Sociaal meliorisme** (of 'activistisch'): onderwijs is een motor voor sociale verandering, met als doel het verbeteren van de samenleving. De focus ligt op emancipatie en kritisch denken; lerenden moeten worden opgevoed tot kritische burgers die vaardigheden en kennis hebben om hun leefsituatie te verbeteren, en een rechtvaardige wereld te realiseren.
 
 ### Perspectieven van instructional design <small>(Posner)</small>
 
 Er zijn volgens Posner (1994) vijf perspectieven die verband leggen met instructional design. Deze geven antwoord op de vraag 'Hoe organiseren we het leren?'
+
+Dit model is ontwikkeld omdat Posner vond dat curriculumdiscussies te abstract en ideologisch waren. Het geeft docenten en ontwerpers handvatten om te begrijpen, analyseren, en verbeteren wat een curriculum doet, aan de hand van twee vragen:
+
+- Wat is het onderliggende *idee* van een curriculum?
+- Wat betekent dit voor de *praktijk* van lesgeven?
