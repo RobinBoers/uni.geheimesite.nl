@@ -510,7 +510,22 @@ Er zijn volgens Kliebard (1989), vier stromingen betreft curriculumdenken. Deze 
 
 Er zijn volgens Posner (1994) vijf perspectieven die verband leggen met instructional design. Deze geven antwoord op de vraag 'Hoe organiseren we het leren?'
 
+<!--
 Dit model is ontwikkeld omdat Posner vond dat curriculumdiscussies te abstract en ideologisch waren. Het geeft docenten en ontwerpers handvatten om te begrijpen, analyseren, en verbeteren wat een curriculum doet, aan de hand van twee vragen:
 
 - Wat is het onderliggende *idee* van een curriculum?
 - Wat betekent dit voor de *praktijk* van lesgeven?
+-->
+
+- **Traditioneel perspectief**: overdracht van essentiële kennis en vaardigheden. Kennis is vaststaand, en de rol van de lerenden is ontvanger van kennis. Belangrijk zijn:
+
+  - Beheersing van basisvaardigheden (lezen en schrijven).
+  - Kerncurriculum of canon: basale kennis of terminologie die iedereen moet kennen.
+
+- **Experiental perspectief**: ontwikkelen door doen en ervaren. Onderwijs moet aansluiten bij ervaringen van lerenden. <!-- Voorbeelden zijn projectonderwijs en ontdekkend leren. -->
+
+- **Structure of the disciplines**: leren hoe de wetenschap werkt. Schoolvakken moeten beter aansluiten bij wetenschapsdisciplines. Lerenden moeten leren denken als weten&shy;schappers, en zelf kennis ontwikkelen met de wetenschappelijke methode. <!-- Voorbeelden zijn inquiry learning en onderzoekend leren. -->
+
+- **Behavioristisch perspectief**: leren is gedragsverandering door herhaling en oefening, gestimuleerd door bekrachtiging; leerdoelen moeten observeerbaar en meetbaar zijn. Onderwijs bestaat uit kleine stappen, in lineare volgorde ('sequencing').<!-- Voorbeelden zijn mastery learning en 'drill and practice'. -->
+
+- **Cognitief perspectief** (eigenlijk constructivistisch): aandacht voor begrip in plaats van kennisreproductie. Onderwijs moet aansluiten op voorkennis en er moet sprake zijn van betekenisvol leren. Kennis wordt geconstrueerd, niet overgedragen.<!--Voorbeeld is probleemgestuurd onderwijs.-->
