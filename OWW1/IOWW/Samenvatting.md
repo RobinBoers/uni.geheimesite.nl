@@ -480,6 +480,30 @@ Het curriculum is een plan ter ondersteuning van het leren, bestaand uit doelen,
   </ul>
 </details>
 
+### Typen curricula
+
+Wat lerenden uiteindelijk aangeboden krijgen staat soms ver wat oorspronkelijk beoogd was:
+
+- **Ideaal curriculum**: het hypotetisch meest optimale curriculum
+- **Bedoelde curriculum**: het curriculum zoals bedoeld door de opdrachtgevers
+- **Formele curriculum**: het curriculum zoals ontworpen door ontwikkelaars<!--in opdracht van de opdrachtgevers-->
+- **Ervaren curriculum**: opvatting/herinterpretatie van de instructieverantwoordelijke
+- **Operationele curriculum**: het curriculum zoals weerspiegeld in de leeractiviteiten
+- **Bereikt curriculum**: wat er uiteindelijk door de lerenden is geleerd
+- **Getoetste curriculum**: deel dat uiteindelijk expliciet getoetst wordt door evaluatie
+
+Daarnaast is er ook nog sprake van **impliciet curriculum**, bestaand uit:
+
+- **Ongeschreven curriculum**: neveneffecten van het instructiesysteem, bijvoorbeeld door voorkeuren van docenten. Hieronder vallen geen politieke/ideologische/morele invloeden.
+
+- **Nulcurriculum**: wat leerlingen niet meekrijgen; wat (onbewust) genegeerd wordt in het curriculum of in de instructie&shy;activiteiten.
+
+- **Hidden curriculum**: indirecte en verborgen socialisatie, waaronder drie vormen te onderscheiden zijn:
+
+  - hoe gaan lerenden om met beperkte aandacht in de klascontext?
+  - hoe gaan lerenden met elkaar en de doecent om?
+  - hoe gaan lerenden om met ongelijke machtsverhouding tussen hen en de docent?
+
 ### Instructional design
 
 Curriculum staat los van instructional design. Curriculumontwikkeling heeft betrekking tot de doelen van het onderwijs, en draait om *wat* wordt aangeboden. Instructional design gaat meer over *hoe* het wordt aangeboden.
@@ -529,3 +553,34 @@ Dit model is ontwikkeld omdat Posner vond dat curriculumdiscussies te abstract e
 - **Behavioristisch perspectief**: leren is gedragsverandering door herhaling en oefening, gestimuleerd door bekrachtiging; leerdoelen moeten observeerbaar en meetbaar zijn. Onderwijs bestaat uit kleine stappen, in lineare volgorde ('sequencing').<!-- Voorbeelden zijn mastery learning en 'drill and practice'. -->
 
 - **Cognitief perspectief** (eigenlijk constructivistisch): aandacht voor begrip in plaats van kennisreproductie. Onderwijs moet aansluiten op voorkennis en er moet sprake zijn van betekenisvol leren. Kennis wordt geconstrueerd, niet overgedragen.<!--Voorbeeld is probleemgestuurd onderwijs.-->
+
+### Opvattingen over curriculum
+
+- **Reductionistisch**: vooral *inhoud* van het curriculum is belangrijk, met nadruk op colonial curriculum, sociale efficiëntie, en overdracht van cultuur en gewoontes.
+
+- **Bobbit**: wil van curriculumontwikkeling een wetenschap maken. Benadrukt duidelijke leerdoelen, en elimineert kennis uit het traditionele curriculum dat niet nodig is voor de arbeidsmarkt.
+
+- **Tyler**: een systematische aanpak van curriculum ontwikkeling:
+
+  - Wat zijn de leerdoelen?
+  - Welke leeractiviteiten en wat is hun samenhang?
+  - Welke werkvormen of instructiestrategiën?
+  - Hoe evalueren we of de doelen behaald zijn
+
+### Taxonomie van Bloom
+
+Een taxonomie is een hiërarchisch ordeningssysteem dat docenten kunnen gebruiken om leerdoelen te structureren. De taxonomie van Bloom is het bekendst en bestaat uit zes niveaus, ookwel bekend als de **gedragsdimensie** (cognitief):
+
+```mermaid
+flowchart LR
+  Onthouden --> Begrijpen -->Toepassen --> Analyseren --> Evalueren --> Creeëren
+```
+
+> Dit is later door anderen in een piramide geordend. Dit is fout, omdat de taxonomie zoals bedoeld door Bloom geen waardeoordeel geeft aan de verschillende niveaus; de niveaus zijn gelijk, het is niet zo het ene leerdoel inherent belangrijker zou zijn dan de anderen.
+
+De taxonomie is in 2001 gereviseerd met een tweede dimensie, **de inhoudsdimensie** (kennis), bestaand uit:
+
+- **Feitenkennis**: terminologie, details, waar je dingen kan vinden.
+- **Conceptuele kennis**: classificaties/categoriën, principes/wetmatigheden, modellen/structuren.
+- **Procedurele kennis**: vaardigheden/algoritmen, methoden/technieken + wanneer toe te passen
+- **Metacognitieve kennis**: strategische kennis, plannen/bijsturen, schatting van eigen niveau.
