@@ -484,7 +484,9 @@ Het curriculum is een plan ter ondersteuning van het leren, bestaand uit doelen,
 
 ### Typen curricula
 
-Wat lerenden uiteindelijk aangeboden krijgen staat soms ver wat oorspronkelijk beoogd was:
+Het **expliciete curriculum** (of formeel curriculum) is het curriculum zoals dat vastgelegd is.
+
+Wat lerenden uiteindelijk aangeboden krijgen (bereikt curriculum) staat soms ver wat oorspronkelijk beoogd (bedoeld curriculum) was:
 
 - **Ideaal curriculum**: het hypotetisch meest optimale curriculum.
 - **Bedoelde curriculum**: het curriculum zoals bedoeld door de opdrachtgevers.
