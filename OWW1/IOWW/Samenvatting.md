@@ -466,3 +466,50 @@ Hiervoor zijn een aantal belangrijke punten:
 - Individuele ondersteuning & laagdrempelige communicatie
 - Instellectuele stimulans
 - Voorbeeldfunctie ('modelleren')
+
+## Curriculum
+
+Het curriculum is een plan ter ondersteuning van het leren, bestaand uit doelen, en manieren om ze te bereiken. Curriculum maakt beslissingen over:
+
+- **Inhouden** (leerdoelen): wat wordt behandeld en in welke volgorde?
+- **Leerervaringen**: welke leerervaringen willen we uitlokken?
+- **Leercondities**: planning met de optimale omstandigheden om leren mogelijk te maken.
+
+<details open>
+  <summary>Soorten leercondities</summary>
+  <ul>
+    <li><b>Fysiek</b>: de ruimte, materialen, middelen.</li>
+    <li><b>Sociaal</b>: de klassamenstelling, schoolklimaat, sfeer.</li>
+    <li><b>Psychologisch</b>: motiviatie, stress, sociale veiligheid.</li>
+  </ul>
+</details>
+
+### Instructional design
+
+Curriculum staat los van instructional design. Curriculumontwikkeling heeft betrekking tot de doelen van het onderwijs, en draait om *wat* wordt aangeboden. Instructional design gaat meer over *hoe* het wordt aangeboden.
+
+| | Curriculumontwikkeling | Instructional design |
+|--|--|--|
+| **Focus** | Wat leren, en waarom? | Hoe leren? |
+| **Niveaus** | macro & meso | meso & micro |
+| **Actoren** | Overheid, school | Docenten, ontwerpers |
+| **Product** | Beleid, leerplan, opleidingsplan | Lesplan, leeractiviteit, cursusontwerp |
+
+### Ideologiën over curriculum <small>(Kliebard)</small>
+
+Er zijn volgens Kliebard (1989), vier stromingen betreft curriculumdenken. Deze geven antwoord op de vraag 'Waarom leren we en wat leren we?'
+
+- **Humanisme** (of mentale discipline): het doel van onderwijs is kennisoverdracht van wetenschap en cultuur. Er zijn twee stromingen:
+
+  - **Colonial curriculum**: de traditionele kennisbasis is belangrijk. Basisvaardigheden, normen, waarden, en de Nederlandse cultuur.
+  - **Humanistische benadering**: versneld state-of-the art kennis overbrengen naar de nieuwe generatie.
+
+- **Developmentalisme** (of studie van het kind): uitgangspunt van onderwijs is de ontwikkelingsverloop van kinderen. Wat hebben kinderen in hun ontwikkeling nodig? Zijn er kritische periodes waarin we bepaalde stof het best kunnen aanbieden?
+
+- **Sociale efficiëntie**: het doel van onderwijs is een efficiënte samenleving realiseren. Lerenden moeten leren participeren in en aan de samenleving. Vooral praktisch bruikbare kennis, relevant voor de toekomst en de arbeidsmarkt, is belangrijk.
+
+- **Sociaal meliorisme** (of 'activistisch'): het doel van onderwijs is het verbeteren van de samenleving. Lerenden moeten worden opgevoed tot kritische burgers die kennis en vaardigheden hebben om hun eigen leefsituatie te verbeteren, en een rechtvaardige wereld kunnen realiseren.
+
+### Perspectieven van instructional design <small>(Posner)</small>
+
+Er zijn volgens Posner (1994) vijf perspectieven die verband leggen met instructional design. Deze geven antwoord op de vraag 'Hoe organiseren we het leren?'
