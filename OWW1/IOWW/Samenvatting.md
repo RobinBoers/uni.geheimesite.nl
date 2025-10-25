@@ -584,3 +584,82 @@ De taxonomie is in 2001 gereviseerd met een tweede dimensie, **de inhoudsdimensi
 - **Conceptuele kennis**: classificaties/categoriën, principes/wetmatigheden, modellen/structuren.
 - **Procedurele kennis**: vaardigheden/algoritmen, methoden/technieken + wanneer toe te passen
 - **Metacognitieve kennis**: strategische kennis, plannen/bijsturen, schatting van eigen niveau.
+
+## Beleid
+
+### Functies van het onderwijs
+
+De functies van het onderwijs worden vanuit verschillende perspectieven verschillend gedefinieerd. We kijken naar de overheid, de sociologie, de pedagogiek:
+
+<table style="width:100%; border-collapse:collapse; table-layout:fixed;">
+  <thead>
+    <tr>
+      <th style="width:33.33%;">Overheid</th>
+      <th style="width:33.33%;">Sociologie</th>
+      <th style="width:33.33%;">Pedagogiek</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="vertical-align: top;">
+      <td>
+        <ul style="margin-top: 10px; padding-left: 20px">
+          <li>Kwalificatie</li>
+          <li>Differentiatie en selectie</li>
+          <li>Socialisatie en sociale integratie</li>
+        </ul>
+      </td>
+      <td>
+        <ul style="margin-top: 10px; padding-left: 20px">
+          <li>Arbeidsmarkt</li>
+          <li>Optimalisatie</li>
+          <li>Gelijke kansen</li>
+          <li>Socialisatie</li>
+        </ul>
+      </td>
+      <td>
+        <ul style="margin-top: 10px; padding-left: 20px">
+          <li>Kwalificatie</li>
+          <li>Socialisatie</li>
+          <li>Subjectificatie</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!--
+> Met differentiatie bedoelen we hier *externe* differentieatie.-->
+
+In totaal zijn er dus vijf hoofdfuncties:
+
+- **Kwalificatie**: onderwijs levert kennis en vaardigheden voor de arbeidsmarkt.
+- **Socialisatie**: onderwijs voedt burgers op; omgangsnormen, samenwerking.
+- **Optimalisatie**:  sorteren, selecteren van leerlingen op basis van interesses en capaciteiten; zorgen dat ieder op de juiste plek terecht komt.
+- **Gelijke kansen**: ongedaan maken van verschillen door achtergrondkenmerken.
+- **Persoonsvorming**: ondekken wie je bent; identiteitsontwikkeling; waar ben je goed in, waar wil je heen?
+
+### Conflicten tussen de functies
+
+De functies van het onderwijs hoeven elkaar niet uit te sluiten, maar soms ontstaan er wel spanningen, zoals:
+
+- **Optimalisatie vs socialisatie**: we willen snel differentiëren en selecteren, zodat leerlingen sneller op de juiste plek belanden. Echter, zorgt dit er ook voor dat snel in 'bubbels' terechtkomen, wat de socialisatiefunctie bemoeilijkt.
+
+- **Kwalificatie vs socialisatie**: vanuit de kwalificatiefunctie willen we graag een efficiënt curriculum met daarin vooral beroepsvaardigheden, waardoor er minder ruimte is voor 'afleidende' zaken zoals anti-pest campagnes, maatschappijleer, culturele vorming etc.
+
+- **Persoonsvorming vs kwalificatie & socialisatie**: we hebben een vrije studiekeuze. Vanuit de kwalificatie- en socialisatiefuncties gezien is het echter praktischer om leerlingen een bepaalde richting op te dwingen, omdat bepaalde sectoren een overschot hebben en anderen juist een tekort.
+
+- **Optimalisatie vs gelijke kansen**: de differentiatie in ons onderwijssysteem is te vroeg en wordt vaak ook nog eens beinvloed door achtergrondkenmerken, en leidt daardoor tot grotere kansenongelijkheid.
+
+### Rol van de overheid
+
+De overheid is verantwoordelijk voor twee zaken:
+
+- **Bewaken van minimale kwaliteit**, door:
+  - Regelgeving omtrent bekwaamheden docenten
+  - Controle van de Onderwijsinspectie
+  - Kerndoelen, eindtermen en kwaliteit examens
+  <!-- ^doelen gaan alleen over 'wat', niet over 'hoe'; daar is, dankzij vrijheid van onderwijs, de school vrij in om zelf over te beslissen. -->
+
+- **Garanderen van toegankelijkheid**, door:
+  - Financiering door de basisbeurs of het leenstelsel
+  - Verzorgen van openbaar onderwijs
