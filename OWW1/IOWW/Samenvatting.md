@@ -646,7 +646,7 @@ In totaal zijn er dus vijf hoofdfuncties:
 
 De functies van het onderwijs hoeven elkaar niet uit te sluiten, maar soms ontstaan er wel spanningen, zoals:
 
-- **Optimalisatie vs socialisatie**: we willen snel differentiëren en selecteren, zodat leerlingen sneller op de juiste plek belanden. Echter, zorgt dit er ook voor dat snel in 'bubbels' terechtkomen, wat de socialisatiefunctie bemoeilijkt.
+- **Optimalisatie vs socialisatie**: we willen snel differentiëren en selecteren, zodat leerlingen sneller op de juiste plek belanden, maar daardoor kom je niet in contact met leerlingen van andere achtergronden, alleen leerlingen die op jou lijken.
 
 - **Kwalificatie vs socialisatie**: vanuit de kwalificatiefunctie willen we graag een efficiënt curriculum met daarin vooral beroepsvaardigheden, waardoor er minder ruimte is voor 'afleidende' zaken zoals anti-pest campagnes, maatschappijleer, culturele vorming etc.
 
