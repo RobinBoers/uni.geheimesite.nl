@@ -44,4 +44,63 @@ SO:
     2. is creates psysiological arousal, which is a bodily state of 'activation'
     (aka ustress?) that is positively linked with a) performance and b) learning determinators(?)
 
-       
+----
+
+vlogging works as learning strategy
+
+experiment: study + restudy vs study + vlog
+(so time on task is constant)
+vlogging works better
+
+not clear whether cognitive processing or social presence
+
+research conducted in lab, teenagers&adults, not children
+there are studies in classrooms, but those are flawed
+(no control group, or time on task not constant, or video as group, so could be collab effect too)
+
+children have less working mem, not paying attention, problems remembering
+
+vlogging vs restudy vs summarizing
+(summarizing also has generative processes)
++ effect on motivation / enjoyment
+^if students do not like a strategy they will not use it even tho effective
+^also time is relevant; cannot take too much
+
+summarizing and vlogging take more effort
+but vlogging leads to higher achievement
+
+beneficial effect depended on (perceived) effort?
+so effort did not explain the difference
+
+enjoyment did. so in part vlogging works better because
+people like it more. so probably motivational.
+
+based on generative process explanation, we'd expect summarizing
+also to be better. so the social explanation holds up better.
+BUT: summarizing might not elicit the same amount/type of generative processes.
+further research required.
+
+alt explanation: modality-effect: diff. in modality between speaking and writing
+speaking is better for more higher-order learning (whatever that means??)
+
+homework is ineffective; making it more enjoyable and effective using vlogging is possible
+
+further research:
+
+lotte van kesteren
+
+- beliefs about effectiveness
+- why vlogging work??
+- do benefits generalize for:
+  - different types of students
+  - different types of materials/courses
+- do benefits last?
+  - does it work repeatedly?
+  - novelty effect? <- clark
+
+-----
+
+creating materials for others:
+
+does it help students learn?
+does leeropbrengst depend on subject, field etc.
