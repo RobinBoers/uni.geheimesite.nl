@@ -104,3 +104,98 @@ creating materials for others:
 
 does it help students learn?
 does leeropbrengst depend on subject, field etc.
+
+meta analayse:
+
+- research design
+- use of control group
+- sample size for conditions
+- mean & sd across conditions
+- type of product (animation, video, text, questions, games, audio, photo atlas)
+- educational level
+- content area / subject matter
+- access to source (retrieval practise!)
+
+finding: small but significant effect (.17) in favour
+
+moderators:
+
+- control group: compared to bad strats (passively reading), works better. otherwise,
+  (so compared to summarizing), not so much.
+
+- access to materials: do retrieval practise-- just reading aloud does not help, but
+  doing that in own words from memory does.
+
+audio(visual) products do better.
+
+discussion:
+
+- can we improve effectiveness?
+- meta-analysis shallow: types of learning outcomes?
+  (achievement, retention, understanding, transfer, motivation etc.)
+
+---
+
+is vlogging works, does blogging also?
+(bc blogging does not use sound etc. -- easier to implement)
+
+compared to restudy, blogging did worse. WHY????
+
+expl.: maybe writing is slower than talking so less and less good
+explanations. tested typing instead, on older people, but still no.
+
+modality effect:
+- writing better for conceptual knowledge (lower-order)
+- oral better for transfer (higher-order)
+
+first evidence for modality effect for MAKING instead of TEACHING
+
+vlogging at end, of vlogging in the middle?
+(bc vlogging exposes knowledge gaps -> restudy to improve after vlog)
+
+so based on theories:
+
+- retrieval practise: better, because said knowledge gaps etc.
+(+ more spaced learning is better, so varied learning is better too?)
+- generative processes: no difference
+- social presence: no difference
+
+YAY i was right.
+
+does the audience matter?
+
+conditions:
+- restudy
+- fictious audience (low social presence)
+- real audience (high social presence)
+
+real audience impaired learning compared to other conditions
+^arousal through the roof -> stress consumes working mem resources
+
+same goes for larger audience. (no effect on learning outcomes, but
+the perceived larger audience does take more effort which does not pay of)
+
+in line with social psychology:
+if you know something well, having an audience improves performance, if you do
+not know something well, having an audience impairs performance.
+
+vlogging works better about conceptual knowledge (how does something work? relations?)
+not so much for procedural knowledge (do this in these steps)
+
+takeaways:
+- study, vlog, restudy
+- spoken > written
+- explain from memory
+- for conceptual knowledge, not procedural
+- possibibly supplemented by learning-by-drawing
+- avoid too high social pressure/presence
+  (bc too stressful)
+
+the effect is not merely a retrieval-practise, also a little
+bit of generative processes and social presence.
+
+and:
+- works for a lot of people
+- students might need help with quality of explanations
+- suggestions that it is more motivating
+- some evidence for same effects in collab settings
