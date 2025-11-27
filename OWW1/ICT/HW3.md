@@ -50,3 +50,29 @@ problems if you pause the video.
 8. Not applicable; he is not explaining a psychomotor task.
 9. You can pause the video, but this is left to the viewer. He does not
 prompt to pause.
+
+generative processes illicit germane cognitive load
+
+physiological arousal arises when presenting to an in-person audience (stress/pressure),
+and has effect on performance; stress leads to better performance, but too much stress
+leads to lower achievement.
+
+this is also dependend on expertise/confidence:
+
+when little expertise, increased pressure and thus stress leads to worse performance.
+when much expertise, increased pressure and thus stress leads to higher achievement.
+
+so the conclusion is: a little bit of stress is good, too much is bad.
+
+---
+
+does generative learning only work is done on the spot? or is writing/preparing something
+up-front, but also purely from memory as effective?
+
+social presence stems from experiments showing that explaing on video works better than writing
+-> hypothesis: the perception of an audience could have impact
+does social presence also apply to when you know something you write will be published?
+also this is two things: speaking vs writing & audience vs no audience
+(^ also proved later on: speaking works better than writing)
+
+learning from text -> explaining spoken (that might have an effect, because you have to 'transfer' the explanation between modalities)
