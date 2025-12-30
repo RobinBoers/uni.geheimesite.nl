@@ -1,0 +1,17 @@
+{
+  "explorer.excludeGitIgnore": false,
+  "files.exclude": {
+    "**/_site": true,
+    "**/_includes": true,
+    "**/_layouts": true,
+    "**/.*": true,
+    "**/_config.yml": true,
+    "**/.tool-versions": true,
+    "**/Bakefile": true,
+    "**/CNAME": true,
+    "**/Gemfile": true,
+    "**/Gemfile.lock": true,
+    "**/main.css": true,
+    "**/.gitignore": true
+  },
+}
