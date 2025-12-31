@@ -1,0 +1,205 @@
+---
+title: Ontwerpen van leersituaties
+---
+
+**Instructie** maakt leren efficiënter, effectiever en makkelijker, en bespaard daarmee tijd en geld. Het bestaat om een vastgesteld doel zo snel en goedkoop mogelijk te bereiken.
+
+**Instructional design** is een systematisch, wetenschappelijk onderbouwd proces voor het ontwerpen van goede instructie.
+
+> **Instructional development** is gerelateerd en wordt afwisselend gedefinieerd als:
+>
+> - leidinggeven aan het ontwerpproces & planning van instructional design.
+> - het concrete productieproces van het lesmateriaal; de vertaling van een ontwerpplan naar realiteit.
+
+<details open>
+  <summary>Kenmerken van instructional design</summary>
+  <ol>
+    <li>Het is systematisch, specifiek, en er is aandacht voor details.</li>
+    <li>Er wordt vooraf eerst bepaald of er sprake is van een instructieprobleem.</li>
+    <li>Er wordt onderscheid gemaakt tussen ontwerpdocumenten en instructiematerialen; niet alles komt bij de lerenden terecht.</li>
+    <li>Instructie moet voor alle leerlingen voldoende werken.</li>
+    <li>De informatie die wordt gebruikt tijdens het ontwerpproces is accuraat en compleet.</li>
+    <li>Instructie is gericht op het leerproces van individuele lerenden, niet op inhoud die moet worden behandeld.</li>
+    <li>Meerdere wegen leiden naar Rome; zolang het eindproduct de leeropbrengsten binnen het gegeven tijdsbestek behaald is dat voldoende.</li>
+  </ol>
+</details>
+
+## Soorten onderwijs
+
+- **Specific job training** is gerichte training met duidelijke eisen, bedoeld om onmiddelijk een taak uit te voeren of probleem op te lossen.
+
+  Voordelen van instructional design: het lost een performance probleem op, en daarbij:
+
+  - is er minder tijd nodig voor de cursus (dus minder tijd off-task)
+  - zijn er grotere leeropbrengst/productiviteitsopbrengsten
+
+- **Formele educatie** is een brede, algemene opleiding, gericht op het voorbereiden van lerenden op bijdrage aan de samenleving. Aangeleerde kennis of vaardigheden worden mogelijk pas (ver) in de toekomst toegepast.
+
+  Een basisbegrip van instructional design is relevant omdat methodeboekjes alleen vaak onvoldoende zijn, en er daarom behoefte is aan leermaterialen gemaakt door de leerkracht.
+
+  <!--(vormen: teacher-centered, student-centered, activity-oriented)-->
+
+<br>
+
+| Onderwijsvorm         | Inhoud                                                                                | Lengte/duur                                            |
+| --------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| Specifieke&nbsp;training&nbsp;&nbsp;&nbsp;&nbsp; | alleen strikt noodzakelijke kennis en vaardigheden relevant voor de taak/het probleem | minimale lengte om alle benodigde inhoud te behandelen |
+| Formele&nbsp;educatie&nbsp;&nbsp;&nbsp;&nbsp;  | brede algemene kennisbasis                                                            | vooraf vastgesteld timeframe                          |
+
+# Ontwerpmodel van Morrison
+
+<!--
+Tijdens het ontwerpproces zijn vier fundamentele factoren te benoemen:
+
+- **Lerenden**: wat zijn de kenmerken van de doelgroep?
+- **Leerdoelen**: wat moet een lerenden kennen of kunnen?
+- **Instructiemethodes**: hoe wordt de inhoud aangeboden?
+- **Evaluatie**: hoe toets je of de inhoud beheerst wordt?
+-->
+
+Het ontwerpmodel van Morrison et al. (2013) bestaat uit negen stappen:
+
+1. Instructieprobleem
+2. Context- en doelgroepanalyse
+3. Taakanalyse
+4. Leerdoelen
+5. Sequentiëring
+6. Instructiestrategiën
+7. Ontwerpen van lesmaterialen
+8. Produceren van lesmaterialen
+9. Evaluatie
+
+> Het model van Morrison is non-linear, het is cyclisch. De volgorde waarin de stappen worden doorlopen staat niet vast, en stappen mogen worden overgeslagen. Tijdens het ontwerpproces 'spring' je heen-en-weer tussen stappen, en je kan op een willekeurig punt in het ontwerpproces 'instappen'. Wel worden de analyses meestal vroeg in het proces uitgevoerd.
+
+<br>
+
+Daarnaast zijn er acht langlopende processen tijdens het ontwerpproces:
+
+- **Planning en project management**: plannen & budgeteren; de hoeveelheid tijd die hierin gestoken wordt is afhankelijk van de scope van het project.
+
+- **Support services**: hoeveel werk voor de instructional designer uit handen wordt genomen, bijv. door grafisch ontwerpers, Q&A-testers, programmeurs, filmmakers etc.
+
+- **Formatieve evaluatie en reviseren**: gedurende het ontwerpproces constant checken waar je staat en bijsturen als dat nodig is.
+
+ <!--checken of de probleemstelling, taakanalyse, opgestelde leerdoelen etc. correct zijn, en op basis daarvan verbeteringen aanbrengen.-->
+
+- **Implementatie**: tijdens het ontwerpproces rekening houden met hoe de instructie in de praktijk gebruikt zal worden, oa. door praktijkexperts mee te laten denken.
+
+- **Summatieve evaluatie**: zodra de uiteindelijke instructie in gebruik genomen is, checken of het zoals bedoeld ingezet wordt, effectief is, en de beoogde doelen behaald.
+
+- **Confirmatieve evaluatie**: na enige tijd opnieuw checken of de instructie nog steeds effectief en nog wel relevant is <small>(soms wordt instructie geinstitutionaliseerd terwijl de context compleet veranderd is)</small>.
+
+<!--
+> Confirmatieve evaluatie wordt vaak vanwege praktische en financiële overwegingen overgeslagen.
+-->
+
+<details open>
+  <summary>Vormen van formatieve evaluatie</summary>
+  <ul>
+    <li><strong>Connoisseur-based studies</strong>: feedback van een expert <small>(maar houdt rekening met het feit dat dat geen onderwijskundig is!)</small></li>
+    <li><strong>Decision-oriented studies</strong>: vraaggestuurd; bijvoorbeeld: past het binnen de tijd? is er voldoende oefening?</li>
+    <li><strong>Objective-based studies</strong>: behaalt de instructie op basis van pre- en posttests de beoogde doelen?</li>
+    <li><strong>Quick turnaround evaluation studies</strong>: tussendoor snel iets proberen; pilots of tryouts.</li>
+  </ul>
+</details>
+
+<br>
+
+## Instructieprobleem
+
+Het ontwikkelen van instructie begint altijd met een **prestatieprobleem**: er is een verschil ('performance gap') tussen verwachte uitkomsten en daadwerkelijk behaalde resultaten.
+
+De eerste stap van het ontwerpproces is dan nagaan of er eigenlijk wel sprake is van een **instructieprobleem**. Hiervoor wordt gebruik gemaakt van drie soorten analyses:
+
+- Behoefteanalyse ('needs assesment')
+- Taakuitvoeringsanalyse ('performance assesment')
+- Doelanalyse ('goal analysis')
+
+### Behoefteanalyse <small>('needs assesment')</small>
+
+De behoefteanalyse wordt gebruikt om het prestatieprobleem te identificeren, aan de hand van één of meer 'needs'. Hierin zijn zes categoriën te onderscheiden:
+
+- **Normative needs**: de doelgroep presteert onder een landelijk vastgestelde norm of standaard.
+- **Comparitive needs**: de doelgroep presteert minder goed dan een equivalente/vergelijkbare groep.
+- **Felt needs**: een verlangen (eigen) performance te verbeteren; een gap tussen huidige prestaties en beoogde prestaties.
+- **Expressed needs**: een *felt need* waar actie op is ondernomen; bijvoorbeeld hulp vragen aan een collega, inschrijven voor een cursus, etc.
+- **Anticipated/future needs**: voorbereiden op aankomende veranderingen en daarmee toekomstige performance problemen voor zijn.
+- **Critical indicent needs**: voorbereiden op een situaties die bijna nooit voorkomen maar wel heel ernstig zijn; bijvoorbeeld een brandoefening of EHBO-cursus.
+
+> Needs kunnen worden geprioritiseerd op basis van verschillende eigenschappen, waaronder kosten, invloed, frequentie, of tijd. Een veelgebruikte methode is de *Delphi method*.
+
+<!--
+<details>
+  <summary>Functies van een needs assesment</summary>
+  <ul>
+    <li>Het identificeren van <strong>needs</strong>: problemen die performance beinvloeden.</li>
+    <li>Vinden van <strong>critical needs</strong>: problemen met grote financiële invloed, of die een gevaar of verstoring voor de omgeving zijn.</li>
+    <li>Prioritiseren voor het selecteren van een interventie.</li>
+    <li>Het verzamelen van baseline data (een soort nu-meting), die later gebruikt kan worden om de effectiviteit van een interventie te bepalen.</li>
+  </ul>
+</details>
+-->
+
+<details>
+  <summary>Verschil tussen een needs assesment en analysis</summary>
+  <p>Een <strong>needs assesment</strong> wordt gebruikt om performance gaps te identificeren en te bepalen of deze opgelost kunnen worden door middel van instructie. Een <strong>needs analysis</strong> (of 'cause analysis') identificeert de <em>oorzaak</em> van het performance gap.</p>
+</details>
+
+### Taakuitvoeringsanalyse <small>('performance assesment')<small>
+
+De taakuitvoeringsanalyse bepaalt de oorzaak van het prestatieprobleem:
+
+<!--VRAAG: wat is het verschil tussen de performance assesment en needs analysis?-->
+
+<style class="t0">
+.t0 + table td { vertical-align: top; }
+.t0 + table td:first-child {
+  width: 320px;
+}
+</style>
+
+| Oorzaak | Interventie |
+|--|--|
+| Gebrek aan kennis of vaardigheden | Training of instructie aanbieden. |
+| Gebrek aan motivatie of incentive | Verbeter motivatie of biedt beloningen. |
+| Omgevings&shy;factoren | Aanpassingen aan de omgeving of taak. |
+| Management&shy;factoren | Aanpassingen aan managementprakijken, training of instructie aanbieden aan de manager, of aanwijzen van nieuwe manager. |
+| Interpersoonlijke relaties | Aanpassingen aan werkomgeving, aanbieden van coaching, mediëren, aanpassen van managementprakijken. |
+
+Instructie is alleen effectief als het prestatieprobleem veroorzaakt wordt door een gebrek aan kennis of vaardigheden; anders zal het enkel symptomen bestrijden.
+
+> In de praktijk liggen gebrek aan kennis en motivatie dichter bij elkaar dan in theorie. Soms kan verbeterde instructie dus ook een antwoord zijn op een gebrek aan motivatie.
+
+### Doelanalyse <small>('goal analysis')<small>
+
+Een doelanalyse wordt gebruikt om een duidelijker beeld te krijgen van de doelen die de instructie moet bereiken.
+
+Een doelanalyse kan gebruikt worden om de focus van de needs assesment te verfijnen, of om prioriteiten te zetten. Daarnaast kan een doelanalyse ook dienen als korter alternatief voor een uitgebreide behoefteanalyse:
+
+- Als er gebrek aan tijd, budget of middelen is.
+- Als het al duidelijk is dat er sprake is van een instructieprobleem.
+
+Een doelanalyse begint met een probleem, need of performance gap dat al geidentificeerd is, en bepaald vervolgens welk doel bereikt moet worden om dat probleem op te lossen. Dit gaat in zes stappen:
+
+1. Identificeer einddoel
+2. Stel tussendoelen
+3. Verfijn tussendoelen
+4. Zet ze op volgorde
+5. Verfijn weer
+6. Maak definitieve volgorde
+
+## Leerlingkenmerken
+
+## Taakanalyse
+
+## Leerdoelen
+
+## Sequentiering
+
+## Instructiestrategiën
+
+## Lesmaterialen ontwerpen
+
+## Lesmaterialen produceren
+
+## Evaluatie

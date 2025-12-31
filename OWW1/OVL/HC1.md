@@ -153,7 +153,7 @@ soorten formatieve evaluatie:
 - objective-based studies: behaal ik mijn doelen? (pre- en posttests)
     (is beschrijvend, niet voorschrijvend)
 - public relation inspired studies: evalutatie gerelateerd aan fonden en subsidies
-- quick turnaround evaluation studies: tussendor snel iets proberen (tryouts of pilots)
+- quick turnaround evaluation studies: tussendoor snel iets proberen (tryouts of pilots)
 
 die public relation shit is heel amerikaans en boeit niet en komt niet in de toets sws
 want (en ik quote) "je kan er net helemaal niks mee"
