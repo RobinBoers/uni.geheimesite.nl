@@ -188,7 +188,105 @@ Een doelanalyse begint met een probleem, need of performance gap dat al geidenti
 5. Verfijn weer
 6. Maak definitieve volgorde
 
-## Leerlingkenmerken
+## Doelgroep en context
+
+De kenmerken van de doelgroep en context zijn belangrijk en hebben invloed op het instappunt in de ontwerpcyclus, de selectie van inhoud, de keuzes van sequentiering en leerdoelen, de diepgang en de keuze van instructiestrategiën.
+
+### Leerlingkenmerken (doelgroepanalyse)
+
+Er zijn zeven soorten leerlingkenmerken:
+
+- **Achtergrondkenmerken**: gender, leeftijd, ervaring, opleiding, etniciteit etc.
+
+- **Specifieke toegangskenmerken**: voorkennis of vaardigheden die nodig zijn om toegang te krijgen tot de instructie (bijv. kunnen lezen of een muis gebruiken).
+
+- **Leervoorkeuren**: er is geen bewijs voor *leerstijlen*, maar wel voor *voorkeuren*; leerlingen kunnen bepaalde werkvormen kennen of fijn vinden, en daarom minder weerstand geven.
+
+- **Academische informatie**: voorgaande academische prestaties, zoals bijvoorbeeld toetsscores, beoordelingen, eindcijfers, diploma's, certificaten, etc.
+
+- **Persoonlijke/sociale kenmerken**: maturiteit, motivatie/houding tegenover instructie, verwachtingen en ambities, voorgaande of huidige werkervaring, speciale talenten etc.
+
+- **Culturele kenmerken**: aanpassen aan (mogelijke verschillen in) cultuur, afkomst, religie, moedertaal etc. binnen de doelgroep.
+
+- **Beperkingen**: rekening houden met fysieke beperkingen (handicaps) en leerbeperkingen, en de instructie daarop aanpassen; specialisten meenemen in denkproces.
+
+<details>
+  <summary>Verschil tussen motivatie en houding</summary>
+  <p>Houding is anders dan motivatie. Een leerling kan gemotiveerd en geinteresseerd zijn, maar weinig zelfvertrouwen hebben en daarom minder goed leren/presteren.</p>
+  <p>Daar ga je anders mee om dan met ongemotiveerde leerlingen. Ongemotiveerde leerlingen geef je externe prikkels, voor onzekere leerlingen gebruik je strategiën om zelfvertrouwen te verbeteren.</p>
+</details>
+
+<!--
+<details>
+  <summary>Volwassenonderwijs <small>('andragogy')</small></summary>
+  <p>Volwassen lerenden kunnen verschillen van jongere lerenden in hun houding en doelen:</p>
+  <ul>
+    <li>Volwassenen volgen instructie vaak vrijwillig en zijn zeer gemotiveerd.</li>
+    <li>Volwassenen waarderen instructie met hoge mate van structuur.</li>
+    <li>Volwassenen willen weten waarom inhoud relevant is; praktische toepassing van het materiaal kunnen inzien.</li>
+    <li>Volwassenen zitten vaak krapper in hun agenda/qua tijd.</li>
+    <li>Volwassenen hebben behoefte aan een leraar met diepgaande vakkennis.</li>
+    <li>Volwassenen hebben vaak een grotere voorkennis uit hun werk en persoonlijke leven.</li>
+    <li>Volwassenen zien een leraar vaker als een gelijke en hebben behoefte aan <em>begeleiding</em>, geen <em>autoritaire leider</em>.</li>
+    <li>Volwassenen willen meegenomen worden in besluitvorming.</li>
+  </ul>
+</details>
+-->
+
+### Contextanalyse
+
+Instructie vindt nooit plaats in een vacuüm. De context is het geheel aan factoren die invloed hebben op het leerproces, veelal randvoorwaardelijk, zoals locatie, tijdstip, budget, beschikbare voorzieningen/materialen.
+
+Er zijn drie soorten contexten:
+
+- **Orienting context**:
+  - Welke doelen hebben lerenden met het volgen van de instructie?
+  - Zien lerenden de instructie als nuttig/zinvol/waardevol?
+  - Worden lerenden getoetst en krijgen ze daar erkenning voor? (eg. cijfer, certificering)
+
+- **Instructional context**: de omgeving waarin de instructiegegeven wordt; belichting, geluid, temperatuur, beschikbare plekken, accomodatie, bereikbaarheid, materialen.
+
+- **Transfer context**: toepasbaarheid van de geleerde stof buiten de context waarin het geleerd is. Hiervoor zijn frequente kansen om de stof toe te passen, en ondersteuning daarbij (beschikbaarheid hulp/gereedschappen/middelen), belangrijk.
+
+> Belangrijk: één instructie kan plaatsvinden in verschillende contexten, bijvoorbeeld in het klaslokaal, thuis/in de bibliotheek (huiswerk), en op excursie.
+
+### Curriculumanalyse
+
+Het curriculum betreft alle vooropgezette leerdoelen die leidend zijn voor het lesontwerp.
+
+Er zijn twee typen curriculum:
+
+- **Horizontaal curriculum**: leerlijn binnen een vak(gebied). Op welke eerder behandelde stof kunnen we voortbouwen? En op welke later te behandelen stof moeten we aansluiten?
+
+- **Verticaal curriculum**: afstemming tussen verschillende vakken. Wanneer is/wordt gerelateerde stof aangeboden bij andere vakken, en is daarbij aansluiting mogelijk?
+
+<details open>
+  <summary>Kerndoelen & referentiekader</summary>
+  <p>Vanuit de overheid worden voor het primair onderwijs en de onderbouw van het voorgezet onderwijs eisen gesteld aan de inhoud van het curriculum, door middel van kerndoelen en (voor PO) het referentiekader voor taal en rekenen.</p>
+  <p>Kerndoelen gaan om aanbod (wat moet je eind jaar x gehad hebben?), referentiekader gaat om beheersing (wat moet je eind jaar x kunnen?)</p>
+</details>
+
+<details>
+  <summary>Curriculumanalyse uitvoeren</summary>
+  <p>Bij het uitvoeren van een curriculumanalyse kan je gebruikmaken van bronnen zoals:</p>
+  <ul>
+    <li>Interne schooldocumenten (eg. schoolplan, jaarplan)</li>
+    <li>Website van het SLO (kerndoelen, referentiekader)</li>
+    <li>Lesmethodes uit de bibliotheek van de HU (bijv. getal en ruimte, nova)</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Overige analyses uitvoeren</summary>
+  <p>Bij het uitvoeren van de alle andere bovenstaande analyses (behoefte, taakuitvoering, doel, doelgroep, context) kan je gebruikmaken van bronnen zoals:</p>
+  <ul>
+    <li>Vragenlijsten</li>
+    <li>Observaties</li>
+    <li>Interviews/focusgroepen</li>
+    <li>Bestaande data (cijferlijsten, rapporten etc.)</li>
+  </ul>
+  <p>Houdt wel rekening met privacywetgeving en eventuele toestemmingen van ouders. Over het algemeen geldt: niet meer data verzamelen dan je nodig hebt.</p>
+</details>
 
 ## Taakanalyse
 
