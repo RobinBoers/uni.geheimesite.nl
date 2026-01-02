@@ -275,3 +275,15 @@ textarea {
   width: 100%;
   resize: vertical;
 }
+
+dfn[title] {
+  font-style: normal;
+  text-decoration: dashed underline;
+  background: light-dark(#f3f3f3, #383838);
+  cursor: help;
+}
+
+ul:has(input[type="checkbox"]) {
+  list-style: none;
+  padding: 0;
+}

@@ -290,6 +290,114 @@ Er zijn twee typen curriculum:
 
 ## Taakanalyse
 
+De taakanalyse bepaalt welke inhoud de instructie moet behandelen om aan de geidentificeerde behoeften te voldoen en is daarmee het meest kritieke onderdeel van het ontwerpproces.
+
+Er zijn drie soorten inhoud, verder opgedeeld in zes inhoudsstructuren:
+
+<table><thead>
+  <tr>
+    <th>Kennisdomein&nbsp;&nbsp;</th>
+    <th>Inhoudstructuur</th>
+    <th>Toelichting</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Cognitief</td>
+    <td>Feiten</td>
+    <td>
+      Feitelijke informatie; bijvoorbeeld benamingen, symbolen, plaatsen, datums, definities, beschrijvingen.
+    </td>
+  </tr>
+  <tr>
+    <td>Concepten</td>
+    <td>Groeperingen/categorisaties van gerelateerde feiten (of andere concepten).</td>
+  </tr>
+  <tr>
+    <td>Principes&nbsp;en&nbsp;regels&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>Relaties tussen feiten of concepten; bijvoorbeeld wetmatigheden, oorzaak-gevolgrelaties, vuistregels.</td>
+  </tr>
+  <tr>
+    <td>Procedureel</td>
+    <td>Procedures</td>
+    <td>Geordende volgorde van stappen om tot een bepaald doel te komen (denkstappen of concrete handelingen).</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Affectief</td>
+    <td>Interpersoonlijk</td>
+    <td>Sociale kennis (verbaal en non-verbaal).</td>
+  </tr>
+  <tr>
+    <td>Attitudes</td>
+    <td>Houding tenopzichte van bepaald gedrag; bijvoorbeeld moraliteit, ethiek, voorzichtigheid.</td>
+  </tr>
+</tbody>
+</table>
+
+In de taakanalyse zijn er twee belangrijke rollen:
+
+- **Inhoudsexpert ('subject matter expert')**: levert accurate, diepgaande, en gedetailleerde vak&shy;inhoudelijke kennis.
+
+- **Intructional designer**: zorgt ervoor dat de inhoud compleet is. Helpt de SME de inhoud op een logische manier uit te werken, en suggereert eventueel ontbrekende informatie/gaten in de inhoud.
+
+> In het onderwijs fungeert de instructieverantwoordelijke vaak als zowel instructional designer en inhoudsexpert.
+
+### Topicanalyse <small>(cognitieve inhouden)</small>
+
+Een topicanalyse geeft inzicht in twee dingen:
+
+- **De inhoud** (feiten, concepten en principes) van de instructie
+- **De opbouw/structuur** van (onderdelen van) de instructie
+
+Dit doe je als een iteratief proces, waarin je in samenwerking met de SME steeds een laag meer diepgang aanbrengt. Morrison et al. (2013) vergelijken dit met archeologie.
+
+### Procedurele analyse <small>(procedurele inhouden)</small>
+
+Een procedurele analyse geeft inzicht in de stappen die nodig zijn om een bepaalde taak te volbrengen. Dit gaat om zowel observeerbare (fysieke) stappen, als onzichtbare (mentale) stappen.
+
+De inhoudsexpert voert de taak uit, en vertelt daarbij realtime welke stappen hij neemt en wat hij denkt, en waarom. Het is uiterst belangrijk dat dit gebeurt in een "natuurlijke" context.
+
+> Alternatief, als het te duur of tijdrovend is om de taak daadwerkelijk uit te voeren, kan de inhoudsexpert alleen de stappen vertellen (zonder ze daadwerkelijk te doen).
+
+De procedurele analyse geeft antwoord op de volgende vragen:
+
+- Wat moet de lerende doen (mentaal en fysiek)?
+- Wat moet de lerende weten?
+- Welke <dfn title="Hoe weet de lerende of ze het goed doen, het opnieuw moeten proberen, of een andere stap nodig is?">hints/feedback</dfn> heeft de lerende hierbij?
+
+<details open>
+  <summary>Expertise Reversal Effect</summary>
+  <p>Experts hebben andere cognitieve schemas dan beginners en denken daardoor op een andere manier dan beginners (en volgen stappen dus mogelijk in een andere volgorde). Daarmee moet je rekening houden bij het ontwerpen van de instructie.</p>
+  <p>Daarnaast kan een experts ook moeite hebben met het verwoorden van wat ze precies doen, omdat ze een procedure zo ver geautomatiseerd hebben.</p>
+</details>
+
+Procedures kunnen linear, vertakt, of cyclish zijn. Daarnaast volgen in de meeste procedures de stappen elkaar sequentieel op. Verder wordt er onderscheid gemaakt tussen twee soorten procedures:
+
+- **Algoritmes** bestaan uit beslisbomen die altijd leiden tot een uitkomst of oplossing.
+
+- **Heuristieken** bestaan wel uit stappen, maar het volgen van de stappen leidt niet altijd tot een oplossing. Het kan bijvoorbeeld mislukken.
+
+<details>
+  <summary>Checklist voor procedurele analyse</summary>
+  <ul>
+    <li><label><input type="checkbox"> Feedback/hints geidentificeerd?</label></li>
+    <li><label><input type="checkbox"> Algemeen geaccepteerde procedure, en geen persoonlijke voorkeur van de SME?</label></li>
+    <li><label><input type="checkbox"> Vertakkingen in de beslisboom geidentificeerd? (mits van toepassing)</label></li>
+    <li><label><input type="checkbox"> Kritieke stappen die verwonding of schade kunnen veroorzaken geidentificeerd?</label></li>
+  </ul>
+</details>
+
+> Een procedurele analyse kan ook extra informatie geven over de structuur van de inhoud, als aanvulling op de topicanalyse.
+
+### Critical incident analyse <small>(affectieve inhouden)</small>
+
+<!-- Een procedurele analyse werkt alleen goed als de taak zeer gestructureerd is, en is dus niet goed toe te passen in variable situaties (vaak sociaal/interpersoonlijk). Een alternatief is dat de critical incident analyse. -->
+
+Een critical incident analyse geeft inzicht in **processen** die <!--in tegen&shy;stelling tot sterk gestructureerde topic- en procedurele analyses,--> van keer tot keer verschillen, en wordt daarom veel gebruikt voor het analyseren van affectieve/interpersoonlijke vaardigheden.
+
+Deze analyse gaat uit van episodische kennis: welke factoren zijn kenmerken voor het slagen of falen van een proces? Hiervoor worden heel veel casussen onderzocht voor patronen.
+
+> Let op: dit heeft **niks te maken met critical incident needs**. Ja, dat is iid fking verwarrend.
+
 ## Leerdoelen
 
 ## Sequentiering
