@@ -400,6 +400,125 @@ Deze analyse gaat uit van episodische kennis: welke factoren zijn kenmerken voor
 
 ## Leerdoelen
 
+Leerdoelen vormen de basis voor het selecteren van instructiestrategiën en leeractiviteiten, en dienen daarnaast ook als basis van toetsing/evaluatie.
+
+### Leerdoeldomeinen
+
+Er zijn drie leerdoeldomeinen: cognitief, psychomotorisch en affectief. Binnen de domeinen structureren we leerdoelen met behulp van een **taxonomie**: een hiërarchisch ordeningssysteem.
+
+<table><thead>
+  <tr>
+    <th>Leerdoeldomein</th>
+    <th>Taxonomie</th>
+    <th>Niveau</th>
+    <th>Toelichting</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="6">Cognitief</td>
+    <td rowspan="6">Bloom</td>
+    <td>onthouden</td>
+    <td>retrieval van specifieke informatie</td>
+  </tr>
+  <tr>
+    <td>begrijpen</td>
+    <td>betekenis construeren uit informatie</td>
+  </tr>
+  <tr>
+    <td>toepassen</td>
+    <td>een procedure uitvoeren</td>
+  </tr>
+  <tr>
+    <td>analyseren</td>
+    <td>informatie opbreken en relaties beschrijven</td>
+  </tr>
+  <tr>
+    <td>evalueren</td>
+    <td>beslissingen maken of voorspellingen doen</td>
+  </tr>
+  <tr>
+    <td>creëren</td>
+    <td>uit informatie nieuwe kennis construeren</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Psychomotorisch</td>
+    <td rowspan="5">Heinich</td>
+    <td>imitatie</td>
+    <td>een geobserveerde handeling nadoen</td>
+  </tr>
+  <tr>
+    <td>manipulatie</td>
+    <td>met begeleiding zelf uitvoeren</td>
+  </tr>
+  <tr>
+    <td>precisie</td>
+    <td>met hogere precisie/accuratie uitvoeren</td>
+  </tr>
+  <tr>
+    <td>articulatie</td>
+    <td>efficiënte en gecoordineerd uitvoeren</td>
+  </tr>
+  <tr>
+    <td>naturalisatie</td>
+    <td>handeling is geautomatiseerd</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Affectief</td>
+    <td rowspan="5">Krathwohl</td>
+    <td>ontvangen</td>
+    <td>bereid zijn aandacht te geven</td>
+  </tr>
+  <tr>
+    <td>reageren</td>
+    <td>bereid zijn te participeren/meedoen</td>
+  </tr>
+  <tr>
+    <td>waarderen</td>
+    <td>waardes herkennen en accepteren of weigeren<!--  door positieve of negatieve houding--></td>
+  </tr>
+  <tr>
+    <td>organiseren</td>
+    <td>waardes organiseren en prioritiseren<!--; omgaan met situaties waarin meerdere waardes van toepassing zien; relaties tussen waardes zien; waardes selecteren.--></td>
+  </tr>
+  <tr>
+    <td>commitment</td>
+    <td>consistent waardes toepassen in eigen gedrag</td>
+  </tr>
+</tbody></table>
+
+<details style="margin-top: 1em" open>
+  <summary>Kibler's indeling van spiergroepen</summary>
+  <p>Bij psychomotorische leerdoelen kan je ook de taxonomie van Kibler gebruiken. Deze categoriseert benodigde spiergroepen.</p>
+  <table><thead>
+    <tr>
+      <th>Niveau</th>
+      <th>Voorbeelden</th>
+    </tr></thead>
+  <tbody>
+    <tr>
+      <td>Grove motoriek</td>
+      <td>armen, benen, schouders, voeten</td>
+    </tr>
+    <tr>
+      <td>Fijne motoriek</td>
+      <td>handen, vingers, hand-oogcoordinatie, hand-oorcoordinatie</td>
+    </tr>
+    <tr>
+      <td>Non-verbaal</td>
+      <td>gezichtsuitdrukking, gebaren, lichaamstaal</td>
+    </tr>
+    <tr>
+      <td>Verbaal</td>
+      <td>spraak produceren, geluid en gebaren coordineren</td>
+    </tr>
+  </tbody>
+  </table>
+</details>
+
+### Leerdoelen formuleren
+
+...
+
 ## Sequentiering
 
 ## Instructiestrategiën
