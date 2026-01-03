@@ -198,7 +198,7 @@ Er zijn zeven soorten leerlingkenmerken:
 
 - **Achtergrondkenmerken**: gender, leeftijd, ervaring, opleiding, etniciteit etc.
 
-- **Specifieke toegangskenmerken**: voorkennis of vaardigheden die nodig zijn om toegang te krijgen tot de instructie (bijv. kunnen lezen of een muis gebruiken).
+- **Toegangskenmerken**: bepaalde voorkennis of vaardigheden die nodig zijn om *toegang* te krijgen tot de instructie (bijv. kunnen lezen of een muis gebruiken).
 
 - **Leervoorkeuren**: er is geen bewijs voor *leerstijlen*, maar wel voor *voorkeuren*; leerlingen kunnen bepaalde werkvormen kennen of fijn vinden, en daarom minder weerstand geven.
 
@@ -566,6 +566,9 @@ Mager-style leerdoelen bestaan uit vier onderdelen:
   </ul>
 </details>
 
+TODO: overzicht met werkwoorden per taxonomieniveau
+TODO: performance-content matrix
+
 ### Gronlund-style <small>(cognitief)</small>
 
 Mager-style leerdoelen specificeren het gedrag dat de lerende moet vertonen, maar geven geen inzicht in het onderliggende intentie/reden, en zijn daarom soms een slecht handvat voor instructieverantwoordelijken en lerenden.
@@ -575,10 +578,71 @@ Gronlund-style is een alternatief voor het formuleren van leerdoelen voor het co
 - het algemene leerdoel ('een grafiek interpreteren')
 - het gedrag ('herkennen dat een product ondergemiddeld verkoopt')
 
+## Sequentiëring
 
-## Sequentiering
+Sequentiëring is het bepalen van de volgorde van de leerdoelen en inhoud van de instructie. De sequentiëring moet ervoor zorgen dat de lerende de leerdoelen op een zo efficiënt en effectief mogelijke manier kan bereiken.
+
+Er zijn twee theoriën voor het sequentiëren: Posner & Strike (1976), en Reigeluth (1996).
+
+### Posner & Strike
+
+Posner en Strike (1976) identificeren drie manieren om inhoud te sequentiëren: learner-related, world-related, en concept-related.
+
+#### Learner-related
+
+Learner-related sequentiëren gaat uit van de leerlingkenmerken uit de doelgroepanalyse. Je sequentiërt op:
+
+- **Toegangskenmerken** ('identifiable prerequisite'): eerst bepaalde voorkennis of vaardigheden die nodig zijn om *toegang* te krijgen tot de instructie behandelen.
+
+- **Bekendheid** ('familiarity'): beginnen met bekendere stof, en daarna pas onbekende stof behandelen; aansluiten bij leefwereld van de lerende.
+
+- **Moeilijkheidsgraad** ('difficulty'): beginnen met makkelijkere stof, en daarna pas moeilijkere stof behandelen.
+
+<!-- Bepaald door hoe specifiek onderscheid gemaakt moet worden, de snelheid waarmee een procedure moet worden uitgevoerd, en de cognitive load. -->
+
+- **Interesse** ('interest'): beginnen met stof die het meest motiveert, daarna meer diepgang bieden/randonderwerpen behandelen.
+
+- **Ontwikkeling** ('development'): eerst een bepaald niveau halen voordat verdere stof aan bod komt; materiaal moet aansluiten op de ontwikkeling van de lerende.
+
+> Voor beginners is het belangrijk dat stof sequentieel, en niet concurrently(!) wordt behandeld.
+
+#### World-related
+
+World-related sequentiëring wordt gebruikt voor inhoud zoals objecten, mensen, of gebeurtenissen, die een specifieke volgorde hebben in de wereld, vaak aansluitend bij de werkwijze van de doelgroep. Je sequetiërt op:
+
+- **Ruimtelijkheid** ('spatial relations'): links&rarr;rechts, boven&rarr;onder, noord&rarr;zuid.
+- **Chronologie** ('temporal relations'): begin&rarr;einde, eerste&rarr;laatste, snel&rarr;langzaam.
+- **Fysieke kenmerken** ('physical attributes'): rondheid, vorm, textuur, groot&rarr;klein.
+
+#### Concept-related
+
+Concept-related sequentiëring sluit aan bij hoe we de wereld conceptueel organiseren, in begrippen. Je sequentiërt op:
+
+- **Klasse relaties**: classificatie van algemeen naar specifiek; eerst de eigenschappen van een groep behandelen, daarna de leden/onderdelen.
+
+- **Propositionele relaties**: beginnen met voorbeelden; eerst uitleggen *dat* iets gebeurt (voorbeeld), daarna *waarom* het precies gebeurt (regel/principe).
+
+- **Verdiepende taakstructuur**: beginnen met concrete of simpele stof, daarna pas abstractere of complexere stof behandelen.
+
+- **Logical prerequisite**: een logische volgorde op basis van vereiste voorkennis. Gerelateerd aan toegangskenmerken.
+
+<!--TODO: logical prerequisite verder uitwerken aan de hand van hoorcollege terugkijken.-->
+
+### Elaboratietheorie van Reigeluth
+
+Elaboraboratietheorie stelt dat sequentiëring verschilt per type expertise dat de lerende ontwikkelt:
+
+- **Kennis** ('content-expertise'): begin met brede overkoepelende stof ('superordinate'), behandel daarna gerelateerde stof ('coordinate'), en tot slot afhankelijke ('subordinate') begrippen.
+
+- **Vaardigheid** ('task-expertise'): begin met simpele taken, en daarna komen steeds moeilijkere taken.
+
+Beide typen expertise krijgen geleidelijk meer diepgang: beginnen met eenvoudige stof, waarna complexere stof wordt aangeboden.
+
+<!--TODO: bovenstaande verduidelijken aan de hand van hoorcollege terugkijken.-->
 
 ## Instructiestrategiën
+
+### Performance-content matrix
 
 ## Lesmaterialen ontwerpen
 
