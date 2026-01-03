@@ -30,8 +30,8 @@ title: Ontwerpen van leersituaties
 
   Voordelen van instructional design: het lost een performance probleem op, en daarbij:
 
-  - is er minder tijd nodig voor de cursus (dus minder tijd off-task)
-  - zijn er grotere leeropbrengst/productiviteitsopbrengsten
+  - is er minder tijd nodig voor de cursus (dus minder tijd off-task).
+  - zijn er grotere leeropbrengst/productiviteitsopbrengsten.
 
 - **Formele educatie** is een brede, algemene opleiding, gericht op het voorbereiden van lerenden op bijdrage aan de samenleving. Aangeleerde kennis of vaardigheden worden mogelijk pas (ver) in de toekomst toegepast.
 
@@ -515,9 +515,66 @@ Er zijn drie leerdoeldomeinen: cognitief, psychomotorisch en affectief. Binnen d
   </table>
 </details>
 
+> #### Relaties tussen leerdoeldomeinen
+>
+> De leerdoeldomeinen zijn nauw met elkaar verbonden:
+>
+> - Een leerdoel kan bij meerdere leerdoeldomeinen horen.
+> - Attitudes zijn vaak voorwaardelijk voor verder leren in de andere leerdoeldomeinen.
+
 ### Leerdoelen formuleren
 
-...
+Leerdoelen opstellen gaat in vier stappen:
+
+1. Haal uit de taakanalyse de essentiele kennis, vaardigheden en attitudes.
+2. Groepeer deze in clusters per doel/need uit de behoefte-/doelanalyse.
+3. Schrijf per cluster een leerdoel.
+4. Schrijf aanvullende leerdoelen voor essentiele inhoud die nog niet in de leerdoelen staat.
+
+> Leerdoelen kunnen afwijken van de doelen geidentificeerd in de behoefte- en doelanalyses:
+>
+> - **Andere probleemstelling**: de SME kan het probleem beter begrijpen en een andere inhoud/focus aanbrengen.
+> - **Andere oplossing**: de SME kan een andere oplossingsstrategie hebben om het probleem op te lossen.
+
+Er zijn twee **stijlen** voor het opstellen van leerdoelen: Mager-style en Gronlund-style. Voor beide geldt: leerdoelen beschrijven leeropbrengsten, niet de processen/activiteiten om die te bereiken.
+
+### Mager-style <small>(gedragsmatig)</small>
+
+Mager-style leerdoelen beantwoorden de vraag *'welk gedrag kan een lerende vertonen om aan te tonen de kennis of vaardigheden aangeboden tijdens de instructie te beheersen?'*, en zijn te gebruiken voor alle leerdoeldomeinen.
+
+Mager-style leerdoelen bestaan uit vier onderdelen:
+
+| Onderdeel | Toelichting |
+|--|--|
+| Actief&nbsp;werkwoord<br>(verplicht) | Beschrijft het gedrag dat de lerende moet vertonen; afhankelijk van het gekozen taxonomieniveau. |
+| Onderwerp/inhoud (verplicht) | Beschrijft de inhoud die het leerdoel behandelt (het instrument of de focus of van het gedrag). |
+| Criterium<br>(optioneel) | Een norm waaraan de lerende moet voldoen; normering (60% goed), tijdslimiet, precisie, criteria. |
+| Conditie<br>(optioneel) | Eventuele hulpmiddelen of handicaps die de lerende heeft tijdens het uitvoeren. |
+
+<details style="margin-top: 1em">
+  <summary>Leerdoelen in het psychomotorisch domein</summary>
+  <p>In het psychomotorische domein ligt de nadruk vaak veel meer op het criterium en de conditie. Let wel op dat 100% beheersing voor beginners vaak onrealistisch is.</p>
+</details>
+
+<details>
+  <summary>Leerdoelen in het affectieve domein</summary>
+  <p>In het affectieve domein zijn leerdoelen moeilijker op te stellen, omdat attitudes/houdingen of interpersoonlijke vaardigheden minder makkelijk concreet meetbaar zijn.</p>
+  <p>Stel leerdoelen op in twee delen (vergelijkbaar met Gronlund-style):</p>
+  <ul>
+    <li>Het onderliggende mentale onderdeel ('de gedachte') van de houding</li>
+    <li>Gedrag dat deze houding zou kunnen vertegenwoordigen</li>
+  </ul>
+</details>
+
+### Gronlund-style <small>(cognitief)</small>
+
+Mager-style leerdoelen specificeren het gedrag dat de lerende moet vertonen, maar geven geen inzicht in het onderliggende intentie/reden, en zijn daarom soms een slecht handvat voor instructieverantwoordelijken en lerenden.
+
+Gronlund-style is een alternatief voor het formuleren van leerdoelen voor het cognitieve domein, bestaand uit twee onderdelen:
+
+- het algemene leerdoel ('een grafiek interpreteren')
+- het gedrag ('herkennen dat een product ondergemiddeld verkoopt')
+
 
 ## Sequentiering
 
