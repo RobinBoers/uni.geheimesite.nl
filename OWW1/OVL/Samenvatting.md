@@ -672,21 +672,24 @@ Concept-related sequentiëring sluit aan bij hoe we de wereld conceptueel organi
 
 - **Verdiepende taakstructuur**: beginnen met concrete of simpele stof, daarna pas abstractere of complexere stof behandelen.
 
-- **Logical prerequisite**: een logische volgorde op basis van vereiste voorkennis. Gerelateerd aan toegangskenmerken.
-
-<!--TODO: logical prerequisite verder uitwerken aan de hand van hoorcollege terugkijken.-->
+- **Logische prerequisite**: een logische volgorde op basis van vereiste voorkennis<!--(bottom-up)-->. Je maakt als het ware een dependency-graph waarin bepaalde kennis andere voorkennis vereist.
 
 ### Elaboratietheorie van Reigeluth
 
-Elaboraboratietheorie stelt dat sequentiëring verschilt per type expertise dat de lerende ontwikkelt:
+Elaboraboratietheorie wordt ook de zoomlens-methode genoemd. Er is sprake van een epitoom: de kern van de stof. Elaboraties bieden geleidelijk meer diepgang. Je kan hierin twee keuzes:
 
-- **Kennis** ('content-expertise'): begin met brede overkoepelende stof ('superordinate'), behandel daarna gerelateerde stof ('coordinate'), en tot slot afhankelijke ('subordinate') begrippen.
+- Je begint met het geheel, en zoomt dan daarna in op elk onderdeel.
+- Of: je begint met losse onderdelen, en werkt naar het geheel toe.
+
+Het 'zoomen' verschilt per type expertise dat de lerende ontwikkelt:
+
+- **Kennis** ('content-expertise'):
+
+  - **Conceptueel**: begin met brede overkoepelende ('superordinate') stof, behandel daarna gerelateerde ('coordinate') stof, en tot slot afhankelijke ('subordinate') begrippen.
+
+  - **Theoretisch**: de volgorde die ook tot de eerste ontdekking van een idee heeft geleidt; beginnen met concrete observaties, en het wordt daarna steeds abstracter/complexer.
 
 - **Vaardigheid** ('task-expertise'): begin met simpele taken, en daarna komen steeds moeilijkere taken.
-
-Beide typen expertise krijgen geleidelijk meer diepgang: beginnen met eenvoudige stof, waarna complexere stof wordt aangeboden.
-
-<!--TODO: bovenstaande verduidelijken aan de hand van hoorcollege terugkijken.-->
 
 ## Instructiestrategieën
 
