@@ -64,7 +64,7 @@ Het ontwerpmodel van Morrison et al. (2013) bestaat uit negen stappen:
 3. Taakanalyse
 4. Leerdoelen
 5. Sequentiëring
-6. Instructiestrategiën
+6. Instructiestrategieën
 7. Ontwerpen van lesmaterialen
 8. Produceren van lesmaterialen
 9. Evaluatie
@@ -190,7 +190,7 @@ Een doelanalyse begint met een probleem, need of performance gap dat al geidenti
 
 ## Doelgroep en context
 
-De kenmerken van de doelgroep en context zijn belangrijk en hebben invloed op het instappunt in de ontwerpcyclus, de selectie van inhoud, de keuzes van sequentiering en leerdoelen, de diepgang en de keuze van instructiestrategiën.
+De kenmerken van de doelgroep en context zijn belangrijk en hebben invloed op het instappunt in de ontwerpcyclus, de selectie van inhoud, de keuzes van sequentiering en leerdoelen, de diepgang en de keuze van instructiestrategieën.
 
 ### Leerlingkenmerken (doelgroepanalyse)
 
@@ -213,7 +213,7 @@ Er zijn zeven soorten leerlingkenmerken:
 <details>
   <summary>Verschil tussen motivatie en houding</summary>
   <p>Houding is anders dan motivatie. Een leerling kan gemotiveerd en geinteresseerd zijn, maar weinig zelfvertrouwen hebben en daarom minder goed leren/presteren.</p>
-  <p>Daar ga je anders mee om dan met ongemotiveerde leerlingen. Ongemotiveerde leerlingen geef je externe prikkels, voor onzekere leerlingen gebruik je strategiën om zelfvertrouwen te verbeteren.</p>
+  <p>Daar ga je anders mee om dan met ongemotiveerde leerlingen. Ongemotiveerde leerlingen geef je externe prikkels, voor onzekere leerlingen gebruik je strategieën om zelfvertrouwen te verbeteren.</p>
 </details>
 
 <!--
@@ -400,7 +400,7 @@ Deze analyse gaat uit van episodische kennis: welke factoren zijn kenmerken voor
 
 ## Leerdoelen
 
-Leerdoelen vormen de basis voor het selecteren van instructiestrategiën en leeractiviteiten, en dienen daarnaast ook als basis van toetsing/evaluatie.
+Leerdoelen vormen de basis voor het selecteren van instructiestrategieën en leeractiviteiten, en dienen daarnaast ook als basis van toetsing/evaluatie.
 
 ### Leerdoeldomeinen
 
@@ -567,7 +567,6 @@ Mager-style leerdoelen bestaan uit vier onderdelen:
 </details>
 
 TODO: overzicht met werkwoorden per taxonomieniveau
-TODO: performance-content matrix
 
 ### Gronlund-style <small>(cognitief)</small>
 
@@ -578,6 +577,53 @@ Gronlund-style is een alternatief voor het formuleren van leerdoelen voor het co
 - het algemene leerdoel ('een grafiek interpreteren')
 - het gedrag ('herkennen dat een product ondergemiddeld verkoopt')
 
+### Performance-contentmatrix
+
+Met de PC-matrix breng je in kaart welke inhouds&shy;structuren ('content') op welk cognitief niveau ('performance'; recall of application) bij een leerdoel passen. Bijvoorbeeld:
+
+<table><thead>
+  <tr>
+    <th rowspan="2">Content</th>
+    <th colspan="2">Performance</th>
+  </tr>
+  <tr>
+    <th>Recall</th>
+    <th>Application</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Feiten</td>
+    <td>x</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Concepten</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Principes/regels</td>
+    <td></td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Procedures</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Interpersoonlijk</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Attitudes</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
 ## Sequentiëring
 
 Sequentiëring is het bepalen van de volgorde van de leerdoelen en inhoud van de instructie. De sequentiëring moet ervoor zorgen dat de lerende de leerdoelen op een zo efficiënt en effectief mogelijke manier kan bereiken.
@@ -587,6 +633,8 @@ Er zijn twee theoriën voor het sequentiëren: Posner & Strike (1976), en Reigel
 ### Posner & Strike
 
 Posner en Strike (1976) identificeren drie manieren om inhoud te sequentiëren: learner-related, world-related, en concept-related.
+
+> Je houdt *altijd* rekening met learner-related sequentiëren, en dat kan je vervolgens aanvullen met world-related of concept-related sequentiëren.
 
 #### Learner-related
 
@@ -604,7 +652,7 @@ Learner-related sequentiëren gaat uit van de leerlingkenmerken uit de doelgroep
 
 - **Ontwikkeling** ('development'): eerst een bepaald niveau halen voordat verdere stof aan bod komt; materiaal moet aansluiten op de ontwikkeling van de lerende.
 
-> Voor beginners is het belangrijk dat stof sequentieel, en niet concurrently(!) wordt behandeld.
+> Voor beginners is het belangrijk dat stof sequentieel (niet gelijktijdig!) wordt behandeld.
 
 #### World-related
 
@@ -640,9 +688,133 @@ Beide typen expertise krijgen geleidelijk meer diepgang: beginnen met eenvoudige
 
 <!--TODO: bovenstaande verduidelijken aan de hand van hoorcollege terugkijken.-->
 
-## Instructiestrategiën
+## Instructiestrategieën
 
-### Performance-content matrix
+Instructiestrategieën betreffen het strategisch inzetten van instructie&shy;activiteiten, om leer&shy;activiteiten bij de lerenden te bereiken. Met andere woorden: ze bepalen het didactisch handelen met als doel het bereiken van de leerdoelen.
+
+Een instructiestrategie bestaat uit twee onderdelen:
+
+- **Initiële presentatie**: hoe brengt de methode of docent de stof voor het eerst over?
+- **Verwerkingsstrategie**: hoe verwerken lerenden de stof (actief!) om deze eigen te maken?
+
+### Initiële presentatie
+
+De initiële presentatie is de eerste kennismaking met nieuwe stof. Voorbeelden kunnen zijn: leertekst, video, uitleg door leerkracht, peer-instructie, tabellen/mindmaps, (rollen)spel.
+
+> De keuze voor een initiële presentatie hangt af van verschillende factoren, waaronder: mate van voorkennis, tijd, diepgang, de PC-matrix, en de te behandelen inhoud zelf.
+
+<details open>
+  <summary>Voorbeelden als initiële presentatie</summary>
+  <p>Er zijn een aantal manieren waarop je voorbeelden kan inzetten als initiële presentatie:</p>
+  <ul>
+    <li><p><b>Uitgewerkte voorbeelden</b> (‘worked examples’): een volledig uitgewerkt voorbeeld, inclusief denkstappen. Vooral effectief als de leerling tijd krijgt deze geconcentreerd en aandachtig te bestuderen.</p></li>
+    <li><p><b>Demostraties</b> (‘modeling examples’): de instructie&shy;verantwoordelijke demostreert de uitvoering van een procedure, en legt daarbij hardop denkstappen uit. Dit kan ook in de vorm van een video.</p></li>
+    <li><p><b>Concrete voorbeelden</b>: voorbeelden in de vorm van plaatjes, beschrijvingen, casussen etc. Het is vooral belangrijk dat het er <em>genoeg</em> zijn, omdat de lerende dan de kans krijgt door middel van patroonherkenning een algemene regel te vinden.</p></li>
+  </ul>
+</details>
+
+<details open>
+  <summary>Afbeeldingen als initiële presentatie</summary>
+  <p>Bij het inzetten van afbeeldingen als initiële presentatie moet je rekening houden met de multimedia principes van Mayer (zie <a href="#lesmaterialen-ontwerpen">lesmateriaal ontwerpen</a>). Daarnaast kunnen afbeeldingen verschillende functies hebben:</p>
+  <ul>
+    <li>
+      <p><strong>Decoratie</strong>: geen directe relatie tot lesstof; aantrekkelijkheid<!--(en daarmee sales boosten)-->, motivationeel, “opbreken” van pagina’s tekst die anders als overweldigend ervaren kunnen worden.</p>
+    </li>
+    <li>
+      <p><strong>Representatie</strong>: illustreert de tekstinhoud; de afbeelding representeert mensen, dingen, of gebeurtenissen en maakt daarmee de leertekst betekenisvoller.</p>
+    </li>
+    <li>
+      <p><strong>Organisatie</strong>: stappenplannen; gebruikt voor procedures (denk ‘ikea’), maar ook concepten en principes (denk ‘koolstofkringloop’ of ‘bloedcirculatie’).</p>
+    </li>
+    <li>
+      <p><strong>Interpretatie</strong>: bieden visuele interpretatie van ingewikkelde of abstracte informatie; vaak vergelijkingen of metaforen (bijvoorbeeld waterpomp bij uitleg over het hart).</p>
+    </li>
+    <li>
+      <p><strong>Transformatie</strong>: een visueel ezelsbruggetje (bijvoorbeeld het aantal dagen in de maand onthouden met de knokkels op je hand).</p>
+    </li>
+  </ul>
+  <blockquote>
+    <p>De functie van een afbeelding wordt niet zo zeer bepaald door de afbeelding zelf, maar door het <em>doel</em> waarmee de afbeelding gebruikt wordt.</p>
+  </blockquote>
+</details>
+
+### Verwerkingsstrategieën
+
+De strategieën die we hier bespreken zijn gebaseerd op de **generative-learning approach** van Wittrock (1974). Die stelt dat leren een actief proces is, waarbij de lerende betekenisvolle verbindingen maakt tussen voorkennis en nieuwe informatie.
+
+<!--
+Integratie van nieuwe informatie met voorkennis zorgt namelijk voor beter begrip en maakt het makkelijker deze op te slaan in het langetermijngeheugen.
+
+Informatie kan op twee manieren verwerkt worden (Craik & Lockhart, 1972):
+
+- **Phonemic**: je verwerkt de informatie maar doet er niks mee.
+- **Semantic**: je haalt actief betekenis uit de informatie.
+
+Door informatie op een semantic manier te verwerken, en te relateren aan voorkennis, vorm je sterkere cognitieve schema's en memory traces, waardoor je de informatie beter kan toepassen en minder snel vergeet.
+
+De instructiestrategieën moeten daarom:
+
+1. Voorkennis activeren en ophalen.
+2. Bestaande schema's aanpassen en re-encoden.
+-->
+
+Volgens Jonassen (1988) zijn er vier opeenvolgende categoriën:
+
+- **Recall**: kennis actief ophalen uit langetermijngeheugen.
+- **Integratie**: nieuwe informatie koppelen aan opgehaalde voorkennis.
+- **Organisatie**: integreren en vervolgens structuur aanbrengen.
+- **Elaboratie**: nieuwe informatie <dfn title="voorbeelden bedenken, analogiën maken">uitbreiden</dfn> of nieuwe kennis <dfn title="toepassen in nieuwe situaties">produceren</dfn>.
+
+> In <cite>Wijze lessen</cite> worden dit "productieve strategieën" genoemd, en gebruiken ze de indeling: selecteren, organiseren, integreren. We beschouwen Jonassen (1988) echter als leidend.
+
+Voorbeelden van verwerkingsstrategieën kunnen zijn: opdrachten maken, debateren, peer-instructie geven, een verslag schrijven, mindmap maken, voorbeelden bedenken, (rollen)spel.
+
+> Maar *geen* passieve verwerking zoals: tekst overschrijven, invuloefeningen met losse informatie, kijken naar een video zonder interactie.
+
+### Leerdoel-strategiematrix
+
+<table><thead>
+  <tr>
+    <th colspan="2">↓&nbsp;leerdoel&nbsp;/&nbsp;strategie&nbsp;→</th>
+    <th rowspan="2" style="text-align: center">Initiële presentatie</th>
+    <th colspan="4" style="text-align: center">Generatieve strategie</th>
+    <th rowspan="2" style="text-align: center">Uitwerking generatieve&nbsp;strategie</th>
+  </tr>
+  <tr>
+    <th>Leerdoel <small>(+ C/P/A)</small></th>
+    <th>PC&#8209;matrix</th>
+    <th style="text-align: center">R</th>
+    <th style="text-align: center">I</th>
+    <th style="text-align: center">O</th>
+    <th style="text-align: center">E</th>
+  </tr></thead>
+<tbody style="vertical-align: top">
+  <tr>
+    <td>De leerling legt in eigen woorden uit wat het belang van zwaartekracht is (C).</td>
+    <td>principe-application</td>
+    <td>Uitleg met een PowerPoint presentatie.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td>Het maken van een tekening over hoe de wereld eruit zou zien zonder zwaartekracht.</td>
+  </tr>
+  <tr>
+    <td>De leerling reageert open en nieuwsgierig door vragen te stellen en feedback te verwerken (A).</td>
+    <td>attitude-application</td>
+    <td>Uitleg aan de hand van een filmpje met een goed en slecht voorbeeld.</td>
+    <td></td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+    <td>De leerlingen passen de uitleg toe tijdens een peer-feedback ronde, waarbij ze een reflectieformulier invullen.</td>
+  </tr>
+</tbody>
+</table>
+
+<!-- algemene voorbeelden uit morrison -->
+<!-- TODO: constructive aligment(again??) -->
+<!-- TODO: leer- en instructietheoriën -->
 
 ## Lesmaterialen ontwerpen
 
