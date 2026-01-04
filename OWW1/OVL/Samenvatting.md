@@ -566,7 +566,7 @@ Mager-style leerdoelen bestaan uit vier onderdelen:
   </ul>
 </details>
 
-TODO: overzicht met werkwoorden per taxonomieniveau
+<!-- TODO: overzicht met werkwoorden per taxonomieniveau -->
 
 ### Gronlund-style <small>(cognitief)</small>
 
