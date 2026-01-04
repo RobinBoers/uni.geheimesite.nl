@@ -815,12 +815,104 @@ Voorbeelden van verwerkingsstrategieën kunnen zijn: opdrachten maken, debateren
 </tbody>
 </table>
 
-<!-- algemene voorbeelden uit morrison -->
-<!-- TODO: constructive aligment(again??) -->
-<!-- TODO: leer- en instructietheoriën -->
+### Leer- en instructietheoriën
+
+### Toepassingen
+
+#### Feiten
+
+#### Concepten
+
+#### Principes en regels
+
+#### Procedures
+
+#### Interpersoonlijke skills
+
+#### Attitudes
 
 ## Lesmaterialen ontwerpen
 
+### Pre-instructie
+
+#### Pretest
+
+#### Leerdoelen
+
+#### Advance organizers
+
+- Text
+- Graphic
+
+### Cognitive load
+
+- Goal-free effect
+- Worked-example effect
+- Split-attention effect
+- Redundancy
+
+### Signaling
+
+#### Tekststructuur
+
+#### Signaalwoorden
+
+#### Typografisch
+
+#### Grafisch
+
+### Afbeeldingen
+
+#### Multimediaprincipes
+
+#### Overwegingen voor het gebruik van afbeeldingen
+(^put in details box?)
+
+- Beschikbaarheid
+- Productiekosten
+
+### Begrijpend lezen
+
+...
+
+### Computer-based instruction
+
+#### Vormen
+
+- Drill-and-practise
+- Tutorials
+- Simulaties
+- Games
+- Hypermedia
+
+### Design principles
+
+- User interface
+- Controle
+- Feedback
+- Remidation
+
 ## Lesmaterialen produceren
+
+### Heuristieken
+
+### Instructiemethodes
+
+#### Lectures
+
+##### Online lectures
+(^put in a details box as well)
+
+#### Self-paced learning
+
+#### Small-group formats
+
+- Debateren
+- Guided-design
+- Case study
+- Rollenspel
+- Simulatie
+- Games
+- Samenwerkend leren
 
 ## Evaluatie
