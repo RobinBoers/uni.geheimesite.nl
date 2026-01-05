@@ -884,66 +884,81 @@ Signaling in teksten helpt lerenden in het vormen van een mentaal model. Signale
 
 Er zijn vier manieren van signaling: tekststructuur, signaalwoorden, typografisch, grafisch.
 
-#### Tekststructuur
+<details>
+  <summary>Tekststructuur & signaalwoorden</summary>
+  <p>Er zijn vijf veelvoorkomende tekststructuren voor signaling:</p>
+  <ul>
+    <li>Unordered lists</li>
+    <li>Vergelijkingen</li>
+    <li>Chronologische volgorde</li>
+    <li>Oorzaak en gevolg</li>
+    <li>Definitie en voorbeeld</li>
+  </ul>
+  <p>Deze tekststructuren kunnen worden aangeduid door signaalwoorden (‘pointer words’). Deze worden gebruikt om de lezer te laten weten wat te verwachten van de komende informatie. Dit draagt bij aan de cohesie van de tekst en schemaconstructie.</p>
+  <blockquote>
+    <p>Vermijd overmatig gebruik van signaalwoorden. Dit werkt afleidend en kan zorgen dat lezers meer moeite hebben de kern uit de tekst te halen.</p>
+  </blockquote>
+</details>
 
-Er zijn vijf veelvoorkomende tekststructuren voor signaling:
+<details>
+  <summary>Typografische signaling</summary>
+  <p>Door middel van typografische elementen kan structuur worden aangeduid en kunnen belangrijke woorden, zinsdelen of ideeën uitgelicht worden.</p>
+  <ul>
+    <li>
+      <p><strong>Koppen</strong>: koppen geven de verandering van het onderwerp aan, en helpen lerenden de lesstof te organiseren (sequentieel or hiërarchisch).</p>
+    </li>
+    <li>
+      <p><strong>Layout</strong>: door middel van whitespace kan aandacht getrokken worden naar bepaalde inhoud of kunnen elementen gegroepeerd worden.</p>
+    </li>
+    <li>
+      <p><strong>Typografische variaties</strong>: belangrijke informatie kan uitgelicht worden door deze anders te drukken (dik, schuin, onderstreept, doorhalen). De variatie in typografie trekt de aandacht van de lerende.</p>
+      <blockquote>
+        <p>Echter kan teveel variatie de lerende overweldigen; maak niet alles dikgedrukt. Ook moet het gebruik van variatie consistent zijn door de gehele instructie; begrippen mogen niet in één hoofdstuk dikgedrukt zijn, en in het volgende schuingedrukt.</p>
+      </blockquote>
+    </li>
+  </ul>
+</details>
 
-- Unordered lists
-- Vergelijkingen
-- Chronologische volgorde
-- Oorzaak en gevolg
-- Definitie en voorbeeld
+<details>
+  <summary>Grafische signaling</summary>
+  <p>Grafische signals zijn vergelijkbaar met typografische signals, maar dan om belangrijke informatie binnen afbeeldingen uit te lichten.</p>
+  <ul>
+    <li><strong>Pijlen</strong> (of aanwijzen door de instructieverantwoordelijke)</li>
+    <li><strong>Tekstuele labels</strong> om componenten te identificeren</li>
+    <li><strong>Flashing</strong>: een gebied laten knipperen (mits mogelijk)</li>
+    <li><strong>Spotlighting</strong>: een gebied lichter maken dan de rest</li>
+    <li><strong>Graphical organizers</strong>, identiek aan de preinstructie strategie</li>
+    <li>Of een <strong>mix</strong> van verschillende bovenstaande grafische signalen</li>
+  </ul>
+</details>
 
-#### Signaalwoorden
+### Multimediaprincipes van Mayer
 
-Signaalwoorden ('pointer words') worden gebruikt om de lezer te laten weten wat te verwachten van de komende informatie. Dit draagt bij aan de cohesie van de tekst en schemaconstructie.
+...
 
-> Vermijd overmatig gebruik van signaalwoorden. Dit werkt afleidend en kan zorgen dat lezers meer moeite hebben de kern uit de tekst te halen.
+<details>
+  <summary>Overwegingen voor het gebruik van afbeeldingen</summary>
+  <ul>
+    <li>
+      <p><strong>Beschikbaarheid</strong>: er moet rekening gehouden worden met copyrightwetgeving bij het toevoegen van afbeeldingen. Er zijn drie categoriën:</p>
 
-#### Typografisch
-
-Door middel van typografische elementen kan structuur worden aangeduid en kunnen belangrijke woorden, zinsdelen of ideeën uitgelicht worden.
-
-- **Koppen**: koppen geven de verandering van het onderwerp aan, en helpen lerenden de lesstof te organiseren (sequentieel or hiërarchisch). 
-
-- **Layout**: door middel van whitespace kan aandacht getrokken worden naar bepaalde inhoud of kunnen elementen gegroepeerd worden.
-
-- **Typografische variaties**: belangrijke informatie kan uitgelicht worden door deze anders te drukken (dik, schuin, onderstreept, doorhalen). De variatie in typografie trekt de aandacht van de lerende.
-
-  > Echter kan teveel variatie de lerende overweldigen; maak niet alles dikgedrukt. Ook moet het gebruik van variatie consistent zijn door de gehele instructie; begrippen mogen niet in één hoofdstuk dikgedrukt zijn, en in het volgende schuingedrukt.
-
-#### Grafisch
-
-Grafische signals zijn vergelijkbaar met typografische signals, maar dan om belangrijke informatie binnen afbeeldingen uit te lichten.
-
-- **Pijlen** (of aanwijzen door de instructieverantwoordelijke)
-- **Tekstuele labels** om componenten te identificeren
-- **Flashing**: een gebied laten knipperen (mits mogelijk)
-- **Spotlighting**: een gebied lichter maken dan de rest
-- **Graphical organizers**, identiek aan de preinstructie strategie
-- Of een **mix** van verschillende bovenstaande grafische signalen
-
-### Afbeeldingen
-
-#### Multimediaprincipes
-
-#### Overwegingen voor het gebruik van afbeeldingen
-
-- **Beschikbaarheid**: er moet rekening gehouden worden met copyrightwetgeving bij het toevoegen van afbeeldingen. Er zijn drie categoriën:
-
-  - **Original art**: getekend of geanimeerd door een artiest of designer. Nadeel is dat je die wel moet betalen, en dat kan snel in de kosten lopen.
-  - **Clip art**: afbeeldingen die je kan kopiëren van het internet. Soms royalty-free, soms tegen betaling. Nadeel is dat clip-art wel generic is, en soms outdated kan zijn.
-  - **Fotografie**: foto's gemaakt door een professionele fotograaf, gekocht als stockfoto's, of zelf genomen. Kwaliteit is afhankelijk van de fotograaf.
-
-- **Productiekosten**: als het lesmateriaal digitaal wordt verspreidt is het invoegen van afbeelding vaak geen probleem. Echter, als het geprint moet worden kost dit vaak extra geldt. Dit is zeker het geval als de kleuraccuraatheid van de afbeeldingen van belang is, omdat dan soms duurdere printmethodes nodig zijn.
+      <ul>
+        <li><strong>Original art</strong>: getekend of geanimeerd door een artiest of designer. Nadeel is dat je die wel moet betalen, en dat kan snel in de kosten lopen.</li>
+        <li><strong>Clip art</strong>: afbeeldingen die je kan kopiëren van het internet. Soms royalty-free, soms tegen betaling. Nadeel is dat clip-art wel generic is, en soms outdated kan zijn.</li>
+        <li><strong>Fotografie</strong>: foto’s gemaakt door een professionele fotograaf, gekocht als stockfoto’s, of zelf genomen. Kwaliteit is afhankelijk van de fotograaf.</li>
+      </ul>
+    </li>
+    <li>
+      <p><strong>Productiekosten</strong>: als het lesmateriaal digitaal wordt verspreidt is het invoegen van afbeelding vaak geen probleem. Echter, als het geprint moet worden kost dit vaak extra geldt. Dit is zeker het geval als de kleuraccuraatheid van de afbeeldingen van belang is, omdat dan soms duurdere printmethodes nodig zijn.</p>
+    </li>
+  </ul>
+</details>
 
 ### Begrijpend lezen
 
 ...
 
 ### Computer-based instruction
-
-#### Vormen
 
 - Drill-and-practise
 - Tutorials
