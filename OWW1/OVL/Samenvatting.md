@@ -835,14 +835,34 @@ Voorbeelden van verwerkingsstrategieën kunnen zijn: opdrachten maken, debateren
 
 ### Pre-instructie
 
-#### Pretest
+De pre-instructie is de eerste introductie van nieuwe stof, en bereidt de lerende voor. Er zijn vier vormen: pretest, leerdoelen, overzicht, advance organizer.
 
-#### Leerdoelen
+- **Pre-test**: voorbereidende vragen die de lerende bewust maken van het onderwerp van de stof en handvatten bieden bij het volgen van de instructie. Er worden meestal geen antwoorden gegeven, omdat de vragen al beantwoord worden in de rest van de instructie. Meest effectief als de instructietijd kort is, zodat lerende gefocussed blijven op de vragen.
 
-#### Advance organizers
+<!--
+##### Richtlijnen:
 
-- Text
-- Graphic
+- Vragen moeten kort zijn, zodat leerlingen gefocussed blijven en de start van de instructie niet onnodig vertraagd/uitgesteld wordt.
+
+- De vragen zijn niet bedoeld om in één keer goed beantwoord te worden; dan zou de lerende de instructie niet meer nodig hebben. De vragen bieden handvatten bij het volgen van de instructie.
+
+- De vragen zijn open, en worden mentaal beantwoordt. Er zijn meestal geen antwoorden. De vragen moeten de leerling aansporen de tekst te lezen en highlighten belangrijke dingen.
+
+- Als er teveel leerdoelen zijn, kunnen de vragen een selectie van leerdoelen behandelen, in plaats van *alle* leerdoelen.
+-->
+
+- **Leerdoelen**: herhaling van de in voorgaande analyses opgestelde leerdoelen. <!--Er is geen algemene consensus over effectiviteit.--> Herschrijven in het woordenschat van de lerende is wel aanbevolen; daarij mogen de conditie en criteria worden weggelaten. Zorg ervoor dat je maximaal 7 leerdoelen geeft, om cognitive overload te voorkomen. Ineffectief bij instructie langer dan 2500 woorden, omdat lerende ze dan halverwege vergeten.
+
+
+- **Overzicht**: een korte samenvatting,  probleemstelling, relevantie; introduceert hoofdlijnen. Geschreven als lopende tekst (geen bulletpoints) op hetzelfde abstractie&shy;niveau als de instructie zelf. Houdt het kort (minder dan één pagina), om het werkgeheugen te ontlasten.
+
+- **Advance organizer**: vergelijkbaar met een overzicht, maar geschreven op een hoger abstractie&shy;niveau. Biedt een betekenisvol 'conceptueel raamwerk'. Er zijn drie vormen:
+
+  - **Comparitive organizer**: vergelijkt de nieuwe lesstof met vergelijkbare bestaande kennis (als de lerende al bekend is met het onderwerp van de instructie).
+
+  - **Expository organizer**: belicht aspecten van de nieuwe lesstof en integreert daarbij ook voorkennis (als de lerende nog niet bekend is met het onderwerp).
+
+  - **Graphic organizer** (concept of knowledge maps): grafisch overzicht van de lesstof, waarbij gerelateerde concepten met lijnen verbonden zijn. Effectief voor leerlingen met lage verbale vaardigheid.
 
 ### Cognitive load
 
