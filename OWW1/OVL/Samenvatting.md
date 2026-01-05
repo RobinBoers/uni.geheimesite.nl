@@ -876,13 +876,52 @@ De pre-instructie is de eerste introductie van nieuwe stof, en bereidt de lerend
 
 ### Signaling
 
+Signaling in teksten helpt lerenden in het vormen van een mentaal model. Signalen kunnen lokaal of globaal zijn.
+
+- **Globaal**: herhalende design elementen die voorkomen op vrijwel elke pagina, zoals paginanummers, iconografie, of de titel van het hoofdstuk of de paragraaf.
+
+- **Lokaal**: individuele design elementen die structuur aan de inhoud geven, zoals kopjes, typografie, kleuren, pijlen, omrandingen/vakjes etc.
+
+Er zijn vier manieren van signaling: tekststructuur, signaalwoorden, typografisch, grafisch.
+
 #### Tekststructuur
+
+Er zijn vijf veelvoorkomende tekststructuren voor signaling:
+
+- Unordered lists
+- Vergelijkingen
+- Chronologische volgorde
+- Oorzaak en gevolg
+- Definitie en voorbeeld
 
 #### Signaalwoorden
 
+Signaalwoorden ('pointer words') worden gebruikt om de lezer te laten weten wat te verwachten van de komende informatie. Dit draagt bij aan de cohesie van de tekst en schemaconstructie.
+
+> Vermijd overmatig gebruik van signaalwoorden. Dit werkt afleidend en kan zorgen dat lezers meer moeite hebben de kern uit de tekst te halen.
+
 #### Typografisch
 
+Door middel van typografische elementen kan structuur worden aangeduid en kunnen belangrijke woorden, zinsdelen of ideeën uitgelicht worden.
+
+- **Koppen**: koppen geven de verandering van het onderwerp aan, en helpen lerenden de lesstof te organiseren (sequentieel or hiërarchisch). 
+
+- **Layout**: door middel van whitespace kan aandacht getrokken worden naar bepaalde inhoud of kunnen elementen gegroepeerd worden.
+
+- **Typografische variaties**: belangrijke informatie kan uitgelicht worden door deze anders te drukken (dik, schuin, onderstreept, doorhalen). De variatie in typografie trekt de aandacht van de lerende.
+
+  > Echter kan teveel variatie de lerende overweldigen; maak niet alles dikgedrukt. Ook moet het gebruik van variatie consistent zijn door de gehele instructie; begrippen mogen niet in één hoofdstuk dikgedrukt zijn, en in het volgende schuingedrukt.
+
 #### Grafisch
+
+Grafische signals zijn vergelijkbaar met typografische signals, maar dan om belangrijke informatie binnen afbeeldingen uit te lichten.
+
+- **Pijlen** (of aanwijzen door de instructieverantwoordelijke)
+- **Tekstuele labels** om componenten te identificeren
+- **Flashing**: een gebied laten knipperen (mits mogelijk)
+- **Spotlighting**: een gebied lichter maken dan de rest
+- **Graphical organizers**, identiek aan de preinstructie strategie
+- Of een **mix** van verschillende bovenstaande grafische signalen
 
 ### Afbeeldingen
 
