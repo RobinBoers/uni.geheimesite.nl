@@ -928,10 +928,14 @@ Grafische signals zijn vergelijkbaar met typografische signals, maar dan om bela
 #### Multimediaprincipes
 
 #### Overwegingen voor het gebruik van afbeeldingen
-(^put in details box?)
 
-- Beschikbaarheid
-- Productiekosten
+- **Beschikbaarheid**: er moet rekening gehouden worden met copyrightwetgeving bij het toevoegen van afbeeldingen. Er zijn drie categoriën:
+
+  - **Original art**: getekend of geanimeerd door een artiest of designer. Nadeel is dat je die wel moet betalen, en dat kan snel in de kosten lopen.
+  - **Clip art**: afbeeldingen die je kan kopiëren van het internet. Soms royalty-free, soms tegen betaling. Nadeel is dat clip-art wel generic is, en soms outdated kan zijn.
+  - **Fotografie**: foto's gemaakt door een professionele fotograaf, gekocht als stockfoto's, of zelf genomen. Kwaliteit is afhankelijk van de fotograaf.
+
+- **Productiekosten**: als het lesmateriaal digitaal wordt verspreidt is het invoegen van afbeelding vaak geen probleem. Echter, als het geprint moet worden kost dit vaak extra geldt. Dit is zeker het geval als de kleuraccuraatheid van de afbeeldingen van belang is, omdat dan soms duurdere printmethodes nodig zijn.
 
 ### Begrijpend lezen
 
