@@ -866,10 +866,13 @@ De pre-instructie is de eerste introductie van nieuwe stof, en bereidt de lerend
 
 ### Cognitive load
 
-- Goal-free effect
-- Worked-example effect
-- Split-attention effect
-- Redundancy
+- **Goal-free effect**: lerenden gebruiken vaak de means-end methode bij het oplossen van problemen. Dat houdt in dat gegeven een doel, de kortste, meest efficiënte weg naar de oplossing gekozen wordt. Echter is de kortste niet altijd de weg waarbij het meest geleerd wordt, en heeft vaak ook een hogere intrinsic load. Opdrachten herformuleren als goal-free problems (opdrachten zonder één einddoel) kan cognitive load verminderen.
+
+- **Worked-example effect**: uitgewerkte voorbeelden laten stap voor stap zien hoe je een probleem oplost (inclusief denkstappen). Dit reduceert cognitive load omdat het niet nodig is stappen mentaal nog te 'vertalen'.
+
+- **Split-attention effect**: afbeeldingen en tekst die bij elkaar horen moeten zo dicht mogelijk bij elkaar geplaatst worden. Daardoor hoeven lerenden hun aandacht niet te verdelen, hoeven ze niet te 'zoeken', en verminder je cognitive load.
+
+- **Redundancy**: presenteer informatie één keer, voorkom dubbeling tussen tekst en afbeeldingen. Daardoor hoeft de lerende maar op één informatiebron te focussen, en verminder je belasting van het werkgeheugen.
 
 ### Signaling
 
@@ -916,7 +919,7 @@ De pre-instructie is de eerste introductie van nieuwe stof, en bereidt de lerend
 
 ### Heuristieken
 
-### Instructiemethodes
+### Delivery methods
 
 #### Lectures
 
