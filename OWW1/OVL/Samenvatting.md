@@ -795,7 +795,7 @@ Voorbeelden van verwerkingsstrategieën kunnen zijn: opdrachten maken, debateren
   <tr>
     <td>De leerling legt in eigen woorden uit wat het belang van zwaartekracht is (C).</td>
     <td>principe-application</td>
-    <td>Uitleg met een PowerPoint presentatie.</td>
+    <td>Uitleg met een PowerPoint-presentatie.</td>
     <td></td>
     <td></td>
     <td></td>
