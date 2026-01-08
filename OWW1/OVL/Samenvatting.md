@@ -1038,7 +1038,7 @@ De toetscyclus beschrijft de stappen die nodig zijn voor het ontwerpen van een t
 
 2. **Keuze toetsvorm**: de keuze van de toetsvorm is afhankelijk van het kennisdomein.
 
-    - **Cognitief**: open vragen/uitleg vragen, meerkeuze, ja-nee/juist-onjuist, verbinden.
+    - **Cognitief**: open vragen/uitleg vragen, meerkeuze, ja-nee/juist-onjuist, matching.
     - **Procedureel**: direct uitvoeren, ranking maken, rubric/beoordelingsmodel, portfolio.
     - **Attitudes**: gedragschecklist, anekdotes, observaties, vragenlijsten, interviews.
 
@@ -1071,7 +1071,90 @@ Na het ontwikkelen van de toets wordt deze afgenomen, en gaat het tweede deel va
 
 ### Soorten toetsvragen
 
+Er zijn verschillende soorten toetsvragen:
 
+- **Objectieve toetsvragen**: vragen waarbij één duidelijk goed antwoord is; de lerende hoeft niks te schrijven, alleen het markeren van het juiste antwoord is nodig.
+
+    - **Meerkeuze**: een stelling die afgemaakt moet worden. Bestaat uit een stam, en dan een aantal alternatieven, waaronder één goed antwoord, en verschillende foute antwoorden ('distractors').
+
+      <strong style="opacity: 0.5">Voordelen</strong>: verschillende taxonomieniveaus toetsen, en makkelijk na te kijken.  
+      <strong style="opacity: 0.5">Nadelen</strong>: toetst *herkenning*, geen *onthouden*, en het is moeilijk om goede meerkeuze vragen te formuleren.
+
+    - **Juist-onjuist**: een (lijst aan) stellingen die met juist of onjuist beantwoord kunnen worden. Vooral geschikt voor feitelijke informatie(<dfn title="volgens Morrison dan, maar uit eigen ervaring op de middelbare school denk ik dat je er ook heel goed hogere taxonomieniveaus of andere kennisstructuren mee kan toetsen">?</dfn>).
+
+      <strong style="opacity: 0.5">Voordelen</strong>: makkelijk te schrijven en na te kijken.  
+      <strong style="opacity: 0.5">Nadelen</strong>: toetst *herkenning*, geen *onthouden*, en de raadkans (\\(50\%\\)) is hoog.
+
+    - **Matching**: twee rijen met items waartussen de lerenden relaties moet identificeren. Geschikt voor het verbinden van:
+    
+        - Begrippen en hun definities
+        - Gebeurtenissen en hun datums
+        - Personen en hun acties
+        - Principes en hun beschrijvingen of toepassingen
+        - Concepten en hun functies of onderdelen
+
+      <strong style="opacity: 0.5">Voordelen</strong>: bespaart ruimte tenopzichte van het gebruik van individuele meerkeuzevragen, en de gokkans is kleiner.  
+      <strong style="opacity: 0.5">Nadelen</strong>: toetst *herkenning*, geen *onthouden*, en toetsen van hogere taxonomieniveaus is moeilijker.
+
+- **Constructed-response toetsvragen**: vragen waarbij de lerende zelf moet antwoorden moet formuleren en uitdrukken in eigen woorden.
+
+    - **Korte antwoorden**: invulvragen waarbij de lerende één woord of zinsdeel opschrijft.
+
+      <strong style="opacity: 0.5">Voordelen</strong>: toetst *onthouden*, geen *herkenning*. Door korte antwoorden kan de beoordeling redelijk objectief zijn. Daarnaast zijn ze snel te beantwoorden, dus kan meer vragen stellen in de toetsduur.  
+      <strong style="opacity: 0.5">Nadelen</strong>: toetsen vooral lagere taxonomieniveaus, en er is een risico perongeluk een vraag te maken met meerdere correcte antwoorden.
+
+    - **Essay antwoorden**: de lerende schrijft een 'essay'. Dit kan kort (een gefocussed antwoord) of langer (uitgebreidere antwoorden, maar moeilijker na te kijken).
+
+      <strong style="opacity: 0.5">Voordelen</strong>: makkelijk te schrijven, helpt lerende in ontwikkelen van taalvaardigheid, beter geschikt voor hogere taxonomieniveaus<!-- (toepassing, analyse, evaluatie en creatie)-->, en kleine raadkans.  
+      <strong style="opacity: 0.5">Nadelen</strong>: duurt lang om te antwoorden, dus je kan minder vragen stellen, vragen kunnen verkeerd geinterpreteerd worden, nakijken is moeilijker.
+
+<details>
+  <summary>Algemene richtlijnen voor het schrijven van toetsvragen</summary>
+  <ul>
+    <li>Toets alleen betekenisvolle inhoud, geen triviale of onnodig specifieke informatie.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Richtlijnen voor het schrijven van toetsvragen op hogere taxonomieniveaus</summary>
+  <ul>
+    <li>Vraag 'hoe', 'waarom', 'analyseer', 'evalueer', 'vergelijk', 'voorspel' etc.</li>
+    <li>Schrijf vragen waarvoor probleemoplossing of interpretatie een belangrijke rol speelt.</li>
+    <li>Plaats blokken aan vragen in een betekenisvolle context.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Richtlijnen voor het schrijven van meerkeuzevragen</summary>
+  <ul>
+    <li>Neem zoveel mogelijk woorden in de stam op, zodat je geen herhaalde zinsdelen in de alternatieven hebt.</li>
+    <li>Vermijd woorden zoals 'altijd' en 'nooit' als distractors.</li>
+    <li>Vermijd gebruik van 'alle bovenstaande' en 'geen van de bovenstaande'; dit heeft invloed op de raadkans.</li>
+    <li>Gebruik positieve verwoording ('wat is waar?'), geen negatieve constructies ('wat is *niet* waar?').</li>
+    <li>Plaats het goede antwoord *willekeurig*.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Richtlijnen voor het schrijven van juist-onjuistvragen</summary>
+  <ul>
+    <li>Met zekerheid weten dat een stelling volledig juist of onjuist is.</li>
+    <li>Één idee of gedachte per stelling.</li>
+    <li>Gebruik juist-onjuist vragen spaarzaam.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Richtlijnen voor het schrijven van essayvragen</summary>
+  <ul>
+    <li>Maak de vragen zo specifiek mogelijk.</li>
+    <li>Geef transparantie over beoordelingscriteria en hulpmiddelen (spellingfouten, word count, woordenboek, spelleingscontrole).</li>
+    <li>Schrijf voorbeeldantwoorden om antwoorden van lerenden mee te vergelijken.</li>
+    <li>Geef alle lerenden dezelfde vragen.</li>
+    <li>Beoordeel de essayvragen 'blind'; zonder te weten welke lerenden je aan het beoordelen bent.</li>
+    <li>Beoordeel steeds alle essays van alle lerende in één keer per vraag.</li>
+  </ul>
+</details>
 
 ### Toetskwaliteit
 
