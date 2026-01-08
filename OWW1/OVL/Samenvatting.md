@@ -817,6 +817,9 @@ Voorbeelden van verwerkingsstrategieën kunnen zijn: opdrachten maken, debateren
 
 ### Leer- en instructietheoriën
 
+...
+
+<!--
 ### Toepassingen
 
 #### Feiten
@@ -830,6 +833,7 @@ Voorbeelden van verwerkingsstrategieën kunnen zijn: opdrachten maken, debateren
 #### Interpersoonlijke skills
 
 #### Attitudes
+-->
 
 ## Lesmaterialen ontwerpen
 
@@ -997,3 +1001,97 @@ Er zijn vier manieren van signaling: tekststructuur, signaalwoorden, typografisc
 - Samenwerkend leren
 
 ## Evaluatie
+
+**Evaluatie** is het proces van meten en interpreteren van meetresultaten. Dit kan op verschillende niveaus van het onderwijskundig referentiekader.
+
+> De term 'evaluatie' kan refereren naar twee dingen: evaluatie van de instructie zelf, of evaluatie van de leeropbrengsten van een lerende (aka toetsing). Dit stuk gaat over evaluatie van instructie.
+
+### Timing
+
+Er zijn verschillende meetmomenten: vooraf (pretest), tijdens (embedded), achteraf (posttest).
+
+Formatieve evaluatie maakt vooral gebruik van embedded testing. Summatieve en confirmatieve evaluatie legt vooral nadruk op posttesting en het verschil met de pretest.
+
+### Soorten evaluatie
+
+Evaluatie van instructie kan betrekking hebben op drie aspecten van het ontwerpen:
+
+- **Procesevaluatie**: zijn de stappen uit het ontwerpmodel allemaal doorlopen? zijn de analyses correct uitgevoerd? hebben we de juiste beslissingen genomen?
+
+- **Productevaluatie**: voldoet het eindproduct aan de behoeftes van de opdrachtgever? is de opbouw sterk? wordt het na implementatie ingezet zoals bedoeld?<!-- duren de lessen even lang als we dachten?-->
+
+- **Effectevaluatie**: is de ontwikkelde instructie effectief? worden de leeropbrengsten en leerdoelen gehaald?
+
+Bij formatieve evaluatie ligt de nadruk op proces en product (want er is nog geen effect). Bij summatieve en confirmatieve evaluatie ligt de nadruk juist op product en effect.
+
+<br>
+
+Na het evalueren beschrijf je altijd waar, wanneer, hoe, en bij wie, de evaluatie is uitgevoerd, wat de resultaten van de evaluatie waren, en welke aanpassingen naar aanleiding van de evaluatie zijn gedaan.
+
+## Toetsing
+
+<details>
+  <summary>Functies van toetsing</summary>
+  <ul>
+    <li>Bepalen of leerdoelen behaald zijn</li>
+    <li>Vaststellen van studievoortgang (feedback geven aan lerende)</li>
+    <li>Motiveren tot zelfstudie</li>
+    <li>Evalueren van het studieprogramma</li>
+  </ul>
+</details>
+
+### Toetscyclus (vooraf)
+
+### Toetscyclus (achteraf)
+
+### Toetskwaliteit
+
+- **Begripsvaliditeit**: meet de toetsing wat we bedoelen te meten? (bijvoorbeeld een verhaaltjessom: meten we rekenvaardigheid, of begrijpend lezen?)
+
+- **Inhoudsvaliditeit**: is de toetsing dekkend met betrekking tot leerdoelen? (dus: sluit de inhoud van de toets aan bij de inhoud van de instructie)
+
+- **Betrouwbaarheid**: zijn de toetsresultaten consistent? (bijvoorbeeld: als de toets herhaald wordt afgenomen bij vergelijkbare leerlingpopulaties, krijg je dan dezelfde resultaten?)
+
+- **Onderscheidend vermogen**: kan de toetsing onderscheid maken tussen niveau's van lerenden? (bijvoorbeeld: sterke lerenden moeten beter kunnen scoren dan zwakke)
+
+<details>
+  <summary>Betrouwbaarheid van een toets verbeteren</summary>
+  <ul>
+    <li>Langere toets maken: meer vragen per leerdoel.</li>
+    <li>Toets afnemen in gestandaardiseerde manier.</li>
+    <li>Toets afnemen onder gelijke condities/in gelijke omgeving.</li>
+    <li>Toets afnemen onder gelijke tijdslimieten.</li>
+    <li>Gestandaardiseerd nakijkmodel en afspraken.</li>
+  </ul>
+</details>
+
+### Normering
+
+De **normering** of **cesuur** bepaalt waar de zak/slaaggrens ligt (hoeveelheid punten nodig voor een voldoende). Dit kan absoluut of relatief bepaald zijn:
+
+- **Absoluut** (beheersing): cijfer wordt bepaald relatief aan de maximaal te halen score.
+- **Relatief** ('grading on a curve'): cijfer wordt bepaald relatief aan prestaties van de groep.
+
+> Relatieve scores worden vaak gebruikt in onderwijsprogramma's die gebruikmaken van letterscores als alternatief voor cijfers. Een A betekent dan: in de top 7.5% best presterende lerenden van de groep, niet 92.5% beheersing.
+
+Het **ijkpunt** van schaalscores bij absolute normeringen is de maximaal te halen toetsscore, en bij relatieve normeringen het gemiddelde van de scores van de vijf best presterende lerenden.
+
+#### Cesuur berekenen
+
+De **cesuur** is het minimaal aantal te behalen punten voor een voldoende, en hangt af van:
+
+- **Maximumscore** (\\(S\\)): het maximaal aantal te beantwoorden vragen.
+- **Normering** (\\(Bg\\)): de minimale beheersingsgraad<!-- (doorgaans 60%) --> nodig voor een voldoende.
+- **Raadkans** (\\(Rk\\)), het aantal vragen dat goed gegokt kan zijn bij meerkeuze.
+
+De formule van het bereken van het cesuur is als volgt:
+
+\\[\text{Cesuur} = Rk + Bg \cdot (S - Rk)\\]
+
+> Stel, er zijn maximaal \\(28\\) vragen te beantwoorden. Elke vraag heeft vier meerkeuzeopties, dus er is een raadkans van \\(\frac{1}{4} \cdot 28 = 7\\) vragen. We hanteren een beheersingsgraad van \\(60\%\\).
+>
+> \\(\text{Cesuur} = 7 + 0.6 \cdot (28 - 7) = 16.8\\)
+>
+> Je moet dus \\(17\\) vragen goed beantwoorden voor een voldoende. Deze berekening gaat ervanuit dat elke vraag even zwaar meetelt in de scoring.
+
+## Implementatie
