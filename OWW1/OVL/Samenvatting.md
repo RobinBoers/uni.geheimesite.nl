@@ -1069,6 +1069,10 @@ Na het ontwikkelen van de toets wordt deze afgenomen, en gaat het tweede deel va
 
 9. **Evaluatie en bijstelling**: naar aanleiding van de resultaten kan blijken dat een toets te makkelijk/moeilijk is, of niet goed aansluit bij de inhoud van de instructie. Je begint dan weet aan het begin van de toetscyclus.
 
+### Soorten toetsvragen
+
+
+
 ### Toetskwaliteit
 
 - **Begripsvaliditeit**: meet de toetsing wat we bedoelen te meten? (bijvoorbeeld een verhaaltjessom: meten we rekenvaardigheid, of begrijpend lezen?)
@@ -1119,6 +1123,15 @@ De formule van het bereken van het cesuur is als volgt:
 >
 > Je moet dus \\(17\\) vragen goed beantwoorden voor een voldoende. Deze berekening gaat ervanuit dat elke vraag even zwaar meetelt in de scoring.
 
+#### Beoordelen van een praktische opdracht
+
+De bovenstaande berekening werkt vooral goed voor een klassieke kennistoets. Voor praktische opdrachten kost het iets meer werk om een beoordeling te maken:
+
+1. Je stelt eisen op waaraan de lerende moet voldoen
+2. Per eis in de rubric stel je een aantal beheersingsniveaus op
+3. Je wijst een puntenaantal aan elk beheersingsniveau toe
+4. Bereken de slaag/zakgrens aan de hand van de normering
+
 <details>
   <summary>Functies van toetsing</summary>
   <ul>
@@ -1135,7 +1148,7 @@ De formule van het bereken van het cesuur is als volgt:
     <li>Inzicht geven in hoe er getoetst wordt</li>
     <li>Inzicht geven in samenstelling van cursus en toetsing</li>
     <li>Uitgangspunt voor het formuleren van toetsvragen</li>
-    <li>Bewaakt gelijke behandeling van verschillende studenten</li>
+    <li>Bewaakt gelijke behandeling van verschillende studenten<!-- (herkansing moet gelijk zijn aan eerste toets --></li>
     <li>Verantwoording van cursus en toetsing naar externen</li>
   </ul>
 </details>
