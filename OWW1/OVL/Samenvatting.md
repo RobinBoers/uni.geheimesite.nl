@@ -302,7 +302,7 @@ Er zijn drie soorten inhoud, verder opgedeeld in zes inhoudsstructuren:
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="3">Cognitief</td>
+    <td rowspan="3">Kennis<br><small>(cognitief)</small></td>
     <td>Feiten</td>
     <td>
       Feitelijke informatie; bijvoorbeeld benamingen, symbolen, plaatsen, datums, definities, beschrijvingen.
@@ -317,12 +317,12 @@ Er zijn drie soorten inhoud, verder opgedeeld in zes inhoudsstructuren:
     <td>Relaties tussen feiten of concepten; bijvoorbeeld wetmatigheden, oorzaak-gevolgrelaties, vuistregels.</td>
   </tr>
   <tr>
-    <td>Procedureel</td>
+    <td>Vaardigheid<br><small>(procedureel)</small></td>
     <td>Procedures</td>
     <td>Geordende volgorde van stappen om tot een bepaald doel te komen (denkstappen of concrete handelingen).</td>
   </tr>
   <tr>
-    <td rowspan="2">Affectief</td>
+    <td rowspan="2">Houding<br><small>(affectief)</small></td>
     <td>Interpersoonlijk</td>
     <td>Sociale kennis (verbaal en non-verbaal).</td>
   </tr>
@@ -1030,19 +1030,44 @@ Na het evalueren beschrijf je altijd waar, wanneer, hoe, en bij wie, de evaluati
 
 ## Toetsing
 
-<details>
-  <summary>Functies van toetsing</summary>
-  <ul>
-    <li>Bepalen of leerdoelen behaald zijn</li>
-    <li>Vaststellen van studievoortgang (feedback geven aan lerende)</li>
-    <li>Motiveren tot zelfstudie</li>
-    <li>Evalueren van het studieprogramma</li>
-  </ul>
-</details>
+### Toetscyclus
 
-### Toetscyclus (vooraf)
+De toetscyclus beschrijft de stappen die nodig zijn voor het ontwerpen van een toets, en bestaat uit een deel vooraf, en achteraf.
 
-### Toetscyclus (achteraf)
+1. **Leerdoelen en taxonomie**: de leerdoelen bepalen een aantal belangrijke zaken, zoals: soort toets (leerdoeldomein), moeilijkheidsgraad (taxonomieniveau), beheersingsniveau (criterium), en de inhoud.
+
+2. **Keuze toetsvorm**: de keuze van de toetsvorm is afhankelijk van het kennisdomein.
+
+    - **Cognitief**: open vragen/uitleg vragen, meerkeuze, ja-nee/juist-onjuist, verbinden.
+    - **Procedureel**: direct uitvoeren, ranking maken, rubric/beoordelingsmodel, portfolio.
+    - **Attitudes**: gedragschecklist, anekdotes, observaties, vragenlijsten, interviews.
+
+3. **Toetsplan opstellen**: het toetsplan geeft inzicht op toetsing op cursus of curriculumniveau.
+
+    - Hoeveel toetsen worden afgenomen, en wanneer?
+    - Welke (deel)inhoud en leerdoelen wordt getoetst per toets?
+    - Welke tijdsduur, weging, taxonomieniveau per toets?
+
+4. **Toetsmatrijs opstellen**: de toetsmatrijs geeft inzicht op individueel toetsniveau.
+
+    - Uit hoeveel vragen bestaat een toets?
+    - Uit wat voor soort vragen bestaat de toets?
+    - Welk leerdoel en taxonomieniveau dekken vragen?
+    - Hoeveel punten zijn er per vraag te verdienen?
+
+5. **Toets ontwikkelen**: het maken van de toetsings.
+
+    - Vragen formuleren (op basis van toetsmatrijs)
+    - Antwoordmodel + beoordelingsinstructie maken
+    - Cesuurvoorstel opzetten (zie later meer)
+
+Na het ontwikkelen van de toets wordt deze afgenomen, en gaat het tweede deel van de toetscyclus in gang:
+
+7. **Beoordelen gemaakte toetsen**: op basis van de resultaten van de toets wordt eventueel de het cesuurvoorstel of de normering aangepast.
+
+8. **Definitieve resultaten**: op basis van de definitieve cesuur worden de cijfers berekend en aan lerenden gecommuniceerd.
+
+9. **Evaluatie en bijstelling**: naar aanleiding van de resultaten kan blijken dat een toets te makkelijk/moeilijk is, of niet goed aansluit bij de inhoud van de instructie. Je begint dan weet aan het begin van de toetscyclus.
 
 ### Toetskwaliteit
 
@@ -1093,5 +1118,26 @@ De formule van het bereken van het cesuur is als volgt:
 > \\(\text{Cesuur} = 7 + 0.6 \cdot (28 - 7) = 16.8\\)
 >
 > Je moet dus \\(17\\) vragen goed beantwoorden voor een voldoende. Deze berekening gaat ervanuit dat elke vraag even zwaar meetelt in de scoring.
+
+<details>
+  <summary>Functies van toetsing</summary>
+  <ul>
+    <li>Bepalen of leerdoelen behaald zijn</li>
+    <li>Vaststellen van studievoortgang (feedback geven aan lerende)</li>
+    <li>Motiveren tot zelfstudie</li>
+    <li>Evalueren van het studieprogramma</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Functies van toetsplan en -matrijs</summary>
+  <ul>
+    <li>Inzicht geven in hoe er getoetst wordt</li>
+    <li>Inzicht geven in samenstelling van cursus en toetsing</li>
+    <li>Uitgangspunt voor het formuleren van toetsvragen</li>
+    <li>Bewaakt gelijke behandeling van verschillende studenten</li>
+    <li>Verantwoording van cursus en toetsing naar externen</li>
+  </ul>
+</details>
 
 ## Implementatie
