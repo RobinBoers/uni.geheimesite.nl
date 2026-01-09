@@ -1237,3 +1237,102 @@ De bovenstaande berekening werkt vooral goed voor een klassieke kennistoets. Voo
 </details>
 
 ## Implementatie
+
+Niet elke innovatie (zoals invoeren van nieuwe instructie) wordt gemakkelijk zonder weerstand doorgevoerd, ook niet als deze een duidelijk probleem oplost. Het is daarom soms nodig om de klant actief te overtuigen een verandering door te voeren.
+
+We noemen het proces van overtuigen **planned change**, en het bestaat uit twee stappen:
+
+- **Diffusie**: de klant voor het eerst vertellen over een innovatie; draagvlak creeëren.
+- **Adoptie**: het besluit van de klant om de innovatie in gebruik te nemen.
+
+We maken gebruik van twee modellen om implementatie te beschrijven: Rogers en CLER.
+
+### Rogers-model
+
+Het model van Rogers (1995) beschrijft vier succesfactoren van diffusie:
+
+- **Innovatie**: hoe eindgebruikers de innovatie die je probeert door te voeren ervaren.
+
+    - **Voordelen voor de gebruiker**: veranderingen worden sneller geadopteerd als ze duidelijke voordelen hebben voor gebruikers.<!--Dit draait niet om de *daadwerkelijke* voordelen, maar om *ervaren* voordelen (door gebruikers).-->
+
+    - **Aansluiting bij waarden, behoeften en ervaringen**: veranderingen worden niet geadopteerd als ze niet goed aansluiten bij de waarden van de doelgroep, of als er duidelijk geen behoefte aan een verandering is.
+
+    - **Complexiteit**: als een verandering te ingewikkeld lijkt, worden gebruikers vaak afgeschrikt omdat ze bang zijn het niet te snappen.
+
+    - **Proefdraaien**: als er een mogelijkheid is om een verandering op kleine schaal uit te proberen, kan de klant veilig evalueren of het aansluit bij hun behoeften. Dit kan ook onderdeel van formatieve evaluatie zijn.
+
+    - **Zichtbaarheid resultaten**: veranderingen worden sneller geadopteerd als ze tot makkelijk observeerbaar verbeterde resultaten leiden.
+
+- **Communicatie**: heldere, transparante, en eerlijke communicatie is belangrijk. Het is soms beter als een insider in de doelgroep de instructie introduceert (expert vs ID'er); maak gebruik van wat je weet uit de doelgroepanalyse.
+
+- **Sociaal systeem**: het netwerk aan relaties in de doelgroep. Door mond-op-mondreclame verspreidt informatie over de verandering (kan positief of negatief werken). Focus op het overtuigen van 'opinion leaders'.
+
+- **Timing**: de doelgroep moet klaar zijn voor de verandering; soms is een innovatie zijn tijd vooruit. Rogers (1995) onderscheidt vijf groepen in de adoptie van een innovatie:
+
+  ![Adoptiecurve van Rogers](rogers.gif)
+
+### CLER-model
+
+Het CLER-model beschrijft de situatie van implementatie aan de hand van vier factoren:
+
+- **Configurations**<!-- (wie?)-->: sociaal netwerk van betrokken individuen (\\(I\\)), groepen (\\(G\\)) en instituties (\\(IS\\)) en subculturen (\\(CL\\)); wie zitten er op welke plek?
+
+  <table><tbody>
+    <tr>
+      <td></td>
+      <td><strong>Individuen</strong></td>
+      <td><strong>Groepen</strong></td>
+      <td><strong>Instituties</strong></td>
+      <td><strong>Culturen</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Individuen</strong></td>
+      <td>I-I</td>
+      <td>I-G</td>
+      <td>I-IS</td>
+      <td>I-CL</td>
+    </tr>
+    <tr>
+      <td><strong>Groepen</strong></td>
+      <td>I-G</td>
+      <td>G-G</td>
+      <td>G-IS</td>
+      <td>G-CL</td>
+    </tr>
+    <tr>
+      <td><strong>Instituties</strong></td>
+      <td>I-IS</td>
+      <td>G-IS</td>
+      <td>IS-IS</td>
+      <td>IS-CL</td>
+    </tr>
+    <tr>
+      <td><strong>Culturen</strong></td>
+      <td>I-CL</td>
+      <td>G-CL</td>
+      <td>IS-CL</td>
+      <td>CL-CL</td>
+    </tr>
+  </tbody>
+  </table><br>
+
+- **Linkages**<!-- (hoe?)-->: formele (hiërarchie, management) en informele (vriendschappen, collega's, familiebanden) relaties tussen betrokken actoren; hoe zijn betrokkenen gerelateerd?
+
+- **Environment**<!-- (waar?)-->: fysieke, sociale  en intellectuele aspecten in de omgeving/context.
+
+    - **Fysiek**: vergelijkbaar met instructiecontext; zijn materialen/middelen beschikbaar? staat de bouw of het meubulair bepaalde dingen toe?
+    - **Sociaal**: is er een ondersteundende sfeer? zijn mensen bereidt te helpen?
+    - **Intellectueel**: ...
+
+- **Resources**<!-- (wat?)-->: hulpbronnen die kunnen helpen bij het implementatieproces.
+
+    - **Conceptueel**: technische ondersteuning van IT-professionals.
+    - **Beïnvloedingsmiddelen**: manieren om mensen te beinvloeden<!-- (merknamen, goodwill, financiële incentives, shaming, bedreigen)-->.
+    - **Materieel**: beschikbare financiële en fysieke middelen.
+    - **Personeel**: mensen die kunnen helpen en problemen kunnen oplossen.
+    - **Institutioneel**: infrastructuur van de organisatie (IT, communicatie, en personeel)
+    - **Tijdsmiddelen**: er moet genoeg tijd zijn om te wennen aan de verandering<!-- ,en binnen die tijd moet (technische) ondersteuning beschikbaar zijn-->.
+
+<!--
+> Het beschrijven van de situatie is niet voldoende; er moet ook een concreet implementatie&shy;plan zijn.
+-->
