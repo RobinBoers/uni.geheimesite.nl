@@ -938,14 +938,24 @@ Er zijn vier manieren van signaling: tekststructuur, signaalwoorden, typografisc
 
 ### Multimediaprincipes van Mayer
 
-...
+Mayer (2008) identificeert een aantal belangrijke principes voor het inzetten van <dfn title="illustraties, video, animatie etc.">multimedia</dfn>:
+
+- **Coherence**: laat overbodige informatie die afleidend kan zijn achterwege.
+- **Signaling**: gebruik <dfn title="zie bovenstaande">visuele hints</dfn> om de aandacht van de lerende te leiden.
+- **Redundancy**: toon informatie één keer, voorkom dubbeling tussen tekst en animatie.
+- **Spatial contiguity**: plaats afbeeldingen en labels bij elkaar (niet los in de tekst).
+- **Temporal contiguity**: speel voice-over en animatie tegelijk af (niet na elkaar).
+- **Segmenting**: verdeel langere stukken animatie in kleinere, behapbare stukken.<!-- Dit is vooral van toepassing op animaties. Alleen controls bieden is niet voldoende, omdat uit onderzoek blijkt dat lerenden hier vaak niet effectief genoeg gebruik van maken.-->
+- **Pretraining**: zorg dat de lerende voldoende voorkennis heeft om instructie te benutten.
+- **Modality**: animaties met voice-over zijn effectiever dan animaties met tekstuele uitleg.
+- **Personalisation**: gebruik een informele spreektaal in tekstuele inhoud en voice-over.
+- **Voice**: gebruik een menselijke stem voor voice-over (geen computerstem).
 
 <details>
   <summary>Overwegingen voor het gebruik van afbeeldingen</summary>
   <ul>
     <li>
       <p><strong>Beschikbaarheid</strong>: er moet rekening gehouden worden met copyrightwetgeving bij het toevoegen van afbeeldingen. Er zijn drie categoriën:</p>
-
       <ul>
         <li><strong>Original art</strong>: getekend of geanimeerd door een artiest of designer. Nadeel is dat je die wel moet betalen, en dat kan snel in de kosten lopen.</li>
         <li><strong>Clip art</strong>: afbeeldingen die je kan kopiëren van het internet. Soms royalty-free, soms tegen betaling. Nadeel is dat clip-art wel generic is, en soms outdated kan zijn.</li>
