@@ -179,7 +179,7 @@ Een doelanalyse kan gebruikt worden om de focus van de needs assesment te verfij
 - Als er gebrek aan tijd, budget of middelen is.
 - Als het al duidelijk is dat er sprake is van een instructieprobleem.
 
-Een doelanalyse begint met een probleem, need of performance gap dat al geidentificeerd is, en bepaald vervolgens welk doel bereikt moet worden om dat probleem op te lossen. Dit gaat in zes stappen:
+Een doelanalyse begint met een probleem, need of performance gap dat al geïdentificeerd is, en bepaald vervolgens welk doel bereikt moet worden om dat probleem op te lossen. Dit gaat in zes stappen:
 
 1. Identificeer einddoel
 2. Stel tussendoelen
@@ -290,7 +290,7 @@ Er zijn twee typen curriculum:
 
 ## Taakanalyse
 
-De taakanalyse bepaalt welke inhoud de instructie moet behandelen om aan de geidentificeerde behoeften te voldoen en is daarmee het meest kritieke onderdeel van het ontwerpproces.
+De taakanalyse bepaalt welke inhoud de instructie moet behandelen om aan de geïdentificeerde behoeften te voldoen en is daarmee het meest kritieke onderdeel van het ontwerpproces.
 
 Er zijn drie soorten inhoud, verder opgedeeld in zes inhoudsstructuren:
 
@@ -379,10 +379,10 @@ Procedures kunnen linear, vertakt, of cyclish zijn. Daarnaast volgen in de meest
 <details>
   <summary>Checklist voor procedurele analyse</summary>
   <ul>
-    <li><label><input type="checkbox"> Feedback/hints geidentificeerd?</label></li>
+    <li><label><input type="checkbox"> Feedback/hints geïdentificeerd?</label></li>
     <li><label><input type="checkbox"> Algemeen geaccepteerde procedure, en geen persoonlijke voorkeur van de SME?</label></li>
-    <li><label><input type="checkbox"> Vertakkingen in de beslisboom geidentificeerd? (mits van toepassing)</label></li>
-    <li><label><input type="checkbox"> Kritieke stappen die verwonding of schade kunnen veroorzaken geidentificeerd?</label></li>
+    <li><label><input type="checkbox"> Vertakkingen in de beslisboom geïdentificeerd? (mits van toepassing)</label></li>
+    <li><label><input type="checkbox"> Kritieke stappen die verwonding of schade kunnen veroorzaken geïdentificeerd?</label></li>
   </ul>
 </details>
 
@@ -531,7 +531,7 @@ Leerdoelen opstellen gaat in vier stappen:
 3. Schrijf per cluster een leerdoel.
 4. Schrijf aanvullende leerdoelen voor essentiele inhoud die nog niet in de leerdoelen staat.
 
-> Leerdoelen kunnen afwijken van de doelen geidentificeerd in de behoefte- en doelanalyses:
+> Leerdoelen kunnen afwijken van de doelen geïdentificeerd in de behoefte- en doelanalyses:
 >
 > - **Andere probleemstelling**: de SME kan het probleem beter begrijpen en een andere inhoud/focus aanbrengen.
 > - **Andere oplossing**: de SME kan een andere oplossingsstrategie hebben om het probleem op te lossen.
