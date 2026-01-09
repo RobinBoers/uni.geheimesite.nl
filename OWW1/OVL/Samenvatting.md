@@ -212,7 +212,7 @@ Er zijn zeven soorten leerlingkenmerken:
 
 <details>
   <summary>Verschil tussen motivatie en houding</summary>
-  <p>Houding is anders dan motivatie. Een leerling kan gemotiveerd en geinteresseerd zijn, maar weinig zelfvertrouwen hebben en daarom minder goed leren/presteren.</p>
+  <p>Houding is anders dan motivatie. Een leerling kan gemotiveerd en geïnteresseerd zijn, maar weinig zelfvertrouwen hebben en daarom minder goed leren/presteren.</p>
   <p>Daar ga je anders mee om dan met ongemotiveerde leerlingen. Ongemotiveerde leerlingen geef je externe prikkels, voor onzekere leerlingen gebruik je strategieën om zelfvertrouwen te verbeteren.</p>
 </details>
 
@@ -718,7 +718,7 @@ De initiële presentatie is de eerste kennismaking met nieuwe stof. Voorbeelden 
 
 <details open>
   <summary>Afbeeldingen als initiële presentatie</summary>
-  <p>Bij het inzetten van afbeeldingen als initiële presentatie moet je rekening houden met de multimedia principes van Mayer (zie <a href="#lesmaterialen-ontwerpen">lesmateriaal ontwerpen</a>). Daarnaast kunnen afbeeldingen verschillende functies hebben:</p>
+  <p>Bij het inzetten van afbeeldingen als initiële presentatie moet je rekening houden met de multimediaprincipes van Mayer (zie <a href="#lesmaterialen-ontwerpen">lesmateriaal ontwerpen</a>). Daarnaast kunnen afbeeldingen verschillende functies hebben:</p>
   <ul>
     <li>
       <p><strong>Decoratie</strong>: geen directe relatie tot lesstof; aantrekkelijkheid<!--(en daarmee sales boosten)-->, motivationeel, “opbreken” van pagina’s tekst die anders als overweldigend ervaren kunnen worden.</p>
@@ -815,25 +815,75 @@ Voorbeelden van verwerkingsstrategieën kunnen zijn: opdrachten maken, debateren
 </tbody>
 </table>
 
-### Leer- en instructietheoriën
+### Voorbeelden van generatieve strategiën
 
-...
+- **Herhaling**, waaronder mentaal herhalen, herhaaldelijk opschrijven, of opdrachten maken.
 
-<!--
-### Toepassingen
+- **Elaborative interrogation**: aan jezelf uitleggen waarom leerstof waar of relevant is.
 
-#### Feiten
+- **Retrieval practise**: informatie uit je hoofd opschrijven. Dit zorgt ervoor dat informatie sterker verankert raakt en geeft ook inzicht in gaten in eigen begrip.
 
-#### Concepten
+- **Geheugensteuntjes** bedenken, bruikbaar voor één specifieke situatie (single-use; bijv. SPICE), of herhaaldelijk inzetbaar (repeated-use; bijv. geheugenpaleis).<!-- Uit onderzoek blijkt dat zelfbedachte ezelsbruggetjes beter werken. Let wel op dat het geheugensteuntje geen vervanging voor begrip wordt. Dan krijg je later in je studieloopbaan problemen. -->
 
-#### Principes en regels
+- **Voorbeelden en non-voorbeelden** bedenken van een concept of principe.
 
-#### Procedures
+- **Belangrijke eigenschappen** van een concept of principe identificeren.
 
-#### Interpersoonlijke skills
+- **Overeenkomsten en verschillen** zoeken tussen concepten of principes.
 
-#### Attitudes
--->
+<details>
+  <summary>Generatieve strategieën voor feiten</summary>
+  <p><strong>Concrete feiten</strong> kan je waarnemen met je zintuigen. Initiële presentatie is lerenden het feit laten ervaren.</p>
+  <p><strong>Abstracte feiten</strong> kunnen niet waargenomen of ervaren worden. Initiële presentatie is dan een concrete representatie van het feit (eg. een afbeelding of artifact).</p>
+  <p>Alle bovenstaande verwerkingsstrategieën kunnen worden toegepast.</p>
+</details>
+
+<details>
+  <summary>Generatieve strategieën voor concepten</summary>
+  <p>Een concept is een categorie gerelateerde ideeën of dingen. De initiële presentatie omvat de naam van het concept, de definitie, en de besten voorbeelden.<!--Je kan eventueel nog een aantal extra voorbeelden geven om het concept duidelijker te maken.--><!--Voor concrete concepten kan je voorbeelden laten zien. Voor abstractere concepten kan je fysieke modellen of multimedia benutten als representatie.--></p>
+  <p>Alle bovenstaande verwerkingsstrategieën kunnen worden toegepast.</p>
+</details>
+
+<details>
+  <summary>Generatieve strategieën voor principes en regels</summary>
+  <p>Een principe of regel is een relatie tussen concepten of feiten. Initiële presentatie bestaat uit een definitie van de regel (\(\text{RUL}\)) en enkele voorbeelden (\(\text{EG}\)):</p>
+  <ul>
+    <li>\(\text{RUL−EG}\) (inductief): regel eerst uitleggen, daarna voorbeelden</li>
+    <li>\(\text{EG−RUL}\) (deductief): eerst voorbeelden, lerende ontdekt zelf de regel</li>
+  </ul>
+  <blockquote>
+    <p>Uit een meta-analyse blijkt dat \(\text{EG−RUL}\) tot beter begrip en generaliseren leidt.</p>
+  </blockquote>
+  <p>De bovenstaande voorbeeldstrategieën zijn hier ook van toepassing. Andere specifieke verwerkingsstrategieën kunnen zijn:</p>
+  <ul>
+    <li>Het principe parafraseren in eigen woorden (integratie).</li>
+    <li>Uitleggen waarom het principe werkt aan de hand van een diagram (elaboratie).</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Generatieve strategieën voor procedures</summary>
+  <p>Een procedure is een opeenvolging aan stappen om tot een doel te komen. Afhankelijk van de invulling van de PC-matrix is het leerdoel:</p>
+  <ul>
+    <li><strong>Recall</strong>: de lerende moet de procedure kunnen beschrijven, en stappen kunnen benoemen.</li>
+    <li><strong>Application</strong>: de lerende moet de procedure kunnen uitvoeren/demostreren.</li>
+  </ul>
+  <p><strong>Psychomotorische procedures</strong> zijn fysieke handelingen om tot een doel te komen. Initiële presentatie is het demostreren van de uitvoering.</p>
+  <p><strong>Cognitieve procedures</strong> zijn mentale stappen om tot een doel te komen. Initiële presentatie moet een manier vinden deze denkstappen te representeren, bijvoorbeeld door middel van uitgewerkte voorbeelden (‘worked examples’).</p>
+  <p>De verwerkingsstrategie voor procedures bestaat uit twee stappen:</p>
+  <ol>
+    <li><strong>Vormen van een mentaal</strong> model door een elaboratieve strategie zoals parafraseren.</li>
+    <li><strong>Oefenen</strong> met het uitvoeren van de procedure. Dit kan eventueel aan de hand van een uitgewerkt voorbeeld en fading.</li>
+  </ol>
+  <blockquote>
+    <p><strong>Fading</strong> houdt in dat er steeds minder stappen worden ‘voorgedaan’, en de lerende dus geleidelijk meer op eigen kracht moet doen.</p>
+  </blockquote>
+  <!--
+  > In het schrijven van stappenplannen zijn *als-dan* zinnen beter dan *dan-als* zinnen, omdat ze makkelijker te begrijpen zijn.
+  >
+  > Dus schrijf 'als dit, doe dan dat', en niet 'doe dat, als dit'.
+  -->
+</details>
 
 ## Lesmaterialen ontwerpen
 
