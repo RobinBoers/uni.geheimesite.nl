@@ -1245,7 +1245,7 @@ We noemen het proces van overtuigen **planned change**, en het bestaat uit twee 
 - **Diffusie**: de klant voor het eerst vertellen over een innovatie; draagvlak creeëren.
 - **Adoptie**: het besluit van de klant om de innovatie in gebruik te nemen.
 
-We maken gebruik van twee modellen om implementatie te beschrijven: Rogers en CLER.
+Er zijn twee modellen voor implementatie: Rogers (1995) en CLER (1982).
 
 ### Rogers-model
 
