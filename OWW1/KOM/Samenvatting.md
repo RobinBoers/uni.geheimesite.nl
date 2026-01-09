@@ -166,7 +166,7 @@ Er zijn vier methodes om data te verzamelen voor een kwalitatief onderzoek:
 - Observatieonderzoek (etnografie)
 - Bestaande gegevens
 
-De keuze van methode hangt af van de doelen van het onderzoek, omdat elke methode voor- en nadelen heeft. Een gesprek is bijvoorbeeld geschikt als je geinteresseerd bent in ervaringen<!-- (houding/standpunten/motieven)-->, maar vormt een slechte informatiebron betreft gedrag<!-- (social desirability bias; mensen doen zich mooier voor dan ze zijn)-->. Omgekeerd kan observatieonderzoek veel inzicht geven in gedrag, maar geeft het weinig informatie over intenties/beweegredenen.
+De keuze van methode hangt af van de doelen van het onderzoek, omdat elke methode voor- en nadelen heeft. Een gesprek is bijvoorbeeld geschikt als je geïnteresseerd bent in ervaringen<!-- (houding/standpunten/motieven)-->, maar vormt een slechte informatiebron betreft gedrag<!-- (social desirability bias; mensen doen zich mooier voor dan ze zijn)-->. Omgekeerd kan observatieonderzoek veel inzicht geven in gedrag, maar geeft het weinig informatie over intenties/beweegredenen.
 
 <!--
 <details>
@@ -322,7 +322,7 @@ Een alternatief voor het afnemen van interviews of het doen van observatieonderz
 <ul>
 <li>privacygevoelige informatie is niet zomaar beschikbaar.</li>
 <li>er rusten vaak auteursrechten en intellectueel eigendom op de data.</li>
-<li>kosten: data waar adverteerders ook in geinteresseerd zijn heeft een prijskaartje.</li>
+<li>kosten: data waar adverteerders ook in geïnteresseerd zijn heeft een prijskaartje.</li>
 <li>data kan moeilijk bruikbaar zijn door een verkeerde/niet-passende structuur.</li>
 <li>soms is data onleesbaar door een taalbarrière of een obscuur bestandsformaat.</li>
 <li>sociale context ontbreekt dus er is kans op misinterpretatie.</li>
