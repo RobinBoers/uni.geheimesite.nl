@@ -26,7 +26,7 @@ title: Ontwerpen van leersituaties
 
 ## Soorten onderwijs
 
-- **Specific job training** is gerichte training met duidelijke eisen, bedoeld om onmiddelijk een taak uit te voeren of probleem op te lossen.
+- **Specific job training** is gerichte training met duidelijke eisen, bedoeld om onmiddellijk een taak uit te voeren of probleem op te lossen.
 
   Voordelen van instructional design: het lost een performance probleem op, en daarbij:
 
@@ -69,13 +69,13 @@ Het ontwerpmodel van Morrison et al. (2013) bestaat uit negen stappen:
 8. Produceren van lesmaterialen
 9. Evaluatie
 
-> Het model van Morrison is non-linear, het is cyclisch. De volgorde waarin de stappen worden doorlopen staat niet vast, en stappen mogen worden overgeslagen. Tijdens het ontwerpproces 'spring' je heen-en-weer tussen stappen, en je kan op een willekeurig punt in het ontwerpproces 'instappen'. Wel worden de analyses meestal vroeg in het proces uitgevoerd.
+> Het model van Morrison is non-lineair, het is cyclisch. De volgorde waarin de stappen worden doorlopen staat niet vast, en stappen mogen worden overgeslagen. Tijdens het ontwerpproces 'spring' je heen-en-weer tussen stappen, en je kan op een willekeurig punt in het ontwerpproces 'instappen'. Wel worden de analyses meestal vroeg in het proces uitgevoerd.
 
 <br>
 
 Daarnaast zijn er acht langlopende processen tijdens het ontwerpproces:
 
-- **Planning en project management**: plannen & budgeteren; de hoeveelheid tijd die hierin gestoken wordt is afhankelijk van de scope van het project.
+- **Planning en projectmanagement**: plannen & bbudgetteren de hoeveelheid tijd die hierin gestoken wordt is afhankelijk van de scope van het project.
 
 - **Support services**: hoeveel werk voor de instructional designer uit handen wordt genomen, bijv. door grafisch ontwerpers, Q&A-testers, programmeurs, filmmakers etc.
 
@@ -83,11 +83,11 @@ Daarnaast zijn er acht langlopende processen tijdens het ontwerpproces:
 
  <!--checken of de probleemstelling, taakanalyse, opgestelde leerdoelen etc. correct zijn, en op basis daarvan verbeteringen aanbrengen.-->
 
-- **Implementatie**: tijdens het ontwerpproces rekening houden met hoe de instructie in de praktijk gebruikt zal worden, oa. door praktijkexperts mee te laten denken.
+- **Implementatie**: tijdens het ontwerpproces rekening houden met hoe de instructie in de praktijk gebruikt zal worden, o.a. door praktijkexperts mee te laten denken.
 
 - **Summatieve evaluatie**: zodra de uiteindelijke instructie in gebruik genomen is, checken of het zoals bedoeld ingezet wordt, effectief is, en de beoogde doelen behaald.
 
-- **Confirmatieve evaluatie**: na enige tijd opnieuw checken of de instructie nog steeds effectief en nog wel relevant is <small>(soms wordt instructie geinstitutionaliseerd terwijl de context compleet veranderd is)</small>.
+- **Confirmatieve evaluatie**: na enige tijd opnieuw checken of de instructie nog steeds effectief en nog wel relevant is <small>(soms wordt instructie geïnstitutionaliseerd terwijl de context compleet veranderd is)</small>.
 
 <!--
 > Confirmatieve evaluatie wordt vaak vanwege praktische en financiële overwegingen overgeslagen.
@@ -117,16 +117,16 @@ De eerste stap van het ontwerpproces is dan nagaan of er eigenlijk wel sprake is
 
 ### Behoefteanalyse <small>('needs assesment')</small>
 
-De behoefteanalyse wordt gebruikt om het prestatieprobleem te identificeren, aan de hand van één of meer 'needs'. Hierin zijn zes categoriën te onderscheiden:
+De behoefteanalyse wordt gebruikt om het prestatieprobleem te identificeren, aan de hand van één of meer 'needs'. Hierin zijn zes categorieën te onderscheiden:
 
 - **Normative needs**: de doelgroep presteert onder een landelijk vastgestelde norm of standaard.
 - **Comparitive needs**: de doelgroep presteert minder goed dan een equivalente/vergelijkbare groep.
 - **Felt needs**: een verlangen (eigen) performance te verbeteren; een gap tussen huidige prestaties en beoogde prestaties.
 - **Expressed needs**: een *felt need* waar actie op is ondernomen; bijvoorbeeld hulp vragen aan een collega, inschrijven voor een cursus, etc.
 - **Anticipated/future needs**: voorbereiden op aankomende veranderingen en daarmee toekomstige performance problemen voor zijn.
-- **Critical indicent needs**: voorbereiden op een situaties die bijna nooit voorkomen maar wel heel ernstig zijn; bijvoorbeeld een brandoefening of EHBO-cursus.
+- **Critical indicent needs**: voorbereiden op een situaties die bijna nooit voorkomen, maar wel heel ernstig zijn; bijvoorbeeld een brandoefening of EHBO-cursus.
 
-> Needs kunnen worden geprioritiseerd op basis van verschillende eigenschappen, waaronder kosten, invloed, frequentie, of tijd. Een veelgebruikte methode is de *Delphi method*.
+> Needs kunnen worden geprioriteerd op basis van verschillende eigenschappen, waaronder kosten, invloed, frequentie, of tijd. Een veelgebruikte methode is de *Delphi method*.
 
 <!--
 <details>
@@ -179,7 +179,7 @@ Een doelanalyse kan gebruikt worden om de focus van de needs assesment te verfij
 - Als er gebrek aan tijd, budget of middelen is.
 - Als het al duidelijk is dat er sprake is van een instructieprobleem.
 
-Een doelanalyse begint met een probleem, need of performance gap dat al geïdentificeerd is, en bepaald vervolgens welk doel bereikt moet worden om dat probleem op te lossen. Dit gaat in zes stappen:
+Een doelanalyse begint met een probleem, need of performance gap dat al geïdentificeerd is, en bepaalt vervolgens welk doel bereikt moet worden om dat probleem op te lossen. Dit gaat in zes stappen:
 
 1. Identificeer einddoel
 2. Stel tussendoelen
@@ -190,7 +190,7 @@ Een doelanalyse begint met een probleem, need of performance gap dat al geïdent
 
 ## Doelgroep en context
 
-De kenmerken van de doelgroep en context zijn belangrijk en hebben invloed op het instappunt in de ontwerpcyclus, de selectie van inhoud, de keuzes van sequentiering en leerdoelen, de diepgang en de keuze van instructiestrategieën.
+De kenmerken van de doelgroep en context zijn belangrijk en hebben invloed op het instappunt in de ontwerpcyclus, de selectie van inhoud, de keuzes van sequentiëring en leerdoelen, de diepgang en de keuze van instructiestrategieën.
 
 ### Leerlingkenmerken (doelgroepanalyse)
 
@@ -244,7 +244,7 @@ Er zijn drie soorten contexten:
   - Zien lerenden de instructie als nuttig/zinvol/waardevol?
   - Worden lerenden getoetst en krijgen ze daar erkenning voor? (eg. cijfer, certificering)
 
-- **Instructional context**: de omgeving waarin de instructiegegeven wordt; belichting, geluid, temperatuur, beschikbare plekken, accomodatie, bereikbaarheid, materialen.
+- **Instructional context**: de omgeving waarin de instructie gegeven wordt; belichting, geluid, temperatuur, beschikbare plekken, accommodatie, bereikbaarheid, materialen.
 
 - **Transfer context**: toepasbaarheid van de geleerde stof buiten de context waarin het geleerd is. Hiervoor zijn frequente kansen om de stof toe te passen, en ondersteuning daarbij (beschikbaarheid hulp/gereedschappen/middelen), belangrijk.
 
@@ -370,7 +370,7 @@ De procedurele analyse geeft antwoord op de volgende vragen:
   <p>Daarnaast kan een experts ook moeite hebben met het verwoorden van wat ze precies doen, omdat ze een procedure zo ver geautomatiseerd hebben.</p>
 </details>
 
-Procedures kunnen linear, vertakt, of cyclish zijn. Daarnaast volgen in de meeste procedures de stappen elkaar sequentieel op. Verder wordt er onderscheid gemaakt tussen twee soorten procedures:
+Procedures kunnen lineair, vertakt, of cyclisch zijn. Daarnaast volgen in de meeste procedures de stappen elkaar sequentieel op. Verder wordt er onderscheid gemaakt tussen twee soorten procedures:
 
 - **Algoritmes** bestaan uit beslisbomen die altijd leiden tot een uitkomst of oplossing.
 
@@ -526,10 +526,10 @@ Er zijn drie leerdoeldomeinen: cognitief, psychomotorisch en affectief. Binnen d
 
 Leerdoelen opstellen gaat in vier stappen:
 
-1. Haal uit de taakanalyse de essentiele kennis, vaardigheden en attitudes.
+1. Haal uit de taakanalyse de essentiële kennis, vaardigheden en attitudes.
 2. Groepeer deze in clusters per doel/need uit de behoefte-/doelanalyse.
 3. Schrijf per cluster een leerdoel.
-4. Schrijf aanvullende leerdoelen voor essentiele inhoud die nog niet in de leerdoelen staat.
+4. Schrijf aanvullende leerdoelen voor essentiële inhoud die nog niet in de leerdoelen staat.
 
 > Leerdoelen kunnen afwijken van de doelen geïdentificeerd in de behoefte- en doelanalyses:
 >
@@ -761,7 +761,7 @@ De instructiestrategieën moeten daarom:
 2. Bestaande schema's aanpassen en re-encoden.
 -->
 
-Volgens Jonassen (1988) zijn er vier opeenvolgende categoriën:
+Volgens Jonassen (1988) zijn er vier opeenvolgende categorieën:
 
 - **Recall**: kennis actief ophalen uit langetermijngeheugen.
 - **Integratie**: nieuwe informatie koppelen aan opgehaalde voorkennis.
@@ -770,7 +770,7 @@ Volgens Jonassen (1988) zijn er vier opeenvolgende categoriën:
 
 > In <cite>Wijze lessen</cite> worden dit "productieve strategieën" genoemd, en gebruiken ze de indeling: selecteren, organiseren, integreren. We beschouwen Jonassen (1988) echter als leidend.
 
-Voorbeelden van verwerkingsstrategieën kunnen zijn: opdrachten maken, debateren, peer-instructie geven, een verslag schrijven, mindmap maken, voorbeelden bedenken, (rollen)spel.
+Voorbeelden van verwerkingsstrategieën kunnen zijn: opdrachten maken, debatteren, peer-instructie geven, een verslag schrijven, mindmap maken, voorbeelden bedenken, (rollen)spel.
 
 > Maar *geen* passieve verwerking zoals: tekst overschrijven, invuloefeningen met losse informatie, kijken naar een video zonder interactie.
 
@@ -815,13 +815,13 @@ Voorbeelden van verwerkingsstrategieën kunnen zijn: opdrachten maken, debateren
 </tbody>
 </table>
 
-### Voorbeelden van generatieve strategiën
+### Voorbeelden van generatieve strategieën
 
 - **Herhaling**, waaronder mentaal herhalen, herhaaldelijk opschrijven, of opdrachten maken.
 
 - **Elaborative interrogation**: aan jezelf uitleggen waarom leerstof waar of relevant is.
 
-- **Retrieval practise**: informatie uit je hoofd opschrijven. Dit zorgt ervoor dat informatie sterker verankert raakt en geeft ook inzicht in gaten in eigen begrip.
+- **Retrieval practise**: informatie uit je hoofd opschrijven. Dit zorgt ervoor dat informatie sterker verankerd raakt en geeft ook inzicht in gaten in eigen begrip.
 
 - **Geheugensteuntjes** bedenken, bruikbaar voor één specifieke situatie (single-use; bijv. SPICE), of herhaaldelijk inzetbaar (repeated-use; bijv. geheugenpaleis).<!-- Uit onderzoek blijkt dat zelfbedachte ezelsbruggetjes beter werken. Let wel op dat het geheugensteuntje geen vervanging voor begrip wordt. Dan krijg je later in je studieloopbaan problemen. -->
 
@@ -905,7 +905,7 @@ De pre-instructie is de eerste introductie van nieuwe stof, en bereidt de lerend
 - Als er teveel leerdoelen zijn, kunnen de vragen een selectie van leerdoelen behandelen, in plaats van *alle* leerdoelen.
 -->
 
-- **Leerdoelen**: herhaling van de in voorgaande analyses opgestelde leerdoelen. <!--Er is geen algemene consensus over effectiviteit.--> Herschrijven in het woordenschat van de lerende is wel aanbevolen; daarij mogen de conditie en criteria worden weggelaten. Zorg ervoor dat je maximaal 7 leerdoelen geeft, om cognitive overload te voorkomen. Ineffectief bij instructie langer dan 2500 woorden, omdat lerende ze dan halverwege vergeten.
+- **Leerdoelen**: herhaling van de in voorgaande analyses opgestelde leerdoelen. <!--Er is geen algemene consensus over effectiviteit.--> Herschrijven in de woordenschat van de lerende is wel aanbevolen; daarbij mogen de conditie en criteria worden weggelaten. Zorg ervoor dat je maximaal 7 leerdoelen geeft, om cognitive overload te voorkomen. Ineffectief bij instructie langer dan 2500 woorden, omdat lerende ze dan halverwege vergeten.
 
 
 - **Overzicht**: een korte samenvatting,  probleemstelling, relevantie; introduceert hoofdlijnen. Geschreven als lopende tekst (geen bulletpoints) op hetzelfde abstractie&shy;niveau als de instructie zelf. Houdt het kort (minder dan één pagina), om het werkgeheugen te ontlasten.
@@ -1070,7 +1070,7 @@ Mayer (2008) identificeert een aantal belangrijke principes voor het inzetten va
 
 #### Small-group formats
 
-- Debateren
+- Debatteren
 - Guided-design
 - Case study
 - Rollenspel
@@ -1082,7 +1082,7 @@ Mayer (2008) identificeert een aantal belangrijke principes voor het inzetten va
 
 **Evaluatie** is het proces van meten en interpreteren van meetresultaten. Dit kan op verschillende niveaus van het onderwijskundig referentiekader.
 
-> De term 'evaluatie' kan refereren naar twee dingen: evaluatie van de instructie zelf, of evaluatie van de leeropbrengsten van een lerende (aka toetsing). Dit stuk gaat over evaluatie van instructie.
+> De term 'evaluatie' kan verwijzen naar twee dingen: evaluatie van de instructie zelf, of evaluatie van de leeropbrengsten van een lerende (aka toetsing). Dit stuk gaat over evaluatie van instructie.
 
 ### Timing
 
@@ -1179,12 +1179,12 @@ Er zijn verschillende soorten toetsvragen:
     - **Korte antwoorden**: invulvragen waarbij de lerende één woord of zinsdeel opschrijft.
 
       <strong style="opacity: 0.5">Voordelen</strong>: toetst *onthouden*, geen *herkenning*. Door korte antwoorden kan de beoordeling redelijk objectief zijn. Daarnaast zijn ze snel te beantwoorden, dus kan meer vragen stellen in de toetsduur.  
-      <strong style="opacity: 0.5">Nadelen</strong>: toetsen vooral lagere taxonomieniveaus, en er is een risico perongeluk een vraag te maken met meerdere correcte antwoorden.
+      <strong style="opacity: 0.5">Nadelen</strong>: toetsen vooral lagere taxonomieniveaus, en er is een risico per ongeluk een vraag te maken met meerdere correcte antwoorden.
 
     - **Essay antwoorden**: de lerende schrijft een 'essay'. Dit kan kort (een gefocussed antwoord) of langer (uitgebreidere antwoorden, maar moeilijker na te kijken).
 
       <strong style="opacity: 0.5">Voordelen</strong>: makkelijk te schrijven, helpt lerende in ontwikkelen van taalvaardigheid, beter geschikt voor hogere taxonomieniveaus<!-- (toepassing, analyse, evaluatie en creatie)-->, en kleine raadkans.  
-      <strong style="opacity: 0.5">Nadelen</strong>: duurt lang om te antwoorden, dus je kan minder vragen stellen, vragen kunnen verkeerd geinterpreteerd worden, nakijken is moeilijker.
+      <strong style="opacity: 0.5">Nadelen</strong>: duurt lang om te antwoorden, dus je kan minder vragen stellen, vragen kunnen verkeerd geïnterpreteerd worden, nakijken is moeilijker.
 
 <details>
   <summary>Algemene richtlijnen voor het schrijven van toetsvragen</summary>
@@ -1242,7 +1242,7 @@ Er zijn verschillende soorten toetsvragen:
 
 - **Betrouwbaarheid**: zijn de toetsresultaten consistent? (bijvoorbeeld: als de toets herhaald wordt afgenomen bij vergelijkbare leerlingpopulaties, krijg je dan dezelfde resultaten?)
 
-- **Onderscheidend vermogen**: kan de toetsing onderscheid maken tussen niveau's van lerenden? (bijvoorbeeld: sterke lerenden moeten beter kunnen scoren dan zwakke)
+- **Onderscheidend vermogen**: kan de toetsing onderscheid maken tussen niveaus van lerenden? (bijvoorbeeld: sterke lerenden moeten beter kunnen scoren dan zwakke)
 
 <details>
   <summary>Betrouwbaarheid van een toets verbeteren</summary>
@@ -1274,7 +1274,7 @@ De **cesuur** is het minimaal aantal te behalen punten voor een voldoende, en ha
 - **Normering** (\\(Bg\\)): de minimale beheersingsgraad<!-- (doorgaans 60%) --> nodig voor een voldoende.
 - **Raadkans** (\\(Rk\\)), het aantal vragen dat goed gegokt kan zijn bij meerkeuze.
 
-De formule van het bereken van het cesuur is als volgt:
+De formule van het berekenen van het cesuur is als volgt:
 
 \\[\text{Cesuur} = Rk + Bg \cdot (S - Rk)\\]
 
@@ -1320,7 +1320,7 @@ Niet elke innovatie (zoals invoeren van nieuwe instructie) wordt gemakkelijk zon
 
 We noemen het proces van overtuigen **planned change**, en het bestaat uit twee stappen:
 
-- **Diffusie**: de klant voor het eerst vertellen over een innovatie; draagvlak creeëren.
+- **Diffusie**: de klant voor het eerst vertellen over een innovatie; draagvlak creëren.
 - **Adoptie**: het besluit van de klant om de innovatie in gebruik te nemen.
 
 Er zijn twee modellen voor implementatie: Rogers (1995) en CLER (1982).
@@ -1343,7 +1343,7 @@ Het model van Rogers (1995) beschrijft vier succesfactoren van diffusie:
 
 - **Communicatie**: heldere, transparante, en eerlijke communicatie is belangrijk. Het is soms beter als een insider in de doelgroep de instructie introduceert (expert vs ID'er); maak gebruik van wat je weet uit de doelgroepanalyse.
 
-- **Sociaal systeem**: het netwerk aan relaties in de doelgroep. Door mond-op-mondreclame verspreidt informatie over de verandering (kan positief of negatief werken). Focus op het overtuigen van 'opinion leaders'.
+- **Sociaal systeem**: het netwerk aan relaties in de doelgroep. Door mond-tot-mondreclame verspreidt informatie over de verandering (kan positief of negatief werken). Focus op het overtuigen van 'opinion leaders'.
 
 - **Timing**: de doelgroep moet klaar zijn voor de verandering; soms is een innovatie zijn tijd vooruit. Rogers (1995) onderscheidt vijf groepen in de adoptie van een innovatie:
 
