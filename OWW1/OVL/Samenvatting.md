@@ -2,7 +2,7 @@
 title: Ontwerpen van leersituaties
 ---
 
-**Instructie** maakt leren efficiënter, effectiever en makkelijker, en bespaard daarmee tijd en geld. Het bestaat om een vastgesteld doel zo snel en goedkoop mogelijk te bereiken.
+**Instructie** maakt leren efficiënter, effectiever en makkelijker, en bespaart daarmee tijd en geld. Het bestaat om een vastgesteld doel zo snel en goedkoop mogelijk te bereiken.
 
 **Instructional design** is een systematisch, wetenschappelijk onderbouwd proces voor het ontwerpen van goede instructie.
 
@@ -991,7 +991,7 @@ Er zijn vier manieren van signaling: tekststructuur, signaalwoorden, typografisc
 Mayer (2008) identificeert een aantal belangrijke principes voor het inzetten van <dfn title="illustraties, video, animatie etc.">multimedia</dfn>:
 
 - **Coherence**: laat overbodige informatie die afleidend kan zijn achterwege.
-- **Signaling**: gebruik <dfn title="zie bovenstaande">visuele hints</dfn> om de aandacht van de lerende te leiden.
+- **Signaling**: gebruik <a href="#signaling">visuele hints</a> om de aandacht van de lerende te leiden.
 - **Redundancy**: toon informatie één keer, voorkom dubbeling tussen tekst en animatie.
 - **Spatial contiguity**: plaats afbeeldingen en labels bij elkaar (niet los in de tekst).
 - **Temporal contiguity**: speel voice-over en animatie tegelijk af (niet na elkaar).
@@ -1040,6 +1040,24 @@ Mayer (2008) identificeert een aantal belangrijke principes voor het inzetten va
 ## Lesmaterialen produceren
 
 ### Heuristieken
+
+- **Maak het concreet**: voeg visualisatie, <dfn title="korte/simpele woorden en actieve in plaats van passieve zinnen">concrete tekst</dfn>, en voorbeelden toe.<!-- En maak tekst persoonlijk/informeel, maar niet overmatig, want dat kan afleidend zijn. --> Een mix van concrete en abstracte informatie is interessanter en zorgt voor betere transfer. Teveel contextualisatie is juist slecht voor generaliseren/transfer. <!-- Zorg voor meerdere voorbeelden in verschillende contexten. Haal geen abstracte informatie weg; vul abstracte informatie aan met concrete voorbeelden -->
+
+- **Step size**: de mentale 'sprong' tussen verschillende ideeën. Als de lerende weinig voorkennis heeft moet de step size kleiner zijn. Dit kan op twee manieren:
+
+    - Gebruik consistente terminologie/begrippen.
+    - Maak verwijzingen naar wat eerder is geleerd.
+
+  Bij procedures houdt dit in dat bij de eerste uitvoering ('initial performance') informatie over de omgeving en context moet worden aangeboden, omdat het voor de lerende te moeilijk is de procedure te interpreteren in de huidige context.<!-- Bij gevorderden zorgt incomplete informatie juist voor betere transfer, omdat lerenden zelf het onderliggende principe uitvinden. -->
+
+- **Pacing**: de hoeveelheid voorbeelden, casussen, of oefeningen dat wordt aangeboden voordat de instructie verder gaat met het volgende idee<!--; de 'afstand' tussen de introductie van verschillende concepten -->. De pacing hangt af van:
+
+  - **Voorkennis van de doelgroep** (meer voorkennis \\(\implies\\) hogere pacing)
+  - **Complexiteit van het materiaal** (complexer \\(\implies\\) lagere pacing)
+
+- **Wees consistent**: gebruik consistente opmaak, begrippen, spelling, structuur, zinsopbouw. Het maken van een zogenaamde *style guide* kan helpen.
+
+- **Communiceer hints**: tijdens de taakanalyse heb je bepaalde hints ('cues') gevonden die de lerende helpen bij het uitvoeren van een procedure. Communiceer deze duidelijk aan de hand van <a href="#signaling">signaling</a>.
 
 ### Delivery methods
 
@@ -1378,16 +1396,12 @@ Het CLER-model beschrijft de situatie van implementatie aan de hand van vier fac
 
 - **Linkages**<!-- (hoe?)-->: formele (hiërarchie, management) en informele (vriendschappen, collega's, familiebanden) relaties tussen betrokken actoren; hoe zijn betrokkenen gerelateerd?
 
-- **Environment**<!-- (waar?)-->: fysieke, sociale  en intellectuele aspecten in de omgeving/context.
-
-    - **Fysiek**: vergelijkbaar met instructiecontext; zijn materialen/middelen beschikbaar? staat de bouw of het meubulair bepaalde dingen toe?
-    - **Sociaal**: is er een ondersteundende sfeer? zijn mensen bereidt te helpen?
-    - **Intellectueel**: ...
+- **Environment**<!-- (waar?)-->: fysieke, sociale, en intellectuele omgeving/context.
 
 - **Resources**<!-- (wat?)-->: hulpbronnen die kunnen helpen bij het implementatieproces.
 
     - **Conceptueel**: technische ondersteuning van IT-professionals.
-    - **Beïnvloedingsmiddelen**: manieren om mensen te beinvloeden<!-- (merknamen, goodwill, financiële incentives, shaming, bedreigen)-->.
+    - **Beïnvloedingsmiddelen**: <dfn title="merknamen, goodwill, financiële incentives, shaming, bedreigen">manieren</dfn> om mensen te beinvloeden.
     - **Materieel**: beschikbare financiële en fysieke middelen.
     - **Personeel**: mensen die kunnen helpen en problemen kunnen oplossen.
     - **Institutioneel**: infrastructuur van de organisatie (IT, communicatie, en personeel)
