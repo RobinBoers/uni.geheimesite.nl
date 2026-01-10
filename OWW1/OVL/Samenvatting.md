@@ -986,6 +986,26 @@ Er zijn vier manieren van signaling: tekststructuur, signaalwoorden, typografisc
   </ul>
 </details>
 
+### Heuristieken
+
+- **Maak het concreet**: voeg visualisatie, <dfn title="korte/simpele woorden en actieve in plaats van passieve zinnen">concrete tekst</dfn>, en voorbeelden toe.<!-- En maak tekst persoonlijk/informeel, maar niet overmatig, want dat kan afleidend zijn. --> Een mix van concrete en abstracte informatie is interessanter en zorgt voor betere transfer. Teveel contextualisatie is juist slecht voor generaliseren/transfer. <!-- Zorg voor meerdere voorbeelden in verschillende contexten. Haal geen abstracte informatie weg; vul abstracte informatie aan met concrete voorbeelden -->
+
+- **Step size**: de mentale 'sprong' tussen verschillende ideeën. Als de lerende weinig voorkennis heeft moet de step size kleiner zijn. Dit kan op twee manieren:
+
+    - Gebruik consistente terminologie/begrippen.
+    - Maak verwijzingen naar wat eerder is geleerd.
+
+  Bij procedures houdt dit in dat bij de eerste uitvoering ('initial performance') informatie over de omgeving en context moet worden aangeboden, omdat het voor de lerende te moeilijk is de procedure te interpreteren in de huidige context.<!-- Bij gevorderden zorgt incomplete informatie juist voor betere transfer, omdat lerenden zelf het onderliggende principe uitvinden. -->
+
+- **Pacing**: de hoeveelheid voorbeelden, casussen, of oefeningen dat wordt aangeboden voordat de instructie verder gaat met het volgende idee<!--; de 'afstand' tussen de introductie van verschillende concepten -->. De pacing hangt af van:
+
+  - **Voorkennis van de doelgroep** (meer voorkennis \\(\implies\\) hogere pacing)
+  - **Complexiteit van het materiaal** (complexer \\(\implies\\) lagere pacing)
+
+- **Wees consistent**: gebruik consistente opmaak, begrippen, spelling, structuur, zinsopbouw. Het maken van een zogenaamde *style guide* kan helpen.
+
+- **Communiceer hints**: tijdens de taakanalyse heb je bepaalde hints ('cues') gevonden die de lerende helpen bij het uitvoeren van een procedure. Communiceer deze duidelijk aan de hand van <a href="#signaling">signaling</a>.
+
 ### Multimediaprincipes van Mayer
 
 Mayer (2008) identificeert een aantal belangrijke principes voor het inzetten van <dfn title="illustraties, video, animatie etc.">multimedia</dfn>:
@@ -1018,9 +1038,11 @@ Mayer (2008) identificeert een aantal belangrijke principes voor het inzetten va
   </ul>
 </details>
 
+<!--
 ### Begrijpend lezen
 
 ...
+-->
 
 ### Computer-based instructie (CBI)
 
@@ -1062,7 +1084,7 @@ Individualised instruction zijn vormen van CBI waarbij de lerende zelfstandig we
 
 - **Controle**: geef de lerende controle over eigen leerproces. Dit verhoogt effectiviteit en tevredenheid. Er zijn drie soorten controls:
 
-    - **Navigatie**: controls om de pacing te bepalen; ◀️▶️, ⏮️⏯️⏺️⏭️, 🔇🔈🔉🔊
+    - **Navigatie**: controls om de pacing te bepalen; bijvoorbeeld ◀️▶️, ⏮️⏯️⏺️⏭️
     - **Context**: controls om de context te kiezen; bijvoorbeeld een casus of onderwerp.
     - **Hoeveelheid**: controls om het aantal en soort voorbeelden of leerstof te kiezen.
 
@@ -1080,46 +1102,41 @@ Individualised instruction zijn vormen van CBI waarbij de lerende zelfstandig we
 
 - **Remidation**: als de lerende een fout maakt moet deze gecorrigeerd worden. Dat kan door herlezen, advies geven over gebruik van controls, of response-sensitive feedback.
 
-## Lesmaterialen produceren
-
-### Heuristieken
-
-- **Maak het concreet**: voeg visualisatie, <dfn title="korte/simpele woorden en actieve in plaats van passieve zinnen">concrete tekst</dfn>, en voorbeelden toe.<!-- En maak tekst persoonlijk/informeel, maar niet overmatig, want dat kan afleidend zijn. --> Een mix van concrete en abstracte informatie is interessanter en zorgt voor betere transfer. Teveel contextualisatie is juist slecht voor generaliseren/transfer. <!-- Zorg voor meerdere voorbeelden in verschillende contexten. Haal geen abstracte informatie weg; vul abstracte informatie aan met concrete voorbeelden -->
-
-- **Step size**: de mentale 'sprong' tussen verschillende ideeën. Als de lerende weinig voorkennis heeft moet de step size kleiner zijn. Dit kan op twee manieren:
-
-    - Gebruik consistente terminologie/begrippen.
-    - Maak verwijzingen naar wat eerder is geleerd.
-
-  Bij procedures houdt dit in dat bij de eerste uitvoering ('initial performance') informatie over de omgeving en context moet worden aangeboden, omdat het voor de lerende te moeilijk is de procedure te interpreteren in de huidige context.<!-- Bij gevorderden zorgt incomplete informatie juist voor betere transfer, omdat lerenden zelf het onderliggende principe uitvinden. -->
-
-- **Pacing**: de hoeveelheid voorbeelden, casussen, of oefeningen dat wordt aangeboden voordat de instructie verder gaat met het volgende idee<!--; de 'afstand' tussen de introductie van verschillende concepten -->. De pacing hangt af van:
-
-  - **Voorkennis van de doelgroep** (meer voorkennis \\(\implies\\) hogere pacing)
-  - **Complexiteit van het materiaal** (complexer \\(\implies\\) lagere pacing)
-
-- **Wees consistent**: gebruik consistente opmaak, begrippen, spelling, structuur, zinsopbouw. Het maken van een zogenaamde *style guide* kan helpen.
-
-- **Communiceer hints**: tijdens de taakanalyse heb je bepaalde hints ('cues') gevonden die de lerende helpen bij het uitvoeren van een procedure. Communiceer deze duidelijk aan de hand van <a href="#signaling">signaling</a>.
-
+<!--
 ### Delivery methods
 
-#### Lectures
+#### Lecture-formats
 
-##### Online lectures
-(^put in a details box as well)
+In lecture-formats is er een instructieverantwoordelijke die instructie vertelt, uitbeeldt of demostreert, gekenmerkt door zenden van informatie naar lerenden in een vast tijdsbestek.
 
-#### Self-paced learning
+Sterke punten:
 
-#### Small-group formats
+- Bekend en geaccepteerd door leraren en lerenden.
+- Snel om te ontwerpen en produceren.
+- De leraar heeft autoriteit.
+- Geschikt voor grote groepen lerenden.
+- Makkelijk aan te passen aan de doelgroep.
+- Kan motiverend en interessant zijn voor lerenden.
 
-- Debatteren
-- Guided-design
-- Case study
-- Rollenspel
-- Simulatie
-- Games
-- Samenwerkend leren
+Limitaties:
+
+- Zenden is éénrichtingsverkeer, lerenden hebben passieve rol.
+- Leraar-afhankelijk; niet elke leraar is interessant en motiverend.
+- De pacing is voor alle lerenden hetzelfde; niet adaptief voor lerenden.
+- Vragen stellen onderbreekt de instructie voor de rest van de lerenden.
+- Minder geschikt voor psychomotorische of affectieve leerdoelen.
+- De precieze inhoud van een presentatie verschilt per keer, dus is niet consistent.
+- Lerenden met gehoorbeperkingen zijn benadeeld.
+
+#### Online lecture-formats
+
+Het is mogelijk om les te geven over tijd en afstand heen ('distance education'), of gelijktijdig over afstand ('virtual education').
+
+Sterke punten:
+
+- Lerenden kunnen lectures volgen zonder naar een fysieke locatie te hoeven reizen.
+- Veel grotere groepen lerenden kunnen lectures tegelijk volgen.
+-->
 
 ## Evaluatie
 
