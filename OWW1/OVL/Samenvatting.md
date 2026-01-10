@@ -1052,10 +1052,33 @@ Individualised instruction zijn vormen van CBI waarbij de lerende zelfstandig we
 
 #### Design principles
 
-- User interface
-- Controle
-- Feedback
-- Remidation
+- **User interface**: een interface moet simpel en gebruiksvriendelijk zijn. Hij moet duidelijk zijn en de gebruiker een gevoel van controle geven. Er zijn drie niveaus van intuïtiviteit:
+
+    - **Non-intuitief**: moeilijk te gebruiken, ook als er instructie wordt gegeven.
+    - **Semi-intuitief**: makkelijk te gebruiken, mits er instructie wordt gegeven.
+    - **Intuitief**: makkelijk te gebruiken, ook zonder er instructie wordt gegeven.
+
+  Hierin is **consistentie** de belangrijkste eigenschap. Wees consistent in de layout, navigatie, plaatsing en werking van knoppen etc.
+
+- **Controle**: geef de lerende controle over eigen leerproces. Dit verhoogt effectiviteit en tevredenheid. Er zijn drie soorten controls:
+
+    - **Navigatie**: controls om de pacing te bepalen; ◀️▶️, ⏮️⏯️⏺️⏭️, 🔇🔈🔉🔊
+    - **Context**: controls om de context te kiezen; bijvoorbeeld een casus of onderwerp.
+    - **Hoeveelheid**: controls om het aantal en soort voorbeelden of leerstof te kiezen.
+
+  Instructie overslaan door navigatie leidt tot verminderde leeropbrengsten. Lerenden met meer voorkennis kunnen betere beslissingen maken hoe ze met controls omgaan.
+
+- **Feedback**: feedback mag immediate of delayed zijn, en moet het liefst voor elaboratie zorgen. Er zijn vijf types feedback:
+
+    - **Knowledge of result** (KR): of het antwoord goed of fout was.
+    - **Knowledge of correct response** (KCR): het goede antwoord.
+    - **Answer until correct** (AUR): je mag pas verder als je het goed hebt.<!-- Vaak gecombineerd met KR. -->
+    - **Elaborated**: <dfn title="links naar relevante tekst, suggesties voor metacognitieve strategieën">extra informatie</dfn> naast correctheid van antwoord.
+    - **Response-sensitive**<!-- (of 'error-contigent')-->: waarom een antwoord goed of fout is.
+
+  Uit onderzoek blijkt dat response-sensitive en elaborated feedback het effectiefst zijn, gevolgd door KCR en KR.
+
+- **Remidation**: als de lerende een fout maakt moet deze gecorrigeerd worden. Dat kan door herlezen, advies geven over gebruik van controls, of response-sensitive feedback.
 
 ## Lesmaterialen produceren
 
