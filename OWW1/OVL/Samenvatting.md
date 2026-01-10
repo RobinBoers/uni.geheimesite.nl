@@ -126,7 +126,7 @@ De behoefteanalyse wordt gebruikt om het prestatieprobleem te identificeren, aan
 - **Anticipated/future needs**: voorbereiden op aankomende veranderingen en daarmee toekomstige performance problemen voor zijn.
 - **Critical indicent needs**: voorbereiden op een situaties die bijna nooit voorkomen, maar wel heel ernstig zijn; bijvoorbeeld een brandoefening of EHBO-cursus.
 
-> Needs kunnen worden geprioriteerd op basis van verschillende eigenschappen, waaronder kosten, invloed, frequentie, of tijd. Een veelgebruikte methode is de *Delphi method*.
+> Needs kunnen worden geprioriteerd op basis van verschillende eigenschappen, waaronder kosten, invloed, frequentie, of tijd. Een veelgebruikte manier is de *Delphi method*.
 
 <!--
 <details>
@@ -1022,15 +1022,35 @@ Mayer (2008) identificeert een aantal belangrijke principes voor het inzetten va
 
 ...
 
-### Computer-based instruction
+### Computer-based instructie (CBI)
 
-- Drill-and-practise
-- Tutorials
-- Simulaties
-- Games
-- Hypermedia
+Computer-based instructie (en educatieve technologie in het algemeen) is niet één enkele interventie, maar een brede categorie aan media, tools, en strategieën voor leren. Computers kunnen efficiëntere instructie bieden, maar effectiviteit is afhankelijk van de manier inzetten. 
 
-### Design principles
+<details open>
+  <summary>Voordelen van computer-based instructie</summary>
+  <ul>
+    <li>op afstand bruikbaar</li>
+    <li>op meerdere plekken tegelijk bruikbaar</li>
+    <li>kan makkelijker differentiatie bieden</li>
+    <li>wordt nooit moe of verveeld</li>
+  </ul>
+</details>
+
+#### Individualised instruction
+
+Individualised instruction zijn vormen van CBI waarbij de lerende zelfstandig werkt, zelf de pacing bepaalt, en de instructie zichzelf adaptief op de lerende aanpast. Er zijn vijf types:
+
+- **Drill-and-practise**: versterkt de associatie tussen stimulus en response (vraag en antwoord). Nuttig voor stampen of automatiseren, vaak door middel van flashcards. Alleen bruikbaar voor oefenen, niet als initiële presentatie; voorkennis is vereist.
+
+- **Tutorials**: de initiële presentatie van nieuwe stof. Makkelijker te verspreiden en <dfn title="stof toevoegen, verduidelijken, of fouten corrigeren">updaten</dfn> dan boeken. Kan gebruikmaken van hyperlinks en simpele of ingewikkelde branching.
+
+- **Simulaties**: modellen van de werkelijkheid. Bruikbaar als oefenen in het echt te duur, gevaarlijk, of onpraktisch is. De mate van realisme ('fidelity') is afhankelijk van de voorkennis van de lerende; gevorderden hebben vaak behoefte aan realistischere settings. <!--Simulaties onderscheiden zich van animaties en games omdat ze een wiskundige benadering van de werkelijkheid zijn.-->
+
+- **Games**: voegen een motivationele factor toe aan bovenstaande methoden door middel van verhaallijn of beloningen. Er zijn vijf typen: strategy, adventure, role-playing, action, en <abbr title="massively multiplayer online role-playing games">MMORPG</abbr>. Er zijn ondanks interesse uit de wetenschap geen duidelijke design principes.
+
+- **Hypermedia**: tekst met links ('hypertext') kan worden gebruik voor het overzichtelijk en doorzoekbaar maken van grote hoeveelheden non-lineaire informatie. Vereist hoge mate van zelfregulatie en scaffholding. Zorg voor duidelijke link-tekst en previews van links. <!--Vooral effectief als de lerenden informatie uit verschillende bronnen moeten doorzoeken en vergelijken.-->
+
+#### Design principles
 
 - User interface
 - Controle
