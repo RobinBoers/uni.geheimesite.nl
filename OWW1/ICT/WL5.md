@@ -7,7 +7,7 @@ examples of making:
 - making a video
 - writing a blog
 - making a test question
-- making a slow-mation (or stop-motion)
+- making a slow-mation (or stopmotion)
 
 why does it promote learning?
 

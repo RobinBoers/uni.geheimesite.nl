@@ -46,7 +46,7 @@ Je gaat een humoristische animatie of stopmotion ongeveer een minuut maken, waar
 
 ## Stappenplan
 
-Kies eerst een techniek om deze opdracht uit te voeren. Je mag of een animatie maken, of een stop-motion maken. De eerste aantal stappen is voor beide technieken gelijk. Daarna kan je zelf kiezen wat jij het leukst vindt.
+Kies eerst een techniek om deze opdracht uit te voeren. Je mag of een animatie maken, of een stopmotion maken. De eerste aantal stappen is voor beide technieken gelijk. Daarna kan je zelf kiezen wat jij het leukst vindt.
 
 ### Stap 1: onderwerp & verhaal
 
@@ -111,24 +111,41 @@ In jouw animatie of stopmotion is één of twee scènes per act voldoende. Zorg 
 
 Aan de hand van het storyboard en het script gaan je nu jouw animatie maken.
 
-...
+1. Open het animatieprogramma dat je gaat gebruiken.
+2. Maak een nieuw project aan en geef het een duidelijke naam.
+3. Teken eerst het decor van de scène op het eerste frame.
+4. Dupliceer dit frame tot de scène zo lang is als je in je storyboard had bedacht.
+5. Teken nu de personages in het eerste frame.
+6. Ga naar het volgende frame en teken de personages net een beetje anders.
+7. Herhaal dit proces totdat de hele scène is geanimeerd.
+8. Voeg als laatste tekstballonnen of voice-over toe, zoals je in je script bedacht had.
+9. Herhaal de bovenstaande stappen voor alle scènes in je animatie.
 
 #### Soundtrack en geluidseffecten
 
-Een belangrijk aspect van je animatie is natuurlijk de soundtrack en geluidseffecten. Je kan online super veel geluidseffecten vinden en downloaden. Of misschien bevat jouw animatieprogramma ook al wel effecten. Tip: als je een YouTube kanaal hebt kan je in YouTube Studio gratis muziek downloaden uit een hele grote catalogus:
+Niet te vergeten is natuurlijk een soundtrack en geluidseffecten voor je animatie. Je kan online super veel geluidseffecten vinden en downloaden. Of misschien bevat jouw animatieprogramma ook al wel effecten. Tip: als je een YouTube kanaal hebt kan je in YouTube Studio gratis muziek en effecten downloaden uit een hele grote catalogus:
 
 <a class="btn" href="https://youtube.com/audiolibrary">YouTube Studio &rarr;</a>
 
+### Stap 2 (optie 2): stopmotion
 
-### Stap 2 (optie 2): stop-motion
+Aan de hand van het storyboard en het script gaan je nu jouw stopmotion maken.
 
-Aan de hand van het storyboard en het script gaan je nu jouw stop-motion maken.
-
-...
+1. Zet je telefoon of camera stevig neer op een statief of tafel zodat hij niet beweegt.
+2. Zet de achtergrond of het decor van je scène neer, en leg alle materialen klaar die je nodig hebt.
+3. Zet de eerste scène klaar volgens je storyboard.
+4. Maak een foto van de beginsituatie.
+5. Verplaats de personages een klein stukje.
+6. Maak opnieuw een foto.
+7. Herhaal dit proces totdat de hele scène is opgenomen.
+8. Importeer alle foto’s in een stop-motion app of programma.
+9. Stel de snelheid in zodat de bewegingen vloeiend zijn.
+10. Voeg eventueel geluidseffecten, muziek of voice-over toe, zoals in je script staat aangegeven.
+11. Exporteer de stop-motion als video-bestand.
 
 #### Soundtrack en geluidseffecten
 
-Een belangrijk aspect van je stopmotion is natuurlijk de soundtrack en geluidseffecten. Je kan online super veel geluidseffecten vinden en downloaden. Of misschien bevat jouw animatieprogramma ook al wel effecten. Tip: als je een YouTube kanaal hebt kan je in YouTube Studio gratis muziek downloaden uit een hele grote catalogus:
+Niet te vergeten is natuurlijk een soundtrack en geluidseffecten voor je stopmotion. Je kan online super veel geluidseffecten vinden en downloaden. Of misschien bevat jouw stopmotionprogramma ook al wel effecten. Tip: als je een YouTube kanaal hebt kan je in YouTube Studio gratis muziek en effecten downloaden uit een hele grote catalogus:
 
 <a class="btn" href="https://youtube.com/audiolibrary">YouTube Studio &rarr;</a>
 
