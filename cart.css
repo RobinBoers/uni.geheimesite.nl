@@ -1,6 +1,7 @@
 @import url("https://cdn.geheimesite.nl/reset.css");
 
 :root {
+  --lighter-blue: rgb(212, 243, 252);
   --light-blue: #abdbe7;
   --medium-blue: #86c0cc;
   --dark-blue: #6da1ae;
@@ -14,15 +15,23 @@
 body {
   font-size: 1.2rem;
   line-height: 1.4;
+  padding-top: 2em;
 }
 
 hgroup {
   font-family: 'Bodoni FLF', serif;
+  margin-bottom: 0;
+  padding: 1.2em 0;
+  background: var(--lighter-blue);
+  width: 103%;
+  max-width: unset !important;
+  margin-left: -4%;
+  padding-left: 4%;
 }
 
 hgroup h1 {
   font-size: 3em;
-  padding-top: 0.4em;
+  margin-top: 0;
 }
 
 hgroup p {
@@ -193,4 +202,13 @@ main > ul li {
   background: var(--medium-blue);
   font-family: Poppins, sans-serif;
   padding: 4px 6px;
+}
+
+@media (max-width: 1100px) {
+  .letter, .post-it, aside {
+    display: none;
+  }
+  main > * {
+    max-width: unset;
+  }
 }
