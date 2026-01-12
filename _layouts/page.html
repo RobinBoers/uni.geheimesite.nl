@@ -2,14 +2,23 @@
 layout: default
 ---
 
-<header>
-  <nav>
-    <a href="/">← Terug naar de index</a>
-  </nav>
-</header>
+{% unless page.noheader %}
+  <header>
+    <nav>
+      <a href="/">← Terug naar de index</a>
+    </nav>
+  </header>
+{% endunless %}
 
 <main>
-  <h1>{{ page.title }}</h1>
+  {% if page.subtitle %}
+    <hgroup>
+      <h1>{{ page.title }}</h1>
+      <p>{{ page.subtitle }}</p>
+    </hgroup>
+  {% else %}
+    <h1>{{ page.title }}</h1>
+  {% endif %}
 
   {{ content }}
 </main>

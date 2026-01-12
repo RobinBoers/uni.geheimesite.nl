@@ -1,0 +1,196 @@
+@import url("https://cdn.geheimesite.nl/reset.css");
+
+:root {
+  --light-blue: #abdbe7;
+  --medium-blue: #86c0cc;
+  --dark-blue: #6da1ae;
+  --gray-blue: #dae8eb;
+
+  /* Heroicons */
+  --download-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='1.5' stroke='black'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12 12 16.5m0 0L7.5 12m4.5 4.5V3'/%3E%3C/svg%3E");
+  --document-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='1.5' stroke='black'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z'/%3E%3C/svg%3E");
+}
+
+body {
+  font-size: 1.2rem;
+  line-height: 1.4;
+}
+
+hgroup {
+  font-family: 'Bodoni FLF', serif;
+}
+
+hgroup h1 {
+  font-size: 3em;
+  padding-top: 0.4em;
+}
+
+hgroup p {
+  font-size: 2em;
+  margin-bottom: 0;
+}
+
+main {
+  font-family: 'Times New Roman', Times, serif;
+  max-width: 1350px;
+  margin: 0 auto;
+  position: relative;
+}
+
+main > * {
+  max-width: 70%;
+}
+
+main > aside {
+  width: 30%;
+  float: right;
+  padding: 15px;
+  font-family: 'Poppins', sans-serif;
+}
+
+main > aside h2 {
+  background: var(--medium-blue);
+  padding: 4px 6px;
+  font-size: 1em;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+h4 + p {
+  margin-top: 0;
+}
+
+.letter {
+  font-family: 'League Spartan', sans-serif;
+  background-color: var(--light-blue);
+  font-weight: bolder;
+  font-size: 5em;
+  line-height: 1.1;
+  padding: 20px 0;
+  width: calc(30% - 30px);
+  text-align: center;
+  margin: 0 15px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.letter::before {
+  content: "versie";
+  display: block;
+  font-size: 2rem;
+  font-family: Roboto, sans-serif;
+}
+
+.post-it {
+  background-color: #FFF2CC;
+  color: black;
+  font-style: italic;
+  font-size: 17px;
+  font-weight: normal;
+  text-decoration: none;
+  position: absolute;
+  right: 5%;
+  margin-top: -100px;
+  display: block;
+  height: auto;
+  width: 16em;
+  padding: 1em;
+  box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+}
+
+.post-it:hover {
+  box-shadow: 10px 10px 7px rgba(0,0,0,.7);
+  transform: scale(1.25) !important;
+  z-index: 5;
+}
+
+main > h2 {
+  margin-top: 2.5em;
+}
+
+.btn {
+  background: var(--light-blue);
+  color: black;
+  text-decoration: none;
+  padding: 6px 12px;
+  font-family: Poppins, sans-serif;
+  margin-bottom: 1.5em;
+  display: inline-block;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.btn[download]::after {
+  content: "";
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  background: var(--download-icon);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-left: 0.5em;
+  margin-bottom: 0.1em;
+  vertical-align: middle;
+}
+
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  height: auto;
+}
+
+h4 {
+  margin-top: 2.2em;
+}
+
+aside ul {
+  list-style: none;
+  padding: 0;
+}
+
+aside ul a::before {
+  content: "";
+  width: 3em;
+  height: 3em;
+  display: inline-block;
+  background: var(--document-icon);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-left: 0.5em;
+  margin-bottom: 0.1em;
+  vertical-align: middle;
+}
+
+aside ul a {
+  display: block;
+  color: var(--dark-blue);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+aside ul a:hover {
+  background: var(--gray-blue);
+}
+
+main > ul li {
+  padding-bottom: 0.5em;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5em;
+}
+
+#stappenplan ~ h3 {
+  background: var(--medium-blue);
+  font-family: Poppins, sans-serif;
+  padding: 4px 6px;
+}

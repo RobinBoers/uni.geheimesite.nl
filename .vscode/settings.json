@@ -12,6 +12,7 @@
     "**/Gemfile": true,
     "**/Gemfile.lock": true,
     "**/main.css": true,
+    "**/cart.css": true,
     "**/.gitignore": true
   },
 }

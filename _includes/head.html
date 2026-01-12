@@ -14,8 +14,12 @@
   <link rel="icon" sizes="16x16" href="/favicon.ico">
   <link rel="apple-touch-icon" sizes="16x16" href="/favicon.ico">
 
-  <link rel="stylesheet" href="{{ 'main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ page.stylesheet | default: 'main.css' | relative_url }}">
   <meta name="color-scheme" content="light dark">
+
+  {% if page.norobots %}
+    <meta name="robots" content="noindex, nofollow">
+  {% endif %}
 
   {% include dependencies.html %}
 

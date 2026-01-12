@@ -5,9 +5,11 @@
   <body>
     {{ content }}
 
-    <footer>
-      {% include footer.html %}
-    </footer>
+    {% unless page.nofooter %}
+      <footer>
+        {% include footer.html %}
+      </footer>
+    {% endunless %}
   </body>
 </html>
 
