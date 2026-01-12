@@ -13,7 +13,7 @@ nofooter: true
   <h2>Bestanden bij deze kaart:</h2>
 
   <ul>
-    <li><a href="Rubric.docx" download>Beoordelingscriteria</a></li>
+    <li><a href="RubricA.docx" download>Beoordelingscriteria</a></li>
     <li><a href="Storyboard.docx" download>Bijlage storyboard</a></li>
     <li><a href="Screenplay.docx" download>Template screenplay</a></li>
   </ul>
@@ -177,4 +177,4 @@ Als je geen ervaring hebt met videobewerkingsprogramma’s, kan je hulp vragen a
 
 Als je je minimovie af hebt is het tijd deze te presenteren. Je legt samen met je groepje in 1 tot 3 minuten (of meer als je groepje groter is) kort uit waar je film over gaat, welke keuzes je hebt gemaakt en waarom. Tenslotte mag je de film aan de klas laten zien (als je wil).
 
-<a class="btn" href="Rubric.docx" download>Beoordelingscriteria</a>
+<a class="btn" href="RubricA.docx" download>Beoordelingscriteria</a>

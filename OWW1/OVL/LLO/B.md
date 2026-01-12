@@ -23,7 +23,7 @@ nofooter: true
   <h2>Bestanden bij deze kaart:</h2>
 
   <ul>
-    <li><a href="Rubric.docx" download>Beoordelingscriteria</a></li>
+    <li><a href="RubricB.docx" download>Beoordelingscriteria</a></li>
     <li><a href="Screenplay.docx" download>Template screenplay</a></li>
   </ul>
 </aside>
@@ -153,4 +153,4 @@ Niet te vergeten is natuurlijk een soundtrack en geluidseffecten voor je stopmot
 
 Als je jouw animatie of stopmotion af hebt is het tijd deze te presenteren. Je legt in ongeveer een minuut kort uit wat het verhaal achter je filmpje is en welke keuzes jij gemaakt hebt tijdens het animeren. Tenslotte laat je het eindresultaat zien aan de klas.
 
-<a class="btn" href="Rubric.docx" download>Beoordelingscriteria</a>
+<a class="btn" href="RubricB.docx" download>Beoordelingscriteria</a>
