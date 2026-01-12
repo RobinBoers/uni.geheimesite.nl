@@ -105,7 +105,7 @@ De meeste scripts volgen een <b>drie-act structuur</b>, overeenkomend met het co
 
 In jouw animatie of stopmotion is één of twee scènes per act voldoende. Zorg er dan wel voor dat je nog steeds het conflictmodel op de juiste manier toepast.
 
-<a class="btn" href="Screenplay.docx" download>Template script</a>
+<a class="btn" href="Screenplay.docx" download>Template screenplay</a>
 
 ### Stap 2 (optie 1): animeren
 

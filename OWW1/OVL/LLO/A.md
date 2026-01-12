@@ -14,7 +14,7 @@ nofooter: true
 
   <ul>
     <li><a href="Rubric.docx" download>Beoordelingscriteria</a></li>
-    <li><a href="Storyboard.docx" download>Template storyboard</a></li>
+    <li><a href="Storyboard.docx" download>Bijlage storyboard</a></li>
     <li><a href="Screenplay.docx" download>Template screenplay</a></li>
   </ul>
 </aside>
@@ -71,7 +71,7 @@ Hieronder zie je een voorbeeld van een storyboard:
 
 Je maakt het storyboard in je dummy, en vult vervolgens een lijst in waar je per shot schat hoelang je denkt dat het shot gaat duren, en wie erin voorkomen.
 
-<a class="btn" href="Storyboard.docx" download>Template storyboard</a>
+<a class="btn" href="Storyboard.docx" download>Bijlage storyboard</a>
 
 #### Script
 
@@ -89,7 +89,7 @@ De meeste filmscripts volgen een <b>drie-act structuur</b>, overeenkomend met he
 
 In jullie minimovie is één of twee scènes per act voldoende. Je mag ook de volledige film af laten spelen op één locatie. Zorg er dan wel voor dat je nog steeds het conflictmodel op de juiste manier toepast.
 
-<a class="btn" href="Screenplay.docx" download>Template script</a>
+<a class="btn" href="Screenplay.docx" download>Template screenplay</a>
 
 ### Stap 2: camera’s & opnames
 
