@@ -24,6 +24,7 @@ hgroup {
   margin-bottom: 0;
   padding: 1.2em 0;
   background: var(--lighter-blue);
+  color: black;
   width: 100%;
   max-width: unset !important;
 }
@@ -58,6 +59,7 @@ main > aside {
 
 main > aside h2 {
   background: var(--medium-blue);
+  color: black;
   padding: 4px 6px;
   font-size: 1em;
 }
@@ -72,7 +74,8 @@ h4 + p {
 
 .letter {
   font-family: 'League Spartan', sans-serif;
-  background-color: var(--light-blue);
+  background: var(--light-blue);
+  color: black;
   font-weight: bolder;
   font-size: 5em;
   line-height: 1.1;
@@ -176,6 +179,12 @@ aside ul a::before {
   vertical-align: middle;
 }
 
+@media (prefers-color-scheme: dark) {
+  aside ul a::before {
+    filter: invert();
+  }
+}
+
 aside ul a {
   display: block;
   color: var(--dark-blue);
@@ -199,6 +208,7 @@ main > ul li {
 
 #stappenplan ~ h3 {
   background: var(--medium-blue);
+  color: black;
   font-family: Poppins, sans-serif;
   padding: 4px 6px;
 }
