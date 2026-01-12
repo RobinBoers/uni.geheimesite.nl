@@ -16,6 +16,7 @@ nofooter: true
     <li><a href="RubricA.docx" download>Beoordelingscriteria</a></li>
     <li><a href="Storyboard.docx" download>Bijlage storyboard</a></li>
     <li><a href="Screenplay.docx" download>Template screenplay</a></li>
+    <li><a href="Presenteren.docx" download>Richtlijnen presenteren</a></li>
   </ul>
 </aside>
 

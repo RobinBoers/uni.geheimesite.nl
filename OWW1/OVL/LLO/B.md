@@ -25,6 +25,7 @@ nofooter: true
   <ul>
     <li><a href="RubricB.docx" download>Beoordelingscriteria</a></li>
     <li><a href="Screenplay.docx" download>Template screenplay</a></li>
+    <li><a href="Presenteren.docx" download>Richtlijnen presenteren</a></li>
   </ul>
 </aside>
 
