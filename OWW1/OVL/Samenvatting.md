@@ -73,9 +73,9 @@ Het ontwerpmodel van Morrison et al. (2013) bestaat uit negen stappen:
 
 <br>
 
-Daarnaast zijn er acht langlopende processen tijdens het ontwerpproces:
+Daarnaast zijn er zes langlopende processen tijdens het ontwerpproces:
 
-- **Planning en projectmanagement**: plannen & bbudgetteren de hoeveelheid tijd die hierin gestoken wordt is afhankelijk van de scope van het project.
+- **Planning en projectmanagement**: plannen & budgetteren de hoeveelheid tijd die hierin gestoken wordt is afhankelijk van de scope van het project.
 
 - **Support services**: hoeveel werk voor de instructional designer uit handen wordt genomen, bijv. door grafisch ontwerpers, Q&A-testers, programmeurs, filmmakers etc.
 
@@ -124,7 +124,7 @@ De behoefteanalyse wordt gebruikt om het prestatieprobleem te identificeren, aan
 - **Felt needs**: een verlangen (eigen) performance te verbeteren; een gap tussen huidige prestaties en beoogde prestaties.
 - **Expressed needs**: een *felt need* waar actie op is ondernomen; bijvoorbeeld hulp vragen aan een collega, inschrijven voor een cursus, etc.
 - **Anticipated/future needs**: voorbereiden op aankomende veranderingen en daarmee toekomstige performance problemen voor zijn.
-- **Critical indicent needs**: voorbereiden op een situaties die bijna nooit voorkomen, maar wel heel ernstig zijn; bijvoorbeeld een brandoefening of EHBO-cursus.
+- **Critical indicent needs**: voorbereiden op situaties die bijna nooit voorkomen, maar wel heel ernstig zijn; bijvoorbeeld een brandoefening of EHBO-cursus.
 
 > Needs kunnen worden geprioriteerd op basis van verschillende eigenschappen, waaronder kosten, invloed, frequentie, of tijd. Een veelgebruikte manier is de *Delphi method*.
 
@@ -145,7 +145,7 @@ De behoefteanalyse wordt gebruikt om het prestatieprobleem te identificeren, aan
   <p>Een <strong>needs assesment</strong> wordt gebruikt om performance gaps te identificeren en te bepalen of deze opgelost kunnen worden door middel van instructie. Een <strong>needs analysis</strong> (of 'cause analysis') identificeert de <em>oorzaak</em> van het performance gap.</p>
 </details>
 
-### Taakuitvoeringsanalyse <small>('performance assesment')<small>
+### Taakuitvoeringsanalyse <small>('performance assesment')</small>
 
 De taakuitvoeringsanalyse bepaalt de oorzaak van het prestatieprobleem:
 
@@ -161,7 +161,7 @@ De taakuitvoeringsanalyse bepaalt de oorzaak van het prestatieprobleem:
 | Oorzaak | Interventie |
 |--|--|
 | Gebrek aan kennis of vaardigheden | Training of instructie aanbieden. |
-| Gebrek aan motivatie of incentive | Verbeter motivatie of biedt beloningen. |
+| Gebrek aan motivatie of incentive | Verbeter motivatie of bied beloningen. |
 | Omgevings&shy;factoren | Aanpassingen aan de omgeving of taak. |
 | Management&shy;factoren | Aanpassingen aan managementprakijken, training of instructie aanbieden aan de manager, of aanwijzen van nieuwe manager. |
 | Interpersoonlijke relaties | Aanpassingen aan werkomgeving, aanbieden van coaching, mediëren, aanpassen van managementprakijken. |
@@ -170,7 +170,7 @@ Instructie is alleen effectief als het prestatieprobleem veroorzaakt wordt door 
 
 > In de praktijk liggen gebrek aan kennis en motivatie dichter bij elkaar dan in theorie. Soms kan verbeterde instructie dus ook een antwoord zijn op een gebrek aan motivatie.
 
-### Doelanalyse <small>('goal analysis')<small>
+### Doelanalyse <small>('goal analysis')</small>
 
 Een doelanalyse wordt gebruikt om een duidelijker beeld te krijgen van de doelen die de instructie moet bereiken.
 
@@ -456,7 +456,7 @@ Er zijn drie leerdoeldomeinen: cognitief, psychomotorisch en affectief. Binnen d
   </tr>
   <tr>
     <td>articulatie</td>
-    <td>efficiënte en gecoordineerd uitvoeren</td>
+    <td>efficiënter en gecoördineerd uitvoeren</td>
   </tr>
   <tr>
     <td>naturalisatie</td>
@@ -509,7 +509,7 @@ Er zijn drie leerdoeldomeinen: cognitief, psychomotorisch en affectief. Binnen d
     </tr>
     <tr>
       <td>Verbaal</td>
-      <td>spraak produceren, geluid en gebaren coordineren</td>
+      <td>spraak produceren, geluid en gebaren coördineren</td>
     </tr>
   </tbody>
   </table>
@@ -676,7 +676,7 @@ Concept-related sequentiëring sluit aan bij hoe we de wereld conceptueel organi
 
 ### Elaboratietheorie van Reigeluth
 
-Elaboraboratietheorie wordt ook de zoomlens-methode genoemd. Er is sprake van een epitoom: de kern van de stof. Elaboraties bieden geleidelijk meer diepgang. Je kan hierin twee keuzes:
+Elaboratietheorie wordt ook de zoomlensmethode genoemd. Er is sprake van een epitoom: de kern van de stof. Elaboraties bieden geleidelijk meer diepgang. Je kan hierin twee keuzes:
 
 - Je begint met het geheel, en zoomt dan daarna in op elk onderdeel.
 - Of: je begint met losse onderdelen, en werkt naar het geheel toe.
@@ -687,7 +687,7 @@ Het 'zoomen' verschilt per type expertise dat de lerende ontwikkelt:
 
   - **Conceptueel**: begin met brede overkoepelende ('superordinate') stof, behandel daarna gerelateerde ('coordinate') stof, en tot slot afhankelijke ('subordinate') begrippen.
 
-  - **Theoretisch**: de volgorde die ook tot de eerste ontdekking van een idee heeft geleidt; beginnen met concrete observaties, en het wordt daarna steeds abstracter/complexer.
+  - **Theoretisch**: de volgorde die ook tot de eerste ontdekking van een idee heeft geleid; beginnen met concrete observaties, en het wordt daarna steeds abstracter/complexer.
 
 - **Vaardigheid** ('task-expertise'): begin met simpele taken, en daarna komen steeds moeilijkere taken.
 
@@ -711,7 +711,7 @@ De initiële presentatie is de eerste kennismaking met nieuwe stof. Voorbeelden 
   <p>Er zijn een aantal manieren waarop je voorbeelden kan inzetten als initiële presentatie:</p>
   <ul>
     <li><p><b>Uitgewerkte voorbeelden</b> (‘worked examples’): een volledig uitgewerkt voorbeeld, inclusief denkstappen. Vooral effectief als de leerling tijd krijgt deze geconcentreerd en aandachtig te bestuderen.</p></li>
-    <li><p><b>Demostraties</b> (‘modeling examples’): de instructie&shy;verantwoordelijke demostreert de uitvoering van een procedure, en legt daarbij hardop denkstappen uit. Dit kan ook in de vorm van een video.</p></li>
+    <li><p><b>Demonstraties</b> (‘modeling examples’): de instructie&shy;verantwoordelijke demonstreert de uitvoering van een procedure, en legt daarbij hardop denkstappen uit. Dit kan ook in de vorm van een video.</p></li>
     <li><p><b>Concrete voorbeelden</b>: voorbeelden in de vorm van plaatjes, beschrijvingen, casussen etc. Het is vooral belangrijk dat het er <em>genoeg</em> zijn, omdat de lerende dan de kans krijgt door middel van patroonherkenning een algemene regel te vinden.</p></li>
   </ul>
 </details>
@@ -730,7 +730,7 @@ De initiële presentatie is de eerste kennismaking met nieuwe stof. Voorbeelden 
       <p><strong>Organisatie</strong>: stappenplannen; gebruikt voor procedures (denk ‘ikea’), maar ook concepten en principes (denk ‘koolstofkringloop’ of ‘bloedcirculatie’).</p>
     </li>
     <li>
-      <p><strong>Interpretatie</strong>: bieden visuele interpretatie van ingewikkelde of abstracte informatie; vaak vergelijkingen of metaforen (bijvoorbeeld waterpomp bij uitleg over het hart).</p>
+      <p><strong>Interpretatie</strong>: bieden visuele interpretatie van ingewikkelde of abstracte informatie; vaak vergelijkingen of analogieën (bijvoorbeeld waterpomp bij uitleg over het hart).</p>
     </li>
     <li>
       <p><strong>Transformatie</strong>: een visueel ezelsbruggetje (bijvoorbeeld het aantal dagen in de maand onthouden met de knokkels op je hand).</p>
@@ -840,7 +840,7 @@ Voorbeelden van verwerkingsstrategieën kunnen zijn: opdrachten maken, debattere
 
 <details>
   <summary>Generatieve strategieën voor concepten</summary>
-  <p>Een concept is een categorie gerelateerde ideeën of dingen. De initiële presentatie omvat de naam van het concept, de definitie, en de besten voorbeelden.<!--Je kan eventueel nog een aantal extra voorbeelden geven om het concept duidelijker te maken.--><!--Voor concrete concepten kan je voorbeelden laten zien. Voor abstractere concepten kan je fysieke modellen of multimedia benutten als representatie.--></p>
+  <p>Een concept is een categorie gerelateerde ideeën of dingen. De initiële presentatie omvat de naam van het concept, de definitie, en de beste voorbeelden.<!--Je kan eventueel nog een aantal extra voorbeelden geven om het concept duidelijker te maken.--><!--Voor concrete concepten kan je voorbeelden laten zien. Voor abstractere concepten kan je fysieke modellen of multimedia benutten als representatie.--></p>
   <p>Alle bovenstaande verwerkingsstrategieën kunnen worden toegepast.</p>
 </details>
 
@@ -866,9 +866,9 @@ Voorbeelden van verwerkingsstrategieën kunnen zijn: opdrachten maken, debattere
   <p>Een procedure is een opeenvolging aan stappen om tot een doel te komen. Afhankelijk van de invulling van de PC-matrix is het leerdoel:</p>
   <ul>
     <li><strong>Recall</strong>: de lerende moet de procedure kunnen beschrijven, en stappen kunnen benoemen.</li>
-    <li><strong>Application</strong>: de lerende moet de procedure kunnen uitvoeren/demostreren.</li>
+    <li><strong>Application</strong>: de lerende moet de procedure kunnen uitvoeren/demonstreren.</li>
   </ul>
-  <p><strong>Psychomotorische procedures</strong> zijn fysieke handelingen om tot een doel te komen. Initiële presentatie is het demostreren van de uitvoering.</p>
+  <p><strong>Psychomotorische procedures</strong> zijn fysieke handelingen om tot een doel te komen. Initiële presentatie is het demonstreren van de uitvoering.</p>
   <p><strong>Cognitieve procedures</strong> zijn mentale stappen om tot een doel te komen. Initiële presentatie moet een manier vinden deze denkstappen te representeren, bijvoorbeeld door middel van uitgewerkte voorbeelden (‘worked examples’).</p>
   <p>De verwerkingsstrategie voor procedures bestaat uit twee stappen:</p>
   <ol>
@@ -1033,7 +1033,7 @@ Mayer (2008) identificeert een aantal belangrijke principes voor het inzetten va
       </ul>
     </li>
     <li>
-      <p><strong>Productiekosten</strong>: als het lesmateriaal digitaal wordt verspreidt is het invoegen van afbeelding vaak geen probleem. Echter, als het geprint moet worden kost dit vaak extra geldt. Dit is zeker het geval als de kleuraccuraatheid van de afbeeldingen van belang is, omdat dan soms duurdere printmethodes nodig zijn.</p>
+      <p><strong>Productiekosten</strong>: als het lesmateriaal digitaal wordt verspreidt is het invoegen van afbeelding vaak geen probleem. Echter, als het geprint moet worden kost dit vaak extra geld. Dit is zeker het geval als de kleuraccuraatheid van de afbeeldingen van belang is, omdat dan soms duurdere printmethodes nodig zijn.</p>
     </li>
   </ul>
 </details>
@@ -1046,7 +1046,7 @@ Mayer (2008) identificeert een aantal belangrijke principes voor het inzetten va
 
 ### Computer-based instructie (CBI)
 
-Computer-based instructie (en educatieve technologie in het algemeen) is niet één enkele interventie, maar een brede categorie aan media, tools, en strategieën voor leren. Computers kunnen efficiëntere instructie bieden, maar effectiviteit is afhankelijk van de manier inzetten. 
+Computer-based instructie (en educatieve technologie in het algemeen) is niet één enkele interventie, maar een brede categorie aan media, tools, en strategieën voor leren. Computers kunnen efficiëntere instructie bieden, maar effectiviteit is afhankelijk van de manier waarop je ze inzet. 
 
 <details open>
   <summary>Voordelen van computer-based instructie</summary>
@@ -1201,11 +1201,11 @@ De toetscyclus beschrijft de stappen die nodig zijn voor het ontwerpen van een t
 
 Na het ontwikkelen van de toets wordt deze afgenomen, en gaat het tweede deel van de toetscyclus in gang:
 
-7. **Beoordelen gemaakte toetsen**: op basis van de resultaten van de toets wordt eventueel de het cesuurvoorstel of de normering aangepast.
+7. **Beoordelen gemaakte toetsen**: op basis van de resultaten van de toets wordt eventueel het cesuurvoorstel of de normering aangepast.
 
 8. **Definitieve resultaten**: op basis van de definitieve cesuur worden de cijfers berekend en aan lerenden gecommuniceerd.
 
-9. **Evaluatie en bijstelling**: naar aanleiding van de resultaten kan blijken dat een toets te makkelijk/moeilijk is, of niet goed aansluit bij de inhoud van de instructie. Je begint dan weet aan het begin van de toetscyclus.
+9. **Evaluatie en bijstelling**: naar aanleiding van de resultaten kan blijken dat een toets te makkelijk/moeilijk is, of niet goed aansluit bij de inhoud van de instructie. Je begint dan weer aan het begin van de toetscyclus.
 
 ### Soorten toetsvragen
 
@@ -1234,7 +1234,7 @@ Er zijn verschillende soorten toetsvragen:
       <strong style="opacity: 0.5">Voordelen</strong>: bespaart ruimte tenopzichte van het gebruik van individuele meerkeuzevragen, en de gokkans is kleiner.  
       <strong style="opacity: 0.5">Nadelen</strong>: toetst *herkenning*, geen *onthouden*, en toetsen van hogere taxonomieniveaus is moeilijker.
 
-- **Constructed-response toetsvragen**: vragen waarbij de lerende zelf moet antwoorden moet formuleren en uitdrukken in eigen woorden.
+- **Constructed-response toetsvragen**: vragen waarbij de lerende zelf antwoorden moet formuleren en uitdrukken in eigen woorden.
 
     - **Korte antwoorden**: invulvragen waarbij de lerende één woord of zinsdeel opschrijft.
 
@@ -1286,7 +1286,7 @@ Er zijn verschillende soorten toetsvragen:
   <summary>Richtlijnen voor het schrijven van essayvragen</summary>
   <ul>
     <li>Maak de vragen zo specifiek mogelijk.</li>
-    <li>Geef transparantie over beoordelingscriteria en hulpmiddelen (spellingfouten, word count, woordenboek, spelleingscontrole).</li>
+    <li>Geef transparantie over beoordelingscriteria en hulpmiddelen (spellingfouten, word count, woordenboek, spellingcontrole).</li>
     <li>Schrijf voorbeeldantwoorden om antwoorden van lerenden mee te vergelijken.</li>
     <li>Geef alle lerenden dezelfde vragen.</li>
     <li>Beoordeel de essayvragen 'blind'; zonder te weten welke lerenden je aan het beoordelen bent.</li>
@@ -1461,7 +1461,7 @@ Het CLER-model beschrijft de situatie van implementatie aan de hand van vier fac
 - **Resources**<!-- (wat?)-->: hulpbronnen die kunnen helpen bij het implementatieproces.
 
     - **Conceptueel**: technische ondersteuning van IT-professionals.
-    - **Beïnvloedingsmiddelen**: <dfn title="merknamen, goodwill, financiële incentives, shaming, bedreigen">manieren</dfn> om mensen te beinvloeden.
+    - **Beïnvloedingsmiddelen**: <dfn title="merknamen, goodwill, financiële incentives, shaming, bedreigen">manieren</dfn> om mensen te beïnvloeden.
     - **Materieel**: beschikbare financiële en fysieke middelen.
     - **Personeel**: mensen die kunnen helpen en problemen kunnen oplossen.
     - **Institutioneel**: infrastructuur van de organisatie (IT, communicatie, en personeel)
