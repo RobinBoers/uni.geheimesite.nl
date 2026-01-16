@@ -127,4 +127,6 @@ Alten et al. (2019) also recognizes a few design characteristics possible modera
 
 - **Small group assignments**: positive effect on learning outcomes, achievement, and student attitudes. <small>(examples: pair-and-share, paired problem-solving, group discussions)</small>
 
-- **Lecture-activities**: positive effect on learning; micro-lectures can be used to address misunderstandings or gaps in student knowledge.
+- **Lecture-activities**: positive effect on learning; micro-lectures can be used to address misunderstandings or gaps in student knowledge, and also increases student motivation.
+
+An earlier study by Baerpler et al. (2014) indicated reducing face-to-face classroom time had no effect on learning outcomes. However, the analysis by Alten et al. (2019) finds a significant negative effect on learning outcomes when reducing face-to-face time.<!--Therefore, sustaining face-to-face time is a critical feature of succesful implementation.-->
