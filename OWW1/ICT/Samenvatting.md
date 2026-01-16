@@ -100,6 +100,66 @@ A good teacher helps students become critical thinkers and creative problem solv
   </ul>
 </details>
 
+### Self-determination theory
+
+Blended learning is effective because it reduces cognitive load (due to increased learner control), and takes into account self-determination theory. This theory consists of three factors:
+
+- **Autonomy**: students have more control over own learning (place, time, pace, depth).
+- **Competence**: students feel more competent because they come to class prepared.
+- **Relatedness**: students feel more related to fellow students and teachers because they actively processing materials together.
+
+### Self-regulated learning
+
+Self-regulated learning (SLR) refers to monitoring and adjusting own learning processes using cognitive and metacognitive stategies, by regulating motivation.
+
+We describe self-regulating in a cycle consisting of three phases:
+
+```mermaid
+flowchart LR
+    A[Planning & goals] --> B
+    B[Strategies & monitoring] --> C
+    C[Reflect & adapt] --> A
+```
+
+A blended environment requires more SLR skills from students to fully benefit from instruction. Additionally, it is an important life skill, and directly relates to higher achievement.
+
+<!--<details open>
+  <summary>Self-regulated learning skills are difficult and slow to develop:</summary>
+  <ul>
+    <li>Require doing it often in tasks.</li>
+    <li>Or: receiving specific support or training.</li>
+  </ul>
+  <p>This is especially difficult for younger people. From adolescence on, more complex SLR is possible.</p>
+</details>-->
+
+<details open>
+  <summary>Factors to support or measure SLR</summary>
+  <ul>
+    <li>Goal setting <small>what do you want to achieve? when?)</small></li>
+    <li>Time management <small>(how much time will you spent? when?)</small></li>
+    <li>Environmental structuring <small>(where do you put your smartphone etc.)</small></li>
+    <li>Help seeking <small>(when stuck, do you know? and do you ask for help?)</small></li>
+    <li>Task definition <small>(do you know what to do?)</small></li>
+    <li>Strategic planning <small>(did it work? do you make changes?)</small></li>
+  </ul>
+</details>
+
+<details>
+  <summary>How can we support SLR in flipped classroom?</summary>
+  <ul>
+    <li>Provide explicit SRL instruction <small>(increases quality)</small></li>
+    <li>Facilitate SRL by prompting <small>(increases quantity)</small></li>
+  </ul>
+  <p style="margin-bottom: 0; padding-left: 1em">Examples would be:</p>
+  <ul style="margin-top: 5px">
+    <li>Teaching SRL strategies explicitly</li>
+    <li>Providing frequent reflection moments</li>
+    <li>Helping with goal setting and planning</li>
+    <li>Doing regular progress monitoring</li>
+  </ul>
+  <p>From research we know that adding SRL prompts on their own to instruction does not influence performance, since students do not see their meaning/relevance, thus tend to ignore them. This is mitigated by adding explicit explanation.</p>
+</details>
+
 ### Scientific evidence
 
 The study by Fazal and Bryant (2019) looks at performance and growth measures for blended learning compared to only face-to-face:
