@@ -190,3 +190,60 @@ Alten et al. (2019) also recognizes a few design characteristics possible modera
 - **Lecture-activities**: positive effect on learning; micro-lectures can be used to address misunderstandings or gaps in student knowledge, and also increases student motivation.
 
 An earlier study by Baerpler et al. (2014) indicated reducing face-to-face classroom time had no effect on learning outcomes. However, the analysis by Alten et al. (2019) finds a significant negative effect on learning outcomes when reducing face-to-face time.<!--Therefore, sustaining face-to-face time is a critical feature of succesful implementation.-->
+
+## Game-based learning
+
+Game-based learning (GBL) is hard to define. Instead, we use a simplified model based on player enagement (affective, behavioural, cognitive and sociocultural).
+
+This model assumes game design elements based on theories of affect, motivation, cognition and sociology, contribute to player engagement, which leads to learning outcomes.
+
+```mermaid
+flowchart BT
+    L[Learning outcomes]
+    A[Affective engagement] --> L
+    B[Behavioral engagement] --> L
+    C[Cognitive engagement] --> L
+    S[Sociocultural engagement] --> L
+    G[Game design elements]
+    G --> A
+    G --> B
+    G --> C
+    G --> S
+    W[Affect] --> G
+    X[Motivation] --> G
+    Y[Cognition] --> G
+    Z[Sociology] --> G
+```
+
+<details style="margin-top: 3em">
+  <summary>Importance of play</summary>
+  <p>Games are hard to define, but play is widely understood to be important to the development of children because it activates schemas “in ways that allow children to transcend their immediate reality”. (In other words: it teaches symbolism.)</p>
+  <p>Genuine play is always symbolic and social. It is important because it creates a zone of proximal development for the child (Vygotsky, 1978). As children age, play becomes even more abstract, symbolic and social.</p>
+</details>
+
+### Why game-based learning?
+
+There are many arguments for GBL. As a short summary, good games:
+
+- **Neither too easy** (boring) **nor too hard** (frustrating). Aim for a "sweet spot", where players can succeed with some struggle. This is called *flow*, but can also be described as the zome of proximal development (Vygotsky, 1978).
+
+- **Motivate the learners**. From a game design perspective, it is more desireable to make the learning mechanics themselves interesting, and less desirable to only 'enhance' them by adding other game features. No scientific research has been done on this topic.
+
+- **Allow many ways to engage learners**, depending on design decisions related to the learning objective, learner characteristics and context. According to the INTERACT model (Domagk, Schwartz, & Plass, 2010), there's four forms:
+
+    - **Cognitive engagement**: mental processing and metacognition.
+    - **Affective engagement**: emotion processing and regulation.
+    - **Behavioural enagement**: gestures, embodied actions, movement.
+    - **Sociocultural engagement**: social intereactions embedded within cultural context.
+
+  The end goal is to foster cognitive engagement of the learner with the learning mechanic.
+
+- **Adapts to the player**; engages with each learner in a way that reflects their specific situation. This is done by 1) measuring the variable the game adapts for and 2) providing an appropriate response (modification of task, scaffolding, guidance, and feedback etc.)
+
+- **Allow for graceful failure**. Rather than describing an undesirable outcome, failure is a by expected, and sometimes even necessary, step of learning. Games encourage risk-taking and exploration by offering lowered consequences.
+
+<!-- ### Game design elements
+
+- **Game mechanics**: essential gameplay. The (sets of) activities repeated by the learner throughout the game. These can be learning or assesment mechanics.
+
+  > Mechanics are often used to categorize [genres of games](/OWW1/OVL/Samenvatting.md#individualised-instruction). -->
