@@ -209,10 +209,10 @@ flowchart BT
     G --> B
     G --> C
     G --> S
-    W[Affect] --> G
+    W[Affective] --> G
     X[Motivation] --> G
     Y[Cognition] --> G
-    Z[Sociology] --> G
+    Z[Sociocultural] --> G
 ```
 
 <details style="margin-top: 3em">
@@ -276,9 +276,11 @@ There are many arguments for GBL. As a short summary, good games:
 
 #### Cognitive
 
+<!--
 The goal of GBL is construction of mental models by selecting, organising and integrating (with prior knowledge) information.
 
 > Bovenstaand is het Wijze lessen model van generatieve/productieve strategieën. Bij [OVL](/OWW1/OVL/Samenvatting#verwerkingsstrategieën) houden we een ander model van Jonassen uit Morrison aan.
+-->
 
 - **Situatedness**: in games, learning can take place in a meaningful and relevant context, closely mirroring real life (which facilitates transfer), and providing information at the precise moment when it will be most useful.
 
@@ -290,8 +292,88 @@ The goal of GBL is construction of mental models by selecting, organising and in
 
 - **Gestures and movement**: games enable embodied cognition, which involves motoric engagement and mapping gestures or movements to subject matter ('gestural congruity').
 
-### Behavioral
+#### Motivational
 
-### Affective
+<!--Motivational theories (expectancy-value theory, self-determination theory, self-efficacy theory, attribution theory, and interest theory) pose three questions:
 
-### Sociological
+| Question | GBL affordance |
+|--|--|
+| **Can I do this?** | Games ensure achievement by dynamic adaptivity, so the question can be affirmatively answered. |
+| **What do I need to do to succeed?** | Games ensure players know what to do during gameplay. |
+| **Do I want to do this, and why?** | Intrinsic and extrinsic motivational factors from incentive systems. |
+-->
+
+- **Intrinsic motivation**: well-designed educational games feature design elements such as challenge, curiosity, and fantasy which are intrinsically motivating and result in effortless learning.
+
+  > If learning and mechanics are not tightly linked, students may be intrinsically motivated to play but not to learn, which may lead to "gaming the system", where students find ways to play without necessarily learning the subject matter.
+
+- **Values and interest**: students are more motivated if they are personally interested. Interest can be situational or individual:
+
+    - **Situational interest**: giving attention to an immediate activity or task at hand.
+    - **Individual interest**: intrinsic desire and tendency to return to an activity or task.
+
+  With a well-designed game, situational interest in the game will eventually develop into individual interest in the subject matter.
+
+- **Achievement-related goals**: there are two main reasons for students to engage with a game (or any educational material for that matter):
+
+    - **Mastery orientation**: students focus on learning and mastery of skills or knowledge.
+    - **Performance orientation**: students focus on maximazing favorable evaluations of their competence.
+
+  Students with a mastery orientation are more likely to be motivated.
+
+  <!--
+  > Dit is het onderscheid dat ook in Wijze lessen wordt gemaakt tussen *leren* en *presteren*.
+  -->
+
+#### Affective
+
+<!-- An emotional schema is the dynamic interaction of emotion and cognition. -->
+
+- **Emotional design**: games can induce emotions via visuals, music, mechanics, storyline, and narration, and can also asses emotions and respond to them.
+
+<details open>
+  <summary>Affection vs cognition</summary>
+  <p>Postive emotions might broaden the scope of cognitive resources (via heightend situational interest), but by optimizing engagement and stickiness might also lead to higher cognitive load. Additionally, emotional regulation required by games might overwhelm learners. However, there is also evidence that confusion might enhance learning.</p>
+</details>
+
+#### Sociocultural
+
+Games not not necessarily explicitly include cultural factors, but do often unconciously include or exclude for example colors, sounds, words, numbers based on ingrained and automated knowledge from the sociocultural background of the designers.
+
+- **Activity theory**: the motivational value of games lies in anticipated social interaction. Activities are based on interest- and friendship-driven social participatory structures.
+
+- **Social context**: a sense of community and participation can positively influence motivation and learning. This is easily done in multiplayer games, but singleplayer games can also use mechanics to create social pressure or metagames.
+
+- **Agency**: a sense of agency can positively influence motivation and goal orientation. There are three ways to exercise agency:
+
+    - **Personal agency**, exercised individually.
+    - **Proxy agency**, exercised through others.
+    - **Collective agency**, exercised as a group.
+
+  Proxy and collective agency can teach collaboration and joint goal-setting.
+
+- **Observation**: games may affect not only players, but also observers who also engage and focus equally on gameplay. Observers can offer advice and encouragement. In some cases, observers might learn more from the game than players themselves.
+
+  <!--Games can include unconcious cultural design decisions, and are therefore uniquely positioned to also teach those cultural norms quietly. We often see this in **epistemic games**, which put players in a realistic proffesional context.-->
+
+- **Relatedness** (from self-determination): the sense of being connected to others can positively influence motivation, engagement, and stickiness. 
+
+  However, players may refrain from social interaction when they have low stats, because they do not want to be seen by others as noobs. Therefore, to maximize relatedness, games should cluster players in cohorts of similar abilities.
+
+- **Crowdsourcing**: a specific type of game that uses AR to create authentic situations that incorporate real-world objects, where during gameplay data for research purposes is collected. Being part of a 'greater good' is a very motivating factor in these games.
+
+### Scientific evidence
+
+Research by Lei et al. (2022) indicates GBL leads to substantially increased learning outcomes. They also found a number of moderators:
+
+- **Culture**: in collectivist countries children are exposed to more extrinsic motivation during childhood and are thus more receptive to extrinsic incentives. In individualist countries extrinsic incentives can cause negative effects. Since GBL uses both intrinsic and extrinsic motivation, it is more effective in collectivist countries.
+
+- **Achievement indicator**: games are especially beneficial to learning science, since the GBL-process has many parallels with science inquiry processes. Therefire GBL is more effective for science-related subjects, in comparison to other subjects.
+
+- **Grade level and age**: primary school students are more familiar with play and less familiar with other instruction/practise (eg. homework), so comparitively, it works better for them than for higher education.
+
+<!--
+- **Publication year**: over time more technical and pedagogical innovation has taken place, and thus newer interventions are often more effective.
+
+- **Duration of intervention**: interventions shorter than 4 hours are too short to measure results, interventions longer than a week are more vulnerable to data pollution due to external factors. Interventions between 4 hours and a week were most effective. Also take into account the novelty effect.
+-->
