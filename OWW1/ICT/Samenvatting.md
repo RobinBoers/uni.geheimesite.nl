@@ -227,7 +227,7 @@ There are many arguments for GBL. As a short summary, good games:
 
 - **Neither too easy** (boring) **nor too hard** (frustrating). Aim for a "sweet spot", where players can succeed with some struggle. This is called *flow*, but can also be described as the zome of proximal development (Vygotsky, 1978).
 
-- **Motivate the learners**. From a game design perspective, it is more desireable to make the learning mechanics themselves interesting, and less desirable to only 'enhance' them by adding other game features. No scientific research has been done on this topic.
+- **Motivate the learners**. We call the ability of a game to motivate, and to generate desire for players to return or continue playing, its *stickiness*. <!--From a game design perspective, it is more desireable to make the learning mechanics themselves interesting, and less desirable to only 'enhance' them by adding other game features. No scientific research has been done on this topic.-->
 
 - **Allow many ways to engage learners**, depending on design decisions related to the learning objective, learner characteristics and context. According to the INTERACT model (Domagk, Schwartz, & Plass, 2010), there's four forms:
 
@@ -242,8 +242,32 @@ There are many arguments for GBL. As a short summary, good games:
 
 - **Allow for graceful failure**. Rather than describing an undesirable outcome, failure is a by expected, and sometimes even necessary, step of learning. Games encourage risk-taking and exploration by offering lowered consequences.
 
-<!-- ### Game design elements
+### Game design elements
 
 - **Game mechanics**: essential gameplay. The (sets of) activities repeated by the learner throughout the game. These can be learning or assesment mechanics.
 
-  > Mechanics are often used to categorize [genres of games](/OWW1/OVL/Samenvatting.md#individualised-instruction). -->
+  > Mechanics are often used to categorize [genres of games](/OWW1/OVL/Samenvatting.md#individualised-instruction).
+
+- **Visual aesthetics**: look-and-feel of the game and characters, but also the representation of key information in the game, as well as visualisations of mechanics, cues, and feedback.
+
+    Design can have a cognitive or aesthetic function.
+
+- **Narrative**: the storyline (cutscenes, dialogue, voice-over etc.), has a motivating function, and also provides <dfn title="ie. rules, characters, tasks, events, incentives">contextual information</dfn>. A storyline can be linear or nonlinear. Non-linear storylines can change depending on the player's choices.
+
+- **Incentive system**: motivational elements such as rewards that encourage players to continue.
+
+  - **Intrinsic**: contributes to gameplay (ie. power-ups or keys).
+  - **Extrinsic**: does not contribute to gameplay (ie. stars or points).
+    > Extrinsic incentives can also create a *metagame*, where players compete with eachother outside the game, for example via leaderboards.
+
+- **Musical score**: consists of the soundtrack and effects, used to direct attention, signal danger or opportunity, induce emotions or acknowledge success or failure. <!--Often accompanied by haptic information.-->
+
+- **Content and skills**: the subject matter the game teaches, influences all other design elements, depending on one of four functions of the game:
+
+    - **Preparation of future learning**: provides students with shared experience or knowledge used in later learning activities.
+
+    - **Teaching new knowledge and skills**: provides initial presentation of new knowledge or skills, along with initial practise.
+
+    - **Practise and reinforce existing knowledge and skills**: provides oppurtunities to practise and automate existing knowledge or physical/cognitive skills.
+
+    - **Developing 21st-century skills**: provides opportunities to develop more complex socioemotional skills related to teamwork, collaboration, problem solving, creativity, communication.
