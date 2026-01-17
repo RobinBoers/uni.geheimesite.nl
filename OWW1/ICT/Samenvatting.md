@@ -195,7 +195,7 @@ An earlier study by Baerpler et al. (2014) indicated reducing face-to-face class
 
 Game-based learning (GBL) is hard to define. Instead, we use a simplified model based on player enagement (affective, behavioural, cognitive and sociocultural).
 
-This model assumes game design elements based on theories of affect, motivation, cognition and sociology, contribute to player engagement, which leads to learning outcomes.
+This model assumes game design elements based on affective, motivational, cognitive, and sociological foundations, contribute to player engagement, which leads to learning outcomes.
 
 ```mermaid
 flowchart BT
@@ -271,3 +271,27 @@ There are many arguments for GBL. As a short summary, good games:
     - **Practise and reinforce existing knowledge and skills**: provides oppurtunities to practise and automate existing knowledge or physical/cognitive skills.
 
     - **Developing 21st-century skills**: provides opportunities to develop more complex socioemotional skills related to teamwork, collaboration, problem solving, creativity, communication.
+
+### Foundations of game-based learning
+
+#### Cognitive
+
+The goal of GBL is construction of mental models by selecting, organising and integrating (with prior knowledge) information.
+
+> Bovenstaand is het Wijze lessen model van generatieve/productieve strategieën. Bij [OVL](/OWW1/OVL/Samenvatting#verwerkingsstrategieën) houden we een ander model van Jonassen uit Morrison aan.
+
+- **Situatedness**: in games, learning can take place in a meaningful and relevant context, closely mirroring real life (which facilitates transfer), and providing information at the precise moment when it will be most useful.
+
+- **Transfer**: games support the application of knowledge and skills in a novel context, via the low road (automation) or high road (abstraction), facilitated by repeated opportunities to practise and apply materials in different situations.
+
+- **Scaffolding**: games can provide scaffolding, by doing ongoing dynamic evaluation, using that to provide dynamically adaptive scaffolds, and the progressively fading the scaffolds as the learner progresses.
+
+  <!-- "Normal" (non-educational) games often also incorporate a form of scaffolding during early gameplay, to teach players the game's mechanics. This is often in the form of a tutorial level. -->
+
+- **Gestures and movement**: games enable embodied cognition, which involves motoric engagement and mapping gestures or movements to subject matter ('gestural congruity').
+
+### Behavioral
+
+### Affective
+
+### Sociological
