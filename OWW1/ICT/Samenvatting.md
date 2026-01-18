@@ -1,10 +1,10 @@
 ---
-title: Education & ICT <small>(work in progress)</small>
+title: Education & ICT ((work in progress))
 ---
 
 ## Can media influence learning?
 
-### Kozma
+### Kozma <small>(transformative perspective)</small>
 
 Kozma puts that educational technology is a design science; the phenomena we study are products of our own making. If there is not yet a relationship between media and learning, we have not *made one*, yet.
 
@@ -29,7 +29,7 @@ A critique (by Clark) of this perspective is that attributes of media are neithe
 
 Kozma responds by saying individual attributes might not be unique to a medium, but the combination of different attributes can be distinctive nonetheless. Therefore, this unique combination of attributes can sollicit cognitive processes and thus learning benefits can be attributed to a certain medium.
 
-### Clark
+### Clark <small>(instrumental perspective)</small>
 
 Clark instead claims media can never influence learning, because we confound media with instructional methods. That is, the instructional method is the 'active ingredient' of instruction, and can be delivered by a range of media (replacement hypothesis), given they offer the affordances needed for the method.
 
@@ -229,7 +229,7 @@ There are many arguments for GBL. As a short summary, good games:
 
 - **Motivate the learners**. We call the ability of a game to motivate, and to generate desire for players to return or continue playing, its *stickiness*. <!--From a game design perspective, it is more desireable to make the learning mechanics themselves interesting, and less desirable to only 'enhance' them by adding other game features. No scientific research has been done on this topic.-->
 
-- **Allow many ways to engage learners**, depending on design decisions related to the learning objective, learner characteristics and context. According to the INTERACT model (Domagk, Schwartz, & Plass, 2010), there's four forms:
+- **Allow many ways to engage learners**, depending on design decisions related to the learning objective, learner characteristics and context. According to the INTERACT-model (Domagk, Schwartz, & Plass, 2010), there's four forms:
 
     - **Cognitive engagement**: mental processing and metacognition.
     - **Affective engagement**: emotion processing and regulation.
@@ -376,3 +376,59 @@ Research by Lei et al. (2022) indicates GBL leads to substantially increased lea
 
 - **Duration of intervention**: interventions shorter than 4 hours are too short to measure results, interventions longer than a week are more vulnerable to data pollution due to external factors. Interventions between 4 hours and a week were most effective. Also take into account the novelty effect.
 -->
+
+## Artificial Intelligence
+
+The term AI refers to a variety of technologies. A distinction can be made:
+
+- **Developed *for* education**, like e-learning, and intelligent tutoring systems (ITS).
+- **Used *in* education**, like translation tools, writing assistants, or conversational agents.
+
+<!--
+Since their introduction, millions has been spent on application of these technologies in education. Bauer et al. (2025) speculate this is due to a tendency to overhype innovations, and neglects previous theoretical and emperical insights about learning.
+-->
+
+<!--
+ChatGPT and similar chatbots are part of a family of technologies called large language models (LLMs). These models generate text by probabilistically predicting word sequences based on patterns in the training data.
+
+As a result of their probibalistic nature, responses are based on likelihood, not truth, leading to plausible sounding, but sometimes incorrect statements ('hallucinations'). Additionally, LLMs can learn and replicate cultural, racial or gender biases from the training data, leading to misleading, biased, or incorrect responses.
+-->
+
+Bauer at al. (2025) identify two types of knowledge relevant to AI research:
+
+- **Domain-specific knowledge** is scoped to a particular field, and is needed for understanding and evaluating AI outputs, which may be misleading, biased, or incorrect.
+
+- **Transversal skills** are applicable across various domains, and are needed to interact with AI systems effectively and ethically, and critically evaluate their outputs.
+
+### ICAP-modal
+
+According to the <abbr title="interactive, constructive, active, passive">ICAP</abbr>-model (Chi & Wylie, 2014) a distinction can be made between shallow learning (memorization) and deep learning (synthesization, evaluation & integration):
+
+- **Shallow learning**
+
+    - **Passive**: information is received without actively processing it.
+    - **Active**: existing knowledge is applied to promote retention but no insights.
+
+- **Deep learning**
+
+    - **Constructive**: novel idea generation (think 'elaboration').
+    - **Interactive**: the same as constructive, but collaborative. 
+
+<!--This is similar to the distinction made between phomic and semantic processing in Morrison et al. (2019).-->
+
+### ISAR-modal
+
+The <abbr title="inversion, substitution, augmentation, redefinition">ISAR</abbr>-model is an extended version of the ICAP-inspired SAMR-model, which can be used for understanding the impact of AI on shallow and deep learning:
+
+- **Inversion**: technology reduces learning processes and outcomes (over-reliance).
+- **Substitution**: technology replaces tasks previously performed by students or teachers.
+- **Augmentation**: technology enriches tasks with additional cognitive learning support.
+- **Redefinition**: technology transforms tasks or creates entirely new tasks.
+
+<style class="i0">
+  .i0 + p img {
+    aspect-ratio: unset;
+  }
+</style>
+
+![](isar.png)
