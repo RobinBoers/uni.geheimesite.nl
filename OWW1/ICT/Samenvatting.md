@@ -402,7 +402,7 @@ Bauer at al. (2025) identify two types of knowledge relevant to AI research:
 
 ### ICAP-modal
 
-According to the <abbr title="interactive, constructive, active, passive">ICAP</abbr>-model (Chi & Wylie, 2014) a distinction can be made between shallow learning (memorization) and deep learning (synthesization, evaluation & integration):
+According to the <abbr title="interactive, constructive, active, passive">ICAP</abbr>-model (Chi & Wylie, 2014) a distinction can be made between shallow learning (memorisation) and deep learning (synthesisation, evaluation & integration):
 
 - **Shallow learning**
 
@@ -432,3 +432,41 @@ The <abbr title="inversion, substitution, augmentation, redefinition">ISAR</abbr
 </style>
 
 ![](isar.png)
+
+### AI for formative writing feedback
+
+<!--
+The <abbr title="writer within community">WWC</abbr>-model is used to describe writing in five production processes:
+
+- **Conceptualisation**: creating a mental representation of the task.
+- **Ideation**: generating content from memory or external sources.
+- **Translation**: transforming content into sentences that convey meaning.
+- **Transcription**: converting the sentences into written or typed text.
+- **Reconceptualisation**: reviewing and revising produced works.
+
+Formative feedback can help students improve reconceptualisation.
+-->
+
+Formative feedback is very important to students during the writing process. Good feedack is:
+
+1. Criteria-based (rubrics)
+2. Provides clear directions for improvement
+3. Accurate
+4. Prioritises essential features of writing
+5. Supportive in tone
+
+<!--
+Providing good feedback to many students takes considerable time and effort. Feedback is more effective when given frequently and timely, but this is often not possible due to resource constraints.
+
+**Automated writing evaluation** (AWE) refers to computer systems using machine learning or artificial intelligence to provide individualised feedback on-demand.
+-->
+
+A study by Steiss et al. (2024) found that ChatGPT provides high-quality feedback comparible to feedback given by experienced human educators. On average, humans still outperformed AI on all factors listed above, except criteria-based.
+
+The following moderators were identified:
+
+- **Quality of graded essays**: accuracy of AI-generated feedback drops for higher-quality essays, as does the supportive tone.
+
+  > Human feedback was more consistent across grading levels; only prioritisation of essential features was significantly higher for low-quality essays.
+
+- **Language of graded essays**: the language in which essays were written or feedback was provided did not have a significant impact on the quality of the feedback.
