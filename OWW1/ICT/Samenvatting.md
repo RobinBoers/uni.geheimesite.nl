@@ -377,6 +377,74 @@ Research by Lei et al. (2022) indicates GBL leads to substantially increased lea
 - **Duration of intervention**: interventions shorter than 4 hours are too short to measure results, interventions longer than a week are more vulnerable to data pollution due to external factors. Interventions between 4 hours and a week were most effective. Also take into account the novelty effect.
 -->
 
+## AR/VR
+
+Virtual reality enables sensory immersion and sophisticated content representation, capable of simulating real or imagined worlds.
+
+There are multiple ways to access VR, with varying degrees of **immersion**. Immersion refers to a system's . Head-mounted displays (HMDs) are regarded high-immersion, a tablet of smartphone is regarded low-immersion.
+
+### CAMIL-model
+
+The <abbr title="cognitive affective model of immersive learning">CAMIL</abbr>-model describes learning in immersive VR (IVR).
+
+> This model assumes Clark's perspective on media. It states affordances of IVR can enable or enhance instructional methods. It also recognizes that motivational and learning theories developed for less immersive technology generalize to IVR.
+
+The model describes how technological factors of IVR can facilitate higher presence and agency, which influence affective and cognitive factors that can lead to knowledge acquisition and transfer.
+
+```mermaid
+flowchart LR
+    I[Immersion] --> P
+    C[Control] --> P
+    C[Control] --> A
+    F[Fidelity] --> P
+    P[Presence]
+    A[Agency]
+    P --> CAF
+    A --> CAF
+    CAF[Cognitive and affective factors]
+    CAF --> FACT
+    CAF --> CONCEPT
+    CAF --> PROC
+    CAF --> TRANS
+    FACT[Factual knowledge]
+    CONCEPT[Conceptual knowledge]
+    PROC[Procedural knowledge]
+    TRANS[Knowledge transfer]
+```
+
+#### Technological factors
+
+- **Immersion**: sensory vividness and ability to shut off the outside world.
+- **Control**: degree to which the environment and sensors can be modified.
+- **Fidelity**: realism of the environment and smoothness of view changes.
+
+#### Psychological factors
+
+- **Presence**: feeling of 'being there', influenced by:
+  - Vividness of sensory information presented (immersion)
+  - Amount of control the learner has over sensors (control)
+  - Degree to which the environment can be interacted with (control)<br>
+
+- **Agency**: feeling of generating and controlling actions.
+
+  *Low-agency* would refer to fixed-narrative environments without interaction (no control).
+
+  *High-agency* is achieved by accordance between actual movement and visual feedback (control), and the ability to control the virtual representation of self (control).
+  
+
+>   The CAMIL-model identifies three  dimensions of presence:
+>
+> - **Physical presence**: degree to which virtual objects are experienced as physical objects.
+> - **Social presence**: degree to which virtual actors are experienced as actual social actors.
+> - **Self-presence**: degree to which virtual self/selves are experienced as actual self.
+
+### Cognitive and affective factors
+
+<!-- - **Interest**: high agency can have a positive effect on situational interest (see [GBL](#motivational)).
+- **Intrinsic motivation**: high social presence can lead to feelings of higher competence and relatedness (see [blended learning](#self-determination-theory)). -->
+
+...
+
 ## Artificial Intelligence
 
 The term AI refers to a variety of technologies. A distinction can be made:
