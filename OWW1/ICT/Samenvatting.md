@@ -381,8 +381,20 @@ Research by Lei et al. (2022) indicates GBL leads to substantially increased lea
 
 The term AI refers to a variety of technologies. A distinction can be made:
 
-- **Developed *for* education**, like e-learning, and intelligent tutoring systems (ITS).
-- **Used *in* education**, like translation tools, writing assistants, or conversational agents.
+- **Educational AI**: developed *for* education; for example intelligent tutoring systems (ITS).
+- **Generic AI**: used *in* education; translation tools, writing assistants, conversational agents.
+
+AI within education is primarily used for two reasons: 
+
+1. to better understand learning and teaching (improve theories)
+2. to support learning and teaching
+
+This can be seen from the perspective of the student or teacher:
+
+- **Student-faced** supports learning; examples are adaptive learning and intelligent tutoring.
+- **Teacher-faced** supports teaching; examples are learning analytics and plagiarism checks.
+
+> However, many tools, both educational and generic, are not theory-based, and some are not even theory-informed; of student-faced tools, only \\(50\%\\) is theory-informed, and of teacher-faced AI, only \\(33\%\\) is theory-informed.
 
 <!--
 Since their introduction, millions has been spent on application of these technologies in education. Bauer et al. (2025) speculate this is due to a tendency to overhype innovations, and neglects previous theoretical and emperical insights about learning.
@@ -393,6 +405,8 @@ ChatGPT and similar chatbots are part of a family of technologies called large l
 
 As a result of their probibalistic nature, responses are based on likelihood, not truth, leading to plausible sounding, but sometimes incorrect statements ('hallucinations'). Additionally, LLMs can learn and replicate cultural, racial or gender biases from the training data, leading to misleading, biased, or incorrect responses.
 -->
+
+### Knowledge types
 
 Bauer at al. (2025) identify two types of knowledge relevant to AI research:
 
@@ -470,3 +484,10 @@ The following moderators were identified:
   > Human feedback was more consistent across grading levels; only prioritisation of essential features was significantly higher for low-quality essays.
 
 - **Language of graded essays**: the language in which essays were written or feedback was provided did not have a significant impact on the quality of the feedback.
+
+### Replace teachers?
+
+- Around \\(6\%\\) of a teacher's tasks are highly automatable.
+- Around \\(20\%\\) are bottleneck items (tasks that cannot be automated at all).
+
+The rest of the tasks are somewhat automatable; there is a possibility for a 'hybrid future' where AI and humans collaborate.
