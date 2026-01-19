@@ -381,11 +381,11 @@ Research by Lei et al. (2022) indicates GBL leads to substantially increased lea
 
 Virtual reality enables sensory immersion and sophisticated content representation, capable of simulating real or imagined worlds.
 
-There are multiple ways to access VR, with varying degrees of **immersion**. Immersion refers to a system's . Head-mounted displays (HMDs) are regarded high-immersion, a tablet of smartphone is regarded low-immersion.
-
 ### CAMIL-model
 
-The <abbr title="cognitive affective model of immersive learning">CAMIL</abbr>-model describes learning in immersive VR (IVR).
+The <abbr title="cognitive affective model of immersive learning">CAMIL</abbr>-model describes learning in immersive VR (IVR). **Immersion** refers to sensory vividness and ability to shut off the outside world.
+
+> Head-mounted displays (HMDs) are regarded high-immersion, a tablet of smartphone is regarded low-immersion.
 
 > This model assumes Clark's perspective on media. It states affordances of IVR can enable or enhance instructional methods. It also recognizes that motivational and learning theories developed for less immersive technology generalize to IVR.
 
@@ -438,12 +438,35 @@ flowchart LR
 > - **Social presence**: degree to which virtual actors are experienced as actual social actors.
 > - **Self-presence**: degree to which virtual self/selves are experienced as actual self.
 
-### Cognitive and affective factors
+#### Cognitive and affective factors
 
-<!-- - **Interest**: high agency can have a positive effect on situational interest (see [GBL](#motivational)).
-- **Intrinsic motivation**: high social presence can lead to feelings of higher competence and relatedness (see [blended learning](#self-determination-theory)). -->
+- **Interest**: high agency can have a positive effect on situational interest (see [GBL](#motivational)).
 
-...
+- **Intrinsic motivation**: high agency leads to higher levels of enjoyment; high social presence can lead to feelings of higher competence and relatedness (see [blended learning](#self-determination-theory)).
+
+- **Self-efficacy**: <!--one's perceived capabilities for learning or performing;--> performance accomplishments have a greater positive effect on self-efficancy if actions are perceived to be "real" (presence) and learner's own (control).
+
+- **Embodiment**: high self-presence leads to higher embodiment ('feeling of owning or controlling a body')<!--, which depends on immersion and control-->, and is associated with cognitive and affective processes.
+
+- **Cognitive load**: high agency can lead to higher extraneous load; IVR as medium imposes a higher extraneous load as well, resulting from seductive details.
+
+- **Self-regulation**: high-social presence can increase SRL through interactions with peers or teachers; due to high cognitive load imposed by IVR heavy scaffolding and frequent reflection opportunities may be required.
+
+#### Learning outcomes
+
+- IVR is less effective for acquiring factual knowledge, and not more or less effective for acquiring conceptual knowledge. Specifics depend on the design of IVR lessons.
+
+- IVR is particularly fit for teaching procedures, because the technology can be used to replay, slow down and repeatedly rehearse procedures easily. Additionally, it can be a good replacement for procedures that are expensive, inpractical, or dangerous to train in real life.
+
+- IVR models real-world situations closely (high fidelity) and might thus enhance transfer of knowledge from the classroom to real life situations.
+
+<details>
+  <summary>Multimedia principles applicable to IVR</summary>
+  <ul>
+    <li><b>Pre-training</b> can help because learners with higher prior knowledge can more easily intepret IVR experiences in a meaningful way.</li>
+    <li><b>Segmenting</b> can help to reduce cognitive load by dividing lessons in shorter, more focussed, and thus less distracting and exhausting chunks.</li>
+  </ul>
+</details>
 
 ## Artificial Intelligence
 
