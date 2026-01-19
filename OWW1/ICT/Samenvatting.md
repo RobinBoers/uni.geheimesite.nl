@@ -251,9 +251,42 @@ Sepp et al. (2021) add additional principles:
 
 - **Generative strategies**: as also discussed in [OVL](/OWW1/OVL/Samenvatting.md#verwerkingsstrategieën), passively processing information does not lead to lasting learning.
 
-### Learning-by-teaching
+### Learning by creating multimedia
 
-...
+Learning by creating (instructional) multimedia is similar to learning-by-teaching, but in an indirect/non-interactive manner. It is effective for three reasons:
+
+- **Retrieval practise**: during preparation, students recall and then complement information from memory.
+
+- **Cognitive explanation**: generative processes create germane load by elliciting elaboration and metacognitive monitoring. They can also expose knowledge gaps.
+
+- **Social-cognitive explanation**: social presence as mediating factor of generative processes.
+
+**Social presense** is defined as the degree to which students are aware of the audience. It has two influences:
+
+1. In online learning, social presence is related to increased participation, and lack of social presence is correlated with less motivation.
+2. It creates psyiological arousal, which is a bodily state of 'activiation' that is positively linked with performance. However, there is a threshold where it becomes overwhelming and loses this positive influence.
+
+### Scientific evidence
+
+A meta-analysis by Risoba and Duran (2022) researches effectiveness of creating multimedia as an instructional method. It identifies four types of products: audio-visual, questions, texts, and educational games.
+
+It also differentiates between knowledge telling and building:
+
+- **Knowledge-telling**: summarizing source materials with little elaboration.
+- **Knowledge-building**: elaborating on source materials, and fixing misunderstandings and gaps in knowledge.
+
+In learning-by-creating, the focus should not be on the *product*, but rather *processes* such as:
+
+- Revising contents
+- Organising it for presentation
+- Identifying structure
+
+The study found that learning by creating multimedia a slightly (\\(d = 0.17, p = .013\\)) more effective than 1) nothing at all, 2) alternative interventions.
+
+Two moderating factors where identified:
+
+- Creating audio-visual or visual materials is more effective than textual materials.
+- It is more effective when students have no access to source materials, because that enforces retrieval practise.
 
 ## Game-based learning
 
