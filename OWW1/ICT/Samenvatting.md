@@ -191,6 +191,70 @@ Alten et al. (2019) also recognises a few design characteristics possible modera
 
 An earlier study by Baerpler et al. (2014) indicated reducing face-to-face classroom time had no effect on learning outcomes. However, the analysis by Alten et al. (2019) finds a significant negative effect on learning outcomes when reducing face-to-face time.<!--Therefore, sustaining face-to-face time is a critical feature of succesful implementation.-->
 
+## Multimedia
+
+Multimedia refers to any combination of text and pictures, in any medium. This can be spoken or printed words, and still or dynamic pictures.
+
+- **Multimedia learning** is about building rich mental understanding from multimedia.
+- **Multimedia instruction** is presenting words and pictures with the goal of fostering learning. Examples would be instructional videos, animations, or game-based learning.
+
+Mayer created a theory of multimedia learning, called cognitive theory of multimedia learning (CTML) based on Sweller's cognitive load theory (CLT), based on the following premises:
+
+- Working memory has limited capacity to be allocated to processes which can be relevant or irrelevant to learning (Baddeley's working memory model).
+- Visual and auditory information is processed in working memory via <dfn title="phonological loop & visiospatial scratchpad">distinct</dfn> channels or tracks (Paìvio's dual coding theory), which we call **modalities**.
+- By utilizing both modalities simultaneously we can effectively double working memory capacity.
+
+> In most cases, CLT and CTML can be used interchangebly.
+
+### Multimedia principles
+
+Based on CTML, Mayer prescribes 10 principles for effective use of multimedia:
+
+1. **Coherence**: omit seductive details, which unneccesarily increase extraneous load.
+
+2. **Signaling**: it can be unclear what instruction refers to, leading to visual search, which wastes memory capacity. Lead the learner's attention using arrows, colors, pointing etc.
+
+3. **Redundancy**: avoid presenting the same information using multiple modalities at once. This wastes memory capacity and can also cause conflicts in attention.
+
+4. **Spatial contiguity**: present related visual information close together; for example place labels inside diagrams or graphs rather than in a legend. This reduces *split-attention search*, which occurs when the learner needs to focus on two things at once.
+
+5. **Temporal contiguity**: in animations and videos, provide visuals and voice-over at the same time, rather than providing explanation *after* the visuals.
+
+6. **Segmenting**: ensure concepts are not covered too quickly; working memory capacity and attention-span is limited and learners get tired. Slow down presentation, and split information into smaller, more easily digestible chunks. Provide controls to replay transient information.
+
+7. **Pretraining**: ensure the learner has sufficient prior knowledge to consume instruction.
+
+8. **Modality**: present information using both visual and auditory modalities to effectively double working memory capacity; prevent overloading one modality and underutilizing the other. For example, pictures + spoken word is better than pictures + subtitles.
+
+9. **Personalisation**: use more informal and casual language in textual content and voice-over. Language that is too formal can confuse or scare learners.
+
+10. **Voice**: use human voices for voice-over, rather than computer-generated/robot voices.
+
+Sepp et al. (2021) add additional principles:
+
+- **Encourage movement**:
+
+  - For procedural tasks involving movement, instruction containing movement (eg. videos or animations) are more effective when compared to a series of still pictures.
+  - For students, movement can be helpful, for example when plotting or transforming mathematical functions. Additionally, tracing (using a finger or pencil) may reduce working memory capacity.
+
+- **Instructor visible**: the instructor should be visible to increase social presence, and preferably also interact with materials, which can reduce cognitive load by signaling.
+
+- **Instructor age**: there is some research indicating that adult instructors lead to improved learning outcomes, probably due to a perception of expertise. <small>(Take this with a grain of salt.)</small>
+
+- **1st person perspective**: when providing demostrations involving procedural tasks, specifically using hands, do this from 1st person perspective. Doing it from 3rd person perspective requires the learner to mentally rotate or mirror the information, which wastes working memory capacity.
+
+- **Frontal perspective**: when recording videos, some research suggests that a frontal perspective is better than a sideways/lateral perspective, since otherwise students won't feel adressed, which lowers social presence.
+
+- **Show the process**: drawing something live is better than showing a pre-drawn graphic. Drawing it live provides students with better insight, prevents overwhelming students with the full drawing at the start, prevents distracting students by details that are only relevant later, and building the drawing up slowly prevents split attention search.
+
+- **Spaced learning**: space out learning over a longer period of time. This is related to the Ebbinghouse's curve of forgetting, but also especially in online settings (zoom-fatigue is very real), time to reset and replenish cognitive resources is important.
+
+- **Generative strategies**: as also discussed in [OVL](/OWW1/OVL/Samenvatting.md#verwerkingsstrategieën), passively processing information does not lead to lasting learning.
+
+### Learning-by-teaching
+
+...
+
 ## Game-based learning
 
 Game-based learning (GBL) is hard to define. Instead, we use a simplified model based on player enagement (affective, behavioural, cognitive and sociocultural).
