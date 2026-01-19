@@ -1,6 +1,10 @@
 ---
-title: Education & ICT ((work in progress))
+title: Education & ICT
 ---
+
+> As noted before, consider this summary non-exhaustive/incomplete. The materials for this course were scattered, and overall it was quite vague what was important and what wasn't.
+>
+> I tried my best, but I am not \\(100\%\\) confident. Good luck.
 
 ## Can media influence learning?
 
