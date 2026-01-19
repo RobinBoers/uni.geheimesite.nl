@@ -51,7 +51,7 @@ Part of Clark's perspective stems from the observation that far too often, educa
 
 ## Blended learning
 
-Blended learning (sometimes 'personalized learning') is education in part face-to-face, in part online, with some element of student control over time, place, direction, and pace.
+Blended learning (sometimes 'personalised learning') is education in part face-to-face, in part online, with some element of student control over time, place, direction, and pace.
 
 The lecture-format, which originated as an efficient way to copy books, is long outdated and has a few flaws:
 
@@ -68,7 +68,7 @@ A good teacher helps students become critical thinkers and creative problem solv
 
 - **Lab rotation**: similar to the station rotation model, but stations are locations rather than in-classroom activities, and one typically being a computer lab. 
 
-- **Individual rotation**: students switch between different activities and modalities on an individually customized schedule, by which they do not necessarily visit all available stations.
+- **Individual rotation**: students switch between different activities and modalities on an individually customised schedule, by which they do not necessarily visit all available stations.
 
 <details>
   <summary>Advantages of blended learning</summary>
@@ -167,21 +167,21 @@ The study by Fazal and Bryant (2019) looks at performance and growth measures fo
 - **Performance** (STAAR): face-to-face only scored higher.
 - **Growth** (MAP): blended learning scored higher.
 
-Both moderate effect sizes. This is different from results by Mackey (2015), who reported higher scores for blended learning on both measures.
+Both moderate effect sises. This is different from results by Mackey (2015), who reported higher scores for blended learning on both measures.
 
 <!-- Since technology can be adaptive, it can be used for differentiation. Data from digital systems can also be used by the teacher to effectively differentiate in face-to-face instruction as well, providing appropriate scaffholding and targeted learning opportunities. -->
 
 Another meta-analysis by Alten et al. (2019) also looks at learning outcomes and student satisfaction:
 
 - **Assesed learning outcomes**: small, signitificant (\\(g = 0.36, p < .001\\)), <span title="144 studies">high</span> power.
-- **Perceived learning outcomes**: small, insignificant (\\(g = 0.36, p = .13\\)), <span title="sample size of 8 studies too small">low</span> power.
-- **Student satisfaction**: no effect, insignificant (\\(g = 0.05, p = .73\\)), <span title="sample size of 22 studies too small">low</span> power.
+- **Perceived learning outcomes**: small, insignificant (\\(g = 0.36, p = .13\\)), <span title="sample sise of 8 studies too small">low</span> power.
+- **Student satisfaction**: no effect, insignificant (\\(g = 0.05, p = .73\\)), <span title="sample sise of 22 studies too small">low</span> power.
 
-> There was a high variety in student satisfaction. The net effect size was close to zero. This implies the specifics of implementation of the flipped classroom matter a lot.
+> There was a high variety in student satisfaction. The net effect sise was close to zero. This implies the specifics of implementation of the flipped classroom matter a lot.
 
 A comparible analysis by Spanjers et al. (2015) found very similar results for effectiveness and statisfaction. There was no overlap in analysed records, so both results are independent.
 
-Alten et al. (2019) also recognizes a few design characteristics possible moderators:
+Alten et al. (2019) also recognises a few design characteristics possible moderators:
 
 - **Quizzes**: positive effect on learning outcomes due to frequent testing effect, and positive effect on student satisfaction.
 
@@ -246,7 +246,7 @@ There are many arguments for GBL. As a short summary, good games:
 
 - **Game mechanics**: essential gameplay. The (sets of) activities repeated by the learner throughout the game. These can be learning or assesment mechanics.
 
-  > Mechanics are often used to categorize [genres of games](/OWW1/OVL/Samenvatting.md#individualised-instruction).
+  > Mechanics are often used to categorise [genres of games](/OWW1/OVL/Samenvatting.md#individualised-instruction).
 
 - **Visual aesthetics**: look-and-feel of the game and characters, but also the representation of key information in the game, as well as visualisations of mechanics, cues, and feedback.
 
@@ -356,7 +356,7 @@ Games not not necessarily explicitly include cultural factors, but do often unco
 
 - **Relatedness** (from self-determination): the sense of being connected to others can positively influence motivation, engagement, and stickiness. 
 
-  However, players may refrain from social interaction when they have low stats, because they do not want to be seen by others as noobs. Therefore, to maximize relatedness, games should cluster players in cohorts of similar abilities.
+  However, players may refrain from social interaction when they have low stats, because they do not want to be seen by others as noobs. Therefore, to maximise relatedness, games should cluster players in cohorts of similar abilities.
 
 - **Crowdsourcing**: a specific type of game that uses AR to create authentic situations that incorporate real-world objects, where during gameplay data for research purposes is collected. Being part of a 'greater good' is a very motivating factor in these games.
 -->
@@ -379,17 +379,26 @@ Research by Lei et al. (2022) indicates GBL leads to substantially increased lea
 
 ## AR/VR
 
-Virtual reality enables sensory immersion and sophisticated content representation, capable of simulating real or imagined worlds.
+**Virtual reality** (VR) enables sensory immersion and sophisticated content representation, capable of simulating real or imagined worlds.
+
+**Augmented reality** (AR) enables representation of real and virtual simuntaneously, supporting real-time interactions, where real and virtual objects are aligned ('geometrical registration').
+
+There are four types of AR:
+
+- **Location-based** uses GPS data to match real-world locations.
+- **Vision-based** (or 'markerless') uses image recognition to display objects on the camera.
+- **Spatial** projects information directly onto physical objects.
+- **See-through** (or 'mixed reality') uses glasses to overlay virtual objects on the real world.
 
 ### CAMIL-model
 
-The <abbr title="cognitive affective model of immersive learning">CAMIL</abbr>-model describes learning in immersive VR (IVR). **Immersion** refers to sensory vividness and ability to shut off the outside world.
+The <abbr title="cognitive affective model of immersive learning">CAMIL</abbr>-model describes learning in immersive virtual reality (IVR). **Immersion** refers to sensory vividness and ability of the system to shut off the outside world.
 
 > Head-mounted displays (HMDs) are regarded high-immersion, a tablet of smartphone is regarded low-immersion.
 
-> This model assumes Clark's perspective on media. It states affordances of IVR can enable or enhance instructional methods. It also recognizes that motivational and learning theories developed for less immersive technology generalize to IVR.
-
 The model describes how technological factors of IVR can facilitate higher presence and agency, which influence affective and cognitive factors that can lead to knowledge acquisition and transfer.
+
+> This model assumes Clark's perspective on media. It states affordances of IVR can enable or enhance instructional methods. It also recognises that motivational and learning theories developed for less immersive technology generalise to IVR.
 
 ```mermaid
 flowchart LR
@@ -411,6 +420,8 @@ flowchart LR
     PROC[Procedural knowledge]
     TRANS[Knowledge transfer]
 ```
+
+<center><small>technological factors &rarr; psychological factors &rarr; cognitive and affective factors &rarr; learning outcomes</small></center>
 
 #### Technological factors
 
@@ -467,6 +478,78 @@ flowchart LR
     <li><b>Segmenting</b> can help to reduce cognitive load by dividing lessons in shorter, more focussed, and thus less distracting and exhausting chunks.</li>
   </ul>
 </details>
+
+### Scientific evidence
+
+A study by Buchner et al. (2021) states AR is beneficial for learning due to the potential to overcome the violation of Mayer's multimedia principles.<!--They also note opponents say AR might be too distracting.--> <!-- Compared to IVR, AR-based immersion might also be less cognitively demanding and thus lead to learning gains. -->
+
+Their meta-analysis identifies six use-cases for AR and compares effectivity of different types of AR, as well as value-added studies:
+
+<style class="u0">
+  .u0 + ul h4 {
+    opacity: 0.6;
+  }
+</style>
+
+- For **assembly lines**, AR guidance can improve performance while reducing or keeping consistent cognitive load.
+
+  #### Impact of types of AR
+  Spatial AR was most effective, compared to vision-based or see-through AR.
+
+  > This is in-line with Mayer's split-attention and temporal contiguity principles, because spatial AR can be used to project instructions directly onto the components in the assembly line, reducing split-attention search.
+
+  #### Value-added studies
+  For vision-based AR, using a handle was better than using a tripod. For see-through AR it is best to use visual cues instead of written text.
+
+- For **task assistence** (surgery, navigating, driving, flying), AR leads to higher performance while reducing or keeping consistent cognitive load. It can also compensate for demands of a secondary task.
+
+  #### Impact of types of AR
+  There are no studies comparing AR types.
+
+  #### Value-added studies
+  3D visualisations lead to lower cognitive load, and thus higher performance, for see-trough and spatial AR.
+
+- For use as **instructional tool** to teach factual and conceptual knowledge, AR performed better than alternatives (eg. 2D visualisations).
+
+  #### Impact of types of AR
+  One study compared vision-based and see-through AR. No differences were found.
+
+  #### Value-added studies
+  I am confused.
+
+- For **real-time feedback**, one study found AR can improve performance and reduce cognitive load.
+
+  #### Impact of types of AR
+  There are no studies comparing AR types. (There was only one study.)
+
+  #### Value-added
+  Colored feedback leads to lower cognitive load, and thus higher performance, when compared to black-and-white feedback.
+
+- For **spatial ability training** for elderly, one study found AR can improve performance and reduced cognitive load, when compared to alternatives (eg. 2D visualisations).
+
+  #### Impact of types of AR
+  There are no studies comparing AR types. (There was only one study.)
+
+  #### Value-added
+  There are no value-added studies. (There was only one study.)
+
+- For **collaborative problem solving**, one study found AR can improve performance, while reducing or keeping consistent cognitive load, when compared to alternatives (eg. paper-based materials or standard software).
+
+  #### Impact of types of AR
+  There are no studies comparing AR types. (There was only one study.)
+
+  #### Value-added
+  There are no value-added studies. (There was only one study.)
+
+> Value-added studies compare the same educational technology in two or more versions.
+
+Other findings of this meta-analysis include:
+
+- 3D representations perform better than 2D representations when used in AR.
+- A human actor is superior than any other form of visual cueing.
+- Spatial AR performs better than see-through AR *and* vision-based AR. This is presumably because it does not need any additional equipment (glasses, smartphone, etc.) from the learner.
+- In some studies cognitive load was higher in the AR-group, compared to the control group, but resulting in higher performance, which is not expected.
+- Positive features are 3D visualisations, visual queing, and generative learning strategies.
 
 ## Artificial Intelligence
 
