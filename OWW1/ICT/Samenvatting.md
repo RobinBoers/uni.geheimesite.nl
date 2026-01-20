@@ -373,13 +373,12 @@ There are many arguments for GBL. As a short summary, good games:
 
     - **Developing 21st-century skills**: provides opportunities to develop more complex socioemotional skills related to teamwork, collaboration, problem solving, creativity, communication.
 
-<!--
 ### Foundations of game-based learning
 
 #### Cognitive
 
 <!--
-The goal of GBL is construction of mental models by selecting, organising and integrating (with prior knowledge) information.
+The goal of GBL is construction of mental models by selecting, organising and integrating (with prior knowledge) information.-->
 
 > Bovenstaand is het Wijze lessen model van generatieve/productieve strategieën. Bij [OVL](/OWW1/OVL/Samenvatting#verwerkingsstrategieën) houden we een ander model van Jonassen uit Morrison aan.
 
@@ -389,13 +388,13 @@ The goal of GBL is construction of mental models by selecting, organising and in
 
 - **Scaffolding**: games can provide scaffolding, by doing ongoing dynamic evaluation, using that to provide dynamically adaptive scaffolds, and the progressively fading the scaffolds as the learner progresses.
 
-  <!-- "Normal" (non-educational) games often also incorporate a form of scaffolding during early gameplay, to teach players the game's mechanics. This is often in the form of a tutorial level.
+  <!-- "Normal" (non-educational) games often also incorporate a form of scaffolding during early gameplay, to teach players the game's mechanics. This is often in the form of a tutorial level.-->
 
 - **Gestures and movement**: games enable embodied cognition, which involves motoric engagement and mapping gestures or movements to subject matter ('gestural congruity').
 
 #### Motivational
 
-<!--Motivational theories (expectancy-value theory, self-determination theory, self-efficacy theory, attribution theory, and interest theory) pose three questions:
+<!--Motivational theories (expectancy-value theory, self-determination theory, self-efficacy theory, attribution theory, and interest theory) pose three questions:-->
 
 | Question | GBL affordance |
 |--|--|
@@ -423,10 +422,11 @@ The goal of GBL is construction of mental models by selecting, organising and in
 
   <!--
   > Dit is het onderscheid dat ook in Wijze lessen wordt gemaakt tussen *leren* en *presteren*.
+  -->
 
 #### Affective
 
-<!-- An emotional schema is the dynamic interaction of emotion and cognition.
+<!-- An emotional schema is the dynamic interaction of emotion and cognition.-->
 
 - **Emotional design**: games can induce emotions via visuals, music, mechanics, storyline, and narration, and can also asses emotions and respond to them.
 
@@ -453,14 +453,13 @@ Games not not necessarily explicitly include cultural factors, but do often unco
 
 - **Observation**: games may affect not only players, but also observers who also engage and focus equally on gameplay. Observers can offer advice and encouragement. In some cases, observers might learn more from the game than players themselves.
 
-  <!--Games can include unconcious cultural design decisions, and are therefore uniquely positioned to also teach those cultural norms quietly. We often see this in **epistemic games**, which put players in a realistic proffesional context.
+  <!--Games can include unconcious cultural design decisions, and are therefore uniquely positioned to also teach those cultural norms quietly. We often see this in **epistemic games**, which put players in a realistic proffesional context.-->
 
 - **Relatedness** (from self-determination): the sense of being connected to others can positively influence motivation, engagement, and stickiness. 
 
   However, players may refrain from social interaction when they have low stats, because they do not want to be seen by others as noobs. Therefore, to maximise relatedness, games should cluster players in cohorts of similar abilities.
 
 - **Crowdsourcing**: a specific type of game that uses AR to create authentic situations that incorporate real-world objects, where during gameplay data for research purposes is collected. Being part of a 'greater good' is a very motivating factor in these games.
--->
 
 ### Scientific evidence
 
