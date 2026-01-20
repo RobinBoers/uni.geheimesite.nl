@@ -53,6 +53,36 @@ With regard to media attributes, Clark says the following: a number of distinct 
 Part of Clark's perspective stems from the observation that far too often, educational technology start with enthusiasm for solutions in search of a problem. He states 
 -->
 
+## Technology-enhanced learning
+
+### TAM-model
+
+The <abbr title="technology acceptance model">TAM</abbr>-model is a predictive model used to predict the success of implementation of technologies.
+
+```mermaid
+flowchart LR
+  U[Perceived usefulness] --> A
+  E[Perceived difficulty] --> A
+  A[Attitude towards using] --> S
+  S[Actual system use]
+```
+
+> The factor 'perceived usefulness' weighs more. That is, we might decide to learn how to use a technology that is difficult if we think it can be extremely useful to us, but we probably won't adopt technologies that we perceive as useless, even if they are very easy to use.
+
+### SAMR-model
+
+The <abbr title="substitution augmentation modification redefinition">SAMR</abbr>-model describes how the use of technology can impact learning in two ways: *enhancement* and *transformation*.
+
+- **Enhancement**
+
+  - **Substitution**: technology is a direct functionally-identical tool substitute.
+  - **Augmentation**: technology is a tool substitute with functional improvements.
+
+- **Transformation**
+
+  - **Modification**: technology enables significant task redesign.
+  - **Redefinition**: technology enables creation of new tasks previously impossible.
+
 ## Blended learning
 
 Blended learning (sometimes 'personalised learning') is education in part face-to-face, in part online, with some element of student control over time, place, direction, and pace.
