@@ -294,7 +294,7 @@ Two moderating factors where identified:
 
 ## Game-based learning
 
-Game-based learning (GBL) is hard to define. Instead, we use a simplified model based on player enagement (affective, behavioural, cognitive and sociocultural).
+Game-based learning (GBL) is hard to define. Instead, we use a simplified model (Plass et al., 2015) based on player enagement (affective, behavioural, cognitive and sociocultural).
 
 This model assumes game design elements based on affective, motivational, cognitive, and sociological foundations, contribute to player engagement, which leads to learning outcomes.
 
