@@ -107,19 +107,42 @@ In jouw animatie of stopmotion is één of twee scènes per act voldoende. Zorg 
 
 <a class="btn" href="Screenplay.docx" download>Template screenplay</a>
 
+#### Beweging
+
+Bij het maken van een animatie of stopmotion is beweging heel belangrijk. Bij beide maak je beweging door het afspelen van afbeeldingen, waarbij elke afbeelding net iets anders is. Er zijn zes animatietechnieken die je kan gebruiken om mooie vloeiende bewegingen te maken:
+
+1. Snelheid
+2. Easing
+3. Stretch & squash
+4. Anticipation
+5. Overshoot
+6. Bogen
+
+Deze verschillende technieken worden allemaal uitgelegd in deze video's:
+
+<div class="grid">
+  <iframe class="video" src="https://www.youtube-nocookie.com/embed/pF--YKCCUMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe class="video" src="https://www.youtube-nocookie.com/embed/uDqjIdI4bF4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+Probeer vooral zelf te experimenteren welke bewegingen je mooi vindt en goed passen bij jouw animatie of stopmotion!
+
 ### Stap 2 (optie 1): animeren
 
-Aan de hand van het storyboard en het script gaan je nu jouw animatie maken.
+Aan de hand van het storyboard en het script ga je nu jouw animatie maken. We gaan hiervoor de a FlipaClip gebruiken. Je kan deze gratis downloaden in de App Store of op Google Play. Maar je mag ook een ander animatieprogramma gebruiken als je dat fijner vindt.
 
-1. Open het animatieprogramma dat je gaat gebruiken.
+<a class="btn" href="https://apps.apple.com/nl/app/flipaclip-create-2d-animation/id1101848914">App Store &rarr;</a>
+<a class="btn" href="https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=nl-NL">Google Play &rarr;</a>
+
+1. Open FlipaClip.
 2. Maak een nieuw project aan en geef het een duidelijke naam.
-3. Teken eerst het decor van de scène op het eerste frame.
-4. Dupliceer dit frame tot de scène zo lang is als je in je storyboard had bedacht.
-5. Teken nu de personages in het eerste frame.
-6. Ga naar het volgende frame en teken de personages net een beetje anders.
-7. Herhaal dit proces totdat de hele scène is geanimeerd.
-8. Voeg als laatste tekstballonnen of voice-over toe, zoals je in je script bedacht had.
-9. Herhaal de bovenstaande stappen voor alle scènes in je animatie.
+3. Teken nu de personages in het eerste frame.
+4. Ga naar het volgende frame en teken de personages net een beetje anders.
+5. Herhaal dit proces totdat de hele scène is geanimeerd.
+6. Voeg als laatste tekstballonnen of voice-over toe, zoals je in je script bedacht had.
+7. Herhaal de bovenstaande stappen voor alle scènes in je animatie.
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/4aH0v_PuuM4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Soundtrack en geluidseffecten
 
@@ -129,19 +152,43 @@ Niet te vergeten is natuurlijk een soundtrack en geluidseffecten voor je animati
 
 ### Stap 2 (optie 2): stopmotion
 
-Aan de hand van het storyboard en het script gaan je nu jouw stopmotion maken.
+Aan de hand van het storyboard en het script ga je nu jouw stopmotion maken. We gaan hiervoor de app Stopmotion Studio gebruiken. Je kan deze gratis downloaden in de App Store of op Google Play.
+
+<a class="btn" href="https://apps.apple.com/nl/app/stop-motion-studio/id441651297">App Store &rarr;</a>
+<a class="btn" href="https://play.google.com/store/apps/details?id=com.cateater.stopmotionstudio&hl=nl-NL">Google Play &rarr;</a>
+
+Een stopmotion is in de basis eigenlijk het afspelen van een heleboel foto's, waarbij je de personages op de foto's elk frame een beetje verplaatst. Het is dus 'animeren in het echt'. We doen dat met in de volgende stappen:
 
 1. Zet je telefoon of camera stevig neer op een statief of tafel zodat hij niet beweegt.
 2. Zet de achtergrond of het decor van je scène neer, en leg alle materialen klaar die je nodig hebt.
-3. Zet de eerste scène klaar volgens je storyboard.
-4. Maak een foto van de beginsituatie.
-5. Verplaats de personages een klein stukje.
-6. Maak opnieuw een foto.
-7. Herhaal dit proces totdat de hele scène is opgenomen.
-8. Importeer alle foto’s in een stop-motion app of programma.
-9. Stel de snelheid in zodat de bewegingen vloeiend zijn.
+3. Open Stopmotion Studio.
+4. Maak een nieuw project aan en geef het een duidelijke naam.
+5. Zet de eerste scène klaar volgens je storyboard.
+6. Maak een foto van de beginsituatie.
+7. Verplaats de personages een klein stukje.
+8. Maak opnieuw een foto.
+9. Herhaal dit proces totdat de hele scène is opgenomen.
 10. Voeg eventueel geluidseffecten, muziek of voice-over toe, zoals in je script staat aangegeven.
-11. Exporteer de stop-motion als video-bestand.
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/_ppedXZHhE0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Personages
+
+De grote vraag is natuurlijk wel: hoe kom je aan de personages die in jouw stopmotion in de spotlight staan? Veel animaties gebruiken bestaande materialen, zoals bijvoorbeeld LEGO of Playmobil. Maar je kan ook zelf een personage maken. Onderstaande video is een voorbeeld van hoe je dat kan doen:
+
+<iframe class="video small" src="https://www.youtube-nocookie.com/embed/yr7ftXqFwRk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Of misschien is de hoofdpersoon in jouw stopmotion wel een allerdaags voorwerp, zoals een theepot of etui, een beetje zoals de Pixar lamp? Gebruik vooral ook je eigen creativiteit!
+
+#### Claymotion
+
+Een alternatief dat je ook vaak terugziet in stopmotions is klei: je kan het decor en je animaties zelf kleien. We noemen zo'n stopmotion dan een *claymotion*.
+
+Het voordeel daarvan is dat je vloeiendere en mooiere bewegingen kan maken (principe van stretch & squash!), omdat je de personages elk frame kan vervormen. Hieronder zie je een voorbeeld van hoe je dat doet in Stopmotion Studio:
+
+<iframe class="video small" src="https://www.youtube-nocookie.com/embed/ZHemTNW-q9M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Claymation **kost erg veel tijd en vergt precisie**, dus dit is een **hele uitdagende vorm van stopmotion**. Zorg ervoor dat je dus je eigen tijdsplanning goed in de gaten houdt. Maar als je jezelf echt wil uitdagen kan dat zeker!
 
 #### Soundtrack en geluidseffecten
 

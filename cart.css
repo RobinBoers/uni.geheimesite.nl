@@ -233,3 +233,7 @@ main > ul li {
     padding-left: 4%;
   }
 }
+
+.video.small {
+  max-width: 500px;
+}

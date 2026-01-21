@@ -128,7 +128,7 @@ In fotografie en film wordt meestal de **regel van derden** gebruikt. Je verdeel
 
 <!-- Als je nog meer inspiratie zoekt voor je compositie of het gewoon interessant vindt, kan je deze video bekijken: -->
 
-<iframe class="video" style="margin-top: -10px" src="https://www.youtube-nocookie.com/embed/ANdLOY4rW04?si=aQ5VkzI5ZrPIka0G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video" style="margin-top: -10px" src="https://www.youtube-nocookie.com/embed/ANdLOY4rW04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Belichting en kleurgebruik** kunnen beïnvloeden hoe een kijker een shot ervaart. Felle kleuren trekken de aandacht van de kijker. Je kan ook gebruikmaken van contrasten, zoals licht-donker, warm-koud of complementair, om bepaalde personages of objecten uit te lichten. Of gewoon omdat het je shot er mooi uit laat zien.
 
