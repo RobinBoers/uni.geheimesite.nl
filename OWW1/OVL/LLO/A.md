@@ -1,5 +1,5 @@
 ---
-title: Rowan Atkinson
+title: Mr. Bean
 subtitle: Maak je eigen minimovie
 stylesheet: cart.css
 norobots: true
@@ -22,11 +22,11 @@ nofooter: true
 
 ## Introductie
 
-*Rowan Sebastian Atkinson (1955 - heden) is een welbekende Britse acteur, comedian en scriptsschrijver, bekend van klassiekers zoals Mr. Bean, Blackadder, en Johnny English. Hij brengt een vorm van fysieke humor naar zijn rollen. Met zijn zelfverzonnen Mr. Bean karakter, kan hij zichzelf zelfs tot de top 50 grappigste acteurs (2003) en comedians (2005) rekenen. Maar ook cinematografische elementen versterken het humoristische karakter van zijn werk. Zo blijven zijn creaties aantrekkelijk voor jong en oud.*
+*Mr. Bean is een tijdloos karakter, bedacht en gespeeld door Rowan Sebastian Atkinson (1955 - heden). Rowan is een welbekende Britse acteur, comedian en scriptsschrijver, die ook heeft gespeeld in Blackadder en Johnny English. Rowan brengt een vorm van fysieke humor naar zijn rollen. Met de serie Mr. Bean kan zichzelf zelfs tot de top 50 grappigste acteurs (2003) en comedians (2005) rekenen. Maar ook cinematografische elementen versterken het humoristische karakter van zijn werk. Zo blijven zijn creaties aantrekkelijk voor jong en oud.*
 
 ### Mr. Bean
 
-Mr. Bean is een fictief personage bedacht door Rowan Atkinson. Hij is een onhandig, kinderachtig, egoïstisch, narcistisch, maar toch ook vindingrijk personage, dat door zijn onaangepaste gedrag vaak in allerlei problemen komt. Wat Mr. Bean grappig maakt is zijn hele overdreven (hyperbolische) gedrag, in combinatie met fysieke humor en een gebrek aan gesproken dialoog, vergelijkbaar met stille films van begin 20e eeuw.
+De serie Mr. Bean verscheen voor het eerst op TV op 1 januari 1990, en er zijn tot 1995 in totaal 15 officiële afleveringen uitgebracht. De serie is vernoemd naar de hoofdrol, het fictieve personage Mr. Bean, bedacht en gespeeld door Rowan Atkinson. Mr. Bean is een onhandig, kinderachtig, egoïstisch, narcistisch, maar toch ook vindingrijk personage, dat door zijn onaangepaste gedrag vaak in allerlei problemen komt. Wat hem grappig maakt is zijn hele overdreven (hyperbolische) gedrag, in combinatie met fysieke humor en een gebrek aan gesproken dialoog, vergelijkbaar met stille films van begin 20e eeuw.
 
 <div class="post-it" style="transform: rotate(2deg)">
   Toen film pas net werd uitgevonden, was het nog niet mogelijk om beeld en geluid tegelijkertijd op te nemen en weer af te spelen. Daarom hadden films uit die tijd geen dialoog of geluidseffecten. We noemen dit soort films stille films. Het verhaal moest dus helemaal duidelijk zijn uit de bewegingen en handelingen van de acteurs. Latere stille films hadden soms wel een live-orkest dat een soort ‘soundtrack’ speelde terwijl de film werd afgespeeld, soms zelfs met geluidseffecten.

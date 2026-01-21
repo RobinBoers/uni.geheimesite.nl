@@ -1,5 +1,5 @@
 ---
-title: Rowan Atkinson
+title: Mr. Bean
 subtitle: Maak je eigen animatie of stopmotion
 stylesheet: cart.css
 norobots: true
@@ -31,19 +31,19 @@ nofooter: true
 
 ## Introductie
 
-*Rowan Sebastian Atkinson (1955 - heden) is een welbekende Britse acteur, comedian en scriptsschrijver, bekend van klassiekers zoals Mr. Bean, Blackadder, en Johnny English. Hij brengt een vorm van fysieke humor naar zijn rollen. Met zijn zelfverzonnen Mr. Bean karakter, kan hij zichzelf zelfs tot de top 50 grappigste acteurs (2003) en comedians (2005) rekenen. Maar ook cinematografische elementen versterken het humoristische karakter van zijn werk. Zo blijven zijn creaties aantrekkelijk voor jong en oud.*
+*Mr. Bean is een tijdloos karakter, bedacht, gespeeld, en ingesproken door Rowan Sebastian Atkinson (1955 - heden). Rowan is een welbekende Britse acteur, comedian en scriptsschrijver, die de rol van Mr. Bean speelt in de live-action en zijn stem inspreekt in de animatieserie. In zijn rol als Mr. Bean zet hij verschillende soorten humor in, zoals fysieke humor, situationele humor en spot. Zo blijven zijn creaties grappig voor jong en oud. En voor wie nog niet is uitgekeken op Mr. Bean, zijn er op het internet talloze stopmotion video's te vinden. Deze video's zijn door fans gemaakt.*
 
 ### Mr. Bean
 
-Mr. Bean is een fictief personage bedacht door Rowan Atkinson. Hij is een onhandig, kinderachtig, egoïstisch, narcistisch, maar toch ook vindingrijk personage, dat door zijn onaangepaste gedrag vaak in allerlei problemen komt. Wat Mr. Bean grappig maakt is zijn hele overdreven (hyperbolische) gedrag, in combinatie met fysieke humor en een gebrek aan gesproken dialoog.
+De serie Mr. Bean verscheen voor het eerst op TV op 1 januari 1990, en er zijn tot 1995 in totaal 15 officiële afleveringen uitgebracht. De serie is vernoemd naar de hoofdrol, het fictieve personage Mr. Bean, bedacht en gespeeld door Rowan Atkinson. Mr. Bean is een onhandig, kinderachtig, egoïstisch, narcistisch, maar toch ook vindingrijk personage, dat door zijn onaangepaste gedrag vaak in allerlei problemen komt. Wat hem grappig maakt is zijn hele overdreven (hyperbolische) gedrag, in combinatie met fysieke humor en een gebrek aan gesproken dialoog.
 
 ### Animatieserie
 
-Naast de originele live-action serie van Mr. Bean wordt er sinds 2002 ook een animatieserie met dezelfde naam gemaakt, met wederom Rowan Atkinson in de hoofdrol. De animatieserie maakt een aantal aanpassingen aan het klassieke Mr. Bean karakter: hij is minder dom en praat zelfs in volledige zinnen met andere personages. Daarnaast introduceert de animatieserie extra karakters zoals Mrs. Wicket. Een ander voordeel van animatie is dat het situaties toestaat die in film onmogelijk geweest zouden zijn.
+Naast de originele live-action serie van Mr. Bean wordt er sinds 2002 ook een animatieserie met dezelfde naam gemaakt, met wederom Rowan Atkinson in de hoofdrol. De animatieserie maakt een aantal aanpassingen aan het klassieke Mr. Bean karakter: hij is minder dom en praat zelfs in volledige zinnen met andere personages. Daarnaast introduceert de animatieserie extra karakters zoals Mrs. Wicket en haar kat Scrapper. Een ander voordeel van animatie is dat het situaties toestaat die in film onmogelijk geweest zouden zijn.
 
 ## Opdrachtomschrijving
 
-Je gaat een humoristische animatie of stopmotion ongeveer een minuut maken, waarin je aan de slag gaat met humor. Je bedenkt een kort verhaal, leert hoe je een script schrijft, een storyboard maakt, een animatie of stopmotion maakt, en presenteert deze vervolgens aan de klas.
+Je gaat een humoristische animatie of stopmotion van ongeveer een minuut maken, waarin je aan de slag gaat met humor. Je bedenkt een kort verhaal, leert hoe je een script schrijft, een storyboard maakt, animeert of een stopmotion maakt, en hoe je daarbij effectief humor kan inzetten om kijkers aan het lachen te maken. Ten slotte presenteert je video of stop&shy;motion aan de klas.
 
 ## Stappenplan
 
@@ -72,7 +72,6 @@ Bedenk daarna een onderwerp voor jouw animatie of stopmotion en zorg ervoor dat 
 -	Bij <b>ironie</b> zeg je precies het tegenovergestelde van wat je bedoelt, en je maakt er vooral jezelf belachelijk mee. Dit noemen we <b>zelfspot</b>.
 -	Een andere vorm van spot is <b>sarcasme</b>. Je zegt dan ook precies het tegenovergestelde van wat je bedoelt, maar in plaats van jezelf maar je hiermee juist een ander belachelijk, vaak op een persoonlijke of kwetsende manier.
 -	De laatste vorm van spot is <b>cynisme</b>. Daarbij zeg je precies wat je bedoelt, op een vrij gemene manier.
-
 
 #### Dramatische boog
 
