@@ -24,6 +24,7 @@ nofooter: true
 
   <ul>
     <li><a href="RubricB.docx" download>Beoordelingscriteria</a></li>
+    <li><a href="Storyboard.docx" download>Bijlage storyboard</a></li>
     <li><a href="Screenplay.docx" download>Template screenplay</a></li>
     <li><a href="Presenteren.docx" download>Richtlijnen presenteren</a></li>
   </ul>
@@ -88,6 +89,8 @@ Hieronder zie je een voorbeeld van een storyboard:
 ![](storyboard1.jpg)
 
 Je maakt het storyboard in je dummy, en vult vervolgens een lijst in waar je per shot schat hoelang je denkt dat het shot gaat duren, en welke personages erin voorkomen.
+
+<a class="btn" href="Storyboard.docx" download>Bijlage storyboard</a>
 
 #### Script
 
