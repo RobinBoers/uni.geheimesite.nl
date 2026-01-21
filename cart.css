@@ -237,3 +237,7 @@ main > ul li {
 .video.small {
   max-width: 500px;
 }
+
+tr {
+  border-bottom: 1px solid light-dark(#bbb, #777);
+}

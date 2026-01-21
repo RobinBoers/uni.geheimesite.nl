@@ -139,6 +139,7 @@ Kikvorperspectief | Ooghoogteperspectief | Vogelperspectief
 Camera laag | Camera op ooghoogte van personages | Camera hoog
 Personages van onder | Personages van voor/achter | Personages van boven
 Horizon ligt hoog | Horizon ligt in het midden | Horizon ligt laag
+![](kikker.jpg) | ![](oog.jpg) | ![](vogel.jpg)
 
 Hoe dichtbij of ver weg je de camera bepaalt hoe veel of weinig je van de personages ziet. We noemen wat je kan zien het **kader**:
 
@@ -165,6 +166,13 @@ Bij het maken van decor is het belangrijk te focussen op de meest kenmerkende as
 ### Stap 3: editten
 
 Als laatste stap in het maken van je minimovie ga je de film monteren. Je mag daarvoor een videobewerkingsprogramma naar keus gebruiken. Op een Mac vind je bijvoorbeeld vaak iMovie. Op een Windows-computer kan je Kdenlive, Adobe Première of Davinci Resolve installeren. Of je gaat op je telefoon of tablet aan de slag met CapCut.
+
+Als je niet weet waar je moet beginnen kunnen we je aanraden te beginnen met CapCut. De app is gratis te downloaden in de App Store of op Google Play, en is makkelijk te gebruiken. Hieronder staat een filmpje waarin de basics van CapCut uitgelegd worden, om je een beetje op weg te helpen:
+
+<a class="btn" href="https://apps.apple.com/nl/app/capcut-photo-video-editor/id1500855883">App Store &rarr;</a>
+<a class="btn" href="https://play.google.com/store/apps/details?id=com.lemon.lvoverseas&hl=nl-NL">Google Play &rarr;</a>
+
+<iframe class="video small" src="https://www.youtube-nocookie.com/embed/jYZ1LX8Bp8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Soundtrack en geluidseffecten
 
