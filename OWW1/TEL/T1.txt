@@ -1,0 +1,38 @@
+1. Would you agree with the following quote?
+
+  "Digital technology, when deployed skilfully, equitably and effectively by educators, can fully support the agenda of high quality and inclusive education and training for all learners. It can facilitate more personalised, flexible and student-centred learning, at all phases and stages of education and training. Technology can be a powerful and engaging tool for collaborative and creative learning. It can help learners and educators access, create and share digital content. It can also allow learning to take place beyond the walls of the lecture hall, classroom or workplace, providing more freedom from the constraints of physical location and timetable. Learning can happen in a fully online or a blended mode, at a time, place and pace suited to the needs of the individual learner"
+
+Ik denk dat de "when deployed skilfully, equitably and effectively" is een hele belangrijke voorwaarde is die bijna nooit klopt. Er zit wat in dat technologie meer persoonlijk en flexibel (ook uit huis etc.) kan werken, maar dan moet het ook wel goed (intiutief, praktisch) werken voor leerlingen en docenten. Vaak is daar onvoldoende over nagedacht.
+
+2. The OECD Teaching and Learning International Survey in 2018 showed that only 39%
+of educators in the EU felt well or very well prepared for using digital technologies in their daily work, with significant differences between Member States.
+
+  How well prepared do you feel for using digital technologies?
+
+Very well prepared - ik ben programmeur.
+
+3. How much would you agree with this other quote? 
+
+  "There is an urgent need to rethink how education and training, in all disciplines, are designed and provided to meet the demands of a rapidly changing and increasingly digital world. Quality and inclusive education today should be informed by the needs of our current and future society. For this, it is important to consider how all phases and stages of education and training can purposefully and strategically embed digital technologies into educational practices."
+
+Onderwijs moet zich niet aanpassen aan digitale technologie, maar andersom. Digitale technologie moet zo worden toegepast dat het goed werkt in het onderwijs. We moeten voorkomen dat we het inzetten van technologie als doel opzich gaan zien. Technologie moet alleen worden ingezet als het een waardevolle bijdrage kan leveren (aka effectiever of efficienter maken).
+
+4. European Digital Education Action Plan (2021-2027):
+
+  1. Digi-ed is central (not marginal) should be a task of *everyone*, not one specialised department.
+  2. Transforming education is a task for all players in society (teachers, commerce, research, government)
+  4. We should invest to make digi-ed available.
+  5. Digi-ed should be accessible to everyone.
+  6. Digital competence is a necessary skill for all educators and should be included in training.]
+  7. Education leaders (whoever that is?) should have a role.
+  8. Digital literacy should be taught to everyone.
+  9. Basic digital skills should be taught to everyone.
+  10. Advanced digital skills are important too.
+
+  Reflect on these guidelines. Are they necessary, ambitious, realistic, relevant?
+
+Als ik HEEEEL eerlijk ben klinkt dit een beetje als 1) open deuren, 2) leeg bureaucratisch gebabbel. Als in: het zijn vrij vage 'doelstellingen' die niet heel concreet uitgewerkt zijn. Ik vraag me af of je mensen makkelijk achter zo'n verandering krijgt. Ik weet ook niet of het *nodig* is. Over toegankelijkheid van het onderwijs en het nut van digitale geletterdheid valt inderdaad iets te zeggen, maar deze richtlijnen zijn veel breder van dat. Zoals ik eerder al zei: het is belangrijk dat we technologie niet inzetten *gewoon omdat het kan*. Het moet niet een doel op zich worden. Gezien snelle technische veranderingen (social media, LLMs, etc.) is het wel een uiterst relevante discussie om te hebben: technologie wordt al steeds meer ingezet in het onderwijs, dus het is niet slecht als we daar gezamelijke afspraken over maken. Dus; nodig: ter discussie, ambitieus: ja, realistisch: nee, relevant: ja.
+
+  Those European guiding principles refer to literacy skills, what do they mean with literacy skills? Should we address them in teaching? How?
+
+Ik vermoed dat hiermee naar de breedste zin van 'digitale geletterdheid' wordt verwezen. Dat zou inhouden: basisuitleg over gebruik van bepaalde tools (browser, excel etc.), uitleg over media en dat die gekleurd/biased kan zijn, uitleg over algoritmes en filterbubbels, uitleg over gevaren van hacken, etc. Ik denk dat dit belangrijke lessen zijn om eigenlijk iedereen mee te geven, omdat een basisbegrip van de werking van, en ook risico's van, technologie erg handig is om in huis te hebben.
