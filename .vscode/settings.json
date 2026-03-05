@@ -13,6 +13,7 @@
     "**/Gemfile.lock": true,
     "**/main.css": true,
     "**/cart.css": true,
+    "**/tel.css": true,
     "**/.gitignore": true
   },
 }

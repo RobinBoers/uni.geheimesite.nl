@@ -1,0 +1,62 @@
+@import url(https://cdn.geheimesite.nl/reset.css);
+
+:root {
+  --primary: #5c8782;
+}
+
+html {
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.4;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  color: var(--primary);
+}
+
+header {
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1em;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 5px 12px;
+}
+
+nav a.selected {
+  background: var(--primary);
+  color: white;
+}
+
+section > div {
+  max-width: 1100px;
+  margin: 2em auto;
+  padding: 0 10px;
+}
+
+section.primary {
+  background: var(--primary);
+}
+
+section.primary > div {
+  color: white;
+  padding: 2em 10px;
+}
+
+section.primary a {
+  color: white;
+}

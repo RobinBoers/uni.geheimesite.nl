@@ -10,15 +10,21 @@ layout: default
   </header>
 {% endunless %}
 
+{% unless page.nolayout %}
 <main>
-  {% if page.subtitle %}
-    <hgroup>
+{% endunless %}
+  {% if page.title %}
+    {% if page.subtitle %}
+      <hgroup>
+        <h1>{{ page.title }}{% if page.wip %} <small>(WIP)</small>{% endif %}</h1>
+        <p>{{ page.subtitle }}</p>
+      </hgroup>
+    {% else %}
       <h1>{{ page.title }}{% if page.wip %} <small>(WIP)</small>{% endif %}</h1>
-      <p>{{ page.subtitle }}</p>
-    </hgroup>
-  {% else %}
-    <h1>{{ page.title }}{% if page.wip %} <small>(WIP)</small>{% endif %}</h1>
+    {% endif %}
   {% endif %}
 
   {{ content }}
+{% unless page.nolayout %}
 </main>
+{% endunless %}
