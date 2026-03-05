@@ -6,7 +6,7 @@ nofooter: true
 nolayout: true
 ---
 
-<style>:root { --primary: #70c15b; }</style>
+<style>:root { --primary: #5ab742; }</style>
 
 <header>
   <h1>Technologie-ondersteund taaleducatie</h1>

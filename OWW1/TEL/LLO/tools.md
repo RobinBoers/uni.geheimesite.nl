@@ -6,7 +6,7 @@ nofooter: true
 nolayout: true
 ---
 
-<style>:root { --primary: #ffcc00; } nav a.selected, section.primary, section.primary a { color: black; }</style>
+<style>:root { --primary: #ffbb00; } nav a.selected, section.primary, section.primary a { color: black; }</style>
 
 <header>
   <h1>Technologie-ondersteund taaleducatie</h1>
