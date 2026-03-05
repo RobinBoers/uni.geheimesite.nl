@@ -6,18 +6,18 @@ nofooter: true
 nolayout: true
 ---
 
-<style>:root { --primary: #4a5ca8; }</style>
+<style>:root { --primary: #70c15b; }</style>
 
 <header>
-  <h1>Technologie-ondersteunde taaleducatie</h1>
+  <h1>Technologie-ondersteund taaleducatie</h1>
   <nav>
-    <a href="index.html">Home</a>
-    <a href="ict.html">ICT in taalonderwijs</a>
-    <a href="tools.html">Tools</a>
-    <a href="vr.html">Virtual Reality</a>
-    <a href="ve.html">Virtual Exchange</a>
+    <a href="/OWW1/TEL/LLO">Home</a>
+    <a href="/OWW1/TEL/LLO/ict">ICT in taalonderwijs</a>
+    <a href="/OWW1/TEL/LLO/tools">Tools</a>
+    <a href="/OWW1/TEL/LLO/xr">XR</a>
+    <a href="/OWW1/TEL/LLO/ve">Virtual Exchange</a>
     <a class="selected">Serious Games</a>
-    <a href="ai.html">AI</a>
+    <a href="/OWW1/TEL/LLO/ai">AI</a>
   </nav>
 </header>
 

@@ -1,5 +1,5 @@
 ---
-title: Technologie-ondersteunde taaleducatie
+title: Technologie-ondersteund taaleducatie
 wip: true
 ---
 

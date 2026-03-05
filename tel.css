@@ -60,3 +60,7 @@ section.primary > div {
 section.primary a {
   color: white;
 }
+
+video, audio, iframe {
+  width: 100%;
+}

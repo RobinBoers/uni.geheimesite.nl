@@ -6,7 +6,7 @@ nofooter: true
 nolayout: true
 ---
 
-<style>:root { --primary: #fc4b4b; }</style>
+<style>:root { --primary: #7a5c9e; }</style>
 
 <header>
   <h1>Technologie-ondersteund taaleducatie</h1>
@@ -14,15 +14,16 @@ nolayout: true
     <a href="/OWW1/TEL/LLO">Home</a>
     <a href="/OWW1/TEL/LLO/ict">ICT in taalonderwijs</a>
     <a href="/OWW1/TEL/LLO/tools">Tools</a>
-    <a href="/OWW1/TEL/LLO/xr">XR</a>
+    <a class="selected">XR</a>
     <a href="/OWW1/TEL/LLO/ve">Virtual Exchange</a>
     <a href="/OWW1/TEL/LLO/games">Serious Games</a>
-    <a class="selected">AI</a>
+    <a href="/OWW1/TEL/LLO/ai">AI</a>
   </nav>
 </header>
 
 <section>
   <div>
-    <h2>AI</h2>
+    <img src="1.png" />
+    <img src="2.png" />
   </div>
 </section>
