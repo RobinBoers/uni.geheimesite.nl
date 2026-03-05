@@ -23,7 +23,7 @@ nolayout: true
 
 <section>
   <div>
-    <img src="1.png" />
-    <img src="2.png" />
+    <img src="/OWW1/TEL/LLO/xr/1.png" />
+    <img src="/OWW1/TEL/LLO/xr/2.png" />
   </div>
 </section>
