@@ -31,6 +31,6 @@ nolayout: true
   <div>
     <h2>Interculturele communicatie</h2>
     <p>Hieronder staat een kennisclip waarin we kort uitleggen waarom interculturele communicatie in taalonderwijs belangrijk is.</p>
-    <video src="Kennisclip.mp4" controls><center>Deze browser ondersteund helaas geen HTML5 video. Update je browser en probeer het opnieuw.</center></video>
+    <video src="https://cdn.geheimesite.nl/videos/Kennisclip.mp4" controls><center>Deze browser ondersteund helaas geen HTML5 video. Update je browser en probeer het opnieuw.</center></video>
   </div>
 </section>
