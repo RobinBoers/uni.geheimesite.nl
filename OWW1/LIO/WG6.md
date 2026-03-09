@@ -29,3 +29,10 @@ Praktijkdomein: experimenteren, "Deze groepen komen regelmatig bij elkaar om het
 3) Welke elementen van professioneel leren volgens het model van Knight (2002) zie je terug?
 Onderbouw je antwoorden met voorbeelden.
 
+Collectieve kennisopbouw: "Met elkaar in gesprek gaan, naar elkaar te luisteren en kennis te delen is belangrijk om elkaar te vinden.", "Een lerende cultuur, waarbij experimenteren, reflecteren en ontwikkelen van nieuwe kennis als middel centraal staat", "Met elkaar in gesprek gaan, naar elkaar te luisteren en kennis te delen is belangrijk om elkaar te vinden."
+
+Reflectieve dialoog: "Door een reflectieve dialoog te voeren, krijgen leraren zicht op elkaars opvattingen en handelen. Een reflectieve dialoog is een gesprek tussen leraren over het onderwijs, met als doel het onderwijs te verbeteren. Hierbij wordt de huidige en gewenste manier van handelen kritisch besproken."
+
+Gespreid leiderschap: "verantwoordelijkheid zo laag mogelijk in de organisatie wordt belegd, eigenaarschap van alle leraren bij onderwijsverbetering wordt bevorderd, en het teamleren wordt versterkt"
+
+Complexiteit en non-lineariteit: "Al ging deze verandering niet zonder slag of stoot. “Niet iedereen was gewend om het onderwijs met elkaar af te stemmen en met een duidelijke focus aan gezamenlijke doelen te werken. Dit heeft consequenties gehad voor de samenstelling van het team omdat daardoor collega’s zijn vertrokken maar ook juist nieuwe collega’s gekomen zijn.”"
