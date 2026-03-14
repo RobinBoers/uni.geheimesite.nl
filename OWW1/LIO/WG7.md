@@ -29,4 +29,4 @@ Generatieve verwerking versterken:
 - Voice: gebruik een menselijke stem voor voice-over (geen computerstem).
 - Embodiment: zichtbare menselijke instructor, die beweegt, gebaren maakt etc.
 
-aan de hand van deze 12 principes kunnen wij lesmateriaal van onze opdrachtgever toetsen. bijvoorbeeld of het bepaalde van deze principes schendt, dan kunnen we daar vervolgens ons advies over visualisatie op bouwen.
+aan de hand van deze 12 principes kunnen wij lesmateriaal van onze opdrachtgever toetsen. of het voldoet aan deze principes. bijvoorbeeld of het bepaalde van deze principes schendt, dan kunnen we daar vervolgens ons advies over visualisatie op bouwen.
