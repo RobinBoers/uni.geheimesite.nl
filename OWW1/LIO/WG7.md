@@ -1,3 +1,17 @@
+Drie tips die voor mij belangrijk zijn:
+
+- Zet 1 idee centraal: ik ontspoor vaak met allemaal random informatie
+- Gebruik niet teveel tekst op slides, gebruik in plaats daarvan afbeeldingen
+- Begin met een verhaal of relevantie; beantwoord 'waarom?' ipv 'wat?'
+
+Wat zijn de drie meest belangrijke principes voor jouw langlopende opdracht en waarom?
+
+-
+-
+-
+
+Presentatie:
+
 Cognitive Theory of Multimedia Learning (CTML)
 
 Drie basisprincipes:
