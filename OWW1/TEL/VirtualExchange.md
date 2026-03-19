@@ -32,4 +32,16 @@ XXX
 
 ## Internationale samenwerking & communicatie
 
+We hebben samengewerkt met studenten uit Cyprus. Ik vond de samenwerking niet slecht verlopen, maar het had ook beter gekund. Ik denk dat ik op een persoonlijk niveau niet klikte met Stefanos. Daardoor bleven de gesprekken zakelijk en redelijk oppervlakkig. De grootste uitdaging was zeker het inplannen van momenten waarop we allemaal beschikbaar waren, omdat Janne en Stefanos allebei een drukke agenda hebben. We hebben ook twee keer miscommunicaties gehad omdat we in verschillende tijdzones leven.
+
+Ik denk dat het voor een volgende keer slim is om aan het begin van de cursus gelijk alle afspraken in te plannen. Dan kan je er makkelijker omheen plannen, in plaats van dat je alles last-moment moet verplaatsen. Ik denk dat als er vanuit de opleiding een vast moment per week wordt ingepland, dat voor zowel ons als de Cyprus-studenten wordt ingeroosterd, dat praktischer zou zijn.
+
 ## Vertaling naar de onderwijspraktijk
+
+Ik denk dat een Virtual Exchange zeer geschikt is voor leerlingen van de middelbare school. Ik denk dat het een hele mooie en motiverende manier is om een rijk en authentiek taalaanbod te bieden aan leerlingen, en tegelijk ook aan te sluiten bij hun belevingswereld en interesses. Tenopzichte van traditioneel taalonderwijs, dat vooral bestaat uit het stampen van grammaticaregels en woordjes, kan Virtual Exchange de mogelijkheid bieden om natuur op een 'natuurlijke' manier te verwerven. Daarnaast geeft Virtual Exchange leerlingen een inkijkje in andere culturen. Daarmee zorg je voor een grotere linguistische variateit (accenten, woordenschat), en bevorder je interculturele communicatieve competentie.
+
+Ik zie wel een aantal risico's. De Virtual Exchange moet niet té leuk worden; het moet een educatief karakter behouden. Het doel blijft taalverwerving. Ten tweede is er het risico dat leerlingen vooral in hun comforzone blijven, en geen nieuwe taal verwerven. Tenslotte, als de taken niet aansluiten op de interesses van de leerlingen, of leerlingen het nut van de taken niet inzien, loop je het risico dat ze ongemotiveerd zijn en de opdrachten afraffelen, en er daarom minder van leren.
+
+XXX
+
+XXX
