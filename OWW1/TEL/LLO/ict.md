@@ -31,7 +31,7 @@ nolayout: true
   <div>
     <h2>Luister- en spreekvaardigheid</h2>
     <p>Hieronder staat een podcast waarin we kort toelichten hoe technologie luister- en spreekvaardigheid binnen het vreemde-talenonderwijs kan ondersteunen, wat er veranderd is en welke kansen dit voor docenten biedt.</p>
-    <audio src="https://cdn.geheimesite.nl/recordings/Podcast.mp3" controls><center>Deze browser ondersteund helaas geen HTML5 audio. Update je browser en probeer het opnieuw.</center></audio>
+    <audio src="https://cdn.geheimesite.nl/recordings/Podcast-v2.mp3" controls><center>Deze browser ondersteund helaas geen HTML5 audio. Update je browser en probeer het opnieuw.</center></audio>
   </div>
 </section>
 
