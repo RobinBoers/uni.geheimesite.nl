@@ -8,7 +8,7 @@ Dit verslag is geschreven door Robin Boers (6515355). In dit verslag reflecteer 
 
 ### Wat is Virtual Exchange?
 
-Virtual Exchange (VE) is een onderwijsvorm die kan worden ingezet voor tweede taalverweving, bijvoorbeeld op de middelbare school of in het hoger onderwijs. Bij een VE worden studenten uit verschillende culturen door middel van technologie met elkaar in elkaar gebracht. De Virtual Exchange is gebaseerd op de principes van task-based language teaching (TBLT). Dit houdt in dat studenten samen taken uitvoeren in een vreemde taal (de *lingua franca*). Een Virtual Exchange biedt hiermee een rijk, authentiek, en gesitueerd taalaanbod. Daarnaast kan het ook interculturele communicative competenties verbeteren.
+Virtual Exchange (VE) is een onderwijsvorm die kan worden ingezet voor tweede taalverweving, bijvoorbeeld op de middelbare school of in het hoger onderwijs. Bij een VE worden studenten uit verschillende culturen door middel van technologie met elkaar in elkaar gebracht. De Virtual Exchange is gebaseerd op de principes van task-based language teaching (TBLT). Dit houdt in dat studenten samen taken uitvoeren in een vreemde taal (de _lingua franca_). Een Virtual Exchange biedt hiermee een rijk, authentiek, en gesitueerd taalaanbod. Daarnaast kan het ook interculturele communicative competenties verbeteren.
 
 ## Leeropbrengst & algemene indruk
 
@@ -28,7 +28,7 @@ We hebben FrameVR gebruikt in high-immersion met een VR-bril, en in low-immersio
 
 ### Generatieve AI
 
-XXX
+De interactie met ChatGPT verliep verassend goed. Ik had verwacht dat praten met een AI geforceerder of nepper zou aanvoelen. In mijn hoofd zou ChatGPT een robotstem hebben, maar de stem was eigenlijk heel natuurlijk. Ik had wel een aantal keer het probleem dat als je te lang pauzeerde (om een woord te zoeken, of een zin te formuleren), ChatGPT die stilte gelijk opvatte als 'ik ben aan de beurt', en dan door je heen gaat praten. Daarnaast merk ik ook dat ik AI als gesprekspartner minder serieus kan nemen dan een menselijke gesprekspartner. Het sterke punt van ChatGPT of vergelijkbare chatbots in het leerproces is wel dat ze altijd, op ieder moment van de dag beschikbaar zijn, en dat taalmodellen heel veel verschillende rollen kunnen vervullen, afhankelijk van hoe je ze prompt. Ik merkte ook in onze gesprekken dat het taalaanbod dat de AI geeft kan worden aangepast met de prompt. Daarmee kan je het niveau van de chatbot aanpassen aan de klas of individuele leerlingen. De projectontwikkelaar gebruikte bijvoorbeeld veel meer commerciële termen dan de bejaarde stakeholder. Een zwak punt van ChatGPT is wel dat de gesprekspartner je altijd gelijk geeft. Het is niet heel moeilijk om een AI te overtuigen van je gelijk, en daarom voelde praten met de AI ook minder leerzaam. Ik heb niet echt de kans gekregen om mijn stad echt kritisch te verdegigen, omdat de AI mij eigenlijk meteen gelijk gaf, of ging zoeken naar een gemeenschappelijke oplossing. Echt goede tegenargumenten heb ik niet gehoord, en dat is wel jammer.
 
 ## Internationale samenwerking & communicatie
 
