@@ -31,6 +31,6 @@ nolayout: true
   <div>
     <h2>Gamificatie</h2>
     <p>Hieronder staat een LessonUp waarin we uitleggen hoe gamificatie interactie en motivatie kan bevorderen in het taalonderwijs.</p>
-    <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="Gamificatie" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.lessonup.com/app/channel/teach/idaGDwkhbKZyn96sv/BM75jSPn8dLDbiTSs" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe></div>
+    <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="Gamificatie" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://lessonUp.app/self-paced/a4b1666b-4a13-44e1-b6ff-19908421edd6" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe></div>
   </div>
 </section>
