@@ -23,6 +23,6 @@ nolayout: true
 
 <section>
   <div>
-    <h2>AI</h2>
+    <img src="/OWW1/TEL/LLO/ai/1.png" />
   </div>
 </section>
