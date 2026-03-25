@@ -24,7 +24,7 @@ nolayout: true
 <section>
   <div>
     <h2>ICT in taalonderwijs</h2>
-    <p>Op deze pagina leggen we je kort uit wat ICT precies inhoudt in het taalonderwijs, en waar je rekening mee moet houden.</p>
+    <p>Op deze pagina leggen we je kort uit wat ICT precies inhoudt in het taalonderwijs, en waar je rekening mee moet houden. Onderaan de pagina vind je alles nog kort samengevat in een Canva presentatie.</p>
   </div>
 </section>
 
@@ -130,3 +130,10 @@ nolayout: true
     <p>ICT functioneert daarom het best als didactisch hulpmiddel dat bestaande pedagogische principes ondersteunt. Wanneer technologie wordt ingezet volgens de vijf voorwaarden voor taalverwerving en het LIEF-model, kan dit bijdragen aan effectieve en betekenisvolle taalleerprocessen.</p>
   </div>
 </section>
+
+<section>
+  <div>
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAHBDcafyFo/oL9y2W8i8luLPK7kywzxBQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe></div>
+  </div>
+</section>
+
