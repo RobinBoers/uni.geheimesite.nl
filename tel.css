@@ -68,3 +68,37 @@ div.primary {
 video, audio, iframe {
   width: 100%;
 }
+
+details {
+  margin-left: 0.25em;
+}
+
+summary {
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+@media (min-width: 1100px) {
+  .right {
+    float: right;
+    margin-left: 1.75em;
+    margin-bottom: 1.75em;
+    max-width: 400px;
+  }
+
+  .right > :first-child {
+    margin-top: 0;
+  }
+}
+
+.button {
+  background-color: var(--primary);
+  text-decoration: none;
+  padding: 0.5em 1em;
+  display: inline-block;
+}
+
+.primary .button {
+  background-color: white;
+  color: var(--primary);
+}
