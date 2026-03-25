@@ -48,17 +48,21 @@ section > div {
   padding: 0 10px;
 }
 
-section.primary {
+.primary {
+  color: white;
   background: var(--primary);
 }
 
-section.primary > div {
+.primary a {
   color: white;
+}
+
+section.primary > div {
   padding: 2em 10px;
 }
 
-section.primary a {
-  color: white;
+div.primary {
+  padding: 0.5em 1em;
 }
 
 video, audio, iframe {
