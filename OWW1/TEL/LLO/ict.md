@@ -90,7 +90,7 @@ nolayout: true
   </div>
 </section>
 
-<section style="margin-top: 10em" class="primary">
+<section style="margin-top: 5em" class="primary">
   <div>
     <h2>ICT en taalvaardigheden</h2>
     <p>Digitale technologie kan het taalonderwijs verrijken wanneer deze doelgericht wordt ingezet voor verschillende taalvaardigheden.<br><br></p>
