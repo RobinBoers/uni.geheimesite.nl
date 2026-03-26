@@ -168,8 +168,9 @@ nolayout: true
   <div>
     <h2>Voorbeelden van Virtual Exchange taken</h2>
     <p>Voor onze cursus hebben wij ook een eigen Virtual Exchange taak gemaakt. In de PowerPoint hieronder leggen we uit hoe onze taak in elkaar steekt:</p>
+    <embed src="VE task design.pdf" type="application/pdf" width="100%" height="600px" />
     <p>Je kan onze Virtual Exchange taak via de onderstaande knop downloaden. Wil je nou nog meer voorbeelden zien van taken? Neem dan eens een kijkje op de website van het E-LIVE project!</p>
-    <a class="button" href="https://solisservices-my.sharepoint.com/:w:/g/personal/e_e_stolte_students_uu_nl/IQBs8pO2cN49RJ4SuE9lxit2AaXiI2pELtXfHNCUQsCwm4U?e=iduOck">Onze taak downloaden</a>
+    <a class="button" href="VE task.docx" download="Codenames.docx">Onze taak downloaden</a>
     <a class="button" href="https://sites.google.com/view/eliveproject/resources/ve-tasks/elive-school-tasks">Meer taken op E-LIVE</a>
   </div>
 </section>
