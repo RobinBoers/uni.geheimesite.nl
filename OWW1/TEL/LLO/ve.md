@@ -204,7 +204,7 @@ nolayout: true
 
 <section>
   <div>
-    <h2>Enthousiast?</h2>
+    <h3>Enthousiast?</h3>
     <p>Ben je super enthousiast geworden van deze korte introductie van Virtual Exchange? Dan kan je hier eventueel nog verder kijken:</p>
     <ul>
       <li><a href="http://eliveproject.eu">E-LIVE project</a></li>
