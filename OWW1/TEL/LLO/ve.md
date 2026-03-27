@@ -23,7 +23,6 @@ nolayout: true
 
 <section>
   <div>
-    <h2>Virtual Exchange</h2>
     <p>Virtual Exchange (VE) is een interculturele uitwisseling via het internet tussen leerlingen van verschillende culturen. Op deze pagina leggen we je meer uit over intercultureel taalonderwijs en hoe VE je daarbij kan helpen. We beginnen met een kennisclip waarin we alles kort uitleggen.</p>
     <video src="https://cdn.geheimesite.nl/videos/Kennisclip.mp4" controls><center>Deze browser ondersteund helaas geen HTML5 video. Update je browser en probeer het opnieuw.</center></video>
   </div>

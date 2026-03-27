@@ -23,7 +23,6 @@ nolayout: true
 
 <section>
   <div>
-    <h2>ICT in taalonderwijs</h2>
     <p>Op deze pagina leggen we je kort uit wat ICT precies inhoudt in het taalonderwijs, en waar je rekening mee moet houden. Onderaan de pagina vind je alles nog kort samengevat in een Canva presentatie.</p>
   </div>
 </section>

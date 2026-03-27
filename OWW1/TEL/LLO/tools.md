@@ -28,6 +28,15 @@ nolayout: true
   </div>
 </section>
 
+<p style="margin: 4em 0; display: flex; align-items: center; justify-content: center; gap: 2em;">
+  <img src="youtube.png" width="75">
+  <img src="podcasts.png" width="40">
+  <img src="google-docs.png" width="200">
+  <img src="zoom.png" width="100">
+  <img src="teams.png" width="50">
+  <img src="discord.png" width="100">
+</p>
+
 <section>
   <div>
     <h3>Digitale tools per vaardigheidsdomein</h3>
@@ -92,7 +101,7 @@ nolayout: true
   </div>
 </section>
 
-<section>
+<section style="margin-top: 5em">
   <div>
     <h2>Conclusie voor de praktijk</h2>
     <p>Wie technologie wil inzetten op een manier die echt verschil maakt, doet er goed aan om te beginnen bij de taak, niet bij de tool. Welk communicatief doel wil ik bereiken? Welke kloof moet er overbrugd worden? Welke tool ondersteunt dat het beste, zonder de aandacht van de leerling van de inhoud af te leiden? Door de principes van TBLT te combineren met de unieke mogelijkheden van digitale tools ontstaat een leeromgeving die leerlingen niet alleen voorbereidt op de toets, maar op taalgebruik in de echte wereld (Canto & Jauregi-Ondarra, 2024).</p>
