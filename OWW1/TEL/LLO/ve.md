@@ -31,15 +31,15 @@ nolayout: true
 <section class="primary">
   <div>
     <h2>Interculturele communicatie</h2>
-    <p>In de 21ste eeuwse geglobaliseerde samenleving is contact tussen culturen steeds belangrijker, door reizen, migratie, studeren, en het internet (Canto & Jauregi-Ondarra, 2024). Niet alleen kunnen communiceren in een vreemde taal (communicatieve competentie) is belangrijk, maar ook het duiden en begrijpen van culturele opvattingen is van belang (interculturele communicatieve competentie) (Fantini, 2005 zoals geciteerd in Canto & Jauregi-Ondarra, 2024). In modern taalonderwijs wordt cultuur daarom herkent als onmisbaar onderdeel van communicatie, onlosmakend verbonden met taal (Byram, Gribkova, & Starkey, 2002, zoals geciteerd in Canto & Jauregi-Ondarra, 2024). Taal wordt niet langer gezien worden als één monolitisch geheel, maar als een pluricentrische entiteit, bestaand uit verschillende linguistische variaties en culturele opvattingen, gevormd door contact tussen verschillende culturen (Canto & Jauregi-Ondarra, 2024).</p>
+    <p>In de 21ste eeuwse geglobaliseerde samenleving is contact tussen culturen steeds belangrijker, door reizen, migratie, studeren, en het internet (Jauregi Ondarra & Canto, 2023). Niet alleen kunnen communiceren in een vreemde taal (communicatieve competentie) is belangrijk, maar ook het duiden en begrijpen van culturele opvattingen is van belang (interculturele communicatieve competentie) (Fantini, 2005 zoals geciteerd in Jauregi Ondarra & Canto, 2023). In modern taalonderwijs wordt cultuur daarom herkent als onmisbaar onderdeel van communicatie, onlosmakend verbonden met taal (Byram, Gribkova, & Starkey, 2002, zoals geciteerd in Jauregi Ondarra & Canto, 2023). Taal wordt niet langer gezien worden als één monolitisch geheel, maar als een pluricentrische entiteit, bestaand uit verschillende linguistische variaties en culturele opvattingen, gevormd door contact tussen verschillende culturen (Jauregi Ondarra & Canto, 2023).</p>
   </div>
 </section>
 <section>
   <div>
     <h3>Waarom is intercultureel taalonderwijs belangrijk?</h3>
     <p>In traditioneel taalonderwijs, gericht op woordenschat en grammatica, ontbreekt dit interculturele component vaak nog. Maar waarom is dit eigenlijk belangrijk?</p>
-    <p>Allereerst blijkt uit onderzoek (Byram, 1997; Canto & Jauregi-Ondarra, 2017) dat misverstanden of miscommunicaties zelden ontstaan door puur grammaticale of andere taalkundige fouten, maar vaker doordat mensen taal verschillend interpreteren op basis van hun normen, waarden, en opvattingen. Het is daarom belangrijk om taal vanuit de culturele context van de ander bekijken en interpreteren (decentering). We willen leerlingen dus niet alleen de technische aspecten van de taal leren, maar ook interculturele aspecten, zodat ze een 'intercultural speaker' worden.</p>
-    <p>Daarnaast wordt er momenteel meestal alleen een 'standaardvariant' van de taal aangeleerd. Daardoor is de linguistische en culturele diversiteit in het taalaanbod laag, terwijl juist een rijk, gevarieerd taalaanbod een cruciale voorwaarde is voor het leren van een vreemde taal (Corda & Westhoff, 2010). We moeten de focus daarom verschuiven van 'native' versus 'non-native' taalgebruikers naar een meer interculturele benadering, waarin het vermogen om effectief te communiceren in diverse culturele contexten centraal staat (Kramsch, 2009; Llurda, 2009 zoals geciteerd in Canto & Jauregi-Ondarra, 2024).</p>
+    <p>Allereerst blijkt uit onderzoek (Byram, 1997; Canto & Jauregi Ondarra, 2017) dat misverstanden of miscommunicaties zelden ontstaan door puur grammaticale of andere taalkundige fouten, maar vaker doordat mensen taal verschillend interpreteren op basis van hun normen, waarden, en opvattingen. Het is daarom belangrijk om taal vanuit de culturele context van de ander bekijken en interpreteren (decentering). We willen leerlingen dus niet alleen de technische aspecten van de taal leren, maar ook interculturele aspecten, zodat ze een 'intercultural speaker' worden.</p>
+    <p>Daarnaast wordt er momenteel meestal alleen een 'standaardvariant' van de taal aangeleerd. Daardoor is de linguistische en culturele diversiteit in het taalaanbod laag, terwijl juist een rijk, gevarieerd taalaanbod een cruciale voorwaarde is voor het leren van een vreemde taal (Corda & Westhoff, 2010). We moeten de focus daarom verschuiven van 'native' versus 'non-native' taalgebruikers naar een meer interculturele benadering, waarin het vermogen om effectief te communiceren in diverse culturele contexten centraal staat (Kramsch, 2009; Llurda, 2009 zoals geciteerd in Jauregi Ondarra & Canto, 2023).</p>
   </div>
 </section>
 <section>
@@ -55,7 +55,7 @@ nolayout: true
     </ol>
     <p>Het model van Byram (1997) kan worden gezien als een statisch competentieprofiel, dat beschrijft welke eigenschappen tot succesvolle interculturele communicatie leiden. Deardorf (2006) gaat een stapje verder en beschrijft <em>hoe</em> deze tot stand komen, namelijk via een (cyclisch) proces: het begint bij dezelfde bouwstenen (kennis, vaardigheden en houding), en beschrijft hoe input uit de omgeving kan leiden tot interne uitkomsten, namelijk een verschuiving van perspectief. Die interne verschuiving resulteert in externe uitkomsten, in de vorm van gedrag: effectiever communiceren in interculturele contexten.</p>
     <h4>Wat betekent dit in de praktijk?</h4>
-    <p>Een concreet element van ICC is het analyseren van zogenaamde "rich points" (Agar, 1994 zoals geciteerd in Canto & Jauregi-Ondarra, 2024): momenten van wrijving of onbegrip, voortkomend uit tegenstrijdige perspectieven, communicatiestijlen, houdingen, gedrag of opvattingen. Op dit soort momenten worden culturele elementen die normaal verborgen/impliciet zijn ineens zichtbaar. Het analyseren van rich points geeft inzicht in onzichtbare aannamens, en zorgt daarmee voor meer bewustzijn van eigen normen en waarden, en beter begrip van andere perspectieven.</p>
+    <p>Een concreet element van ICC is het analyseren van zogenaamde "rich points" (Agar, 1994 zoals geciteerd in Jauregi Ondarra & Canto, 2023): momenten van wrijving of onbegrip, voortkomend uit tegenstrijdige perspectieven, communicatiestijlen, houdingen, gedrag of opvattingen. Op dit soort momenten worden culturele elementen die normaal verborgen/impliciet zijn ineens zichtbaar. Het analyseren van rich points geeft inzicht in onzichtbare aannamens, en zorgt daarmee voor meer bewustzijn van eigen normen en waarden, en beter begrip van andere perspectieven.</p>
   </div>
 </section>
 
@@ -75,9 +75,9 @@ nolayout: true
       <h4>Video: Waarom zou Virtual Exchange onderdeel van taalonderwijs moeten zijn?</h4>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/VssqhOWUt9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
-    <p>In de echte wereld is er grote culturele en linguistische variateit. Echter wordt in lesmethodes meestal enkel 'steriele' standaardtaal aangeboden, in de vorm van leesteksten (Liddicoat & Scarino, 2013 zoals geciteerd in Canto & Jauregi-Ondarra, 2024). Ook is er vaak weinig sprake van authentiek taalgebruik: er is weinig of geen contact met diverse sprekers, en het blijft vaak bij geforceerde gesprekjes met klasgenoten. Het is voor leerlingen waardevol breder taalaanbod te ontdekken dan gestandaardiseerde taal uit tekstboeken die normaliter gebruikt worden in het taalonderwijs.</p>
-    <p>Virtual Exchange biedt een oplossing voor deze problemen. Door leerlingen in contact te brengen met leerlingen uit andere landen en culturen, krijgen leerlingen te maken met een rijk, authentiek, betekenisvol en gesitueerd taalaanbod (Canto & Jauregi-Ondarra, 2017; Jauregi-Ondarra & Canto, 2022). Daarnaast kan VE leerlingen beter motiveren, omdat het taalgebruik een doel heeft en in een betekenisvolle context wordt geplaatst.</p>
-    <p>Tenslotte kan VE het interculturele component dat in veel taalonderwijs nog ontbreekt bieden. Taken ontworpen om leerlingen te laten reflecteren op culturele overeenkomsten en verschillen kunnen leerlingen helpen bij het ontwikkelen van interculturele communicatieve competenties. Dit interculturele component is afhankelijk van taakontwerp (Jauregi-Ondarra & Canto, 2022, Canto & Jauregi-Ondarra, 2024): in een low-level taak wordt alleen een interculturele ervaring geboden, in een high-level taak wordt hier ook op gereflecteerd.</p>
+    <p>In de echte wereld is er grote culturele en linguistische variateit. Echter wordt in lesmethodes meestal enkel 'steriele' standaardtaal aangeboden, in de vorm van leesteksten (Liddicoat & Scarino, 2013 zoals geciteerd in Jauregi Ondarra & Canto, 2023). Ook is er vaak weinig sprake van authentiek taalgebruik: er is weinig of geen contact met diverse sprekers, en het blijft vaak bij geforceerde gesprekjes met klasgenoten. Het is voor leerlingen waardevol breder taalaanbod te ontdekken dan gestandaardiseerde taal uit tekstboeken die normaliter gebruikt worden in het taalonderwijs.</p>
+    <p>Virtual Exchange biedt een oplossing voor deze problemen. Door leerlingen in contact te brengen met leerlingen uit andere landen en culturen, krijgen leerlingen te maken met een rijk, authentiek, betekenisvol en gesitueerd taalaanbod (Canto & Jauregi Ondarra, 2017; Jauregi Ondarra & Canto, 2022). Daarnaast kan VE leerlingen beter motiveren, omdat het taalgebruik een doel heeft en in een betekenisvolle context wordt geplaatst.</p>
+    <p>Tenslotte kan VE het interculturele component dat in veel taalonderwijs nog ontbreekt bieden. Taken ontworpen om leerlingen te laten reflecteren op culturele overeenkomsten en verschillen kunnen leerlingen helpen bij het ontwikkelen van interculturele communicatieve competenties. Dit interculturele component is afhankelijk van taakontwerp (Jauregi Ondarra & Canto, 2022, Jauregi Ondarra & Canto, 2023): in een low-level taak wordt alleen een interculturele ervaring geboden, in een high-level taak wordt hier ook op gereflecteerd.</p>
   </div>
 </section>
 
@@ -99,7 +99,7 @@ nolayout: true
 <section>
   <div class="primary">
     <h4>Kenmerken van een goede taak</h4>
-    <p>Goede taken moeten voldoen aan de volgende drie kenmerken (Canto & Jauregi-Ondarra, 2024):</p>
+    <p>Goede taken moeten voldoen aan de volgende drie kenmerken (Jauregi Ondarra & Canto, 2023):</p>
     <ul>
       <li><b>Situationeel</b>: de taak moet een betekenisvolle en realistische context hebben.</li>
       <li><b>Comparitief</b>: de taak moet culturele verschillen tussen leerlingen blootleggen, en daarbij verder gaan dan oppervlakkige verschillen, stereotypes, en clichés.</li>
@@ -167,7 +167,7 @@ nolayout: true
 <section>
   <div>
     <h3>Welke technologie gebruiken?</h3>
-    <p>Voor een geslaagde een Virtual Exchange speelt technologie een belangrijke rol. Niet elke tool is even geschikt. Verschillende tools hebben voor- en nadelen, en niet elke tool werkt voor elke leerling even goed. Jauregi-Ondarra en Canto (2022) rapporteren dat sommige leerlingen bang zijn om fouten en te maken in virtuele werelden, en minder zelfverzekerd zijn dan leerlingen die gebruik maakten van videocommunicatie. Aan de andere kant geven leerlingen ook aan de anonimiteit die een virtuele wereld biedt, omdat zij zich kunnen "verschuilen" achter een avatar, fijn te vinden. Anderen vinden het gebruik van avatars juist te onpersoonlijk. Wat welk duidelijk is: synchrone tools hebben zijn effectiever dan asynchrone communicatie. Synchrone tools verhogen betrokkenheid en het gevoel van verbondenheid (Canto & Jauregi-Ondarra, 2017; Gruber et al., 2023).</p>
+    <p>Voor een geslaagde een Virtual Exchange speelt technologie een belangrijke rol. Niet elke tool is even geschikt. Verschillende tools hebben voor- en nadelen, en niet elke tool werkt voor elke leerling even goed. Jauregi Ondarra en Canto (2022) rapporteren dat sommige leerlingen bang zijn om fouten en te maken in virtuele werelden, en minder zelfverzekerd zijn dan leerlingen die gebruik maakten van videocommunicatie. Aan de andere kant geven leerlingen ook aan de anonimiteit die een virtuele wereld biedt, omdat zij zich kunnen "verschuilen" achter een avatar, fijn te vinden. Anderen vinden het gebruik van avatars juist te onpersoonlijk. Wat welk duidelijk is: synchrone tools hebben zijn effectiever dan asynchrone communicatie. Synchrone tools verhogen betrokkenheid en het gevoel van verbondenheid (Canto & Jauregi Ondarra, 2017; Gruber et al., 2023).</p>
     <p><a class="button" href="tools">Meer informatie over gebruik van tools</a></p>
   </div>
 </section>
@@ -175,9 +175,9 @@ nolayout: true
 <section style="margin-top: 3em">
   <div>
     <h3>Uitdagingen en beperkingen</h3>
-    <p>Virtual Exchange is een veelbelovende onderwijsvorm, maar kent ook limitaties. Uit onderzoek van Jauregi-Ondarra en Canto (2022), blijkt dat technische fouten een terugkerend probleem zijn: leerlingen kunnen elkaar niet verstaan door geluidsproblemen of een slechte internetverbinding, de virtuele wereld crashed, of leerlingen hebben moeite met navigeren. In hun studie kon één van de taken niet worden afgerond omdat een bot niet verscheen, en leerlingen daardoor niet verder konden. Dit soort technische problemen kunnen het leerproces schaden en zorgen voor lagere motivatie.</p>
-    <p>Een andere limitatie van VE is de organisatorische complexiteit. Het afstemmen van roosters, taalniveau en curricula tussen onderwijsinstellingen in verschillende landen vergt veel coördinatie (Canto & Jauregi-Ondarra, 2017). Daarnaast kunnen factoren zoals tijdzones, ongelijke groepsgroottes en verschillen in academische kalenders ook problemen opleveren.</p>
-    <p>Tenslotte is intercultureel leren niet vanzelfsprekend. Het vindt niet automatisch plaats door het simpelweg samenbrengen van leerlingen uit verschillende culturen (Canto & Jauregi-Ondarra, 2024). Het is van belang dat taakontwerp aandacht besteedt aan reflectie en kritisch zelfbewustzijn, anders blijft de uitwisseling oppervlakkig.</p>
+    <p>Virtual Exchange is een veelbelovende onderwijsvorm, maar kent ook limitaties. Uit onderzoek van Jauregi Ondarra en Canto (2022), blijkt dat technische fouten een terugkerend probleem zijn: leerlingen kunnen elkaar niet verstaan door geluidsproblemen of een slechte internetverbinding, de virtuele wereld crashed, of leerlingen hebben moeite met navigeren. In hun studie kon één van de taken niet worden afgerond omdat een bot niet verscheen, en leerlingen daardoor niet verder konden. Dit soort technische problemen kunnen het leerproces schaden en zorgen voor lagere motivatie.</p>
+    <p>Een andere limitatie van VE is de organisatorische complexiteit. Het afstemmen van roosters, taalniveau en curricula tussen onderwijsinstellingen in verschillende landen vergt veel coördinatie (Canto & Jauregi Ondarra, 2017). Daarnaast kunnen factoren zoals tijdzones, ongelijke groepsgroottes en verschillen in academische kalenders ook problemen opleveren.</p>
+    <p>Tenslotte is intercultureel leren niet vanzelfsprekend. Het vindt niet automatisch plaats door het simpelweg samenbrengen van leerlingen uit verschillende culturen (Jauregi Ondarra & Canto, 2023). Het is van belang dat taakontwerp aandacht besteedt aan reflectie en kritisch zelfbewustzijn, anders blijft de uitwisseling oppervlakkig.</p>
   </div>
 </section>
 
@@ -213,3 +213,17 @@ nolayout: true
     </ul>
   </div>
 </section>
+
+<footer class="sources">
+  <p>Corda, A. & Westhoff, G. (2010). <i>Wat weten we over ICT en het leren van moderne vreemde talen.</i> Kennisnet.</p>
+
+  <p>Canto, S. & Jauregi Ondarra, K. (2017). Language learning effects through the integration of synchronous online communication: The case of video communication and Second Life. <i>Language Learning in Higher Education, 7</i>(1), 21-53. <a href="https://doi.org/10.1515/cercles-2017-0004">https://doi.org/10.1515/cercles-2017-0004</a></p>
+
+  <p>Ellis, R., Skehan, P., Li, S., Shintani, N., & Lambert, C. (2019). The Pedagogic Background to Task-Based Language Teaching. In <i>Task-Based Language Teaching: Theory and Practice</i> (pp. 3–26). Cambridge University Press.</p>
+
+  <p>Gruber, A., Canto, S., & Jauregi-Ondarra, K. (2023). Exploring the use of social virtual reality for virtual exchange. <i>ReCALL, 35</i>(3), 258–273. <a href="https://doi.org/10.1017/S0958344023000125">https://doi.org/10.1017/S0958344023000125</a></p>
+
+  <p>Jauregi Ondarra, K. & Canto, S. (2022). Interaction games to boost intercultural communication in virtual worlds and video-communication. In Peterson, M. & Jabbari, N. (Eds.), <i>Digital Games in Language Learning: Case-Studies and Applications</i> (pp. 158 – 182). Routledge.</p>
+
+  <p>Jauregi Ondarra, K., & Canto, S. (Eds.). (2023). <i>Teacher education modules for virtual exchange.</i> E-LIVE Consortium. <a href="https://view.genial.ly/650c289faad55800184cbfb7">https://view.genial.ly/650c289faad55800184cbfb7</a></p>
+</footer>

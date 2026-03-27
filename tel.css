@@ -42,7 +42,7 @@ nav a.selected {
   color: white;
 }
 
-section > div {
+section > div, .sources {
   max-width: 1100px;
   margin: 2em auto;
   padding: 0 10px;
@@ -102,4 +102,10 @@ summary {
 .primary .button {
   background-color: white;
   color: var(--primary);
+}
+
+.sources {
+  margin-top: 8em;
+  font-size: .8em;
+  opacity: .8;
 }

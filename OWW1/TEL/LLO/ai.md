@@ -46,3 +46,11 @@ nolayout: true
     <p><b>Adaptieve leersystemen:</b><br>Dit zijn leersystemen die gebruik maken van AI om opdrachten voor leerlingen te personaliseren, waardoor er meer gedifferentieerd kan worden op het niveau van de leerlingen. Dit soort systemen kunnen erg nuttig zijn voor het leren van grammatica en oefenen met woordenschat.</p>
   </div>
 </section>
+
+<footer class="sources">
+  <p>Dewaele, K. (2024). <i>De impact van AI op het vreemdetaalonderwijs. Enkele gedachten op een rijtje.</i> Education & Development, UCLL.</p>
+
+  <p>Liu, Z., Zhang, W., & Yang, P. (2025). Can AI chatbots effectively improve EFL learners' learning effects?—A meta-analysis of empirical research from 2022–2024. <i>Computer Assisted Language Learning, 1–27</i>. <a href="https://doi.org/10.1080/09588221.2025.2456512">https://doi.org/10.1080/09588221.2025.2456512</a></p>
+
+  <p>Macinska, S. & Vinkler, A. (2024). <i>The Role of AI in Language Learning: Research Evidence and Strategies for Success.</i> Cambridge University Press. <a href="https://www.cambridge.org/sites/default/files/media/documents/The_Role_of_AI_in_Language_Learning_Research_Evidence_and_Strategies.pdf">https://www.cambridge.org/sites/default/files/media/documents/The_Role_of_AI_in_Language_Learning_Research_Evidence_and_Strategies.pdf</a></p>
+</footer>

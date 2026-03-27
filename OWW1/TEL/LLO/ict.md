@@ -135,3 +135,12 @@ nolayout: true
     <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAHBDcafyFo/oL9y2W8i8luLPK7kywzxBQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe></div>
   </div>
 </section>
+
+<footer class="sources">
+  <p>Adams, R. (2022). Second language writing and technology. In N. Ziegler & M. González-Lloret (Eds.), <i>The Routledge handbook of second language acquisition and technology</i> (pp. 187–200). Routledge.</p>
+  <p>Corda, A., & Westhoff, G. (2010). <i>Wat weten we over ICT en het leren van moderne vreemde talen.</i> Kennisnet.</p>
+  <p>Dizon, G. (2025). Speaking. In G. Stockwell & Y. Wang (Eds.), <i>The Cambridge handbook of technology in language teaching and learning</i> (pp. 395–409). Cambridge University Press.</p>
+  <p>Hao, T., Wang, Z., & Ardasheva, V. (2021). Technology-assisted vocabulary learning for EFL learners: A meta-analysis. <i>Journal of Research on Educational Effectiveness, 14</i>(3), 645–667.</p>
+  <p>Liaw, M.-L., & Priego, S. (2025). Reading. In G. Stockwell & Y. Wang (Eds.), <i>The Cambridge handbook of technology in language teaching and learning</i> (pp. 425–443). Cambridge University Press.</p>
+  <p>Stockwell, G. (2025). Listening. In G. Stockwell & Y. Wang (Eds.), <i>The Cambridge handbook of technology in language teaching and learning</i> (pp. 410–424). Cambridge University Press.</p>
+</footer>
