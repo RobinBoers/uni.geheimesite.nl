@@ -21,14 +21,15 @@ nolayout: true
   </nav>
 </header>
 
-<section>
+<section class="primary">
   <div>
+    <h2>Virtual Exchange</h2>
+    <video class="right" style="margin-top: -4em" src="https://cdn.geheimesite.nl/videos/Kennisclip.mp4" controls><center>Deze browser ondersteund helaas geen HTML5 video. Update je browser en probeer het opnieuw.</center></video>
     <p>Virtual Exchange (VE) is een interculturele uitwisseling via het internet tussen leerlingen van verschillende culturen. Op deze pagina leggen we je meer uit over intercultureel taalonderwijs en hoe VE je daarbij kan helpen. We beginnen met een kennisclip waarin we alles kort uitleggen.</p>
-    <video src="https://cdn.geheimesite.nl/videos/Kennisclip.mp4" controls><center>Deze browser ondersteund helaas geen HTML5 video. Update je browser en probeer het opnieuw.</center></video>
   </div>
 </section>
 
-<section class="primary">
+<section>
   <div>
     <h2>Interculturele communicatie</h2>
     <p>In de 21ste eeuwse geglobaliseerde samenleving is contact tussen culturen steeds belangrijker, door reizen, migratie, studeren, en het internet (Jauregi Ondarra & Canto, 2023). Niet alleen kunnen communiceren in een vreemde taal (communicatieve competentie) is belangrijk, maar ook het duiden en begrijpen van culturele opvattingen is van belang (interculturele communicatieve competentie) (Fantini, 2005 zoals geciteerd in Jauregi Ondarra & Canto, 2023). In modern taalonderwijs wordt cultuur daarom herkent als onmisbaar onderdeel van communicatie, onlosmakend verbonden met taal (Byram, Gribkova, & Starkey, 2002, zoals geciteerd in Jauregi Ondarra & Canto, 2023). Taal wordt niet langer gezien worden als één monolitisch geheel, maar als een pluricentrische entiteit, bestaand uit verschillende linguistische variaties en culturele opvattingen, gevormd door contact tussen verschillende culturen (Jauregi Ondarra & Canto, 2023).</p>
