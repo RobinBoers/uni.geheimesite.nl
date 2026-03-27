@@ -36,11 +36,13 @@ nolayout: true
     <h3>Voor- en nadelen van XR</h3>
     <p>Er zijn verschillende voor- en nadelen genoemd van XR in het onderwijs, maar echter verschillen deze ook per soort XR.</p>
     <ul>
-      <li><p><b>Argumented Reality (AR):</b><br><img class="right thumb" src="/OWW1/TEL/LLO/ar.png">Argumented Reality is een technologie waarbij digitale elementen, zoals beelden of interactieve media, worden toegevoegd aan de echte wereld via het beeldscherm (zie afbeelding). Een bekend voorbeeld is Pokémon GO. In het taalonderwijs maken toepassingen zoals Mondly het mogelijk om virtuele objecten in de eigen omgeving te plaatsen, zodat leerlingen bijvoorbeeld woordenschat kunnen oefenen door namen aan objecten te koppelen. Een voordeel van AR is dat het zeer toegankelijk is, omdat het werkt via smartphones of tablets. Daarnaast veroorzaakt het meestal geen bewegingsziekte. Een nadeel is dat de mate van immersie lager is dan bij andere vormen van XR.</p></li>
-      <li><p><b>Mixed Reality (MR):</b><br><img class="right thumb" src="/OWW1/TEL/LLO/mr.jpg">Mixed Reality is vergelijkbaar met AR. Het verschil zit het in dat het materiaal niet via een scherm wordt gepresenteerd maar via een MR-bril. Dit resulteert in een diepere immersie-ervaring maar een bril kost wel rond de $1.499 al wordt verwacht dat dit zal dalen. Voorbeelden van MR-headsets zijn de HoloLens 2, Meta Quest Pro en Magic Leap.  </p></li>
-      <li><p><b>Virtual Reality (VR):</b><br><img class="right thumb" src="/OWW1/TEL/LLO/vr.jpg">Virtual Reality is het meest onderzocht binnen taalonderwijs. Er zijn 2 vormen: low immersion VR en high (Kaplan-Rakowski & Gruber, 2019). Hierbij is low VR en virtuele werelden het meest onderzocht binnen XR. Bij low VR kun je 360 graden om je heen kijken via de avatar op de computer.  Voorbeelden van programma's zijn Second Life en Open Simulator. High-immersion VR maakt gebruik van een headset en controllers, waardoor gebruikers volledig worden ondergedompeld in een virtuele omgeving. Hierbij zijn immersie, presence en embodiment het sterkst: gebruikers ervaren echt het gevoel dat ze zich in die omgeving bevinden, omdat ze de echte wereld niet meer zien. Bij high VR (via de headset) is de Immersie en presence en embodidiment het grootste. Dat is het idee dat je er bent het grootst van alle XRs. Dat komt omdat gebruikers alleen de virtuele wereld kunnen zien. Ookwel immersion. Low-immersion VR is relatief toegankelijk, terwijl high-immersion VR vaak duurder is. Er bestaan echter ook veel goedkopere opties, zoals Google Cardboard maar hierbij heb je geen controllers. </p></li>
+      <li><p><b>Argumented Reality (AR):</b><br><img class="right thumb" src="/OWW1/TEL/LLO/ar.png">Argumented Reality is een technologie waarbij digitale elementen, zoals beelden of interactieve media, worden toegevoegd aan de echte wereld via het beeldscherm (zie afbeelding). Een bekend voorbeeld is Pokémon GO. In het taalonderwijs maken toepassingen zoals Mondly, Layar en Wikitude. Het maakt het mogelijk om virtuele objecten in de eigen omgeving te plaatsen, zodat leerlingen bijvoorbeeld woordenschat kunnen oefenen door namen aan objecten te koppelen. Een voordeel van AR is dat het zeer toegankelijk is, omdat het werkt via smartphones of tablets. Daarnaast veroorzaakt het meestal geen bewegingsziekte. Een nadeel is dat de mate van immersie lager is dan bij andere vormen van XR.</p></li>
+      <li><p><b>Mixed Reality (MR):</b><br><img class="right thumb" src="/OWW1/TEL/LLO/mr.jpg">Mixed Reality is vergelijkbaar met AR. Het verschil zit het in dat het materiaal niet via een scherm wordt gepresenteerd maar via een MR-bril. Dit resulteert in een diepere immersie-ervaring maar een bril kost wel rond de $1.499 al wordt verwacht dat dit zal dalen. Voorbeelden van MR-headsets zijn de HoloLens 2, Meta Quest Pro en Magic Leap.</p></li>
+      <li><p><b>Virtual Reality (VR):</b><br><img class="right thumb" src="/OWW1/TEL/LLO/vr.jpg">Virtual Reality is het meest onderzocht binnen taalonderwijs. Er zijn 2 vormen: low immersion VR en high (Kaplan-Rakowski & Gruber, 2019). Hierbij is low VR en virtuele werelden het meest onderzocht binnen XR. Bij low VR kun je 360 graden om je heen kijken via de avatar op de computer. Voorbeelden van programma's zijn Second Life en Open Simulator. High-immersion VR maakt gebruik van een headset en controllers, waardoor gebruikers volledig worden ondergedompeld in een virtuele omgeving. Hierbij zijn immersie, presence en embodiment het sterkst: gebruikers ervaren echt het gevoel dat ze zich in die omgeving bevinden, omdat ze de echte wereld niet meer zien. Bij high VR (via de headset) is de Immersie en presence en embodidiment het grootste. Dat is het idee dat je er bent het grootst van alle XRs. Dat komt omdat gebruikers alleen de virtuele wereld kunnen zien. Ookwel immersion. Low-immersion VR is relatief toegankelijk, terwijl high-immersion VR vaak duurder is. Er bestaan echter ook veel goedkopere opties, zoals Google Cardboard maar hierbij heb je geen controllers.</p></li>
     </ul><br><br>
-    <iframe width="560" height="500" src="https://www.youtube.com/embed/HFsXbqXwt8Q?si=Cl1pQRAlZlTHIOFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  </div>
+    <iframe width="560" height="500" src="https://www.youtube.com/embed/HFsXbqXwt8Q?si=Cl1pQRAlZlTHIOFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>(3DLES Metaverse & Education, 2013)</p>
+  </div>
 </section>
 
 <section class="primary">
@@ -55,7 +57,7 @@ nolayout: true
       <a class="button" href="/OWW1/TEL/LLO/tools#codenames">Voorbeeld van een uitgewerkt spel</a>
     </p>
     <br>
-    <p>Ook kan XR worden ingezet voor gesitueerd en kinesthetisch leren, bijvoorbeeld door woordenschat aan te leren tijdens het koken in een virtuele keuken. Hierbij leren studenten taal door fysieke handelingen uit te voeren, wat het leren betekenisvoller maakt (Vázquez, Xia, Aikawa & Maes, 2018).</p>
+    <p>Ook kan XR worden ingezet voor gesitueerd en kinesthetisch leren, bijvoorbeeld door woordenschat aan te leren tijdens het koken in een virtuele keuken. Hierbij leren studenten taal door fysieke handelingen uit te voeren, wat het leren betekenisvoller maakt (Vázquez, et al., 2018).</p>
     <p>Een ander voordeel van VR is dat het spreekvaardigheid kan stimuleren. In sociale VR-omgevingen kunnen gebruikers met elkaar communiceren via avatars. Dit kan drempelverlagend werken, omdat de anonimiteit van een avatar ervoor zorgt dat leerlingen zich minder onzeker voelen (Harbord & Dempster, 2019).</p>
   </div>
 </section>
@@ -76,7 +78,7 @@ nolayout: true
     <p>Studenten voelen zich steeds comfortabeler bij het navigeren van de technologie gedurende de periode van acht weken.</p>
     <p>Eye-trackingstudies tonen aan dat studenten in VR soms beter presteren dan bij gebruik van een desktopapplicatie, mogelijk omdat VR goed werkt voor ruimtelijke taken. Tegelijkertijd doen studenten er vaak langer over en maken ze meer fouten, waarschijnlijk doordat de technologie nieuw is en gewenning vraagt.</p>
     <p>Daarnaast blijkt dat AR effectief kan zijn bij het aanleren van woordenschat in een tweede taal, bij jonge leerlingen.</p>
-    <p>Al bij al wanneer XR-technologieën op de juiste manier worden gebruikt kan taalonderwijs en -leren verbeteren (Dhimolea et al., 2022; Huang et al., 2021; Parmaxi, 2020; Qiu et al., 2021).</p>
+    <p>Al bij al wanneer XR-technologieën op de juiste manier worden gebruikt kan taalonderwijs en -leren verbeteren (Dhimolea et al, 2021).</p>
   </div>
 </section>
 
@@ -84,10 +86,25 @@ nolayout: true
   <div>
     <h2>Extra informatie voor geïnteresseerde</h2>
     <h3>De hoofdcomponenten van XR</h3>
-    <p>De hoofdcomponenten van AR, MR en VR zijn vergeleken en zijn te vinden in onderstaande tabel (bijv., Chun et al., 2022; Lan, 2020; dit volume).</p>
+    <p>De hoofdcomponenten van AR, MR en VR zijn vergeleken en zijn te vinden in onderstaande tabel (Chun et al., 2022).</p>
     <img src="/OWW1/TEL/LLO/xr-components.png">
     <p>Het is belangrijk om te benadrukken dat een hoge mate van immersie niet automatisch beter is. Hoewel een sterk gevoel van aanwezigheid (presence) voordelen heeft, zoals het idee dat je echt in een stad als Parijs bent, kan het ook nadelen hebben. Sommige gebruikers ervaren bijvoorbeeld bewegingsziekte of botsen tegen objecten aan.</p>
     <p>Immersie en presence hangen nauw met elkaar samen, maar betekenen niet hetzelfde. Immersie heeft betrekking op de technische eigenschappen van de technologie, terwijl presence gaat over hoe de gebruiker deze ervaring mentaal en emotioneel beleeft.</p>
     <p>Voorbeelden van aspecten die hierbij een rol spelen zijn feedback (zoals trillingen van controllers), de mogelijkheid om objecten te manipuleren en de mate waarin gebruikers met elkaar kunnen communiceren in de virtuele omgeving.</p>
   </div>
 </section>
+
+<footer class="sources">
+  <p>ADA.gov. (2022, December 16). <i>The Americans with Disabilities Act (ADA) protects people with disabilities from discrimination.</i> ADA.gov.</p>
+  <p>Chun, D. M., Karimi, H., & Sañosa, D. J. (2022). <i>Traveling by headset: Immersive VR for language learning. CALICO Journal, 39</i>(2), 129–149. <a href="https://doi.org/10.1558/cj.21306">https://doi.org/10.1558/cj.21306</a></p>
+  <p>Dhimolea, T., Kaplan-Rakowski, R., & Lin, L. (2022). A systematic review of research on high-immersion virtual reality for language learning. <i>TechTrends, 66</i>, 810–824. <a href="https://doi.org/10.1007/s11528-022-00717-w">https://doi.org/10.1007/s11528-022-00717-w</a></p>
+  <p>Gijsen, L. A. J. (2021). <i>Task engagement in virtual pedagogical lingua franca communication</i> (Doctoral dissertation, Utrecht University). <a href="https://dspace.library.uu.nl/handle/1874/406850">https://dspace.library.uu.nl/handle/1874/406850</a></p>
+  <p>Gruber, A., Canto, S., & Jauregi Ondarra, K. (2023). Exploring the use of social virtual reality for virtual exchange. <i>ReCALL, 35</i>(3), 258–273. <a href="https://doi.org/10.1017/S0958344023000125">https://doi.org/10.1017/S0958344023000125</a></p>
+  <p>Harbord, C., & Dempster, E. (2019). Avatars: the other side of Proteus’s mirror. In <i>Lecture notes in computer science</i> (pp. 412–416). <a href="https://doi.org/10.1007/978-3-030-34644-7_37">https://doi.org/10.1007/978-3-030-34644-7_37</a></p>
+  <p>Clua, & J. B. Hauge (Eds.), <i>Entertainment computing and serious games</i> (pp. 412–416). Springer. <a href="https://doi.org/10.1007/978-3-030-34644-7_37">https://doi.org/10.1007/978-3-030-34644-7_37</a></p>
+  <p>Kaplan-Rakowski, R., & Gruber, A. (2021). One-on-one foreign language speaking practice in high-immersion virtual reality. In Y.-J. Lan & S. Grant (Eds.), <i>Contextual language learning: Real language learning on the continuum from virtuality to reality</i> (pp. 187-202). Springer. <a href="https://doi.org/10.1007/978-981-16-3416-1_9">https://doi.org/10.1007/978-981-16-3416-1_9</a></p>
+  <p>Sadler, R., & Thrasher, T. (2023). XR: Crossing reality to enhance language learning. <i>CALICO Journal, 40</i>(1), i–xi. <a href="https://doi.org/10.1558/cj.25517">https://doi.org/10.1558/cj.25517</a></p>
+  <p>Slater, M. (2009). Place illusion and plausibility can lead to realistic behaviour in immersive virtual environments. <i>Philosophical Transactions of the Royal Society B, 364</i>(1535). 3549–3557. <a href="https://doi.org/10.1098/rstb.2009.0138">https://doi.org/10.1098/rstb.2009.0138</a></p>
+  <p> Vázquez, C., Xia, L., Aikawa, T., & Maes, P. (2018). Words in motion: Kinesthetic language learning in virtual reality. In M. Chang et al. (Eds.), <i>Proceedings of the IEEE 18th International Conference on Advanced Learning Technologies</i> (pp. 272–276). IEEE. <a href="https://doi.org/10.1109/ICALT.2018.00069">https://doi.org/10.1109/ICALT.2018.00069</a></p>
+  <p>3DLES Metaverse & Education. (2013, October 1). <a>Arcadia Orientation island.</a> YouTube. <a href="https://www.youtube.com/watch?v=HFsXbqXwt8Q">https://www.youtube.com/watch?v=HFsXbqXwt8Q</a></p>
+</footer>
