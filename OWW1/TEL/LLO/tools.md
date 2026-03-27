@@ -95,7 +95,7 @@ nolayout: true
 
 <section>
   <div class="primary">
-    <h3>Praktisch voorbeeld: Codenames als interactie-game</h3>
+    <h3 id="codenames">Praktisch voorbeeld: Codenames als interactie-game</h3>
     <p>Een concreet en goed werkend voorbeeld van een betekenisvolle digitale taak is het spel Codenames, gespeeld in een synchrone omgeving via video-call en de online game-interface. Het spel werkt als volgt: Één speler, de 'Spymaster', kent de geheime kaarten en geeft hints die zijn teamgenoten moeten gebruiken om de juiste woorden te identificeren, zonder de kaarten van het andere team aan te wijzen.</p>
     <p>De pedagogische kracht zit in de structuur van het spel zelf. Er is een duidelijke information gap tussen de Spymaster en de rest van het team. Dit is precies wat Ellis et al. (2019) bedoelen met een communicatieve kloof. Leerlingen moeten associaties leggen, nuances uitleggen, en culturele connotaties bespreken. Wanneer de woorden cultureel geladen zijn, denk aan begrippen die in de ene taal een andere bijklank hebben dan in de andere, wordt de interculturele dimensie vanzelf onderdeel van de taak (Jauregi Ondarra & Canto, 2022). De tool faciliteert dit alles zonder de pedagogische focus weg te nemen. Het communicatieve doel, de juiste kaarten vinden, blijft altijd centraal staan. Dat is precies wat Jauregi Ondarra (in press) bedoelt wanneer ze stelt dat serious games het meest effectief zijn wanneer ze interactie uitlokken die anders niet spontaan zou ontstaan.</p>
   </div>

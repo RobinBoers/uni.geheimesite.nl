@@ -21,17 +21,12 @@ nolayout: true
   </nav>
 </header>
 
-<section>
-  <div>
-    <p>Op deze pagina leggen we je kort uit wat ICT precies inhoudt in het taalonderwijs, en waar je rekening mee moet houden. Onderaan de pagina vind je alles nog kort samengevat in een Canva presentatie.</p>
-  </div>
-</section>
-
 <section class="primary">
   <div>
     <h2>Wat is ICT in taalonderwijs?</h2>
     <p>ICT (Informatie- en Communicatietechnologie) verwijst naar het gebruik van digitale middelen om taalonderwijs te ondersteunen. Technologie biedt veel mogelijkheden voor het vreemdetalenonderwijs, maar het brede aanbod maakt het ook lastig om te bepalen wat daadwerkelijk leerzaam is. Deze pagina biedt daarom een theoretische basis voor het doordacht inzetten van ICT in het taalonderwijs.<br>
     Belangrijk uitgangspunt is dat technologie niet automatisch leidt tot beter leren. De effectiviteit van ICT wordt bepaald door de didactische keuzes van de docent en de leeractiviteiten van leerlingen. Leerlingen leren niet van de technologie zelf, maar van de mentale activiteit die deze uitlokt (Corda & Westhoff, 2010).</p>
+    <p>Onderaan de pagina vind je alles nog kort samengevat in een Canva presentatie.</p>
   </div>
 </section>
 
