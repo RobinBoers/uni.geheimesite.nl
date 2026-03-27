@@ -3,6 +3,8 @@ title: Technologie-ondersteund taaleducatie
 wip: true
 ---
 
+*Deze samenvatting heb ik nooit afgemaakt. De site voor de eindopdracht kan je [hier](/OWW1/TEL/LLO/) vinden.*
+
 ## Digitalisering
 
 **Digitale competentie** of **digitale geletterdheid** verwijzen naar kennis, vaardigheden, houding, strategieën en waarden die nodig zijn voor het effectief interpreteren, gebruiken, delen en creeëren van waarde met behulp van ICT.
