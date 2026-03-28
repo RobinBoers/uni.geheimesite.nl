@@ -12,11 +12,7 @@ Dit is een kopie van mijn [originele site](//school.geheimesite.nl), maar dan vo
   <button type="submit">Open</button>
 </form>
 
-<script src="https://cdn.jsdelivr.net/npm/citation-js"></script>
-
 <script>
-  const Cite = require('citation-js')
-
   function proxyURL(url) {
     const uri = new URL(url);
     const host = uri.hostname.replace(/\./g, '-') + '';
@@ -54,6 +50,7 @@ Dit is een kopie van mijn [originele site](//school.geheimesite.nl), maar dan vo
   }
 
   function formatAPA(data, doi) {
+    const Cite = require('citation-js');
     const cite = new Cite(data);
     return cite.format('bibliography', {
       format: 'text',
