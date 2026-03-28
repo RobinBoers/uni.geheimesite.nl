@@ -94,6 +94,12 @@ Dit is een kopie van mijn [originele site](//school.geheimesite.nl), maar dan vo
   };
 </script>
 
+<style>
+  input:user-invalid {
+    border-color: inherit;
+  }
+</style>
+
 ## OWW1
 
 - [Inleiding in de onderwijswetenschappen](/OWW1/IOWW/Samenvatting.md)
