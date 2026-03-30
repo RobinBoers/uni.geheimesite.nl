@@ -1,0 +1,14 @@
+- Momenteel bijna geen
+- Drillster om te stampen
+- Andere opleidingen goede ervaringen Mentimeter quizzen
+- Respondenten positief tov gamificatie
+- Niet té; kennisbasis centraal, doelgroep serieus
+- Jong vs oud
+- Behoeften deelnemers uiteen omdat doelgroep divers
+- Randzaken: voldoende geld, tijd, ruimte
+- mogelijkheden:
+  - foto-opdracht wedstrijd maken
+  - oefentool op smartphone (duolingo-like)
+    - deelnemers stof oefenen
+    - op weg naar huis in de trein
+- Vooral inzetten op samenwerking
