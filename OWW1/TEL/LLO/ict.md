@@ -94,6 +94,7 @@ nolayout: true
     </ol>
     <p>We lichten dit verder toe in onze podcast:</p>
     <audio src="https://cdn.geheimesite.nl/recordings/Podcast-v2.mp3" controls><center>Deze browser ondersteund helaas geen HTML5 audio. Update je browser en probeer het opnieuw.</center></audio>
+    <p><a href="https://cdn.geheimesite.nl/recordings/Podcast-v2.mp3" download>Als de bovenstaande player niet laadt, klik dan op deze link.</a></p>
   </div>
 </section>
 <section>
@@ -113,6 +114,7 @@ nolayout: true
     </ol>
     <p>Geinteresseerd? In het panelgesprek vertellen een expert en docent je meer:</p>
     <video src="https://cdn.geheimesite.nl/videos/Vlog.mp4" controls><center>Deze browser ondersteund helaas geen HTML5 video. Update je browser en probeer het opnieuw.</center></video>
+    <p><a href="https://cdn.geheimesite.nl/videos/Vlog.mp4" download>Als de bovenstaande player niet laadt, klik dan op deze link.</a></p>
   </div>
 </section>
 
