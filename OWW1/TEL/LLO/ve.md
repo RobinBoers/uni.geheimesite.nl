@@ -26,6 +26,7 @@ nolayout: true
     <h2>Virtual Exchange</h2>
     <video class="right" style="margin-top: -4em" src="https://cdn.geheimesite.nl/videos/Kennisclip.mp4" controls><center>Deze browser ondersteund helaas geen HTML5 video. Update je browser en probeer het opnieuw.</center></video>
     <p>Virtual Exchange (VE) is een interculturele uitwisseling via het internet tussen leerlingen van verschillende culturen. Op deze pagina leggen we je meer uit over intercultureel taalonderwijs en hoe VE je daarbij kan helpen. We beginnen met een kennisclip waarin we alles kort uitleggen.</p>
+    <p><a href="https://cdn.geheimesite.nl/videos/Kennisclip.mp4" download>Als de bovenstaande player niet laadt, klik dan op deze link.</a></p>
   </div>
 </section>
 
