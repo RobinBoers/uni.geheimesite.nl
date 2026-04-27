@@ -353,7 +353,7 @@ Datamanagement is belangrijk voor de transparantie, controleerbaarheid, en repro
 Na het verzamelen heeft de onderzoeker een hele hoop ongestructureerde data. De eerste stap is orde brengen in deze data (digitaliseren, transcriberen etc.) Dit kost gemiddeld acht uur per uur verzameld materiaal.
 
 Deze stap kunnen we outsourcen, maar als we dit zelf doen kunnen we gelijk "de data leren kennen."
-Tijdens transcriberen kan je al patronen vinden, fragmenten samenvatten en belangrijke informatie highlighten of bookmarken. 
+Tijdens transcriberen kan je al patronen vinden, fragmenten samenvatten en belangrijke informatie highlighten of bookmarken.
 
 ### Coderen
 
@@ -559,7 +559,6 @@ Een **quasi-experiment** is een experiment waarbij (wegens omstandigheden), de g
 ### Matching
 
 Als er één kenmerk is waarvan je 100% zeker wil zijn dat deze gelijk verdeeld is tussen de groepen, kun je gebruik maken van **matching**. Je maakt dan een rangorde van scores op dat kenmerk, maakt tweetallen van ongeveer gelijke waardes, en wijst ze willekeurig toe aan een groep.
-
 
 # Statistiek
 
@@ -829,11 +828,11 @@ Om de grootte van een effect te duiden en effecten tussen onderzoeken te vergeli
 
 Voor de interpretatie van effect sizes en correlaties geldt binnen de sociale wetenschappen:
 
-| \\(d\\) | \\(r\\) | interpretatie |
-|-----------|-------------|---------|
-| \\(0.2\\) | \\(0.1\\)   | klein   |
-| \\(0.5\\) | \\(0.3\\)   | matig   |
-| \\(0.8\\) | \\(0.5\\)   | sterk   |
+| \\(d\\)   | \\(r\\)     | interpretatie |
+|-----------|-------------|---------------|
+| \\(0.2\\) | \\(0.1\\)   | klein         |
+| \\(0.5\\) | \\(0.3\\)   | matig         |
+| \\(0.8\\) | \\(0.5\\)   | sterk         |
 
 ### Stappenplan
 
@@ -1064,6 +1063,6 @@ In de praktijk is er echter vaak sprake van een mengvorm.
 
   Tijdschriften kunnen ook beloven het onderzoek te publiceren, ongeacht de resultaten; hierdoor voorkomen we publication bias.
 
-- **<abbr title="Post-Publication Peer Review">PPPR</abbr>**: na de publicatie van het onderzoek kunnen vragen worden gesteld aan de auteurs op publieke discussieplatforms, door bijvoorbeeld redacteuren of collega's. 
+- **<abbr title="Post-Publication Peer Review">PPPR</abbr>**: na de publicatie van het onderzoek kunnen vragen worden gesteld aan de auteurs op publieke discussieplatforms, door bijvoorbeeld redacteuren of collega's.
 
   Dit vergroot de transparantie en verantwoordelijkheid, omdat onderzoekers niet zomaar kunnen 'weglopen' na het onderzoek.
