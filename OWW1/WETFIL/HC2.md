@@ -68,3 +68,39 @@ problemen met positivisme:
 - wetenschap als sociaal proces
 
 als effect niet gevonden -> theorie fout of onderzoek fout? toets je methode of theorie?
+
+postpositivisme
+
+uitgangspunten:
+...
+
+er is geen basis: alles is conjunctuur (waarschijnlijkheden/aannames)
+kennis zonder basis is mogelijk: door te accepteren dat je het fout hebt/kan hebben
+= fallibilisme
+-> "all theories turn out to be wrong"
+
+handelen vanuit "geloof" / overtuiging
+-> bewijsvoering moet overtuigend genoeg zijn, "warrant the claim"
+
+waarheid benaderen (LIMIETEN MENTIONED, no not really but basically)
+
+of: helemaal niets vertrouwen, "edinburgh school" (extreme scepsis)
+
+soortvan "zaak" maken voor je theorie. presenteer het bewijs en maak een overtuigend pleidooi voor je theorie.
+
+meerdere geloven -> meerdere waarheden?
+geloof veranderd, feiten niet. dus meerdere geloven die 1 waarheid proberen te beschrijven
+de waarheid vinden = regulative ideal
+
+objectiviteit vs waarheid
+
+objectiviteit als laatste toegevoegd aan wetenschap
+
+wat is objectieve waarneming?
+
+objectiviteit is tegengestelde van bias of subjectiviteit? <- opzoeken
+
+objectieve waarneming != ware waarneming
+heel logisch: objectief is namelijk niet per se nauwkeurig
+
+objectiviteit = het best mogelijke bewijs dat je momenteel kan maken
