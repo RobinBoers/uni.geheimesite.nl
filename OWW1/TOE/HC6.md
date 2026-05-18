@@ -86,6 +86,8 @@ assumpties anova:
 - normaal verdeeld <- als N >= 30, schending van normaliteit is fiiiine
 - gelijke spreiding/variantie <- alleen probleem als n van grootste groep min 4x zo groot is als n van kleinste of grootste variantie min 10x zo groot als kleinste variantie (variantie = SD^2)
 
+statistische toets niet super beinvloed bij kleine schending = robuustheid
+
 twee rijen in jasp: conditie en residual
 conditie = variantie tussen groepen
 residual = variantie in groepen (ruis/kans)
