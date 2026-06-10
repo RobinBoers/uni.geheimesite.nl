@@ -110,13 +110,13 @@ P --> B[Behaviourisme]
 P --> L[Logisch positivisme]
 ```
 
-Volgens het **empirisme** bestaat de 'secure foundation' waarop wetenschap gebouwd wordt uit menselijke ervaringen via zintuigelijke waarnemingen.
+Volgens het **empirisme** (Locke) bestaat de 'secure foundation' waarop wetenschap gebouwd wordt uit menselijke ervaringen via zintuigelijke waarnemingen.
 
 <!--
 > Belangrijke denker: Locke, met tabula rasa; ideeën komen voort uit ervaringen en moeten gerechtvaardigd worden aan de hand van ervaringen.
 -->
 
-Volgens het **rationalisme** bestaat de 'secure foundation' uit alles dat niet rationeel betwijfelbaar is, omdat zintuigen je kunnen bedriegen.
+Volgens het **rationalisme** (Descartes) bestaat de 'secure foundation' uit alles dat niet rationeel betwijfelbaar is, omdat zintuigen je kunnen bedriegen.
 
 <!--
 > Belangrijke denker: Descartes, twijfelexperiment en "Cogito, ergo sum" ("ik denk dus ik ben").
@@ -124,9 +124,9 @@ Volgens het **rationalisme** bestaat de 'secure foundation' uit alles dat niet r
 
 ### Positivisme
 
-Het **positivisme** is een methode van wetenschap gebaseerd op het empirisme, waarbij kennis voortkomt uit uitsluitend directe observaties en redeneringen gebaseerd op observaties.
+Het **positivisme** (Comte) is een methode van wetenschap gebaseerd op het empirisme, waarbij kennis voortkomt uit uitsluitend directe observaties en redeneringen gebaseerd op observaties.
 
-Het **logisch positivisme** is een stroming van het positivisme, die stelt dat alle claims die niet geverifieerd kunnen worden aan de hand van observaties onwetenschappelijke en betekenisloze onzin (ookwel metafysica genoemd) zijn. We noemen dit het **verifieerbaarheidsprincipe** of de **toetsbaarheidseis**.
+Het **logisch positivisme** (Wiener Kreis) is een stroming van het positivisme, die stelt dat alle claims die niet geverifieerd kunnen worden aan de hand van observaties onwetenschappelijke en betekenisloze onzin (ookwel metafysica genoemd) zijn. We noemen dit het **verifieerbaarheidsprincipe** of de **toetsbaarheidseis**.
 
 <details>
   <summary>Begrippen die vaak met positivisme verward worden</summary>
@@ -161,6 +161,12 @@ Het **logisch positivisme** is een stroming van het positivisme, die stelt dat a
   </ul>
 </details>
 
+### Falsificationisme
+
+Het **falsificationisme** (Popper) is gerelateerd aan positivisme. Het stelt dat een goede theorie te weerleggen is aan de hand van tegenstrijdig bewijs. Het is zijn antwoord op het inductie&shy;probleem (zie volgende sectie): wetenschap is volgens hem namelijk niet inductief; je toetst theorie niet ter bevestiging, maar om te pogen hem te verwerpen.
+
+Voor het positivisme is falsifiseerbaarheid belangrijk omdat een niet-falsifiseerbare theorie niet toetsbaar is en daarmee de toetsbaarheidseis schendt.
+
 ### Problemen met foundationalisme
 
 Empirisme en rationalisme zijn goede concepten, maar kunnen geen 'secure foundation' voor kennis zijn. Dit komt door zes problemen met het foundationalisme:
@@ -173,9 +179,9 @@ Empirisme en rationalisme zijn goede concepten, maar kunnen geen 'secure foundat
 
 - **Duhem-Quine these**: als observaties of metingen niet overeenkomen met de hypothese of theorie, kan dat betekenen dat de theorie niet (volledig) klopt, maar het kan ook simpel een foute of onnauwkeurige meting zijn.
 
-- **Inductieprobleem**: er is geen manier om generaliseerbaarheid van observaties uit het verleden naar de toekomst te garanderen. Voorspellingen van toekomstige gebeurtenissen die je nog niet hebt kunnen observeren zijn zijn onzeker.
+- **Inductieprobleem** (Hume): er is geen manier om generaliseerbaarheid van observaties uit het verleden naar de toekomst te garanderen. Voorspellingen van toekomstige gebeurtenissen die je nog niet hebt kunnen observeren zijn zijn onzeker.
 
-- **Sociaal karakter van wetenschap**: wetenschap vindt niet in isolatie plaats, maar in een gemeenschap met gedeelde overtuigingen (aka paradigma). De gemeenschap bepaalt welk onderzoek wel of niet wordt uitgevoerd, en of resultaten geaccepteerd worden.
+- **Sociaal karakter van wetenschap** (Kuhn): wetenschap vindt niet in isolatie plaats, maar in een gemeenschap met gedeelde overtuigingen (aka paradigma). De gemeenschap bepaalt welk onderzoek wel of niet wordt uitgevoerd, en of resultaten geaccepteerd worden.
 
 ## Post-positivisme
 
@@ -193,7 +199,7 @@ Kennis wordt gezien als conjectureel: voorlopig, en gebaseerd op incompleet bewi
 
 <details open>
   <summary>Waarom iets geloven als de warrant later weer ingetrokken kan worden?</summary>
-  <p>We moeten handelen in het leven. Je kan handelen naar willekeur, traditie, of kennis. Het zou irrationeel om niet te handelen naar de "beste" (aka meest ondersteunde) kennis die op het moment beschikbaar is. Perfecte kennis heb je niet, en zal je nooit hebben. Je kunt niet meer doen dan handelen naar je beste weten van het moment, ook als in de toekomst betere kennis beschikbaar zal zijn.</p>
+  <p>We moeten handelen naar <em>iets</em> in het leven. Opties zijn willekeur, traditie, of kennis. Het zou irrationeel om niet te handelen naar de "beste" (aka meest ondersteunde) kennis die op een moment beschikbaar is. Perfecte kennis heb je niet, en zal je nooit hebben. Je kunt niet meer doen dan handelen naar je beste weten van het moment, ook als in de toekomst betere kennis beschikbaar zal zijn.</p>
 </details>
 
 ### Gebrek aan autoritieve bronnen
@@ -225,6 +231,8 @@ Tenslotte is het belangrijk dat:
 ### Objectiviteit tegenover waarheid
 
 Objectiviteit is geen synoniem voor waarheid, ondanks het feit dat het vaak wel zo gebruikt wordt in literatuur. Waarheid is onbereikbaar; objectiviteit als tegenpool van "bias" of "subjectiviteit" is een label om bepaalde criteria van kwaliteit aan te duiden (aka competent inquiry).
+
+> Met andere woorden: objectiviteit is de beste, maar toch mogelijk foutieve, observatie die je op een moment kan doen; waarheid is hoe het 'echt is'.
 
 # Geschiedenis van het onderwijs
 

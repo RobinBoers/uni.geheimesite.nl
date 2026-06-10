@@ -60,7 +60,7 @@ vijf fases (als studie):
 eerste periode
 1. keuze: praktijkgerichtheid vs wetenschappelijkheid
 2. verhouding tussen normatieve en emperisch/descriptief
-3. ...
+3. relatie pedagogiek en andere disciplines
 
 schoolpedagogiek -> onderwijskunde
 
