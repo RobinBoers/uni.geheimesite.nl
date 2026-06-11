@@ -297,3 +297,18 @@ ul:has(input[type="checkbox"]) {
   margin-bottom: 0.2em;
   padding: 0.5em;
 }
+
+ol.phil {
+  list-style: none;
+  counter-reset: arg;
+  padding-left: 2rem;
+}
+
+ol.phil > li {
+  counter-increment: arg;
+}
+
+ol.phil > li::before {
+  content: counter(arg) attr(data-prime) ") ";
+  font-weight: bold;
+}

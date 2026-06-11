@@ -303,6 +303,67 @@ Het is duidelijk dat er wel degelijk bepaalde waarden een rol spelen in wetensch
   <blockquote><p style="margin-top: 0.4em">Dit onderscheidt postpositivisme van positivisme, waar het sociale karakter van de wetenschap juist als slecht gezien werd, omdat het XXX.</p></blockquote>
 </details>
 
+## Pseudowetenschap
+
+### Demarcatie
+
+Demarcatie is het onderscheid maken tussen wetenschap en niet-wetenschap. Dit is belangrijk voor theoretische en praktische redenen:
+
+- **Theoretisch**: vanuit een wetenschapfilosofische perspectief kan demarcatie ons kennis over de wetenschap zelf opleveren.
+
+- **Praktisch**: voor besluitvormingsprocessen is de wetenschap onze meest waardevolle informatiebron. Foutieve informatie (waaronder niet-wetenschap) kan ernstige gevolgen hebben voor gezondheidszorg, klimaat, leefomgeving, onderwijs, journalisme, etc.
+
+### Non-science, unscience en pseudo-science
+
+Voordat we verder ingaan om pseudowetenschap, is het belangrijk een aantal definities op een rijtje te zetten:
+
+- **Non-science** (niet-wetenschappelijk): alles dat niet onder de wetenschap valt. Hieronder vallen ook "onschuldige" domeinen, zoals praktijkkennis, vuistregels, religie, kunst etc.
+
+- **Unscience** (onwetenschappelijk): alles dat de wetenschap tegenspreekt. Hieronder vallen o.a. biased onderzoek en pseudowetenschap. Dit is een subcategorie van non-science.
+
+- **Pseudo-science** (pseudowetenschappelijk): alles dat de wetenschap tegenspreekt maar wel pretendeert wetenschappelijk te zijn. Dit is een subcategorie van unscience.
+
+```mermaid
+venn-beta
+  set NonScience["Non-"]:100
+  set Unscience["Un-"]:60
+  set PseudoScience["Pseudo-science"]:25
+
+  union NonScience,Unscience:60
+  union Unscience,PseudoScience:25
+  union NonScience,PseudoScience:25
+  union NonScience,Unscience,PseudoScience:25
+
+  style NonScience fill:#c084fc,stroke:#7e22ce,color:#4a044e
+  style Unscience fill:#f0abfc,stroke:#c026d3,color:#4a044e
+  style PseudoScience fill:#f9a8d4,stroke:#db2777,color:#500724
+```
+
+<details>
+  <summary>Is pseudowetenschap als begrip relevant?</summary>
+  <dl>
+    <dt>Vraag</dt>
+    <dd>Is het niet voldoende om te zeggen "dit is fout", zonder het begrip pseudowetenschap te gebruiken?</dd>
+    <dt>Uitleg</dt>
+    <dd>Nee, want pseudowetenschap heeft ingebouwde "immuunstategieën" tegen kritiek en tegenbewijs, waardoor normale wetenschappelijke argumentatie ineffectief is om het te ontkrachten. Er is een andere aanpak nodig, en daarom is er behoefte aan een manier om pseudowetenschap te definiëren.</dd>
+  </dl>
+</details>
+
+### Pseudowetenschap
+
+Er zijn een aantal definities van pseudowetenschap. De eerste bestaat uit twee componenten:
+
+<ol class="phil">
+  <li data-prime="">Het is niet wetenschappelijk,</li>
+  <li data-prime="">het pretendeert wel wetenschappelijk te zijn.</li>
+</ol>
+
+Deze definitie is te breed, omdat bijvoorbeeld fraude ook zou voldoen. Echter fraude is wel *unscience*, maar geen *pseudoscience*.
+
+Een onderscheidend kenmerk van pseudowetenschap is dat het doctrinematig is. Geisoleerde slechte wetenschap valt onder unscience, maar als het structureel is, en er een soort ideologie aan ten grondslag ligt, is het pseudoscience.
+
+... ik ben bijna klaar i promise
+
 # Geschiedenis van het onderwijs
 
 # Geschiedenis van de onderwijswetenschappen
