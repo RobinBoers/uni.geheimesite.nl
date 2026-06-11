@@ -234,6 +234,75 @@ Objectiviteit is geen synoniem voor waarheid, ondanks het feit dat het vaak wel 
 
 > Met andere woorden: objectiviteit is de beste, maar toch mogelijk foutieve, observatie die je op een moment kan doen; waarheid is hoe het 'echt is'.
 
+## Waarden in wetenschappelijk onderzoek
+
+Volgens het positivisme moet onderzoek **waardeneutraal** of **waardevrij** zijn. Echter volgens sommigen is waardeneutraliteit in de wetenschap onmogelijk. Een aantal perspectieven:
+
+### Weerlegde argumenten tegen waardeneutraliteit
+
+<dl class="box">
+  <dt>Argument</dt>
+  <dd>Sociale wetenschappen onderzoekt waarden, en kan dus niet waardenneutraal zijn.</dd>
+  <dt>Weerlegging</dt>
+  <dd>De waarden zijn het onderwerp van onderzoek, zij beïnvloeden het onderzoek zelf niet. Het is mogelijk om de waarden van een ander objectief te onderzoeken.</dd>
+</dl>
+
+<dl class="box">
+  <dt>Argument</dt>
+  <dd>Sommige onderzoekers laten waarden of overtuigingen hun werk beïnvloeden, dus waardenneutraliteit bestaat niet.</dd>
+  <dt>Weerlegging</dt>
+  <dd>Soms is niet altijd; het feit dat het soms gebeurt betekent niet dat we het goedkeuren. En tenslotte komen we er vaak achter omdat latere wetenschapers wél waardeneutraal zijn.</dd>
+</dl>
+
+<dl class="box">
+  <dt>Argument</dt>
+  <dd>Waardeneutraliteit is onmogelijk omdat er diepgewortelde (culturele) waarden zijn ingebed in onze onderzoeksmethodes en denken, waardoor deze inherent biased zijn.<small style="display: block; padding-top: 1em">(Voorbeelden: marxisten &rarr; westerse waarden; feministen &rarr; mannelijke waarden)</small></dd>
+  <dt>Weerlegging</dt>
+  <dd>Allereerst is deze aanname niet getoetst, en onmogelijk te toetsen als al het onderzoek inherent biased is, zoals dit argument stelt. Daarnaast is er een filosofisch probleem: biased onderzoek kan niet bestaan als unbiased onderzoek niet ook mogelijk is.<br><br>Tenslotte kunnen vraagtekens gesteld worden bij het feit of cultureel bepaalde waarden een probleem vormen als deze de objectiviteit van het onderzoek niet in de weg zitten. Meer over interne en externe waarden in de volgende sectie.</dd>
+</dl>
+
+### Correcte argumenten tegen waardeneutraliteit
+
+<dl class="box">
+  <dt>Argument</dt>
+  <dd>Waardeneutraliteit zelf is ook een waarde, dus wetenschap kan nooit waardeneutraal zijn; zelfs zonder alle andere waarden blijft deze over.</dd>
+</dl>
+
+<dl class="box">
+  <dt>Argument</dt>
+  <dd>De keuze van onderzoeksonderwerp is waardegebonden; er zijn oneindig veel mogelijke onderzoeken uit te voeren, de criteria voor wat te onderzoeken zijn gebaseerd op wat we als waardevol beschouwen.</dd>
+</dl>
+
+<dl class="box">
+  <dt>Argument</dt>
+  <dd>Het evalueren ("waarderen") van hypotheses, theorieën, data, of werk van anderen (in bijvoorbeeld peer reviews) zijn gebaseerd op bepaalde waarden.</dd>
+</dl>
+
+### Interne en externe waarden
+
+Het is duidelijk dat er wel degelijk bepaalde waarden een rol spelen in wetenschappelijk onderzoek. Volgens de postpositivist is dit niet erg. Om dit te begrijpen is het belangrijk verschillende soort waarden te onderscheiden:
+
+- **Interne waarden** bepalen *hoe* je onderzoek doet.
+
+  De interne waarden garanderen dat de interne werking van een onderzoek (argumentatie, gebruikte methodes, uitgevoerde analyses) objectief blijft, en maken wetenschap tot wat het is. Dit zijn de kernwaarden van de wetenschap, en mogen absoluut niet geschonden worden.
+
+- **Externe waarden** bepalen *waarnaar* en *waarom* je onderzoek doet.
+
+  De externe waarden mogen invloed hebben op het onderzoek, zolang de interne werking van het onderzoek gewaarborgd blijft.
+
+> Interne waarden worden soms ookwel "cognitieve waarden" genoemd, als tegenhanger van "ethische waarden". Ethiek is belangrijk, maar geen kernwaarde van de wetenschap: onethisch maar objectief onderzoek is mogelijk.
+
+<details open>
+  <summary>Epistemologische relevantie</summary>
+  Een ander onderscheid dat gemaakt kan worden, is dat van epistemologische relevantie. Een epistemologisch relevante waarde is <em>inhoudelijk</em>, en draagt bij aan kennisconstructie.
+</details>
+
+<details>
+  <summary>Rol van de gemeenschap</summary>
+  In het postpositivisme wordt gemeenschap (openheid, discussie, peer review) als beschermende factor gezien; objectiviteit een product van het sociale karakter van de wetenschap.
+  <blockquote><p style="margin-top: 0.4em">Dit onderscheidt postpositivisme van positivisme, waar het sociale karakter van de wetenschap juist als slecht gezien werd, omdat het XXX.</p></blockquote>
+</details>
+
 # Geschiedenis van het onderwijs
 
 # Geschiedenis van de onderwijswetenschappen

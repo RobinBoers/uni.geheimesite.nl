@@ -92,7 +92,7 @@ gebruiken van peer feecback
 meisjes mogen ook leren
 onderwijs mag/moet leuk zijn
 
-dus: 2 1 3 5 4
+gok: 2 1 3 5 4
 
 eigenlijk: 3 2 1 4 5
 

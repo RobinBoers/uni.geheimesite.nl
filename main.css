@@ -290,3 +290,10 @@ ul:has(input[type="checkbox"]) {
   list-style: none;
   padding: 0;
 }
+
+.box {
+  background: light-dark(#ededed, #00000033);
+  opacity: 0.8;
+  margin-bottom: 0.2em;
+  padding: 0.5em;
+}
