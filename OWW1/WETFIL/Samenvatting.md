@@ -349,7 +349,7 @@ venn-beta
   </dl>
 </details>
 
-### Pseudowetenschap
+### Definities van pseudowetenschap
 
 Er zijn een aantal definities van pseudowetenschap. De eerste bestaat uit twee componenten:
 
@@ -358,11 +358,34 @@ Er zijn een aantal definities van pseudowetenschap. De eerste bestaat uit twee c
   <li data-prime="">het pretendeert wel wetenschappelijk te zijn.</li>
 </ol>
 
-Deze definitie is te breed, omdat bijvoorbeeld fraude ook zou voldoen. Echter fraude is wel *unscience*, maar geen *pseudoscience*.
+Deze definitie is te breed, omdat bijvoorbeeld ook fraude zou voldoen, terwijl fraude normaliter *unscience* is, geen *pseudoscience*.
 
-Een onderscheidend kenmerk van pseudowetenschap is dat het doctrinematig is. Geisoleerde slechte wetenschap valt onder unscience, maar als het structureel is, en er een soort ideologie aan ten grondslag ligt, is het pseudoscience.
+Een onderscheidend kenmerk van pseudowetenschap is dat van de *deviant doctrine* of ideologie. Geïsoleerde foute wetenschap, zelfs opzettelijk en structureel, valt onder unscience. We noemen het pas pseudoscience bij doorlopende, substantiele pogingen tot het promoten van standpunten die algemeen geaccepteerde standpunten tegenspreken.
 
-... ik ben bijna klaar i promise
+Daarom wordt component **(2)** vervangen met:
+
+<ol class="phil" start="2">
+  <li data-prime="′">het is onderdeel van een onwetenschappelijke doctrine die pretendeert wel wetenschappelijk te zijn.</li>
+</ol>
+
+Echter, in sommige gevallen wordt de term 'pseudowetenschap' ook gebruikt om doctrines te beschrijven die claimen de rol van wetenschap te vervullen ("meest betrouwbare kennisbron op een onderwerp zijn"), maar niet per sé pretenderen wetenschappelijk te zijn.
+
+Daarom kan een derde variant van component **(2)** geformuleerd worden:
+
+<ol class="phil" start="2">
+  <li data-prime="′′">het is onderdeel van een onwetenschappelijke doctrine die de indruk probeert te wekken de meest betrouwbare kennisbron op een onderwerp te zijn.</li>
+</ol>
+
+Definities **(1)**+**(2′)** en **(1)**+**(2′′)** worden afwisselend gebruikt. Vaak wordt pseudowetenschap gedefinieerd als **(1)** + **(2′)**, maar wordt de term vervolgens gebruikt als **(1)** + **(2′′)**.
+
+<!--
+> Het woord "wetenschap" heeft twee betekenissen:
+>
+> - **Individuated** ("een wetenschap"): een werkveld/vakgebied; tak van kennis of studie.
+> - **Unindividuated** ("de wetenschap"): het geheel; collectie van wetenschappen.
+>
+> Pseudowetenschap is de tegenpool van individuated wetenschap. Er zijn indivuele pseudo&shy;wetenschappen, maar er is geen algemene collectie "de pseudowetenschap".
+-->
 
 # Geschiedenis van het onderwijs
 

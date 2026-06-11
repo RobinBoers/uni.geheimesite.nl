@@ -298,17 +298,23 @@ ul:has(input[type="checkbox"]) {
   padding: 0.5em;
 }
 
-ol.phil {
-  list-style: none;
-  counter-reset: arg;
-  padding-left: 2rem;
+ol.phil > li::marker {
+    font-weight: bold;
 }
 
-ol.phil > li {
-  counter-increment: arg;
+ol.phil > li[data-prime="′"]::marker {
+  content: "(" counter(list-item) "′) ";
 }
 
-ol.phil > li::before {
-  content: counter(arg) attr(data-prime) ") ";
-  font-weight: bold;
+ol.phil > li[data-prime="′′"]::marker {
+  content: "(" counter(list-item) "′′) ";
+}
+
+ol.phil > li[data-prime="′′′"]::marker {
+  content: "(" counter(list-item) "′′′) ";
+}
+
+ol.phil > li:not([data-prime])::marker,
+ol.phil > li[data-prime=""]::marker {
+  content: "(" counter(list-item) ") ";
 }
