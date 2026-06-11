@@ -354,7 +354,7 @@ venn-beta
 Er zijn een aantal definities van pseudowetenschap. De eerste bestaat uit twee componenten:
 
 <ol class="phil">
-  <li data-prime="">Het is niet wetenschappelijk,</li>
+  <li data-prime="">het is niet wetenschappelijk,</li>
   <li data-prime="">het pretendeert wel wetenschappelijk te zijn.</li>
 </ol>
 
@@ -377,6 +377,22 @@ Daarom kan een derde variant van component **(2)** geformuleerd worden:
 </ol>
 
 Definities **(1)**+**(2′)** en **(1)**+**(2′′)** worden afwisselend gebruikt. Vaak wordt pseudowetenschap gedefinieerd als **(1)** + **(2′)**, maar wordt de term vervolgens gebruikt als **(1)** + **(2′′)**.
+
+De definities die tot nu toe gehanteerd zijn houden laten tijd buiten beschouwing. Volgens sommige filosofen is 'wetenschappelijkheid' niet tijdgebonden; wat vandaag wetenschappelijk is is morgen nog steeds wetenschappelijk. Echter, een essentiële eigenschap van wetenschap is voortgang en voortschrijdend inzicht, dus tijd speelt wel degelijk een rol.
+
+Objectiviteit en wetenschappelijkheid zijn tijdsgebonden: handelen naar de beste kennis en methodes die *op een moment in tijd* beschikbaar zijn. De wetenschap van gisteren kan vandaag achterhaald zijn, maar dat maakt het niet pseudowetenschappelijk. Het voldeed immers aan de objectiviteitscriteria van het moment. Echter, dezelfde wetenschap vandaag uitgevoerd is wel onwetenschappelijk, aangezien de objectiviteitscriteria zijn veranderd.
+
+Er is behoefte aan een tijdsgebonden variant van **1)**, zoals:
+
+<ol class="phil">
+  <li data-prime="′">in strijd met de meest betrouwbare kennis over een onderwerp die op een tijdstip beschikbaar is.</li>
+</ol>
+
+<!-- Het onderscheidende verschil tussen wetenschapn en pseudowetenschap is dus hoe het omgaat met tegenstrijdig bewijs en weerlegging. -->
+
+Een bijkomend voordeel van deze definitie is dat het het oordeel over wetenschappelijkheid een inhoudelijke kwestie maakt, in plaats van een filosofisch probleem.
+
+ik ben echt bijna bijna klaar nu i promise (fr fr)
 
 <!--
 > Het woord "wetenschap" heeft twee betekenissen:
