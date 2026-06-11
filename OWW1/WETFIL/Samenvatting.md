@@ -204,11 +204,11 @@ Kennis wordt gezien als conjectureel: voorlopig, en gebaseerd op incompleet bewi
 
 ### Gebrek aan autoritieve bronnen
 
-Er zijn geen autoritieve bronnen binnen het postpositivisme. In plaats daarvan wordt elke knowledge claim hetzelfde behandeld: de warrant wordt geevalueerd.
+Er zijn geen autoritieve bronnen binnen het postpositivisme. In plaats daarvan wordt elke knowledge claim hetzelfde behandeld: de warrant wordt geëvalueerd.
 
 De voor/tegenstanders worden bekeken en afgewogen, en op basis daarvan wordt bepaald of de claim wel of niet aangenomen wordt. (Maar houdt er rekening mee dat dit later weer kan veranderen op basis van de sterkste warrants die dán beschikbaar zijn.)
 
-> **Alleen het bewijs wordt geevalueerd**, niet de persoon die de claim maakt. Dit onderscheidt postpositivisme van andere stromingen zoals sociaal constructivisme en postmodernisme.
+> **Alleen het bewijs wordt geëvalueerd**, niet de persoon die de claim maakt. Dit onderscheidt postpositivisme van andere stromingen zoals sociaal constructivisme en postmodernisme.
 
 ### Relativisme
 
@@ -360,7 +360,7 @@ Er zijn een aantal definities van pseudowetenschap. De eerste bestaat uit twee c
 
 Deze definitie is te breed, omdat bijvoorbeeld ook fraude zou voldoen, terwijl fraude normaliter *unscience* is, geen *pseudoscience*.
 
-Een onderscheidend kenmerk van pseudowetenschap is dat van de *deviant doctrine* of ideologie. Geïsoleerde foute wetenschap, zelfs opzettelijk en structureel, valt onder unscience. We noemen het pas pseudoscience bij doorlopende, substantiele pogingen tot het promoten van standpunten die algemeen geaccepteerde standpunten tegenspreken.
+Een onderscheidend kenmerk van pseudowetenschap is dat van de *deviant doctrine* of ideologie. Geïsoleerde onwetenschap, zelfs opzettelijk en structureel, valt onder unscience. We noemen het pas pseudoscience bij doorlopende, substantiële pogingen tot het promoten van standpunten die algemeen geaccepteerde standpunten tegenspreken.
 
 Daarom wordt component **(2)** vervangen met:
 
@@ -368,7 +368,7 @@ Daarom wordt component **(2)** vervangen met:
   <li data-prime="′">het is onderdeel van een onwetenschappelijke doctrine die pretendeert wel wetenschappelijk te zijn.</li>
 </ol>
 
-Echter, in sommige gevallen wordt de term 'pseudowetenschap' ook gebruikt om doctrines te beschrijven die claimen de rol van wetenschap te vervullen ("meest betrouwbare kennisbron op een onderwerp zijn"), maar niet per sé pretenderen wetenschappelijk te zijn.
+Echter, in sommige gevallen wordt de term 'pseudowetenschap' ook gebruikt om doctrines te beschrijven die claimen de rol van wetenschap te vervullen ("meest betrouwbare kennisbron op een onderwerp zijn"), maar niet pretenderen wetenschappelijk te zijn.
 
 Daarom kan een derde variant van component **(2)** geformuleerd worden:
 
@@ -378,11 +378,11 @@ Daarom kan een derde variant van component **(2)** geformuleerd worden:
 
 Definities **(1)**+**(2′)** en **(1)**+**(2′′)** worden afwisselend gebruikt. Vaak wordt pseudowetenschap gedefinieerd als **(1)** + **(2′)**, maar wordt de term vervolgens gebruikt als **(1)** + **(2′′)**.
 
-De definities die tot nu toe gehanteerd zijn houden laten tijd buiten beschouwing. Volgens sommige filosofen is 'wetenschappelijkheid' niet tijdgebonden; wat vandaag wetenschappelijk is is morgen nog steeds wetenschappelijk. Echter, een essentiële eigenschap van wetenschap is voortgang en voortschrijdend inzicht, dus tijd speelt wel degelijk een rol.
+De definities die tot nu toe gehanteerd zijn laten tijd buiten beschouwing. Volgens sommige filosofen is 'wetenschappelijkheid' niet tijdgebonden; wat vandaag wetenschappelijk is is morgen nog steeds wetenschappelijk. Echter, een essentiële eigenschap van wetenschap is voortgang en voortschrijdend inzicht, dus tijd speelt wel degelijk een rol.
 
-Objectiviteit en wetenschappelijkheid zijn tijdsgebonden: handelen naar de beste kennis en methodes die *op een moment in tijd* beschikbaar zijn. De wetenschap van gisteren kan vandaag achterhaald zijn, maar dat maakt het niet pseudowetenschappelijk. Het voldeed immers aan de objectiviteitscriteria van het moment. Echter, dezelfde wetenschap vandaag uitgevoerd is wel onwetenschappelijk, aangezien de objectiviteitscriteria zijn veranderd.
+Objectiviteit en wetenschappelijkheid zijn tijdsgebonden: handelen naar de beste kennis en methodes die *op een moment in tijd* beschikbaar zijn. De wetenschap van gisteren kan vandaag achterhaald zijn, maar dat maakt het niet onwetenschappelijk. Het voldeed immers aan de objectiviteitscriteria van het moment. Echter, dezelfde wetenschap vandaag uitgevoerd is wel onwetenschappelijk, aangezien de objectiviteitscriteria zijn veranderd.
 
-Er is behoefte aan een tijdsgebonden variant van **1)**, zoals:
+Er is behoefte aan een tijdsgebonden variant van **(1)**, zoals:
 
 <ol class="phil">
   <li data-prime="′">in strijd met de meest betrouwbare kennis over een onderwerp die op een tijdstip beschikbaar is.</li>
@@ -390,7 +390,7 @@ Er is behoefte aan een tijdsgebonden variant van **1)**, zoals:
 
 <!-- Het onderscheidende verschil tussen wetenschapn en pseudowetenschap is dus hoe het omgaat met tegenstrijdig bewijs en weerlegging. -->
 
-Een bijkomend voordeel van deze definitie is dat het het oordeel over wetenschappelijkheid een inhoudelijke kwestie maakt, in plaats van een filosofisch probleem.
+Een bijkomend voordeel van deze definitie is dat het oordeel over wetenschappelijkheid een inhoudelijke kwestie wordt, in plaats van een filosofisch probleem.
 
 ik ben echt bijna bijna klaar nu i promise (fr fr)
 
