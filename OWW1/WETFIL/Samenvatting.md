@@ -428,7 +428,7 @@ Het **eligibilitycriterium** (Rothbart) stelt dat de objectiviteitscriteria voor
 - De theorie moet een weerlegging van het succes van de rivaaltheorie hebben.
 - De theorie moet toetsbare implicaties hebben die tegenstrijdig zijn met de rivaaltheorie.
 
-Het **gemeenschapscriterium** (Bright & Heesen) stelt dat claims wetenschappelijk zijn als ze openlijk beschikbaar worden gesteld aan de gemeenschap. Dit maakt commercieel, maar objectief onderzoek ook pseudowetenschap, en dit is met opzet.
+Het **gemeenschapscriterium** (Bright & Heesen) stelt dat onderzoek wetenschappelijk is als het openlijk beschikbaar wordt gesteld aan de gemeenschap. Dit maakt commercieel, maar objectief onderzoek ook pseudowetenschap, en dit is met opzet.
 
 <details>
   <summary>Pseudowetenschappen in relatie tot reguliere wetenschap</summary>
