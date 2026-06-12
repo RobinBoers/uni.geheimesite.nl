@@ -307,11 +307,19 @@ Het is duidelijk dat er wel degelijk bepaalde waarden een rol spelen in wetensch
 
 ### Demarcatie
 
-Demarcatie is het onderscheid maken tussen wetenschap en niet-wetenschap. Dit is belangrijk voor theoretische en praktische redenen:
+Demarcatie ("grens") is het onderscheid maken tussen wetenschap en niet-wetenschap. Dit is belangrijk voor theoretische en praktische redenen:
 
 - **Theoretisch**: vanuit een wetenschapfilosofische perspectief kan demarcatie ons kennis over de wetenschap zelf opleveren.
 
 - **Praktisch**: voor besluitvormingsprocessen is de wetenschap onze meest waardevolle informatiebron. Foutieve informatie (waaronder niet-wetenschap) kan ernstige gevolgen hebben voor gezondheidszorg, klimaat, leefomgeving, onderwijs, journalisme, etc.
+
+<!--<details>
+  <summary>Andere demarcatieproblemen</summary>
+  <ul>
+    <li><b>Logisch positivisme</b> maakt onderscheid tussen wetenschap en metaphysics.</li>
+    <li><b>Karl Popper</b> maakt onderscheid tussen empirische wetenschap en pure wetenschap of metaphysics. Later noemt herformuleert hij metaphysics als pseudo-science.</li>
+  </ul>
+</details>-->
 
 ### Non-science, unscience en pseudo-science
 
@@ -392,16 +400,54 @@ Er is behoefte aan een tijdsgebonden variant van **(1)**, zoals:
 
 Een bijkomend voordeel van deze definitie is dat het oordeel over wetenschappelijkheid een inhoudelijke kwestie wordt, in plaats van een filosofisch probleem.
 
-ik ben echt bijna bijna klaar nu i promise (fr fr)
+### Demarcatiecriteria
 
-<!--
-> Het woord "wetenschap" heeft twee betekenissen:
->
-> - **Individuated** ("een wetenschap"): een werkveld/vakgebied; tak van kennis of studie.
-> - **Unindividuated** ("de wetenschap"): het geheel; collectie van wetenschappen.
->
-> Pseudowetenschap is de tegenpool van individuated wetenschap. Er zijn indivuele pseudo&shy;wetenschappen, maar er is geen algemene collectie "de pseudowetenschap".
--->
+Het [**falsificationisme**](#falsificationisme) (Popper) kan worden gebruikt als demarcatiecriterium om wetenschap van pseudowetenschap te onderscheiden (of voor de logisch positivist: metafysica).
+
+Echter, alleen falsificationisme is onvoldoende (Lakatos), omdat het berust op logica die los staat van feiten of inhoud; een theorie zonder enig bewijs kan wetenschappelijk zijn als hij falsifiseerbaar is, en een goed ondersteunde theorie kan pseudowetenschap zijn als deze niet falsifiseerbaar is.
+
+> Nota bene, de meeste pseudowetenschappen zijn wél falsifiseerbaar, en ook volledig gefalsifiseerd. Hoe wordt omgegaan met tegenbewijs is veel belangrijker om wetenschap van pseudowetenschap te onderscheiden.
+
+<!-- Een ander kritiekpunt op het  is dat het  -->
+
+Het **puzzelcriterium** (Kuhn) stelt dat wetenschap wordt gekenmerkt door puzzelen. Het uit kritiek op het falsificationisme, omdat dat wetenschap typeert aan de hand van revoluties (waarin alles in één keer anders moet), en niet volgens het 'normale' iteratieve proces, dat als "puzzelen" wordt omschreven. <!-- Popper is het oneens omdat het demarcatie een sociologisch vraagstuk in plaats van rationeel probleem maakt. -->
+
+Het **sophisticated (methodogical) falsificationisme** (Lakatos) is een aanpassing van het falsificationisme, dat volledige onderzoeksprogramma's toetst in plaats van individuele theorieën. Een programma is gefalsifiseerd en pseudowetenschappelijk als het degenererend is:
+
+- **Progressief**: nieuwe voorspellingen worden empirisch bevestigd (data na hypotheses).
+- **Degenererend**: alleen aanpassingen om problemen te verklaren (hypotheses na data).
+
+<!--In een progressief onderzoeksprogramma zal een theorie steeds empirischer worden.-->
+
+Het **progressiecriterium** (Thagard) voegt een extra criterium aan sophisticated falsificationisme toe: een onderzoeksprogramma is pseudowetenschappelijk als het degenererend is en de onderzoekers "weinig moeite doen om problemen op te lossen, geen interesse hebben in het evalueren van de theorie in relatie tot andere theorieën, en selectief zijn in het accepteren van bewijs en tegenbewijs."
+
+> Het verschil is dus dat Lakatos een programma zonder progressie *altijd* pseudowetenschap vindt, en Thagard het alleen pseudowetenschap vindt als het met opzet degenererend is.
+
+Het **eligibilitycriterium** (Rothbart) stelt dat de objectiviteitscriteria voor het toetsen van een theorie los staan van zogenaamde toetswaardigheidscriteria die bepalen of een theorie überhaupt wel getoetst moet worden. Pseudowetenschappelijke theorieën voldoen hier niet aan:
+
+- De theorie moet een weerlegging van het succes van de rivaaltheorie hebben.
+- De theorie moet toetsbare implicaties hebben die tegenstrijdig zijn met de rivaaltheorie.
+
+Het **gemeenschapscriterium** (Bright & Heesen) stelt dat claims wetenschappelijk zijn als ze openlijk beschikbaar worden gesteld aan de gemeenschap. Dit maakt commercieel, maar objectief onderzoek ook pseudowetenschap, en dit is met opzet.
+
+<details>
+  <summary>Pseudowetenschappen in relatie tot reguliere wetenschap</summary>
+  <p>Er zijn twee vormen van pseudowetenschap, die vooral verschillen in hoe ze de reguliere wetenschap benaderen en afbeelden:</p>
+  <ul>
+    <li><p><b>Pseudo-theory promotion</b> probeert een eigen theorie te promoten, en presenteert vooral dat de reguliere wetenschap in overeenstemming is met de pseudo-theorie.</p></li>
+    <li><p><b>Science denialism</b> probeert een geaccepteerde theorie te bevechten, en presenteert vooral dat in de reguliere wetenschap geen consensus is, en creeërt daarmee een gat dat de pseudo-theorie kan vullen. <!--<small>(Voorbeelden zijn: holocaust denial, climate change denial, vaccination denial, evolution denial)</small>--></p></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Pseudowetenschappen als losse 'eilandjes'</summary>
+  <p>Het woord "wetenschap" heeft twee betekenissen:</p>
+  <ul>
+    <li><b>Individuated</b> ("een wetenschap"): werkveld/vakgebied; tak van kennis of studie.</li>
+    <li><b>Unindividuated</b> ("de wetenschap"): begrip als geheel; collectie van wetenschappen.</li>
+  </ul>
+  <p>Wetenschappen<!-- (individuated)--> staan altijd met elkaar in verband (astrofysica, biochemie, etc.) en vormen een coherent geheel: de wetenschap<!-- (unindividuated)-->.<p></p>Pseudowetenschap is de tegenpool van individuated wetenschap (Reisch). Er zijn indivuele pseudowetenschappen, maar deze staan niet met elkaar, en ook niet met reguliere wetenschapsgebieden, in verband. Er is dan ook geen collectie "de pseudowetenschap".</p>
+</details>
 
 # Geschiedenis van het onderwijs
 
