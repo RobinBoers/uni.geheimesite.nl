@@ -1,5 +1,5 @@
 ---
-title: Wetenschapsfilosofie en de geschiedenis van het onderwijs en de onderwijswetenschappen
+title: Wetenschapsfilosofie en de geschiedenis van onderwijs en onderwijswetenschappen
 ---
 
 # Wetenschapsfilosofie
