@@ -216,7 +216,7 @@ De voor/tegenstanders worden bekeken en afgewogen, en op basis daarvan wordt bep
 
 Relativisme stelt dat iedereen een "eigen waarheid" of "eigen realiteit" heeft, omdat ze andere afwegingen maken over warrants en daardoor andere claims geloven. Postpositivisme wordt soms verward met relativisme.
 
-Echter, ondanks het feit dat positivisme stelt dat absolute waarheid onbereikbaar is, gaat het wel uit van één absolute waarheid, die benaderd wordt door (mogelijk foutieve) warrants. Tegenstrijdige claims kunnen niet allebei waar zijn, er kan er maar één overeenkomen met de absolute waarheid.
+Echter, ondanks het feit dat postpositivisme stelt dat absolute waarheid onbereikbaar is, gaat het wel uit van één absolute waarheid, die benaderd wordt door (mogelijk foutieve) warrants. Tegenstrijdige claims kunnen niet allebei waar zijn, er kan er maar één overeenkomen met de absolute waarheid.
 
 Het is ook belangrijk om onderscheid te maken tussen overtuigingen en waarheid. Een overtuiging is "alles waarnaar je bereid bent te handelen". Met andere woorden: een overtuiging is iets dat je als waarheid accepteert. Maar "voor waar aannemen" betekent niet dat het automatisch waar is.
 
