@@ -191,13 +191,15 @@ Postpositivisme is een vorm van **non-foundationalisme**: een stroming in de wet
 
 ### Absolute waarheid & conjecturele kennis
 
-Volgens de postpositivist bestaat er een "absolute waarheid", maar zal die nooit door mensen ontdekt worden omdat mensen biased, subjectief en irrationeel zijn. Het beste dat we kunnen doen is de waarheid *benaderen*, zoals een wiskundige limiet-functie.
+Volgens de postpositivist bestaat er een "absolute waarheid", waarnaar de wetenschap zoekt. We noemen dit het 'regulatief ideaal'; ideaal, want de waarheid zal nooit door mensen ontdekt worden, omdat mensen biased, subjectief en irrationeel zijn. Het beste dat we kunnen doen is de waarheid *benaderen*, zoals een wiskundige limiet-functie.
 
 We kunnen het woord "waarheid" vervangen met *warranted assertibility*; de waarheid is alles dat sterk genoeg onderbouwd is om naar te handelen.
 
 We hebben geen "feiten", we hebben *warrants*: het meest overtuigende bewijs op een bepaald moment in tijd. Deze warrants volgen uit "competent inquiry": onderzoeksmethodes die op het moment beter zijn dan anderen (maar beter betekent niet "ideaal").
 
 Kennis wordt gezien als conjectureel: voorlopig, en gebaseerd op incompleet bewijs, namelijk de sterkste (maar imperfecte) warrant die op een moment beschikbaar is. Warrants kunnen worden "ingetrokken" als er later sterke bewijs aan het licht komt.
+
+Wetenschap wordt gezien als 'self-corrective', omdat herhaald onderzoek uiteindelijk vanzelf aantoont welke warrants wel of niet kloppen, en foute warrants vervangt met sterker bewijs.
 
 <details open>
   <summary>Waarom iets geloven als de warrant later weer ingetrokken kan worden?</summary>
