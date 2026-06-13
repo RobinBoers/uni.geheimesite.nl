@@ -220,7 +220,7 @@ Relativisme stelt dat iedereen een "eigen waarheid" of "eigen realiteit" heeft, 
 
 Echter, ondanks het feit dat postpositivisme stelt dat absolute waarheid onbereikbaar is, gaat het wel uit van één absolute waarheid, die benaderd wordt door (mogelijk foutieve) warrants. Tegenstrijdige claims kunnen niet allebei waar zijn, er kan er maar één overeenkomen met de absolute waarheid.
 
-Het is ook belangrijk om onderscheid te maken tussen overtuigingen en waarheid. Een overtuiging is "alles waarnaar je bereid bent te handelen". Met andere woorden: een overtuiging is iets dat je als waarheid accepteert. Maar "voor waar aannemen" betekent niet dat het automatisch waar is.
+Het is ook belangrijk om onderscheid te maken tussen overtuigingen en waarheid. Een overtuiging is "alles waarnaar je bereid bent te handelen". Met andere woorden: een overtuiging is iets dat je als waarheid accepteert. Maar "voor waar aannemen" betekent niet dat het ook automatisch waar is.
 
 <!--
 Tenslotte is het belangrijk dat:
@@ -236,7 +236,7 @@ Tenslotte is het belangrijk dat:
 
 Objectiviteit is geen synoniem voor waarheid, ondanks het feit dat het vaak wel zo gebruikt wordt in literatuur. Waarheid is onbereikbaar; objectiviteit als tegenpool van "bias" of "subjectiviteit" is een label om bepaalde criteria van kwaliteit aan te duiden (aka competent inquiry).
 
-> Met andere woorden: objectiviteit is de beste, maar toch mogelijk foutieve, observatie die je op een moment kan doen; waarheid is hoe het 'echt is'.
+> Met andere woorden: objectiviteit is de beste, maar toch mogelijk foutieve, observatie die je op een moment kan doen; waarheid is hoe het 'echt is', maar is onbereikbaar omdat je deze alleen via mogelijk foutieve observaties of metingen kan benaderen.
 
 ## Waarden in wetenschappelijk onderzoek
 
