@@ -7,13 +7,13 @@ title: Wetenschapsfilosofie en de geschiedenis van onderwijs en onderwijswetensc
 <!--
 > Sociale wetenschappen kan worden onderverdeeld in twee stromingen:
 >
-> - **Gedragswetenschappen** kijken naar _individueel gedrag_ van _individuen_.
-> - **Maatschappijwetenschappen** kijken naar _sociaal gedrag_ van _groepen_.
+> - **Gedragswetenschappen** kijken naar *individueel gedrag* van *individuen*.
+> - **Maatschappijwetenschappen** kijken naar *sociaal gedrag* van *groepen*.
 -->
 
-Uitspraken over de aard of structuur van de werkelijkheid noemen we ontologisch. Ontologie is de _zijnsleer_ ("studie van dingen die bestaan").
+Uitspraken over de aard of structuur van de werkelijkheid noemen we ontologisch. Ontologie is de *zijnsleer* ("studie van dingen die bestaan").
 
-Uitspraken over wat kennis is en hoe kennis tot stand komt of wordt verkregen noemen we epistemologisch. Epistemologie is _kennisleer_ ("studie van kennis").
+Uitspraken over wat kennis is en hoe kennis tot stand komt of wordt verkregen noemen we epistemologisch. Epistemologie is *kennisleer* ("studie van kennis").
 
 ## Paradigma's
 
