@@ -277,7 +277,7 @@ Volgens het positivisme moet onderzoek **waardeneutraal** of **waardevrij** zijn
 
 <dl class="box">
   <dt>Argument</dt>
-  <dd>Het evalueren ("waarderen") van hypotheses, theorieën, data, of werk van anderen (in bijvoorbeeld peer reviews) zijn gebaseerd op bepaalde waarden.</dd>
+  <dd>Het evalueren ("waarderen") van hypotheses, theorieën, data, of werk van anderen (in bijv. peer reviews) zijn gebaseerd op bepaalde waarden.</dd>
 </dl>
 
 ### Interne en externe waarden
@@ -368,7 +368,7 @@ Er zijn een aantal definities van pseudowetenschap. De eerste bestaat uit twee c
   <li data-prime="">het pretendeert wel wetenschappelijk te zijn.</li>
 </ol>
 
-Deze definitie is te breed, omdat bijvoorbeeld ook fraude zou voldoen, terwijl fraude normaliter *unscience* is, geen *pseudoscience*.
+Deze definitie is te breed, omdat bijv. ook fraude zou voldoen, terwijl fraude normaliter *unscience* is, geen *pseudoscience*.
 
 Een onderscheidend kenmerk van pseudowetenschap is dat van de *deviant doctrine* of ideologie. Geïsoleerde onwetenschap, zelfs opzettelijk en structureel, valt onder unscience. We noemen het pas pseudoscience bij doorlopende, substantiële pogingen tot het promoten van standpunten die algemeen geaccepteerde standpunten tegenspreken.
 
@@ -449,6 +449,23 @@ Het **gemeenschapscriterium** (Bright & Heesen) stelt dat onderzoek wetenschappe
     <li><b>Unindividuated</b> ("de wetenschap"): begrip als geheel; collectie van wetenschappen.</li>
   </ul>
   <p>Wetenschappen<!-- (individuated)--> staan altijd met elkaar in verband (astrofysica, biochemie, etc.) en vormen een coherent geheel: de wetenschap<!-- (unindividuated)-->.<p></p>Pseudowetenschap is de tegenpool van individuated wetenschap (Reisch). Er zijn indivuele pseudowetenschappen, maar deze staan niet met elkaar, en ook niet met reguliere wetenschapsgebieden, in verband. Er is dan ook geen collectie "de pseudowetenschap".</p>
+</details>
+
+<details>
+  <summary>Begrippen die gerelateerd zijn aan pseudowetenschap</summary>
+  <ul>
+    <li><p><b>Scepticisme</b>: Een term met drie relevante betekenissen:</p>
+      <p><ul>
+        <li><b>Philosophical scepticism</b> ('philosophical sceptics'): een filosofische methode, waarbij zaken die heel vanzelfsprekend lijken in twijfel getrokken worden. Nuttig om de justificatie van 'zekerheden' na te gaan.</li>
+        <li><b>Scientific scepticism</b> ('science defenders'): kritisch zijn op aannames en fouten in wetenschappelijk onderzoek (bijv. in een peer review). Vooral gebruikt door organisaties of contexten die pseudowetenschap bevechten.</li>
+        <li><b>Science denialism</b> ('science deniers'): oppositie van algemeen geaccepteerde standpunten of consensus van de reguliere wetenschap.</li>
+      </ul></p>
+    </li>
+    <li><p><b>Feitenweerstand</b>: onbereidwilligheid om sterk onderbouwde feiten te accepteren. Een typisch kenmerk van pseudowetenschap, maar komt ook buiten de wetenschap voor.</p></li>
+    <li><p><b>Conspiracy theories</b>: heimelijke samenzwering met mysterieus of dubieus doel. Betreft implausibele theorieën om sociale fenomenen te verklaren, als alternatief voor een voor de hand liggende theorie die om welke reden dan ook niet geaccepteerd wordt door een groep. </p><!--<p>Ze zijn epistemologisch interessant omdat ze cirkelredeneringen bevatten waardoor tegenbewijs kan worden geinterpreteerd als bewijs <em>voor</em> de theorie.</p>--></li>
+    <li><p><b>Bullshit</b>: een onwaarheid die geen vorm van liegen is. Liegen is het opzettelijk verspreiden van onwaarheden, met als doel een ander te misleiden. In het geval van bullshit boeit het de persoon die het zegt niet of het waar is of niet, omdat de communicatie een ander doel heeft dan informatieverstrekking (bijv. ragebaiten).</p><!--<p>Pseudowetenschap wordt door sommige filosofen gezien als een vorm van bullshit, omdat het pseudowetenschappers vaak geen interesse hebben in objectieve waarheid (anders zou je geen data faken etc.)</p>--></li>
+    <li><p><b>Epistemisch relativisme</b>: ontkenning van het regulatief ideaal, dat er één absolute of intersubjectieve waarheid is die wetenschap moet nastreven. Dit is vooral nuttig voor de kant met mindere credibiliteit of cognitieve autoriteit<!--, en maakt science denialism mogelijk-->.</p></li>
+  </ul>
 </details>
 
 # Geschiedenis van het onderwijs
