@@ -557,16 +557,68 @@ Naast hun functie als toezichthouder, losten ze ook verschillende geschillen op 
 
 > Zoals misschien te verwachten is, was de schoolmeestersgilde over het algemeen strenger in het handhaven van de numerus clausus dan de scholarchen.
 
+Naast de scholarchen en meestersgildes, werden scholen ook bezocht door afgevaardigde van de kerk, in de jaarlijkse visitatie.
+
 ### Schoolsoorten
 
 In de middeleeuwen ontstaat de grote school, met een onder- en bovenbouw. In de 16<sup>e</sup>  eeuw wordt deze opgesplitst in twee schoolsoorten:
 
-- **Nederduitse school** (voormalig onderbouw): stads-, armen- en particuliere scholen waar in het Nederlands lezen en schrijven geleerd wordt.
-- **Latijnse school** (voormalig bovenbouw): stadsschool waar in het Latijns onderwijs wordt gegeven in verschillende vakken.
+- **Nederduitse scholen** (voormalig onderbouw): dorps-, stads- en particuliere scholen waar in het Nederlands lezen en schrijven geleerd wordt.
+- **Latijnse scholen** (voormalig bovenbouw): stadsschool waar in het Latijns onderwijs wordt gegeven in verschillende vakken.
 
 Tussen verschillende scholen bestonden grote verschillen in leeftijd, niveau, aantal leerlingen, schoolgeld, en voorzieningen.
 
 ## 18<sup>e</sup> eeuw
+
+De 18<sup>e</sup> eeuw ziet de opkomst van het rationalisme. Men gaat het onderwijs zien als een oplossing voor armoede. Er wordt meer geinvesteerd in het onderwijs, omdat de overheid redeneert dat het beter is om onderwijs te verzorgen dan de maatschappelijke kosten van criminaliteit en armoede te dragen.
+
+### Inhoud van het onderwijs
+
+Inhoudelijk zijn er ook een aantal veranderingen: er is meer behoefte aan mensen die kunnen lezen, schrijven en rekenen. Geletterdheid wordt hoger gewaardeerd en gezien als een manier om hogerop te klimmen in de maatschappij. Nieuwe vakken zoals aardrijkskunde, geschiedenis en natuurkunde komen op. (Al had natuurkunde een andere focus dan tegenwoordig; 'kennis van de natuur' is een betere beschrijving.) 
+
+Het Frans begint het Latijn te vervangen als internationale taal, maar het Latijn blijft voorlopig nog de wetenschappelijke taal en het toegangskaartje tot de universiteit. De school begint ook steeds meer taken op zich te nemen die voorheen in de thuissfeer geleerd werden.
+
+### Nieuwe schoolsoorten
+
+Er ontstaan naast de Nederduitse en Latijnse dorps- en stadsscholen van vorige eeuw nieuwe schoolsoorten:
+
+- **Armenscholen**: het was aanvankelijk de bedoeling dat arme kinderen de reguliere stads- en dorpsscholen zouden bezoeken. Echter, meesters hadden dit liever niet, omdat arme kinderen minder geld opbrachten (vaststaand jaarlijks bedrag van de kerk, geen schoolgeld per leerling), en ze het risico liepen betalende leerlingen te verliezen als er teveel armen kwamen. Daarom werden in veel steden armenscholen gesticht.
+
+  De populatie van een armenschool bestond uit twee groepen: werkende kinderen maakte gebruik van de avond- of zondagsschool, kinderen die nog te jong waren om te werken maakte gebruik van de dagsschool.
+
+<!--
+- **Weeshuizen**: in weeshuizen kregen kinderen les van de huisvader. In grotere weeshuizen werd soms een aparte meester aangetrokken. Kinderen mochten pas weg als ze met een ambacht in hun levensonderhoud konden voorzien.
+-->
+
+- **Fabrieksscholen** en **spinscholen**: scholen gesticht op initiatief van fabriekanten, om de kinderen van hun werknemers op te leiden. Op deze scholen werd school gecombineerd met werken. Een aantal ging falliet omdat er weinig belangstelling was, en er verlies werd gedraait op de productie.
+
+- **Franse scholen**: elke school waar Frans werd onderwezen was in principe een 'Franse school', maar er was ook onderscheid te maken:
+
+  - **Frans-en-Duitse school**: een reguliere Nederduitse school waar ook Frans werd onderwezen als (extra) vak. Het onderwijs zelf wordt aangeboden in het Nederlands. Jongens en meiden zijn gemengd. Dit type school werd hoger gewaardeerd dan andere Nederduitse scholen.
+
+  - **'Echte' Franse school**: een nieuwe klasse school waar het onderwijs volledig in het Frans aangeboden wordt, vaak in meer vakken. Er zijn aparte scholen voor jongens en meiden. Dit type school werd hoger gewaardeerd dan de Frans-en-Duitse scholen.
+
+  Nieuwe vakken die worden aangeboden (afhankelijk van de capaciteiten van de meester) waren onder andere wiskunde, boekhouden, sterrenkunde, tekenen, aardrijskunde, geschiedenis, navigatie, extra talen zoals Hoogduits en Engels, en muziek en dans (door een externe docent).
+
+  <!--Meiden hadden minder technische vakken en meer creatieve en huishoudelijke vakken.-->
+
+- **Konstscholen** (of hoger beroepsonderwijs): leidt op tot <span title="landmeters, architecten, dijkenbouwers, stuurlieden, boekhouders, waterstaatkundigen, genieofficier, chirugijnen, tekenmeesters">technische beroepen</span>. Hiervoor was vaak kennis van Frans als voorkennis nodig, maar het onderwijs werd aangeboden in het Nederlands.
+
+  Er waren een groot aantal verschillende soorten, zoals de rij- en schermscholen ("ruiteracademies"), kweekscholen, militaire scholen, klinische scholen enzovoort.
+
+- **Fundaties van Renswoude**: speciale scholen, gesticht met de erfenis van Maria Duyst van Voorhout, waar (een kleine groep van ~12) begaafde jongens werden opgeleid in tekenen, wiskunde en andere technische vakken. Een doorbraak, omdat voor het eerst kwalitatief goed onderwijs beschikbaar kwam voor de benedenlaag van de bevolking.
+
+### Latijnse school
+
+Na de bloei van de Latijse school in de 17<sup>e</sup> eeuw kwam deze in de 18<sup>e</sup> eeuw weer in verval terecht. Er zijn nog maar weinig leerlingen, maar steden houden de school in leven vanwege de prestige.
+
+De relevantie van het Latijn in dagelijks gebruik neemt steeds verder af door de opkomst van het Frans. Op de Latijnse scholen verschijft daardoor de focus ook van het "verloederde" middeleeuwse Latijn dat nog in gebruik was, naar het klassieke Latijn van de oudheid.
+
+> De Renaissance zal hier ongetwijfeld ook een rol in gespeeld hebben, maar de literatuur benoemt dit niet expliciet.
+
+Daarnaast werd Grieks geintroduceerd als bijvak, om het Latijn beter te kunnen begrijpen.
+
+De verschillen tussen verschillende Latijnse scholen lopen teveel uiteen. Daarom besluit Holland tot het invoeren van de 'schoolorde', die bepaald welke vakken gegeven worden, hoe het lesrooster eruit ziet, en welke kennis leerlingen aan het einde moeten hebben.
 
 <style>
 .t1 {
