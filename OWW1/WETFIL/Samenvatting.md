@@ -474,6 +474,8 @@ Het **gemeenschapscriterium** (Bright & Heesen) stelt dat onderzoek wetenschappe
 
 ## 16<sup>e</sup> en 17<sup>e</sup> eeuw
 
+### Staatsvorm & onderwijsbeleid
+
 Nederland heet nog de Republiek der Zeven Verenigde Nederlanden. Het is geen eenheidsstaat, maar een verzameling autonome gewesten. Er zijn daarom ook geen landelijk onderwijsbeleid, alleen lokale verorderingen, in te delen in drie soorten:
 
 - **Gewestelijke verorderingen** die vooral algemene richtlijnen bevatten.
@@ -614,8 +616,8 @@ Hieronder staat kort samengevat hoe de schoolorde er ongeveer uitzag (de literat
     <tr>
       <th>Godsdienst</th>
       <td>2</td>
-      <td>2(?)</td>
-      <td>2(?)</td>
+      <td>2<small>(?)</small></td>
+      <td>2<small>(?)</small></td>
       <td>?</td>
       <td>?</td>
       <td>?</td>
@@ -774,15 +776,24 @@ Hieronder staat kort samengevat hoe de schoolorde er ongeveer uitzag (de literat
 
 ## 18<sup>e</sup> eeuw
 
-De 18<sup>e</sup> eeuw ziet de opkomst van het rationalisme. Men gaat het onderwijs zien als een oplossing voor armoede. Er wordt meer geinvesteerd in het onderwijs, omdat de overheid redeneert dat het beter is om onderwijs te verzorgen dan de maatschappelijke kosten van criminaliteit en armoede te dragen.
+### Verlichting
+
+De 18<sup>e</sup> eeuw is de tijd van de Verlichting ziet de opkomst van het rationalisme. Men gaat het onderwijs zien als een oplossing voor armoede, en onderwijs krijgt een pedagogisch karakter. Opvoeding zou leiden tot betere, verstandigere mensen, en iedereen moest hier toegang toe hebben. Het kind was hierbij het uitgangspunt (niet meer behandeld als een mini-volwassene).
+
+Filosofen en pedagogen uit deze tijd willen kerk en onderwijs scheiden, en streven intellectuele emancipatie na als doel van het onderwijs. Echter is hun werk sterk gericht op kinderen uit betere standen. De hervormingen die ze voorstellen zijn in Nederland niet doorgevoerd; de focus van onderwijsvernieuwingen lag op voorlopig op onderwijs voor de massa's.
+
+<details>
+  <summary>Piëtisme</summary>
+  Een andere stroming die ook van belang is is het Piëtisme, een stroming van het protestantse geloof uit Duitsland die zorg en opvoeding voor alle mensen stimuleerde. De Verlichting en het Piëtisme hadden een fundamenteel anders mensbeeld (Piëtisme: mens is zondig; Verlichting: mens is goed), maar geloofde beide in de opvoedbaarheid van de mens.
+</details>
 
 ### Inhoud van het onderwijs
 
-Inhoudelijk zijn er ook een aantal veranderingen: er is meer behoefte aan mensen die kunnen lezen, schrijven en rekenen. Geletterdheid wordt hoger gewaardeerd en gezien als een manier om hogerop te klimmen in de maatschappij. Nieuwe vakken zoals aardrijkskunde, geschiedenis en natuurkunde komen op. (Al had natuurkunde een andere focus dan tegenwoordig; 'kennis van de natuur' is een betere beschrijving.) 
+Inhoudelijk zijn er ook een aantal veranderingen: er is meer behoefte aan mensen die kunnen lezen, schrijven en rekenen. Geletterdheid wordt hoger gewaardeerd en gezien als een manier om hogerop te klimmen in de maatschappij. Nieuwe vakken zoals aardrijkskunde, geschiedenis en natuurkunde komen op. (Al had natuurkunde een andere focus dan tegenwoordig; 'kennis van de natuur' is een betere beschrijving.)
 
 Het Frans begint het Latijn te vervangen als internationale taal, maar het Latijn blijft voorlopig nog de wetenschappelijke taal en het toegangskaartje tot de universiteit. De school begint ook steeds meer taken op zich te nemen die voorheen in de thuissfeer geleerd werden.
 
-### Nieuwe schoolsoorten
+### Schoolsoorten
 
 Schoolvormen die gedurende de voorgaande eeuw ontstonden worden dominanter:
 
@@ -814,12 +825,55 @@ Schoolvormen die gedurende de voorgaande eeuw ontstonden worden dominanter:
 
 ### Latijnse school
 
-Na de bloei in de eerste helft van de 17<sup>e</sup> eeuw kwam de Latijnse school in verval terecht (de teruggang begon al rond 1650).  De relevantie van het Latijn in dagelijks gebruik neemt verder af door de opkomst van het Frans. In de 17<sup>e</sup> eeuw kon men nog eventueel zonder Frans, maar niet zonder Latijn; in de 18<sup>e</sup> eeuw is dat andersom.
+Na de bloei in de eerste helft van de 17<sup>e</sup> eeuw kwam de Latijnse school in verval terecht (de teruggang begon al rond 1650). De relevantie van het Latijn in dagelijks gebruik neemt verder af door de opkomst van het Frans. In de 17<sup>e</sup> eeuw kon men nog eventueel zonder Frans, maar niet zonder Latijn; in de 18<sup>e</sup> eeuw is dat andersom.
 
-Er zijn nog maar weinig leerlingen, maar steden houden de school in leven vanwege de prestige.
+Er zijn nog maar weinig leerlingen, maar steden houden het instituut in leven vanwege de prestige.
 
 > Een andere verandering is dat vanaf de 18e eeuw de nummering van klassen omgedraaid wordt naar de nummering die we tegenwoordig nog steeds gebruiken: 1 voor de eerste klas en 6 voor de laatste.
 
-## 19e<sup>e</sup> eeuw
+## 19<sup>e</sup> eeuw
+
+### Staatsvorm & onderwijsbeleid
+
+Door de Bataafse Revolutie ontstond de Bataafse Republiek, een eenheidsstaat met een centrale regering in Den Haag. Onderwijs werd een kernpunt van hun nieuwe beleid.
+
+<!--
+Industrialisatie kwam in Nederland pas laat op gang, door een gebrek aan infrastructuur, natuurlijke hulpbronnen, en onvoldoende bereidwilligheid voor investeringen.
+
+Het eind van de 18<sup>e</sup> eeuw wordt ookwel 'Zeitalter des Pauperismus' genoemd, maar in Nederland was de situatie niet erg extreem. De bevolking kon voldoen in dagelijks onderhoud, en op het platteland was weinig sprake van werkloosheid, afgezien van seizoensgebonden werkloosheid in de winter. Alleen in de steden kwam echter armoede voor.
+-->
+
+<!--
+De sociale en politieke structuur van de samenleving was opgedeeld in drie standen:
+
+- De adel
+- Burgerij
+  - 'gezeten' burgerij, zoals kooplieden, fabrikanten, notarissen, hoge ambtenaren
+  - 'eenvoudige' burgerij, zoals ambachtslieden, neringdoenden, lagere ambtenaren, onderwijzers
+
+Voorstel van G.C.C. V atebender: nationaal onderwijs voor iedereen:
+- 6-12 jaar (M) / 6-10 jaar (F): opvoedingsinstituut
+- paar jaar middelbare 'Franse' school
+- jongens naar vakopleiding/ambacht, of Latijse school + uni
+  meisjes naar voortgezette meisjesschool tot 14/15 jaar
+Te radicaal plan, er werd gezocht naar bijsturing ipv omwenteling; anders gaat de machtsstructuur van de maatschappij kapot.
+--->
+
+## Bijlage 1: Complete tijdlijn
+
+## Bijlage 2: Onderwijsdenkers
+
+<details open>
+  <summary>John Locke</summary>
+  Een bekende filosoof uit deze tijd is John Locke. <!-- Hij stelt dat een mens alles aan zijn opvoeding te danken heeft.--> Volgens hem wordt een mens geboren als onbeschreven blad, en maakt opvoeding hem pas tot volwaarlijk mens<!--, en bepaald daarmee zijn betekenis als mens en bruikbaarheid voor de samenleving-->. De omgeving is dus belangrijker dan <!-- genetische--> aanleg.
+</details>
+
+<details open>
+  <summary>Jean Jacques Rousseau</summary>
+  Een andere filosoof uit deze tijd is Jean Jacques Rousseau. Hij stelt dat kinderen van nature nieuwsgierig en goed zijn, en dat opvoeding die nieuwsgierigheid moet koesteren en prikkelen. Hij ziet boeken en straffen als negatieve invloeden en legt nadruk op de voorbeeldfunctie van de leraar.
+  <!--<p>Als je Jean Jacques Rousseau vergelijkt met andere filosofen van de tijd, is een onderscheid tussen hem en bijvoorbeeld John Locke en Mary Wollstonecraft, dat Jean Jacques Rousseau XXX.</p>-->
+</details>
+
+## Bijlage 3: Boekenoverzicht
 
 # Geschiedenis van de onderwijswetenschappen
