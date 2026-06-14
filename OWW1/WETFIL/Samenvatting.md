@@ -472,4 +472,298 @@ Het **gemeenschapscriterium** (Bright & Heesen) stelt dat onderzoek wetenschappe
 
 # Geschiedenis van het onderwijs
 
+## 16<sup>e</sup> en 17<sup>e</sup> eeuw
+
+Nederland heet nog de Republiek der Zeven Verenigde Nederlanden. Het is geen eenheidsstaat, maar een verzameling autonome gewesten. Er zijn daarom ook geen landelijk onderwijsbeleid, alleen lokale verorderingen, in te delen in drie soorten:
+
+- **Gewestelijke verorderingen** die vooral algemene richtlijnen bevatten.
+- **Stedelijke verorderingen** die vooral gericht waren op particulier onderwijs.
+- **Plaatselijke verorderingen** vaak in de vorm van een arbeidsovereenkomst tussen het dorpsbestuur of de kerk en de schoolmeester.
+
+> Plaatselijke en gewestelijke verordeningen leken wel sterk op elkaar<!-- (veel waren gebaseerd op  beslissingen gemaakt in de Synode van Dordrecht van 1619, een kerkvergadering tussen belangrijke stromingen van het Christendom in Nederland)-->, en er was in de gehele Republiek algemene consensus over de doelen en vormgeving van het onderwijs.
+
+De rol van de overheid is erg klein. Er werd aan de ene kant weinig bemoeid met het onderwijs, en aan de andere kant ook weinig geld besteedt aan het onderwijs.
+
+<!--Er waren twee soorten onderwijs: stads- en dorpsscholen werden door het lokaal bestuur  en de kerk georganiseerd en waren gebonden aan de lokale verordeningen. Daarnaast waren er ook particuliere schoolmeesters die onderwijs aanboden.-->
+
+### Organisatie en inhoud van het onderwijs
+
+Kerk, staat en onderwijs zijn sterk vervlochten. Het doel van het onderwijs is dan ook vooral godsdienstig. (Hoewel ouders hun kinderen vooral naar school stuurde om te leren lezen en schrijven.)
+
+De vakken zijn godsdienst, lezen, schrijven, en in uitzonderlijke gevallen ook rekenen (maar vaak werden hiervoor extra kosten in rekening gebracht).
+
+<!--
+Hiervoor werd in de 16<sup>e</sup> eeuw en het begin van de 17<sup>e</sup> eeuw nog het vragenboekje van Marnix van Sint Aldejonde gebruikt, dat zich sterk afzette tegen het rooms-katholieke geloof en kinderen de "verwerpelijkheid" daarvan moest tonen. Gedurende de eeuw werd dit vervangen door een milder vragenboekje van Jacob Borstius.
+-->
+
+> Leesonderwijs is gericht op het lezen van de Bijbel; het is een middel voor het godsdienstige onderwijs. Het is ook geen basisvaardigheid zoals in het hedendaagse onderwijs, maar een einddoel opzich.
+
+Het onderwijs moest voor iedereen toegankelijk zijn. Daarom is er een maximumbedrag voor schoolgeld, en was het onderwijs voor arme kinderen gratis. Ouders maken hier echter weinig gebruik van, omdat ze het inkomen uit de arbeid van hun kinderen niet kunnen missen, en lezen en schrijven hun positie op de arbeidsmarkt ook niet versterkt.
+
+Het schoolgaan was onregelmatig. Er was geen leerplicht en ouders hielden hun kinderen vaak thuis als er behoefte was aan extra arbeidskrachten. Daarnaast werd schoolgeld per week of per maand betaald, en werd het volledige bedrag gerekend, ook als een kind die periode maar de school maar één keer bezocht had. Daarom hielden ouders, een kind dat al één dag gemist had, vaak de rest van de periode ook thuis.
+
+De verhouding jongens op meiden was ongeveer gelijk, maar meiden leerden minder lang door en hadden over het algemeen meer verzuim omdat er op hen vaker een beroep werd gedaan voor huishoudelijke taken en oppas.
+
+De onderwijsvorm van de tijd was hoofdelijk onderwijs. Dat hield in dat alle leerlingen zelfstandig en op eigen tempo de stof doorwerkten, en zo af en toe overhoord werden door de meester. Het klaslokaal (een eenvoudige, slecht verlichte ruimte) was hier ook op ingericht: er zijn geen vaste plaatsen, en leerlingen zitten of lopen door elkaar, jongens en meiden gemengd.
+
+> Dit was beide volgens de verordeningen niet de bedoeling, maar door het onregelmatige schoolgaan en meubilair van de tijd waren vaste plekken moeilijk te realiseren.
+
+De meester is het centrale figuur. Hij zit midden in de ruimte op een verhoogde lessenaar, waar hij goed overzicht kan houden over de leerlingen. Hij wordt waar nodig (vooral in steden met grotere klassen) ondersteund door zijn vrouw, een ondermeester, of oudere leerlingen.
+
+<!--
+Deze vorm van onderwijs was chaotisch, maar volgens de literatuur waren de resultaten "bevredigend".
+-->
+
+### De schoolmeester <small>(ookwel 'schoolhouder')</small>
+
+<!-- Een school werd beheerd door één schoolmeester (ookwel 'schoolhouder'). -->
+
+Er was geen opleiding om schoolmeester te worden en er waren ook geen bekwaamheidseisen, behalve in een paar steden waren een examen afgelegd moest worden. De enige eisen die gesteld werden waren op godsdienstig gebied, en werden gesteld door de kerk: hervormde gezindheid, bij voorkeur lidmaatschap aan een hervormde kerk, godsvrucht en een goede levenswandel. In sommige steden was ervaring als ondermeester wel nodig, waarbij bepaalde leermeesters hoger gewaardeerd werden dan anderen. Er was geen minimumleeftijd om meester te worden (behalve in Dordrecht, daar moest je 25 zijn), maar een leeftijd van 18-20 jaar was gebruikelijk. Ondermeesters begonnen vaak rond ongeveer 12-16 jaar.
+
+In dorpen werden schoolmeesters door de kerk en het dorpsbestuur samen benoemd. Een aanstelling was voor het leven, en bij wangedrag volgde zelden ontslag, omdat de meester dan in de bijstand ("diakonie") terecht zou komen, en dat was duur.
+
+Het inkomen van de schoolmeester was het schoolgeld, dat wekelijks of maandelijks door ouders betaald werd. Hij was zelf verantwoordelijk dit te innen. Daarnaast kregen meesters vaak nog een toelage van de kerk of het dorpsbestuur, en konden ze bijverdienen door het aanbieden van extra diensten, zoals ganzenveren snijden of schrijfvoorbeelden maken.
+
+> Omdat het grootste deel van het inkomen van een schoolmeester direct bij de ouders vandaan kwam, speelden ouders ook een grote rol in het 17<sup>e</sup>-eeuwse onderwijs.
+
+Het salaris was dusdanig laag dat een meester vaak genoodzaakt was tot nevenwerkzaamheden, zoals een <span title="koster, voorzanger, voorlezer, catechisatie, etc.">kerkfunctie</span>. Hiervoor was vaak wel een praktijkexamen nodig. XXX
+
+Een schoolmeester had geen recht op pensioen, maar kon er wel lief om vragen. Het pensioen was vaak erg laag, en in veel gevallen werd het ingehouden op het salaris van de opvolger.<!-- VRAAG: hoe werkt dat als het salaris uit schoolgeld komt?? --> Weduwen kregen niks.
+
+De meester mocht kinderen straffen naar eigen inzicht. Veelvoorkomende straffen waren een pak slaag (met de plak of roe), opsluiting in de kast en vernedering. <!--(Straffen zoals extra huiswerk, nablijven of strafregels konden toen nog niet gebruikt wordt.)--> <!--Eigenlijk was de enige regel dat schoolmeesters kinderen niet tot bloedens toe mochten slaan.--> De meester was geacht "streng maar vaderlijk" op te treden en moest 'ontzachelijk' zijn: gezag hebben maar tevens spaarzaam omgaan met de plak en roe. De uiterste straf die een meester kon opleggen was een kind van school sturen, maar dat was echt een noodmaatregel, omdat het direct verlies van inkomen voor de meester betekende.
+
+### Schooltijden
+
+De school was zes uur per dag open. Op het midden van de dag hadden kinderen twee uur pauze, waarin ze eventueel naar huis kunnen gaan. School begint aanvankelijk om 6:00 of 7:00, maar dit werd gedurende de eeuw steeds later. <!-- Het was bij hoofdelijk onderwijs minder storend als kinderen te laat kwamen. -->
+
+Er waren aanvankelijk ook geen schoolvakanties, maar deze worden later wel ingevoerd en worden ook steeds langer. De vakantie is vooral voor de meester bedoeld; kinderen konden immers elk moment thuisblijven, want de leerplicht was bestond nog niet
+
+Er was geen structuur in het schooljaar. Er was geen eerste of laatste schooldag, er waren geen klassen of overgangen. Iedere leerling had een eigen leerproces, en ging verder waar hij of zij gebleven was. Er was vaak wel sprake van een zomer- en winterseizoen, met aangepaste schooltijden. 
+
+> In de zomer ging de school soms dicht, omdat alle leerlingen dan aan het werk waren op het land. Dit was volgens verorderingen overigens wel verboden.<!-- (En ook om op rooms-katholieke feestdagen de school te sluiten; basically om de katholieken na de reformatie nog een beetje te pesten.)-->
+
+De woensdag- of zaterdagmiddag waren vaak gedeeltelijk vrij. Op zaterdagochtend werd meestal het lokaal opgeruimd, waarna de kerkdienst van zondag alvast werd voorbereid.
+
+### Schooltoezicht
+
+De scholen werden gecontrolleerd door door de zogenaamde "scholarchen", een overblijfsel uit de middeleeuwen. Scholarchen kwamen vaak uit de kerk of het lokale bestuur. Ook werden bepaalde  taken werden gedelegeerd aan de schoolmeestersgilde.
+
+- Bijscholen werden door het schoolmeestersgilde gecontrolleerd.
+- Stads- en dorpsscholen werden door de schoolarchen gecontrolleerd.
+
+Het was de bedoeling dat zij de scholen onaangekondigd bezochten. In de praktijk waren bezoeken echter vrijwel altijd aangekondigd (meestal bij prijsuitrijkingen of examens) en goed voorbereidt door de school.<!-- VRAAG: ik dacht dat er geen toetsen waren??-->
+
+Naast hun functie als toezichthouder, losten ze ook verschillende geschillen op tussen schoolhouders en ouders en schoolhouders onderling, en handhaafde ze overige regels uit de verorderingen, zoals bijv. de numerus clausus op de hoeveelheid schoolmeesters in een stad.
+
+> Zoals misschien te verwachten is, was de schoolmeestersgilde over het algemeen strenger in het handhaven van de numerus clausus dan de scholarchen.
+
+### Schoolsoorten
+
+In de middeleeuwen ontstaat de grote school, met een onder- en bovenbouw. In de 16<sup>e</sup>  eeuw wordt deze opgesplitst in twee schoolsoorten:
+
+- **Nederduitse school** (voormalig onderbouw): stads-, armen- en particuliere scholen waar in het Nederlands lezen en schrijven geleerd wordt.
+- **Latijnse school** (voormalig bovenbouw): stadsschool waar in het Latijns onderwijs wordt gegeven in verschillende vakken.
+
+Tussen verschillende scholen bestonden grote verschillen in leeftijd, niveau, aantal leerlingen, schoolgeld, en voorzieningen.
+
+## 18<sup>e</sup> eeuw
+
+<style>
+.t1 {
+  width: min(1200px, 100vw);
+  max-width: none;
+  margin-left: 50%;
+  margin-top: 3em;
+  transform: translateX(-50%);
+}
+.t1 tbody tr:last-child td:nth-child(2) {
+  text-align: center;
+}
+</style>
+
+<table class="t1">
+  <thead>
+    <tr>
+      <th>Vak</th>
+      <th>jaar 1 (klas 6)</th>
+      <th>jaar 2 (klas 5)</th>
+      <th>jaar 3 (klas 4)</th>
+      <th>jaar 4 (klas 3)</th>
+      <th>jaar 5 (klas 2)</th>
+      <th>jaar 6 (klas 1)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Calligrafie / schrijven</th>
+      <td>6</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>facultatief</td>
+      <td>facultatief</td>
+    </tr>
+    <tr>
+      <th>Godsdienst</th>
+      <td>2</td>
+      <td>2(?)</td>
+      <td>2(?)</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <th>Latijn</th>
+      <td>24</td>
+      <td>26</td>
+      <td>20</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <td>waarvan grammatica</td>
+      <td>24</td>
+      <td>6</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <td>waarvan woordenschat</td>
+      <td>–</td>
+      <td>2</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <td>waarvan lezen</td>
+      <td>–</td>
+      <td>8</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <td>waarvan oefenen</td>
+      <td>–</td>
+      <td>6</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <td>waarvan repetities</td>
+      <td>–</td>
+      <td>2</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <td>waarvan disputen</td>
+      <td>–</td>
+      <td>2</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <th>Grieks</th>
+      <td>–</td>
+      <td>–</td>
+      <td>4</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>waarvan grammatica</td>
+      <td>–</td>
+      <td>–</td>
+      <td>4</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>waarvan schrift</td>
+      <td>–</td>
+      <td>bij calligrafie</td>
+      <td>–</td>
+      <td>–</td>
+      <td>–</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <th>Frans</th>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <th>Logica &amp; retorica</th>
+      <td>–</td>
+      <td>–</td>
+      <td>–</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <th>Muziek</th>
+      <td>–</td>
+      <td>–</td>
+      <td>–</td>
+      <td>–</td>
+      <td>facultatief</td>
+      <td>facultatief</td>
+    </tr>
+    <tr>
+      <th>Wiskunde / rekenen</th>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <th>Aardrijkskunde</th>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <th>Geschiedenis</th>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <th>Totaal lesuren</th>
+      <td colspan="5">32 uur/week</td>
+      <td>24 uur/week</td>
+    </tr>
+  </tbody>
+</table>
+
+## 19e<sup>e</sup> eeuw
+
 # Geschiedenis van de onderwijswetenschappen
