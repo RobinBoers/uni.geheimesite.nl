@@ -499,6 +499,14 @@ Hiervoor werd in de 16<sup>e</sup> eeuw en het begin van de 17<sup>e</sup> eeuw 
 -->
 
 > Leesonderwijs is gericht op het lezen van de Bijbel; het is een middel voor het godsdienstige onderwijs. Het is ook geen basisvaardigheid zoals in het hedendaagse onderwijs, maar een einddoel opzich.
+>
+> Het leesonderwijs werd georganiseerd in vier fases:
+> - Alfabet leren <small>(vaak meerdere keren in verschillende 'lettertypen')</small>
+> - Spellen
+> - Spellende lezen
+> - Lezende lezen
+>
+> Pas als een leerling kon lezen mocht deze beginnen met schrijfonderwijs. Schrijven werd nog gezien als een "kunst", die ook niet voor iedereen was weggelegd. Het was belangrijker om mooi te kunnen schrijven dan om überhaupt te kunnen schrijven.
 
 Het onderwijs moest voor iedereen toegankelijk zijn. Daarom is er een maximumbedrag voor schoolgeld, en was het onderwijs voor arme kinderen gratis. Ouders maken hier echter weinig gebruik van, omdat ze het inkomen uit de arbeid van hun kinderen niet kunnen missen, en lezen en schrijven hun positie op de arbeidsmarkt ook niet versterkt.
 
@@ -528,11 +536,17 @@ Het inkomen van de schoolmeester was het schoolgeld, dat wekelijks of maandelijk
 
 > Omdat het grootste deel van het inkomen van een schoolmeester direct bij de ouders vandaan kwam, speelden ouders ook een grote rol in het 17<sup>e</sup>-eeuwse onderwijs.
 
-Het salaris was dusdanig laag dat een meester vaak genoodzaakt was tot nevenwerkzaamheden, zoals een <span title="koster, voorzanger, voorlezer, catechisatie, etc.">kerkfunctie</span>. Hiervoor was vaak wel een praktijkexamen nodig. XXX
+Het salaris was dusdanig laag dat een meester vaak genoodzaakt was tot nevenwerkzaamheden, zoals <span title="chirurgijn, schoenlapper, klompenmaker, boekbinder">ambachten</span>, <span title="secretatis, bode, landmeter, notaris">administratieven functies</span> of een <span title="koster, voorzanger, voorlezer, catechisatie, etc.">kerkfunctie</span>. (Hiervoor was vaak wel een praktijkexamen nodig.)
 
 Een schoolmeester had geen recht op pensioen, maar kon er wel lief om vragen. Het pensioen was vaak erg laag, en in veel gevallen werd het ingehouden op het salaris van de opvolger.<!-- VRAAG: hoe werkt dat als het salaris uit schoolgeld komt?? --> Weduwen kregen niks.
 
 De meester mocht kinderen straffen naar eigen inzicht. Veelvoorkomende straffen waren een pak slaag (met de plak of roe), opsluiting in de kast en vernedering. <!--(Straffen zoals extra huiswerk, nablijven of strafregels konden toen nog niet gebruikt wordt.)--> <!--Eigenlijk was de enige regel dat schoolmeesters kinderen niet tot bloedens toe mochten slaan.--> De meester was geacht "streng maar vaderlijk" op te treden en moest 'ontzachelijk' zijn: gezag hebben maar tevens spaarzaam omgaan met de plak en roe. De uiterste straf die een meester kon opleggen was een kind van school sturen, maar dat was echt een noodmaatregel, omdat het direct verlies van inkomen voor de meester betekende.
+
+### De schoolvrouw
+
+Het was in principe niet toegestaan voor vrouwen om een dorps- of stadsschool te houden. Echter, soms werd een school gehouden door een man en vrouw samen, of zette een weduwe de school van haar overleden man voort. Daarnaast was in veel dorpen de hulp van de vrouw van de schoolmeester onmisbaar. Eenvoudige particuliere Nederduitse scholen waren wel toegestaan.
+
+Daarnaast zijn er bewaarvrouwen die een bewaarschool hielden, een soort primitieve vorm van kinderopvang. Er werd hier geen onderwijs aangeboden.
 
 ### Schooltijden
 
@@ -567,6 +581,11 @@ In de middeleeuwen ontstaat de grote school, met een onder- en bovenbouw. In de 
 
 - **Nederduitse scholen** (voormalig onderbouw): dorps-, stads- en particuliere scholen waar in het Nederlands lezen en schrijven geleerd wordt.
 - **Latijnse scholen** (voormalig bovenbouw): stadsschool waar in het Latijns onderwijs wordt gegeven in verschillende vakken.
+
+Naast dit onderscheid kan er ook onderscheid gemaakt aan de hand van de financiëring van de school:
+
+- **Stads- en dorpsscholen** worden door de overheid en kerk verzorgd, en waren gebonden aan de regels uit plaatselijke verorderingen, zoals het maximum schoolgeld.
+- **Particuliere scholen** worden door zelfstandige ondernemers verzorgd. Vooral in de steden waren de verordeningen gericht op het reguleren van particuliere schoolhouders en hun onderlinge concurrentie (numerus clausus, verbod op overnemen van leerlingen met schulden bij een ander, etc.)
 
 Tussen verschillende scholen bestonden grote verschillen in leeftijd, niveau, aantal leerlingen, schoolgeld, en voorzieningen.
 
