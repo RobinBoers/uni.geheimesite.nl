@@ -1,4 +1,6 @@
-# Geschiedenis van het onderwijs
+---
+title: Geschiedenis van het onderwijs
+---
 
 ## Oudheid
 
@@ -551,6 +553,8 @@ Te radicaal plan, er werd gezocht naar bijsturing ipv omwenteling; anders gaat d
 
 ## Bijlage 1: Complete tijdlijn
 
+...
+
 ## Bijlage 2: Onderwijsdenkers
 
 <details open>
@@ -583,4 +587,4 @@ Te radicaal plan, er werd gezocht naar bijsturing ipv omwenteling; anders gaat d
 
 ## Bijlage 3: Boekenoverzicht
 
-# Geschiedenis van de onderwijswetenschappen
+...

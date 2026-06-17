@@ -2,6 +2,10 @@
 title: Wetenschapsfilosofie
 ---
 
+> Heyy! Ik strugglede nogal met het samenvatten van het onderdeel onderwijsgeschiedenis in deze cursus. De stof was all-over-the-place, veel uit de hoorcolleges stond niet in de literatuur en het was allemaal een beetje overwhelming.
+>
+> Dat deel van de samenvatting is daardoor incompleet en niet van super hoge kwaliteit. Ik heb daarom besloten die samenvatting los te publiceren. [Lezen op eigen risico.](Samenvatting2.md)
+
 <!--
 > Sociale wetenschappen kan worden onderverdeeld in twee stromingen:
 >
