@@ -107,3 +107,4 @@ Dit is een kopie van mijn [originele site](//school.geheimesite.nl), maar dan vo
 - [Ontwerpen van leersituaties](/OWW1/OVL/Samenvatting.md)
 - [Education & ICT](/OWW1/EICT/Samenvatting.md)
 - [Wetenschapsfilosofie](/OWW1/WETFIL/Samenvatting.md)
+- [Toepassing van onderzoeksmethoden en statistiek](/OWW1/TOE/Samenvatting.md)
