@@ -158,3 +158,39 @@ De betrouwbaarheidsanalyse geeft twee resultaten: een Cronbach's \\(\alpha\\) en
 Als \\(rit < .20\\) en \\(\alpha\\) stijgt bij verwijderen, moet een item verwijderd worden. Je haalt het item dan uit de betrouwbaarheidsanalyse, en neemt het niet meer mee in het berekenen schaalscores.
 
 > Alle data in de tabel staat met elkaar in samenhang. Het is daarom uitermate belangrijk dat maar <strong>één item per keer wordt verwijderd!</strong>
+
+### Regressie
+
+Bij regressie maak je een model waarmee je op basis van één of meer predictorvariabelen voorspellingen kan doen over een andere variabele. We noemen de predictorvariabelen onafhankelijk, en de voorspelde variabele afhankelijk. Bij enkelvoudige regressie is één predictorvariabele, bij meervoudige regressie zij er meerderen.
+
+Je voert een regressie uit via <span class="root">Regression</span> <span class="sub">Classical</span> <span class="sub">Linear Regression</span>. Je kiest dan bij <span class="input">Dependent Variable</span> de afhankelijke variabele en bij <span class="input">Covariates</span> de onafhankelijken.
+
+De regressie geeft drie resultaten:
+
+- In <span>Model Summary</span> zijn drie waardes te zien (gecorrigeerde \\(R^2\\) mag je negeren):
+
+  - \\(R\\) is de Pearson-correlatiecoëfficient tussen de variabelen bij enkelvoudige regressie, en mag je negeren bij meervoudige regressie.
+  - \\(R^2\\) is het percentage van de variantie (op de afhankelijke variabele) die door het model verklaard kan worden.
+  - \\(\text{RMSE}\\) (Root Mean Squared Error) is de standaardschattingsfout, die aangeeft hoe accuraat de voorspellingen van ons model zijn.
+
+- In <span>Coefficients</span> geeft ons coëfficienten per predictorvariabele:
+
+  - **Unstandardized** (\\(rc\\)) geeft aan hoeveel punten de afhankelijke variabele stijgt als de predictorvariabele met één punt toeneemt. We noemen dit de richtingscoëfficient.
+
+  - **Standardized** (\\(\beta\\)) geeft aan hoeveel SD de afhankelijke variabele stijgt als de predictorvariabele met één SD toeneemt. Wordt gebruikt voor de \\(t\\)-toets, die aangeeft of de predictorvariabele significant invloed heeft op de afhankelijke variabele.
+
+    > De hypotheses voor deze toets zijn:
+    > \\(H_0: \beta = 0\\) en
+    > \\(H_A: \beta \neq 0\\)
+
+  Daarnaast staan er nog een aantal waardes in deze tabel:
+
+  - **\\(M_0\\) (Intercept)** is de beste voorspelling *zonder predictorvariabelen*.
+  - **\\(M_1\\) (Intercept)** is het snijpunt van het model en de \\(y\\)-as.
+
+- In <span>ANOVA</span> staat een \\(F\\)-toets die de significantie van het model checkt. <!-- VRAAG: welke variantie wordt hier berekend?? variantie waarvan?? -->
+
+  > De hypotheses voor deze toets zijn: \\(H_0: \rho = 0\\) en \\(H_A: \rho > 0\\)  
+  > (de variantie kan nooit \\(< 0\\) zijn, dus daarom een eenzijdige toets)
+
+Dus de \\(F\\)-toets uit <span>ANOVA</span> geeft de significantie van het *gehele model*, en de \\(t\\)-toets uit <span>Coefficients</span> geeft de significantie van *individuele predictorvariabelen*.
