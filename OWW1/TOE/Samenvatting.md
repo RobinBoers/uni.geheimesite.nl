@@ -2,7 +2,7 @@
 title: Toepassing van onderzoeksmethoden en statistiek
 ---
 
-> Deze is nog niet af. Ik verwacht 21 juni klaar te zijn.
+> Deze is nog niet af. Ik verwacht 21 juni klaar te zijn. Deze samenvatting veronderstelt voorkennis van [KOM](../KOM/Samenvatting.md).
 
 <br>
 
@@ -121,15 +121,18 @@ apply(data.frame(Q1, Q2, Q3), 1, mean, na.rm=True)
 > Ik weet eerlijk gezegd niet wat het verschil is tussen dit en gewoon `Q1 + Q2 + Q3`.
 -->
 
+Het is ook mogelijk om een gewogen gemiddelde te berekenen. Daarbij tellen bepaalde vragen zwaarder mee dan anderen. Dit wordt niet behandeld bij TOE en is geen tentamenstof.
+
 ## Onderzoeksontwerp
 
-- **Between-subjects**: proefpersonen worden met elkaar vergeleken.
+- **Between-subjects** (dwarsdoorsnede<!--/cross-sectioneel--> panel): proefpersonen worden met elkaar vergeleken.
 
   <div class="box">
   <h4>Voordelen</h4>
   <ul>
   <li>Geen volgorde- of leereffecten.</li>
-  <li>Lagere investering nodig, lagere drempel voor deelname, minder uitval.</li>
+  <li>Lagere investering nodig, lagere drempel voor deelname, minder uitval (attrition).</li>
+  <li>Nuttig voor effecten op groepsniveau.</li>
   </ul>
   </div>
 
@@ -141,13 +144,15 @@ apply(data.frame(Q1, Q2, Q3), 1, mean, na.rm=True)
   </ul>
   </div>
 
-- **Within-subjects**: proefpersonen worden met zichzelf vergeleken.
+- **Within-subjects** (longitudinaal panel): proefpersonen worden met zichzelf vergeleken.
 
   <div class="box">
   <h4>Voordelen</h4>
   <ul>
   <li>Controlleert voor bestaande verschillen.</li>
+  <li>Kan leeftijds-, periode-, of cohort-effecten vinden.</li>
   <li>Hogere power, minder observaties nodig. Goedkoper.</li>
+  <li>Nuttig voor effecten op individueel niveau.</li>
   </ul>
   </div>
 
@@ -156,11 +161,11 @@ apply(data.frame(Q1, Q2, Q3), 1, mean, na.rm=True)
   <ul>
   <li>Volgorde-effecten. Oplossingen: counterbalancing.</li>
   <li>Leereffecten. Oplossingen: counterbalancing.</li>
-  <li>Grotere investering nodig, hogere drempel voor deelname, meer uitval.</li>
+  <li>Grotere investering nodig, hogere drempel voor deelname, meer uitval (attrition).</li>
   </ul>
   </div>
 
-  > Volgorde-effecten houdt in dat de scores van eerdere meetmomenten invloed hebben op de scores van latere meetmomenten. Leereffecten houdt in dat de prestatie verbetert over tijd, los van manipulatie. Beide worden opgelost door counterbalancing: het randomiseren van de volgorde.
+  > Volgorde-effecten houdt in dat de scores van eerdere meetmomenten invloed hebben op de scores van latere meetmomenten. Leereffecten (aka "panel conditioning") houdt in dat de prestatie verbetert over tijd, los van manipulatie. Beide worden opgelost door counterbalancing: het randomiseren van de volgorde.
   
 ## Data-analyse
 
@@ -225,23 +230,75 @@ Om een betrouwbaarheidsanalyse uit te voeren ga je naar <span class="root">Relia
 
 De betrouwbaarheidsanalyse geeft twee resultaten: een Cronbach's \\(\alpha\\) en een tabel met items. In de tabel laat de <span>item-rest correlation</span> (ookwel \\(rit\\)-waarde) zien hoe sterk een item samenhangt met de rest, en de <span>Cronbach's alpha if dropped</span> laat zien wat er \\(\alpha\\) zou gebeuren als het item verwijderd zou worden.
 
-Als \\(rit < .20\\) en \\(\alpha\\) stijgt bij verwijderen, moet een item verwijderd worden. Je haalt het item dan uit de betrouwbaarheidsanalyse, en neemt het niet meer mee in het berekenen schaalscores.
+Als \\(rit < .20\\) en \\(\alpha\\) sterk stijgt bij verwijderen, moet een item verwijderd worden. Je haalt het item dan uit de betrouwbaarheidsanalyse, en neemt het niet meer mee in het berekenen schaal&shy;scores. Houdt hierbij wel rekening met de inhoudelijke en subjectieve relevantie van het item.
 
-> Alle data in de tabel staat met elkaar in samenhang. Het is daarom uitermate belangrijk dat maar <strong>één item per keer wordt verwijderd!</strong>
+> Alle data in de tabel staat met elkaar in samenhang. Het is daarom uitermate belangrijk dat er <strong>maximaal één item per keer wordt verwijderd!</strong>
+
+Voor de interpretatie van Cronbach's \\(\alpha\\) geldt binnen de sociale wetenschappen:
+
+| Cronbach's \\(\alpha\\) | interpretatie |
+|-------------------------|---------------|
+| \\(< .70\\)             | slecht        |
+| \\(< .80\\)             | gemiddeld     |
+| \\(> .80\\)             | goed          |
+
+> Dit is afhankelijk van de consequenties bij foute interpretatie. Voor medisch onderzoek zou je waarschijnlijk een hogere grenswaarde hanteren dan binnen de sociale wetenschappen.
 
 ### Regressie
 
-Bij regressie maak je een model waarmee je op basis van één of meer predictorvariabelen voorspellingen kan doen over een andere variabele. We noemen de predictorvariabelen onafhankelijk, en de voorspelde variabele afhankelijk. Bij enkelvoudige regressie is één predictorvariabele, bij meervoudige regressie zij er meerderen.
+Bij regressie maak je een model waarmee je op basis van één of meer predictorvariabelen voorspellingen kan doen over een andere variabele. We noemen de predictorvariabelen onafhankelijk (\\(x\\)-as), en de voorspelde variabele afhankelijk (\\(y\\)-as). Bij enkelvoudige regressie (<abbr title="Simple Linear Regression">SLR</abbr>) is één predictorvariabele, bij meervoudige regressie (<abbr title="Multiple Linear Regression">MLR</abbr>) zij er meerderen.
+
+Een regressie bepaalt de meest accurate lijn door een puntenwolk, en drukt deze lijn uit als wiskundig verband. Dit proces noemen we functiefit. De techniek die hiervoor gebruikt wordt heet *least squares regression*. Daarbij wordt voor elke punt de afstand tot de lijn ("residu") bepaald. De lijn met de laagste som van gekwadrateerde residuen ("sum of squared residues") wint. (Het kwadraat is zodat positieve en negatieve residuen elkaar niet opheffen.)
+
+- Als er weinig spreiding is (kleine residuen), zijn voorspellingen nauwkeuriger.
+- Als er meer spreiding is (grotere residuen), zijn de voorspellingen minder nauwkeurig.
+
+De standaardschattingsfout (\\(\text{RMSE}\\)) is de standaarddeviatie van de residuen, en drukt de nauwkeurigheid van voorspellingen uit.
+
+#### Assumpties
+
+Voordat je een regressie mag uitvoeren moeten eerst de voorwaarden gecheckt worden:
+
+<div class="box">
+  <h4>Voorwaarden</h4>
+  <ul>
+    <li>Minimaal interval/ratio</li>
+    <li>Geen uitschieters</li>
+    <li>Normale verdeling van residuen</li>
+    <li>Gelijke spreiding van residuen</li>
+    <li>Linear verband<small><sup>*</sup></small></li>
+  </ul>
+</div>
+
+> "Gelijke spreiding", "homogeniteit van variantie" en "homoscedasticiteit" betekenen hetzelfde. In deze samenvatting gebruik ik overal "gelijke spreiding" omdat ik dat het makkelijkst te begrijpen vind.
+
+De voorwaarde van meetniveau kan je bepalen zonder statistiek. De uitschieters en spreiding kan je opvragen: (Over de normaliteit werd niks gezegd in het hoorcollege of de Grasples.)
+
+- De lineariteit controlleer je via <span class="root">Descriptives</span> <span class="sub">Descriptive Statistics</span>. Kies de afhankelijke variabele en split op de onafhankelijke variabele (doe dit per predictorvariabele).
+
+  > <small><sup>\*</sup></small>Deze voorwaarde is alleen geschonden als er *een duidelijk ander verband* zichtbaar is. Als er *geen verband* zichtbaar is is de voorwaarde *niet geschonden*.
+
+- Uitschieters controlleer je via <span class="root">Descriptives</span> <span class="sub">Descriptive Statistics</span>. Kies de afhankelijke variabele. Vraag dan via <span class="current">Customizable plots</span> <span class="sub">Boxplots</span> een boxplot op, en doe een visuele check.
+
+- De normaliteit controlleer je via <span class="current">Residual plots</span> <span class="sub">Residuals histogram</span> tijdens de analyse zometeen. Doe een visuele check op de histogram.
+
+- De spreiding controlleer je via <span class="current">Residual plots</span> <span class="sub">Residuals vs. predicted</span> tijdens de analyse zometeen. Het is goed als er geen duidelijk patroon (bijv. driehoek, bowtie etc.) in de diagram zit.
+
+#### Analyse uitvoeren
 
 Je voert een regressie uit via <span class="root">Regression</span> <span class="sub">Classical</span> <span class="sub">Linear Regression</span>. Je kiest dan bij <span class="input">Dependent Variable</span> de afhankelijke variabele en bij <span class="input">Covariates</span> de onafhankelijken.
+
+#### Resultaten interpreteren
 
 De regressie geeft drie resultaten:
 
 - In <span>Model Summary</span> zijn drie waardes te zien (gecorrigeerde \\(R^2\\) mag je negeren):
 
   - \\(R\\) is de Pearson-correlatiecoëfficient tussen de variabelen bij enkelvoudige regressie, en mag je negeren bij meervoudige regressie.
-  - \\(R^2\\) is het percentage van de variantie (op de afhankelijke variabele) die door het model verklaard kan worden.
+  - \\(R^2\\) is de effectgrootte: het percentage van de variantie (op de afhankelijke variabele) die door het model verklaard kan worden.
   - \\(\text{RMSE}\\) (Root Mean Squared Error) is de standaardschattingsfout, die aangeeft hoe accuraat de voorspellingen van ons model zijn.
+
+  > De \\(\text{RMSE}\\) geeft de nauwkeurigheid van het model, de \\(R^2\\) geeft de relevantie.
 
 - In <span>ANOVA</span> staat een \\(F\\)-toets die de significantie van het model checkt. <!-- VRAAG: welke variantie wordt hier berekend?? variantie waarvan?? -->
 
@@ -249,18 +306,31 @@ De regressie geeft drie resultaten:
 
 - In <span>Coefficients</span> geeft ons coëfficienten per predictorvariabele:
 
-  - **Unstandardized** (\\(rc\\)) geeft aan hoeveel punten de afhankelijke variabele stijgt als de predictorvariabele met één punt toeneemt. We noemen dit de richtingscoëfficient.
+  - **Unstandardized** (\\(b\\)) geeft aan hoeveel punten de afhankelijke variabele stijgt als de predictorvariabele met één punt toeneemt. We noemen dit de richtingscoëfficient.
 
-  - **Standardized** (\\(\beta\\)) geeft aan hoeveel SD de afhankelijke variabele stijgt als de predictorvariabele met één SD toeneemt. Wordt gebruikt voor de \\(t\\)-toets, die aangeeft of de predictorvariabele significant invloed heeft op de afhankelijke variabele.
+  - **Standardized** (\\(\beta\\)) geeft aan hoeveel SD de afhankelijke variabele stijgt als de predictorvariabele met één SD toeneemt. Wordt gebruikt voor de \\(t\\)-toets, die aangeeft of de richtingscoëfficient invloed heeft (aka significant verschilt van nul).
 
     <div class="box"><h4 class="inline">Hypotheses</h4> \(H_0: \beta = 0\) en \(H_A: \beta \neq 0\)</div>
 
   Daarnaast staan er nog een aantal waardes in deze tabel:
 
-  - **\\(M_0\\) (Intercept)** is de beste voorspelling *zonder predictorvariabelen*.
-  - **\\(M_1\\) (Intercept)** is het snijpunt van het model en de \\(y\\)-as.
+  - **\\(M_0\\) (Intercept)** is de beste voorspelling *zonder predictorvariabelen*<!--; gemiddelde van alle \\(y\\)-waarden-->.
+  - **\\(M_1\\) (Intercept)** is het snijpunt van het model en de \\(y\\)-as (later aangegeven met \\(b_0\\)).
 
 Dus de \\(F\\)-toets uit <span>ANOVA</span> geeft de significantie van het *gehele model*, en de \\(t\\)-toets uit <span>Coefficients</span> geeft de significantie van *individuele predictorvariabelen*.
+
+#### Formule opstellen
+
+Mits significant, kan je het model weergeven als wiskundige functie in de vorm \\(y = ax + b\\):
+
+\\[\hat{y} = b_0 + b_1 x_1 + b_2 x_2 + b_3 x_3 ... b_n x_n\\]
+
+Waarbij \\(b_0\\) het snijpunt met de \\(y\\)-as is, \\(b_n\\) de richtingscoëfficient van de predictorvariabele, en \\(x_n\\) de waarde van de predictorvariabele. Het dakje geeft aan dat het om een voorspelling gaat.
+
+<details open>
+  <summary>Balans vinden tussen eenvoud en nauwkeurigheid</summary>
+  <p>Het toevoegen van meer predictorvariabelen zal altijd zorgen voor een toename van \(R^2\) en een afname van \(\text{RMSE}\). Echter is het belangrijk om een balans te vinden tussen de hoeveelheid predictorvariabelen; het doel is een spaarzaam (‘parsimonious’) model dat eenvoudig én nauwkeurig is.</p>
+</details>
 
 ### \\(t\\)-toets
 
@@ -292,8 +362,6 @@ Voordat je een \\(t\\)-toets mag uitvoeren moeten eerst de voorwaarden gecheckt 
 
 <div style="clear: both"></div>
 
-> "Gelijke spreiding", "homogeniteit van variantie" en "homoscedasticiteit" betekenen hetzelfde. In deze samenvatting gebruik ik overal "gelijke spreiding" omdat ik dat het makkelijkst te begrijpen vind.
-
 De voorwaardes van steekproef, onafhankelijkheid en meetniveau kan je bepalen zonder statistiek. De verdeling en spreiding kan je opvragen:
 
 - De normaliteit controlleer je via <span class="root">Descriptives</span> <span class="sub">Descriptive Statistics</span>. Kies de afhankelijke variabele en split op de onafhankelijke variabele. Vraag dan via <span class="current">Basic plots</span> <span class="sub">Distribution plots</span> een histogram op, en doe een visuele check.
@@ -322,6 +390,14 @@ De \\(t\\)-toets geeft een \\(t\\)-waarde en bijbehorende \\(p\\)-waarde. Deze i
 Als het verschil significant is, kan je ook de effectgrootte opvragen door onder <span class="check">Cohen's d</span> aan te vinken onder <span>Additional Statistics</span> <span class="sub">Effect size</span>.
 
 <div class="box"><h4 class="inline">Hypotheses</h4> \(H_0: \mu_1 = \mu_2\) en \(H_A: \mu_1 \neq \mu_2\) <small>(of een gerichte hypothese)</small></div>
+
+Voor de interpretatie van effectgroottes geldt binnen de sociale wetenschappen:
+
+| \\(d\\)   | interpretatie |
+|-----------|---------------|
+| \\(0.2\\) | klein         |
+| \\(0.5\\) | matig         |
+| \\(0.8\\) | groot         |
 
 ### ANOVA
 
@@ -363,6 +439,8 @@ Voordat je een ANOVA mag uitvoeren moeten eerst de voorwaarden gecheckt worden. 
 
 De voorwaardes van steekproef, onafhankelijkheid en meetniveau kan je bepalen zonder statistiek. De verdeling en spreiding vraag je op dezelfde manier op als bij een \\(t\\)-toets. De uitschieters lees je uit in de boxplot. Bij schending gelden ook dezelfde regels als bij de \\(t\\)-toets.
 
+> Bij een steekproefgrootte van \\(> 30\\) is de ANOVA robuust tegen schending van normaliteit.
+
 #### Analyse uitvoeren
 
 Je voert een ANOVA uit via <span class="root">ANOVA</span> <span class="sub">Classical</span> <span class="sub">ANOVA</span>. Je kiest dan bij <span class="input">Dependent Variables</span> de afhankelijke variabele en bij <span class="input">Fixed Factors</span> de onafhankelijke.
@@ -376,6 +454,14 @@ De ANOVA geeft een \\(F\\)-waarde en bijbehorende \\(p\\)-waarde. Deze interpret
 Als het verschil significant is, kan je ook de effectgrootte opvragen door onder <span class="check">\\(\eta^2\\)</span> aan te vinken onder <span>Estimates of effect size</span>.
 
 <div class="box"><h4 class="inline">Hypotheses</h4> \(H_0: \mu_1 = \mu_2 = \mu_3 ... \mu_n\) en \(H_A: \text{minstens één verschilt van de rest}\)</div>
+
+Voor de interpretatie van effectgroottes geldt binnen de sociale wetenschappen:
+
+| \\(\eta^2\\)   | interpretatie |
+|----------------|---------------|
+| \\(0.01\\)     | klein         |
+| \\(0.09\\)     | matig         |
+| \\(0.24\\)     | groot         |
 
 #### Post-hoc toetsen
 
