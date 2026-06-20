@@ -249,6 +249,8 @@ Voordat je een \\(t\\)-toets mag uitvoeren moeten eerst de voorwaarden gecheckt 
 
 <div style="clear: both"></div>
 
+> "Gelijke spreiding", "homogeniteit van variantie" en "homoscedasticiteit" betekenen hetzelfde. In deze samenvatting gebruik ik overal "gelijke spreiding" omdat ik dat het makkelijkst te begrijpen vind.
+
 De voorwaardes van steekproef, onafhankelijkheid en meetniveau kan je bepalen zonder statistiek. De verdeling en spreiding kan je opvragen:
 
 - De normaliteit controlleer je via <span class="root">Descriptives</span> <span class="sub">Descriptive Statistics</span>. Kies de afhankelijke variabele en split op de onafhankelijke variabele. Vraag dan via <span class="current">Basic plots</span> <span class="sub">Distribution plots</span> een histogram op, en doe een visuele check.
@@ -269,3 +271,37 @@ De voorwaardes van steekproef, onafhankelijkheid en meetniveau kan je bepalen zo
 Je voert een \\(t\\)-toets uit via <span class="root">T-Tests</span> <span class="sub">Classical</span> <span class="sub">Indepentent Samples T-Test</span> of <span class="sub">Paired Samples T-Test</span>. Je kiest dan bij <span class="input">Dependent Variables</span> de afhankelijke variabele en bij <span class="input">Grouping Variable</span> de onafhankelijke.
 
 De \\(t\\)-toets geeft een \\(t\\)-waarde en bijbehorende \\(p\\)-waarde. Deze interpreteer je aan de hand van het gekozen significantieniveau (\\(\alpha\\)). Bij een gerichte hypothese controlleer je eerst de richting en verdubbel je vervolgens de opgevraagde \\(p\\)-waarde.
+
+Als het verschil significant is, kan je ook de effectgrootte opvragen door onder <span class="check">Cohen's d</span> aan te vinken onder <span>Additional Statistics</span> <span class="sub">Effect size</span>.
+
+<div class="box"><h4 class="inline">Hypotheses</h4> \(H_0: \mu_1 = \mu_2\) en \(H_A: \mu_1 \neq \mu_2\) <small>(of een gerichte hypothese)</small></div>
+
+### ANOVA
+
+Een ANOVA ('analysis of variance') gebruik je om meer dan twee groepen met elkaar te vergelijken.
+
+Voordat je een ANOVA mag uitvoeren moeten eerst de voorwaarden gecheckt worden. Deze zijn hetzelfde als bij de \\(t\\)-toets.
+
+<div class="box">
+<h4>Voorwaarden</h4>
+<ul>
+  <li>Aselecte steekproef</li>
+  <li>Onafhankelijke groepen</li>
+  <li>Minimaal interval/ratio</li>
+  <li>Geen uitschieters</li>
+  <li>Normale verdeling</li>
+  <li>Gelijke spreiding</li>
+</ul>
+</div>
+
+De voorwaardes van steekproef, onafhankelijkheid en meetniveau kan je bepalen zonder statistiek. De verdeling en spreiding vraag je op dezelfde manier op als bij een \\(t\\)-toets. De uitschieters lees je uit in de boxplot. Bij schending gelden ook dezelfde regels als bij de \\(t\\)-toets.
+
+Je voert een ANOVA uit via <span class="root">ANOVA</span> <span class="sub">Classical</span> <span class="sub">ANOVA</span>. Je kiest dan bij <span class="input">Dependent Variables</span> de afhankelijke variabele en bij <span class="input">Fixed Factors</span> de onafhankelijke.
+
+De ANOVA geeft een \\(F\\)-waarde en bijbehorende \\(p\\)-waarde. Deze interpreteer je aan de hand van het gekozen significantieniveau (\\(\alpha\\)).
+
+Als het verschil significant is, kan je ook de effectgrootte opvragen door onder <span class="check">\\(\eta^2\\)</span> aan te vinken onder <span>Estimates of effect size</span>.
+
+De ANOVA geeft aan dat *een groep* significant verschilt van de anderen, maar vertelt je niet *welke groep* dat is. Bij een ongerichte hypothese kan je dit bepalen aan de hand van een post-hoc toets. Bij een gerichte hypothese gebruik je een ANOVA met geplande contrasten (daarover zometeen meer). Een post-hoc toets voer je uit via <span class="current">Post Hoc Tests</span>.
+
+<div class="box"><h4 class="inline">Hypotheses</h4> \(H_0: \mu_1 = \mu_2 = \mu_3 ... \mu_n\) en \(H_A: \text{minstens één verschilt van de rest}\)</div>
