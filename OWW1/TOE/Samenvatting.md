@@ -248,12 +248,15 @@ Voor de interpretatie van Cronbach's \\(\alpha\\) geldt binnen de sociale wetens
 
 Bij regressie maak je een model waarmee je op basis van één of meer predictorvariabelen voorspellingen kan doen over een andere variabele. We noemen de predictorvariabelen onafhankelijk (\\(x\\)-as), en de voorspelde variabele afhankelijk (\\(y\\)-as). Bij enkelvoudige regressie (<abbr title="Simple Linear Regression">SLR</abbr>) is één predictorvariabele, bij meervoudige regressie (<abbr title="Multiple Linear Regression">MLR</abbr>) zij er meerderen.
 
-Een regressie bepaalt de meest accurate lijn door een puntenwolk, en drukt deze lijn uit als wiskundig verband. Dit proces noemen we functiefit. De techniek die hiervoor gebruikt wordt heet *least squares regression*. Daarbij wordt voor elke punt de afstand tot de lijn ("residu") bepaald. De lijn met de laagste som van gekwadrateerde residuen ("sum of squared residues") wint. (Het kwadraat is zodat positieve en negatieve residuen elkaar niet opheffen.)
-
-- Als er weinig spreiding is (kleine residuen), zijn voorspellingen nauwkeuriger.
-- Als er meer spreiding is (grotere residuen), zijn de voorspellingen minder nauwkeurig.
-
-De standaardschattingsfout (\\(\text{RMSE}\\)) is de standaarddeviatie van de residuen, en drukt de nauwkeurigheid van voorspellingen uit.
+<details>
+  <summary>Hoe werkt dit?</summary>
+  <p>Een regressie bepaalt de meest accurate lijn door een puntenwolk, en drukt deze lijn uit als wiskundig verband. Dit noemen we functiefit. De techniek die hiervoor gebruikt wordt heet <em>least squares regression</em>. Daarbij wordt voor elke punt de afstand tot de lijn (&quot;residu&quot;) bepaald, en de lijn met de laagste som van gekwadrateerde residuen (&quot;sum of squared residues&quot;) wint. <!--(Het kwadraat is zodat positieve en negatieve residuen elkaar niet opheffen.)--></p>
+  <ul>
+  <li>Als er weinig spreiding is (kleine residuen), zijn voorspellingen nauwkeuriger.</li>
+  <li>Als er meer spreiding is (grotere residuen), zijn de voorspellingen minder nauwkeurig.</li>
+  </ul>
+  <p>De standaardschattingsfout (\(\text{RMSE}\)) is de standaarddeviatie van de residuen, en drukt de nauwkeurigheid van voorspellingen uit.</p>
+</details>
 
 #### Assumpties
 
@@ -401,7 +404,7 @@ Voor de interpretatie van effectgroottes geldt binnen de sociale wetenschappen:
 
 ### ANOVA
 
-Een ANOVA ('analysis of variance') gebruik je om meer dan twee groepen met elkaar te vergelijken, bij between-subjects designs.
+Een ANOVA ('analysis of variance') gebruik je om meer dan twee groepen met elkaar te vergelijken, bij between- en within-subjects designs.
 
 [uitleggen waarom je een ANOVA gebruikt ipv meerdere t-toetsen]
 
@@ -409,24 +412,24 @@ Een ANOVA ('analysis of variance') gebruik je om meer dan twee groepen met elkaa
 
 Er zijn een aantal verschillende soorten ANOVA:
 
-- **Een- en meerweg**: Een ANOVA is standaard eenweg: er is één onafhankelijke variabele met meer dan twee niveaus. In een meerweg ANOVA zijn meerdere onafhankelijke variabelen.
+- **Een- vs meerweg**: Bij een eenweg ANOVA is er één onafhankelijke variabele met drie of meer niveaus. In een meerweg ANOVA zijn meerdere onafhankelijke variabelen.
 
-  Meerweg ANOVA's worden niet behandeld in TOE en zijn geen tentamenstof.
+  Meerweg ANOVA wordt niet behandeld in TOE en zijn geen tentamenstof.
 
-- **Geplande contrasten**: Een ANOVA is standaard ongericht: je hebt vooraf geen verwachting welke groep van de rest zal verschillen. In een ANOVA met geplande contrasten heb je wél een verwachting.
+- **Omnibus vs herhaald**: Bij een omnibus ANOVA moeten groepen onafhankelijk zijn. Je gebruikt dit voor between-subject designs. In het geval van afhankelijke groepen (bijv. bij gepaarde of herhaalde metingen) gebruiken we een ANOVA voor herhaalde metingen. Je gebruikt dit bij within-subject designs.
 
-  De ANOVA met geplande contrasten wordt in een volgende sectie toegelicht.
+  De ANOVA voor herhaalde metingen wordt in een volgende sectie toegelicht.
 
-- **Herhaalde metingen**: Een ANOVA heeft standaard de voorwaarde van onafhankelijke groepen. In het geval van afhankelijke groepen (bijv. bij gepaarde of herhaalde metingen) gebruiken we een ANOVA voor herhaalde metingen.
+- **Geplande contrasten**: Een ANOVA is standaard ongericht: je hebt vooraf geen verwachting welke groep van de rest zal verschillen. In een ANOVA met geplande contrasten heb je wél een verwachting. Je kan geplande contrasten gebruiken bij zowel een omnibus ANOVA als een ANOVA voor herhaalde metingen.
 
-  De ANOVA voor herhaalde metingen wordt ook in een volgende sectie toegelicht.
+  De ANOVA met geplande contrasten wordt ook in een volgende sectie toegelicht.
 
 #### Assumpties
 
 Voordat je een ANOVA mag uitvoeren moeten eerst de voorwaarden gecheckt worden. Deze zijn hetzelfde als bij de \\(t\\)-toets.
 
 <div class="box">
-<h4>Voorwaarden</h4>
+<h4>Voorwaarden omnibus ANOVA</h4>
 <ul>
   <li>Aselecte steekproef</li>
   <li>Onafhankelijke groepen</li>
@@ -439,7 +442,10 @@ Voordat je een ANOVA mag uitvoeren moeten eerst de voorwaarden gecheckt worden. 
 
 De voorwaardes van steekproef, onafhankelijkheid en meetniveau kan je bepalen zonder statistiek. De verdeling en spreiding vraag je op dezelfde manier op als bij een \\(t\\)-toets. De uitschieters lees je uit in de boxplot. Bij schending gelden ook dezelfde regels als bij de \\(t\\)-toets.
 
-> Bij een steekproefgrootte van \\(> 30\\) is de ANOVA robuust tegen schending van normaliteit.
+<details open>
+  <summary>Wat als voorwaarde van normaliteit geschonden is?</summary>
+  Het is niet super erg, want bij een steekproefgrootte van \(> 30\) is de ANOVA robuust tegen schending van normaliteit.
+</details>
 
 #### Analyse uitvoeren
 
@@ -450,6 +456,14 @@ Je voert een ANOVA uit via <span class="root">ANOVA</span> <span class="sub">Cla
 #### Resultaten interpreteren
 
 De ANOVA geeft een \\(F\\)-waarde en bijbehorende \\(p\\)-waarde. Deze interpreteer je aan de hand van het gekozen significantieniveau (\\(\alpha\\)).
+
+<details>
+  <summary>Hoe werkt dit?</summary>
+  <p>De eerste rij toont de variantie tussen groepen, en de tweede rij toont de variantie binnen groepen. De verhouding hiertussen bepaald de \(F\)-waarde.</p>
+  <p>De \(df_1\)-waarde voor de eerste rij wordt berekend door \(k - 1\), waar \(k\) het aantal groepen is, en de \(df_2\)-waarde voor de tweede rij wordt berekend door \(N - k\). Samen geeft dit te totale vrijheidsgraden \(N - 1\). Op basis hiervan wordt de \(F\)-waarde berekend:</p>
+  <p>\[MS_{\text{between}} = SS_{\text{between}} / df_1\]\[MS_{\text{within}} = SS_{\text{within}} / df_2\]</p>
+  \[F = MS_{\text{between}} / MS_{\text{within}}\]
+</details>
 
 Als het verschil significant is, kan je ook de effectgrootte opvragen door onder <span class="check">\\(\eta^2\\)</span> aan te vinken onder <span>Estimates of effect size</span>.
 
@@ -463,27 +477,19 @@ Voor de interpretatie van effectgroottes geldt binnen de sociale wetenschappen:
 | \\(0.09\\)     | matig         |
 | \\(0.24\\)     | groot         |
 
+De ANOVA laat zien aan dat *een groep* verschilt van de rest, maar vertelt niet *welke groep* (of groepen). Om dit te bepalen gebruik je een post-hoc toets of geplande contrasten.
+
 #### Post-hoc toetsen
 
-De ANOVA laat zien aan dat *een groep* verschilt van de rest, maar vertelt niet *welke groep*.
+Bij een ongerichte hypothese gebruik je een post-hoc toets om te bepalen welke groepen van de rest verschillen. Je voert een post-hoc toets uit via <span class="current">Post Hoc Tests</span>.
 
-Bij een ongerichte hypothese kan je dit bepalen aan de hand van een post-hoc toets. Bij een gerichte hypothese gebruik je een ANOVA met geplande contrasten (daarover zometeen meer). Een post-hoc toets voer je uit via <span class="current">Post Hoc Tests</span>.
+#### Geplande contrasten
 
-### ANOVA met geplande contrasten
+Bij een gerichte hypothese gebruik je geplande contrasten om een specifiek verschil te toetsen.
 
-[uitleggen waarom je deze ANOVA zou gebruiken ipv post-hoc]
+[uitleggen waarom je dit zou gebruiken ipv post-hoc] 
 
-Een alternatief voor de ANOVA met geplande contrasten is de GORIC. Deze wordt niet behandeld bij TOE is is geen tentamenstof.
-
-#### Assumpties
-
-Voordat je een ANOVA met geplande contrasten mag uitvoeren moeten eerst de voorwaarden gecheckt worden. Deze zijn hetzelfde als die voor een standaard ANOVA.
-
-#### Analyse uitvoeren
-
-Je voert een ANOVA met geplande contrasten ook uit via <span class="root">ANOVA</span> <span class="sub">Classical</span> <span class="sub">ANOVA</span>. Je kiest net als normaal bij <span class="input">Dependent Variables</span> en <span class="input">Fixed Factors</span> de afhankelijke en onafhankelijke variabelen.
-
-Je kiest dan vervolgens in <span class="current">Contrasts</span> het type contrast. Er zijn drie soorten:
+Voor contrasten kies je bij <span class="current">Contrasts</span> het type contrast. Er zijn drie soorten:
 
 - **Simple contrasts**: alle groepen worden met één groep vergeleken, meestal de controlegroep. Je krijgt dan \\(n - 1\\) vergelijkingen (waar \\(n\\) het aantal groepen is).
 
@@ -498,11 +504,11 @@ Je kiest dan vervolgens in <span class="current">Contrasts</span> het type contr
     <p>De contrast gewichten worden dan \(1\) voor \(M_1\), \(-1\) voor \(M_2\), en \(0\) voor alle anderen.</p>
   </details>
 
-#### Resultaten interpreteren
+Als deze \\(p\\)-waarde van de ANOVA lager is dan het significantieniveau (\\(\alpha\\)) kan je de <span>Contrasts</span> tabel gebruiken om te zien welke contrasten significant zijn.
 
-De ANOVA geeft zoals normaal een \\(F\\)-waarde en bijbehorende \\(p\\)-waarde. Deze geeft aan of een groep significant verschilt van de rest.
-
-Als deze \\(p\\)-waarde lager is dan het significantieniveau \\(\alpha\\) kan je de <span>Contrasts</span> tabel gebruiken om te zien welke contrasten significant zijn.
+<!--
+Een alternatief voor geplande contrasten is de GORIC. Deze wordt niet behandeld bij TOE is is geen tentamenstof.
+-->
 
 ### ANOVA voor herhaalde metingen
 
@@ -564,7 +570,7 @@ De ernst van de schending wordt aangegeven door de effectgrootte \\(\epsilon\\),
 
 Een ander soort correctie is de MANOVA, maar deze wordt niet behandeld bij TOE is is geen tentamenstof.
 
-### Analyse uitvoeren
+#### Analyse uitvoeren
 
 Je voert een ANOVA voor herhaalde metingen uit via <span class="root">ANOVA</span> <span class="sub">Classical</span> <span class="sub">Repeated Measures ANOVA</span>. Je sleept vervolgens de variabelen voor verschillende condities naar <span class="input">Repeated Measures Cells</span>.
 
