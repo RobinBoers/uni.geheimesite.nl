@@ -131,7 +131,7 @@ Het is ook mogelijk om een gewogen gemiddelde te berekenen. Daarbij tellen bepaa
   <h4>Voordelen</h4>
   <ul>
   <li>Geen volgorde- of leereffecten.</li>
-  <li>Lagere investering nodig, lagere drempel voor deelname, minder uitval (attrition).</li>
+  <li>Lagere investering nodig<!--, lagere drempel voor deelname-->, minder uitval (attrition).</li>
   <li>Nuttig voor effecten op groepsniveau.</li>
   </ul>
   </div>
@@ -161,7 +161,7 @@ Het is ook mogelijk om een gewogen gemiddelde te berekenen. Daarbij tellen bepaa
   <ul>
   <li>Volgorde-effecten. Oplossingen: counterbalancing.</li>
   <li>Leereffecten. Oplossingen: counterbalancing.</li>
-  <li>Grotere investering nodig, hogere drempel voor deelname, meer uitval (attrition).</li>
+  <li>Grotere investering nodig<!--, hogere drempel voor deelname-->, meer uitval (attrition). Oplossingen: beloningen.</li>
   </ul>
   </div>
 
@@ -388,7 +388,7 @@ Je voert een \\(t\\)-toets uit via <span class="root">T-Tests</span> <span class
 
 #### Resultaten interpreteren
 
-De \\(t\\)-toets geeft een \\(t\\)-waarde en bijbehorende \\(p\\)-waarde. Deze interpreteer je aan de hand van het gekozen significantieniveau (\\(\alpha\\)). Bij een gerichte hypothese controlleer je eerst de richting en verdubbel je vervolgens de opgevraagde \\(p\\)-waarde.
+De \\(t\\)-toets geeft een \\(t\\)-waarde en bijbehorende \\(p\\)-waarde. Deze interpreteer je aan de hand van het gekozen significantieniveau (\\(\alpha\\)). Bij een gerichte hypothese controlleer je eerst de richting en halveer je vervolgens de opgevraagde \\(p\\)-waarde.
 
 Als het verschil significant is, kan je ook de effectgrootte opvragen door onder <span class="check">Cohen's d</span> aan te vinken onder <span>Additional Statistics</span> <span class="sub">Effect size</span>.
 
@@ -406,7 +406,11 @@ Voor de interpretatie van effectgroottes geldt binnen de sociale wetenschappen:
 
 Een ANOVA ('analysis of variance') gebruik je om meer dan twee groepen met elkaar te vergelijken, bij between- en within-subjects designs.
 
-[uitleggen waarom je een ANOVA gebruikt ipv meerdere t-toetsen]
+<details open>
+  <summary>Waarom ANOVA?</summary>
+  <p>Als je meer dan twee groepen hebt, kan je ze twee-bij-twee met elkaar vergelijken met een \(t\)-toets. Je moet dan \(k - 1\) toetsen uitvoeren, waarbij \(k\) het aantal groepen is. Echter, elke vergelijking heeft een kans op een type I fout, waardoor de totale kans op een type I fout sterk toeneemt. Dit noemen we kanskapitalisatie.</p>
+  <p>Door de verhouding van variantie binnen en tussen groepen te berekenen, is het wél mogelijk om te bepalen of een groep significant van de andere groepen verschilt, zonder kanskapitalisatie. Dat is wat een ANOVA doet.</p>
+</details>
 
 #### Verschillende soorten ANOVA
 
@@ -483,11 +487,16 @@ De ANOVA laat zien aan dat *een groep* verschilt van de rest, maar vertelt niet 
 
 Bij een ongerichte hypothese gebruik je een post-hoc toets om te bepalen welke groepen van de rest verschillen. Je voert een post-hoc toets uit via <span class="current">Post Hoc Tests</span>.
 
+<details open>
+  <summary>Hoe werkt dit?</summary>
+  <p>Een post-hoc toets doet wél een twee-bij-twee vergelijking van alle groepen. Om kanskapitalisatie te voorkomen wordt er daarom gebruikt gemaakt van de Bonferroni-correctie. Daardoor neemt de power van de toets wel sterk af.</p>
+</details>
+
+De post-hoc toets geeft een tabel met een \\(p_{bonf}\\)-waarde per twee-bij-twee vergelijking. Deze interpreteer je aan de hand van het gekozen significantieniveau (\\(\alpha\\)). Bij een gerichte hypothese controlleer je eerst de richting en halveer je vervolgens \\(p_{bonf}\\).
+
 #### Geplande contrasten
 
-Bij een gerichte hypothese gebruik je geplande contrasten om een specifiek verschil te toetsen.
-
-[uitleggen waarom je dit zou gebruiken ipv post-hoc] 
+Bij een gerichte hypothese gebruik je geplande contrasten. Je vergelijkt dan alleen specifieke groepen. Je hoeft daardoor niet *alle* groepen met elkaar te vergelijken, waardoor er geen kanskapitalisatie is, en dus ook geen Bonferroni-correctie nodig is. Daardoor is de power van geplande contrasten veel hoger dan bij een post-hoc toets.
 
 Voor contrasten kies je bij <span class="current">Contrasts</span> het type contrast. Er zijn drie soorten:
 
