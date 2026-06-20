@@ -298,6 +298,8 @@ De voorwaardes van steekproef, onafhankelijkheid en meetniveau kan je bepalen zo
 
 Je voert een ANOVA uit via <span class="root">ANOVA</span> <span class="sub">Classical</span> <span class="sub">ANOVA</span>. Je kiest dan bij <span class="input">Dependent Variables</span> de afhankelijke variabele en bij <span class="input">Fixed Factors</span> de onafhankelijke.
 
+> Het is ook mogelijk om de voorwaarden te checken via de ANOVA zelf. Klik daarvoor op <span class="current">Raincloud Plots</span>. In de raincloud zie je een scatterplot, boxplot en glooiende curves. Controlleer de spreiding met de IQR, de normaliteit met de glooiende curves, en uitschieters door te kijken of er punten buiten de "staart" van de boxplot liggen.
+
 De ANOVA geeft een \\(F\\)-waarde en bijbehorende \\(p\\)-waarde. Deze interpreteer je aan de hand van het gekozen significantieniveau (\\(\alpha\\)).
 
 Als het verschil significant is, kan je ook de effectgrootte opvragen door onder <span class="check">\\(\eta^2\\)</span> aan te vinken onder <span>Estimates of effect size</span>.
