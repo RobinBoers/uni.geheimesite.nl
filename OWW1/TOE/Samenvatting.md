@@ -121,6 +121,47 @@ apply(data.frame(Q1, Q2, Q3), 1, mean, na.rm=True)
 > Ik weet eerlijk gezegd niet wat het verschil is tussen dit en gewoon `Q1 + Q2 + Q3`.
 -->
 
+## Onderzoeksontwerp
+
+- **Between-subjects**: proefpersonen worden met elkaar vergeleken.
+
+  <div class="box">
+  <h4>Voordelen</h4>
+  <ul>
+  <li>Geen volgorde- of leereffecten.</li>
+  <li>Lagere investering nodig, lagere drempel voor deelname, minder uitval.</li>
+  </ul>
+  </div>
+
+  <div class="box">
+  <h4>Nadelen</h4>
+  <ul>
+  <li>Bestaande verschillen. Oplossingen: randomisatie en grotere steekproef.</li>
+  <li>Lagere power, meer observaties nodig. Oplossingen: grotere steekproef.</li>
+  </ul>
+  </div>
+
+- **Within-subjects**: proefpersonen worden met zichzelf vergeleken.
+
+  <div class="box">
+  <h4>Voordelen</h4>
+  <ul>
+  <li>Controlleert voor bestaande verschillen.</li>
+  <li>Hogere power, minder observaties nodig. Goedkoper.</li>
+  </ul>
+  </div>
+
+  <div class="box">
+  <h4>Nadelen</h4>
+  <ul>
+  <li>Volgorde-effecten. Oplossingen: counterbalancing.</li>
+  <li>Leereffecten. Oplossingen: counterbalancing.</li>
+  <li>Grotere investering nodig, hogere drempel voor deelname, meer uitval.</li>
+  </ul>
+  </div>
+
+  > Volgorde-effecten houdt in dat de scores van eerdere meetmomenten invloed hebben op de scores van latere meetmomenten. Leereffecten houdt in dat de prestatie verbetert over tijd, los van manipulatie. Beide worden opgelost door counterbalancing: het randomiseren van de volgorde.
+  
 ## Data-analyse
 
 ### Correlatie
@@ -385,7 +426,7 @@ Een ANOVA voor herhaalde metingen gebruik je om een groep met zichzelf te vergel
 
 > De manier waarop de data gestructureerd is verschilt bij dit type ANOVA:
 >
-> - Bij een normale ANOVA worden respondenten met elkaar vergeleken. Er is kolom voor de score en voor de conditie, waarbij er drie of meer mogelijke waardes voor de conditie zijn, en de respondent bij één van deze condities hoort. Bijvoorbeeld:
+> - Bij een normale ANOVA worden proefpersonen met elkaar vergeleken. Er is kolom voor de score en voor de conditie, waarbij er drie of meer mogelijke waardes voor de conditie zijn, en de respondent bij één van deze condities hoort. Bijvoorbeeld:
 >
 >   | ID | Schaalscore | Conditie |
 >   |--|--|--|
@@ -394,7 +435,7 @@ Een ANOVA voor herhaalde metingen gebruik je om een groep met zichzelf te vergel
 >   | 3 | 12 | Groep B |
 >   | 4 | 18 | Groep B |
 >
-> - Bij een ANOVA voor herhaalde metingen worden respondenten met zichzelf vergelijken. Er is per conditie een kolom die de score bevat, en elke respondent hoort dus bij alle condities. Bijvoorbeeld:
+> - Bij een ANOVA voor herhaalde metingen worden proefpersonen met zichzelf vergeleken. Er is per conditie een kolom die de score bevat, en elke respondent hoort dus bij alle condities. Bijvoorbeeld:
 >
 >   | ID | Pretest | Posttest | Followup |
 >   |--|--|--|--|
