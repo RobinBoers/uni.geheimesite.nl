@@ -223,7 +223,9 @@ Dus de \\(F\\)-toets uit <span>ANOVA</span> geeft de significantie van het *gehe
 
 ### \\(t\\)-toets
 
-Een \\(t\\)-toets gebruik je om twee groepen met elkaar te vergelijken. Als er sprake is van onafhankelijke groepen mag je de Indepentent Samples T-Test uitvoeren, bij afhankelijke groepen gebruiken je de Paired Samples T-Test.
+Een \\(t\\)-toets gebruik je om twee groepen met elkaar te vergelijken, bij between-subjects designs. Als er sprake is van onafhankelijke groepen mag je de Indepentent Samples T-Test uitvoeren, bij afhankelijke groepen (bijv. bij gepaarde of herhaalde metingen) gebruik je de Paired Samples T-Test.
+
+#### Assumpties
 
 Voordat je een \\(t\\)-toets mag uitvoeren moeten eerst de voorwaarden gecheckt worden:
 
@@ -264,11 +266,15 @@ De voorwaardes van steekproef, onafhankelijkheid en meetniveau kan je bepalen zo
   Het is niet super erg, want de \(t\)-toets (en straks ook ANOVA) zijn robuust tegen kleine schendingen. Je mag de toets nog steeds uitvoeren als:
   <ul>
     <li>De grootste groep maximaal 4x groter is dan de kleinste groep, en:</li>
-    <li>de variantie van de grootste groep (\(SD^2\)) maximaal 10x groter.</li>
+    <li>de variantie (\(SD^2\)) van de grootste groep maximaal 10x groter.</li>
   </ul>
 </details>
 
+#### Analyse uitvoeren
+
 Je voert een \\(t\\)-toets uit via <span class="root">T-Tests</span> <span class="sub">Classical</span> <span class="sub">Indepentent Samples T-Test</span> of <span class="sub">Paired Samples T-Test</span>. Je kiest dan bij <span class="input">Dependent Variables</span> de afhankelijke variabele en bij <span class="input">Grouping Variable</span> de onafhankelijke.
+
+#### Resultaten interpreteren
 
 De \\(t\\)-toets geeft een \\(t\\)-waarde en bijbehorende \\(p\\)-waarde. Deze interpreteer je aan de hand van het gekozen significantieniveau (\\(\alpha\\)). Bij een gerichte hypothese controlleer je eerst de richting en verdubbel je vervolgens de opgevraagde \\(p\\)-waarde.
 
@@ -278,7 +284,27 @@ Als het verschil significant is, kan je ook de effectgrootte opvragen door onder
 
 ### ANOVA
 
-Een ANOVA ('analysis of variance') gebruik je om meer dan twee groepen met elkaar te vergelijken.
+Een ANOVA ('analysis of variance') gebruik je om meer dan twee groepen met elkaar te vergelijken, bij between-subjects designs.
+
+[uitleggen waarom je een ANOVA gebruikt ipv meerdere t-toetsen]
+
+#### Verschillende soorten ANOVA
+
+Er zijn een aantal verschillende soorten ANOVA:
+
+- **Een- en meerweg**: Een ANOVA is standaard eenweg: er is één onafhankelijke variabele met meer dan twee niveaus. In een meerweg ANOVA zijn meerdere onafhankelijke variabelen.
+
+  Meerweg ANOVA's worden niet behandeld in TOE en zijn geen tentamenstof.
+
+- **Geplande contrasten**: Een ANOVA is standaard ongericht: je hebt vooraf geen verwachting welke groep van de rest zal verschillen. In een ANOVA met geplande contrasten heb je wél een verwachting.
+
+  De ANOVA met geplande contrasten wordt in een volgende sectie toegelicht.
+
+- **Herhaalde metingen**: Een ANOVA heeft standaard de voorwaarde van onafhankelijke groepen. In het geval van afhankelijke groepen (bijv. bij gepaarde of herhaalde metingen) gebruiken we een ANOVA voor herhaalde metingen.
+
+  De ANOVA voor herhaalde metingen wordt ook in een volgende sectie toegelicht.
+
+#### Assumpties
 
 Voordat je een ANOVA mag uitvoeren moeten eerst de voorwaarden gecheckt worden. Deze zijn hetzelfde als bij de \\(t\\)-toets.
 
@@ -296,14 +322,123 @@ Voordat je een ANOVA mag uitvoeren moeten eerst de voorwaarden gecheckt worden. 
 
 De voorwaardes van steekproef, onafhankelijkheid en meetniveau kan je bepalen zonder statistiek. De verdeling en spreiding vraag je op dezelfde manier op als bij een \\(t\\)-toets. De uitschieters lees je uit in de boxplot. Bij schending gelden ook dezelfde regels als bij de \\(t\\)-toets.
 
+#### Analyse uitvoeren
+
 Je voert een ANOVA uit via <span class="root">ANOVA</span> <span class="sub">Classical</span> <span class="sub">ANOVA</span>. Je kiest dan bij <span class="input">Dependent Variables</span> de afhankelijke variabele en bij <span class="input">Fixed Factors</span> de onafhankelijke.
 
 > Het is ook mogelijk om de voorwaarden te checken via de ANOVA zelf. Klik daarvoor op <span class="current">Raincloud Plots</span>. In de raincloud zie je een scatterplot, boxplot en glooiende curves. Controlleer de spreiding met de IQR, de normaliteit met de glooiende curves, en uitschieters door te kijken of er punten buiten de "staart" van de boxplot liggen.
+
+#### Resultaten interpreteren
 
 De ANOVA geeft een \\(F\\)-waarde en bijbehorende \\(p\\)-waarde. Deze interpreteer je aan de hand van het gekozen significantieniveau (\\(\alpha\\)).
 
 Als het verschil significant is, kan je ook de effectgrootte opvragen door onder <span class="check">\\(\eta^2\\)</span> aan te vinken onder <span>Estimates of effect size</span>.
 
-De ANOVA geeft aan dat *een groep* significant verschilt van de anderen, maar vertelt je niet *welke groep* dat is. Bij een ongerichte hypothese kan je dit bepalen aan de hand van een post-hoc toets. Bij een gerichte hypothese gebruik je een ANOVA met geplande contrasten (daarover zometeen meer). Een post-hoc toets voer je uit via <span class="current">Post Hoc Tests</span>.
-
 <div class="box"><h4 class="inline">Hypotheses</h4> \(H_0: \mu_1 = \mu_2 = \mu_3 ... \mu_n\) en \(H_A: \text{minstens één verschilt van de rest}\)</div>
+
+#### Post-hoc toetsen
+
+De ANOVA laat zien aan dat *een groep* verschilt van de rest, maar vertelt niet *welke groep*.
+
+Bij een ongerichte hypothese kan je dit bepalen aan de hand van een post-hoc toets. Bij een gerichte hypothese gebruik je een ANOVA met geplande contrasten (daarover zometeen meer). Een post-hoc toets voer je uit via <span class="current">Post Hoc Tests</span>.
+
+### ANOVA met geplande contrasten
+
+[uitleggen waarom je deze ANOVA zou gebruiken ipv post-hoc]
+
+Een alternatief voor de ANOVA met geplande contrasten is de GORIC. Deze wordt niet behandeld bij TOE is is geen tentamenstof.
+
+#### Assumpties
+
+Voordat je een ANOVA met geplande contrasten mag uitvoeren moeten eerst de voorwaarden gecheckt worden. Deze zijn hetzelfde als die voor een standaard ANOVA.
+
+#### Analyse uitvoeren
+
+Je voert een ANOVA met geplande contrasten ook uit via <span class="root">ANOVA</span> <span class="sub">Classical</span> <span class="sub">ANOVA</span>. Je kiest net als normaal bij <span class="input">Dependent Variables</span> en <span class="input">Fixed Factors</span> de afhankelijke en onafhankelijke variabelen.
+
+Je kiest dan vervolgens in <span class="current">Contrasts</span> het type contrast. Er zijn drie soorten:
+
+- **Simple contrasts**: alle groepen worden met één groep vergeleken, meestal de controlegroep. Je krijgt dan \\(n - 1\\) vergelijkingen (waar \\(n\\) het aantal groepen is).
+
+- **Repeated contrasts**: alle groepen worden vergeleken met de volgende groep (bijv. A vs B, B vs C, C vs D), vooral nuttig voor onafhankelijke variabelen op ordinaal meetniveau. Je krijgt ook hier \\(n - 1\\) vergelijkingen (waar \\(n\\) het aantal groepen is).
+
+- **Custom contrasts**: je bepaalt zelf welke groepen je met elkaar vergelijkt. Je gebruikt hiervoor contrastgewichten. Om dit te doen herleidt je je hypothese op nul, want een ANOVA kan alleen controlleren of iets nul is of groter dan nul.
+
+  <details open>
+    <summary>Voorbeeld</summary>
+    \[H_0: \mu_1 > \mu_2 \implies\]
+    \[H_0: \mu_1 - \mu_2 > 0\]
+    <p>De contrast gewichten worden dan \(1\) voor \(M_1\), \(-1\) voor \(M_2\), en \(0\) voor alle anderen.</p>
+  </details>
+
+#### Resultaten interpreteren
+
+De ANOVA geeft zoals normaal een \\(F\\)-waarde en bijbehorende \\(p\\)-waarde. Deze geeft aan of een groep significant verschilt van de rest.
+
+Als deze \\(p\\)-waarde lager is dan het significantieniveau \\(\alpha\\) kan je de <span>Contrasts</span> tabel gebruiken om te zien welke contrasten significant zijn.
+
+### ANOVA voor herhaalde metingen
+
+Een ANOVA voor herhaalde metingen gebruik je om een groep met zichzelf te vergelijken.
+
+[uitleggen waarvoor je een ANOVA voor herhaalde metingen gebruikt]
+
+> De manier waarop de data gestructureerd is verschilt bij dit type ANOVA:
+>
+> - Bij een normale ANOVA worden respondenten met elkaar vergeleken. Er is kolom voor de score en voor de conditie, waarbij er drie of meer mogelijke waardes voor de conditie zijn, en de respondent bij één van deze condities hoort. Bijvoorbeeld:
+>
+>   | ID | Schaalscore | Conditie |
+>   |--|--|--|
+>   | 1 | 23 | Groep A |
+>   | 2 | 42 | Groep C |
+>   | 3 | 12 | Groep B |
+>   | 4 | 18 | Groep B |
+>
+> - Bij een ANOVA voor herhaalde metingen worden respondenten met zichzelf vergelijken. Er is per conditie een kolom die de score bevat, en elke respondent hoort dus bij alle condities. Bijvoorbeeld:
+>
+>   | ID | Pretest | Posttest | Followup |
+>   |--|--|--|--|
+>   | 1 | 23 | 35 | 27 |
+>   | 2 | 42 | 53 | 44 |
+>   | 3 | 12 | 22 | 21 |
+>   | 4 | 18 | 19 | 18 |
+
+<!--
+Het is ook mogelijk om de ANOVA voor herhaalde metingen te gebruiken voor een combinatie van within- en between-subjects designs (aka mixed ANOVA), maar dit wordt niet behandeld bij TOE en is geen tentamenstof.
+-->
+
+#### Assumpties
+
+Voordat je een ANOVA voor herhaalde metingen mag uitvoeren moeten eerst de voorwaarden gecheckt worden. Deze verschillen deels van die voor een standaard ANOVA.
+
+<div class="box">
+  <h4>Voorwaarden</h4>
+  <ul>
+    <li>Aselecte steekproef</li>
+    <li>Minimaal interval/ratio</li>
+    <li>Geen uitschieters</li>
+    <li>Normale verdeling</li>
+    <li>Sfericiteit</li>
+  </ul>
+</div>
+
+De eis voor homoscedasticiteit (homogeniteit van variantie) is vervangen met sfericiteit (homogeniteit van variantie van verschilscores).
+
+- Bij **homoscedasticiteit** mogen de scores tussen respondenten binnen een conditie niet te sterk verschillen, maar tussen condities wel.
+
+- Bij **sfericiteit** mogen de scores tussen respondenten binnen een conditie wél sterk verschillen, zolang het verschil tussen de condities maar ongeveer gelijk is.
+
+Je controlleert de sfericiteit met een Mauchly-test. Als de Mauchly-test significant is, is de sfericiteit geschonden (dus je wil dat deze **niet significant is**).
+
+De ernst van de schending wordt aangegeven door de effectgrootte \\(\epsilon\\), met \\(0 < \epsilon < 1\\), waarbij \\(\epsilon = 1\\) volledige sfericiteit is. Aan de hand van \\(\epsilon\\) worden verschillende correcties toegepast:
+
+- **Greenhouse-Geisser correctie** voor ernstige schendingen (\\(\epsilon \leq 0.75\\)).
+- **Huyn-Feldt correctie** bij gematigde schendingen (\\(\epsilon \gt 0.75\\)).
+
+Een ander soort correctie is de MANOVA, maar deze wordt niet behandeld bij TOE is is geen tentamenstof.
+
+### Analyse uitvoeren
+
+Je voert een ANOVA voor herhaalde metingen uit via <span class="root">ANOVA</span> <span class="sub">Classical</span> <span class="sub">Repeated Measures ANOVA</span>. Je sleept vervolgens de variabelen voor verschillende condities naar <span class="input">Repeated Measures Cells</span>.
+
+Je voert de Mauchly-test uit via <span class="current">Assumption Checks</span> <span class="sub">Sphericity tests</span>. Je gebruikt de hoogste waarde voor \\(\epsilon\\) die in de resultatentabel staat. Als er een correctie nodig is kan je die ook onder <span>Sphericity tests</span> aanklikken.
