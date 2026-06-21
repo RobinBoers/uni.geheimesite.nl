@@ -7,7 +7,7 @@ title: Toepassing van onderzoeksmethoden en statistiek
 <br>
 
 <style>
-  main p span, main li span, main details span {
+  main p > span, main li > span, main details > span {
     font-family: sans-serif;
     font-size: 0.9em;
     display: inline-block;
@@ -59,71 +59,148 @@ title: Toepassing van onderzoeksmethoden en statistiek
   }
 </style>
 
-## Beschrijvende statistieken
+## Dataverzameling
 
-Je kan beschrijvende statistieken opvragen voor één of meer variabelen opvragen via <span class="root">Descriptives</span> <span class="sub">Descriptive Statistics</span>.
-
-Het is ook mogelijk om te splitsen op een andere variabelen (via <span class="input">Split</span>). Deze variabele mag maximaal 10 niveau's hebben.
-
-### Frequentietabellen
-
-Onder <span class="current">Tables</span> <span class="sub">Frequency tables</span> is het mogelijk om frequentietabellen op te vragen. Ook hierbij mag de variabele maximaal 10 niveau's hebben.
-
-### Grafieken
-
-Je kan verschillende grafieken opvragen, afhankelijk van het meetniveau van de variabele:
-
-- **Categorische variabelen** (nominaal, ordinaal)
-
-  - Staafdiagram: <span class="current">Basic plots</span> <span class="sub">Distribution plots</span>
-  - Cirkeldiagram: <span class="current">Basic plots</span> <span class="sub">Pie charts</span>
-
-- **Schaal variabelen** (interval, ratio)
-
-  - Histrogram: <span class="current">Basic plots</span> <span class="sub">Distribution plots</span>
-  - Boxplots: <span class="current">Customizable plots</span> <span class="sub">Boxplots</span>
-  - Spreidingsdiagram: <span class="current">Customizable plots</span> <span class="sub">Scatter plots</span>
-
-## Databewerking
-
-### Filteren
-
-Het is mogelijk om rijen (bijv. uitschieters) uit de dataset te filteren. Klik daarvoor in het data-overzicht bovenin op <span><svg width="10px" height="10px" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1H15V4L10 10V16H6V10L1 4V1Z" fill="#000000"/></svg></span>. Je kan dan R-code typen of visueel een filter samenstellen. Een filter kan bijv. zijn:
-
-\\[(id \neq 12) \land (id \neq 16)\\]
-
-### Ompolen
-
-Het is mogelijk om nieuwe kolommen/variabelen te berekenen met een formule op basis van andere kolommen/variabelen, klik daarvoor <span>+</span> aan de rechterkant. Je kan dit gebruiken om variabelen om te polen. Dat doe je door deze formule:
-
-\\[\text{minimale waarde} + \text{maximale waarde} - \text{naam van kolom}\\]
-
-<details open>
-  <summary>Voorbeeld</summary>
-  Stel een item \(Q_5\) met een bereik van 3 tot 9. De formule voor \(Q_{5,R}\) is dan:
-  \[3 + 9 - Q_5\]
-</details>
-
-### Schaalscores
-
-Je kan dezelfde techniek gebruiken om kolommen/variabelen voor schaalscores toe te voegen. Er zijn twee soorten schaalscores:
-
-- Een **somscore** (\\(\Sigma M\\)) bereken je door \\(Q_1 + Q_2 + Q_3 ... Q_n\\)
-- Een **gemiddelde** (\\(\Sigma M/ n\\)) bereken je door \\((Q_1 + Q_2 + Q_3 ... Q_n) / n\\)
-
-De R-code voor het berekenen van een somscore is:
-
-```R
-apply(data.frame(Q1, Q2, Q3), 1, mean, na.rm=True)
-```
+### Vragenlijst
 
 <!--
-> Ik weet eerlijk gezegd niet wat het verschil is tussen dit en gewoon `Q1 + Q2 + Q3`.
+Correlationeel onderzoek verschilt van experimenteel onderzoek omdat er geen manipulatie plaatsvind. Je meet gegevens zoals ze zijn. Er zijn twee soorten data:
+
+- Ontworpen (bijv. survey)
+- Organisch (bijv. bestaande data)
 -->
 
-Het is ook mogelijk om een gewogen gemiddelde te berekenen. Daarbij tellen bepaalde vragen zwaarder mee dan anderen. Dit wordt niet behandeld bij TOE en is geen tentamenstof.
+Een meetinstrument dat je kan gebruiken voor het verzamelen van data is de vragenlijst. Er zijn verschillende kanalen ('modes') waarlangs je de vragenlijst kan afnemen:
 
-## Onderzoeksontwerp
+- online
+- face-to-face
+- telefonisch
+- via de post
+- op papier
+
+Deze verschillen in eigenschappen, zoals:
+
+- mate van betrokkenheid van de onderzoeker
+- mate van interactie met de respondent
+- hoeveelheid privacy
+- vereisde technologie
+- kosten
+- drempel van deelname
+
+In een mixed-mode design worden verschillende modes afgewisseld. Bijvoorbeeld:
+
+- verschillende modes voor verschillende leeftijsgroepen
+- verschillende modes voor werving en afname
+- een andere mode voor gevoelige vragen
+- herinneringen of follow-ups in een andere mode
+- bij een lage response-rate opnieuw afnemen in een andere mode
+
+Een vragenlijst bestaat uit vragen ('items'), die vaak worden uitgevraagd als meerkeuze (nominaal meetniveau) of Likert-schaal (ordinaal meetniveau). Door samenvoegen van itemscores kun je een [schaalscore berekenen](#schaalscores) (interval meetniveau).
+
+Er zijn een aantal kenmerken waaraan vragen moeten voldoen:
+
+- **Uitputtend**: iedereen moet een optie kunnen kiezen, het mag niet zo zijn dat de juiste antwoordoptie er niet tussen staat. Oplossingen: 'Overig' of 'Anders' optie met vrije tekstinvoer.
+
+- **Uitsluitend**: kiezen moet mogelijk zijn, het mag niet zo zijn dat twee antwoordopties beide juist zijn. Oplossingen: antwoordopties mogen niet overlappen.
+
+Het is ook belangrijk om geen (statistisch) vakjaron in de vraagstelling te gebruiken.
+
+> De Likert-schaal kan een even of oneven aantal opties hebben; even voorkomt dat respondenten in het midden blijven hangen, maar forceert wel een dichotome keuze.
+
+<style class="p0">
+  .p0 + pre {
+    display: none;
+  }
+</style>
+
+```mermaid
+flowchart LR
+  W -.-> Respondenten
+  H -.-> Vragenlijst
+  Dataverzameling -.-> Antwoorden
+  A -.-> Analyseren
+  subgraph Theorie-data cyclus
+  T[Theorie/idee] --> Onderzoeksvraag
+  Onderzoeksvraag --> Onderzoeksontwerp
+  Onderzoeksontwerp --> Hypothese
+  Hypothese --> Dataverzameling
+  Dataverzameling --> A[Data-analyse]
+  end
+  subgraph Onderzoeksontwerp
+  W[Wie?]
+  H[Hoe?]
+  end
+  subgraph Survey lifecycle
+  Vragenlijst --> Vragenlijstontwerp
+  Vragenlijstontwerp --> Respondenten
+  Respondenten --> Antwoorden
+  Antwoorden --> D[Datavoorbereiding]
+  D --> Analyseren
+  end
+```
+
+![](Survey-lifecycle.png)
+
+### Fouten & bias
+
+Er zijn verschillende soorten fouten die je kan maken bij het gebruik van een vragenlijst:
+
+- **Dekkingsfout**: niet alle mensen uit de populatie staan op de lijst (het steekproefkader) die gebruikt wordt bij een aselecte steekproef. Je kan per definitie niet weten of er een dekkingsfout gemaakt wordt en hoe groot die is.
+
+- **Steekproeffout**: de steekproef is niet representatief voor de populatie. Je kan de grootte van de steekproeffout niet weten, maar wel uitspraak doen over het gemiddelde van de steekproeffouten (de standaardfout). Waarbij grotere steekproef \\(\implies\\) kleinere \\(\text{SE}\\).
+
+- **Nonresponsefout**: geen antwoord krijgen van mensen die geselecteerd worden in de steekproef. Er zijn twee soorten: bij een unit-nonresponse weigert een respondent de volledige vragenlijst, bij een item-nonresponse weigert de respondent een enkele vraag.
+
+  Redenen kunnen zijn: technische problemen, gebrek aan motivatie, of gevoelige vragen.
+
+- **Response- of meetfout**: vragen zijn verkeerd beantwoord door de respondent. Dit kan een aantal oorzaken hebben: de mode van de vragenlijst ('mode effect'), de vraagstelling ('question bias'), de interviewer, de omgeving, of omdat de respondent niet bereid is eerlijk te antwoorden ('response bias').
+
+  Er gaat dan iets fout in het vraag-antwoordproces:
+
+  ```mermaid
+  flowchart LR
+    Comprehension --> Retrieval
+    Retrieval --> Judgement
+    Judgement --> Response
+  ```
+
+  Veel voorkomende effecten:
+
+  - **Telescoopeffect**: mensen hebben onbewust de neiging om de gevraagde periode iets te verlengen aan beide kanten. Wordt veroorzaakt door onzekerheid over terughalen van informatie uit het verleden; hoe langer geleden, hoe sterker het effect.
+
+  - **Volgorde-effect**: eerdere vragen kunnen het antwoord op latere vragen beïnvloeden, doordat ze een bepaalde context creeëren. De oplossing hiervoor is het randomiseren van de volgorde ('counterbalancing').
+
+  Vormen van 'question bias':
+
+  - **Leading questions**: vragen die bepaalde woorden of context bevatten waardoor de respondent naar een bepaald antwoord gestuurd wordt.
+
+  - **Double barreled questions**: vragen waarin twee dingen uitgevraagd worden, waardoor ze niet eenduidig beantwoord kunnen worden.
+
+  Vormen van 'response bias':
+
+  - **Toegevendheid** ('acquiescence bias'): respondenten weten niet goed wat ze vinden, en beantwoorden de stellingen daarom maar met ja ('yes-saying').
+
+  - **Fence sitting**: respondenten vermijden de extreme antwoordopties, ookal passen die eigenlijk wel goed, vooral als er veel opties zijn.
+
+  - **Straightlining**: respondenten hebben geen zin meer om de vragenlijst in te vullen, en vullen daarom overal dezelfde optie in, vooral bij lange vragenlijsten.
+
+  - **Primacy effects**: respondenten hebben de neiging om de opties bovenaan de lijst te kiezen, omdat ze deze het eerst en best lezen, vooral bij schriftelijke vragenlijsten.
+
+  - **Recency effects**: respondenten hebben de neiging om de opties onderaan de lijst te kiezen, omdat ze deze het recents gehoord hebben en dus nog niet vergeten zijn, vooral bij telefonische vragenlijsten.
+  
+  - **Sociale wenselijkheid**: respondenten zijn niet bereid om eerlijk te antwoorden omdat ze bang zijn dat de onderzoeker of anderen slecht over ze gaan denken.
+
+- **Aanpassingsfout**: fouten die de onderzoeker maakt bij het opschonen van de data. De onderzoeker kan verkeerde correcties toepassen, verkeerde wegingen aan antwoorden toewijzen (bijv. bij een ondergerepresenteerde groep), of een fout maken bij imputatie.
+
+  Bij imputatie worden ontbrekende gegevens geschat met een statistisch model, op basis van de antwoorden die wel gegeven zijn.
+
+- **Verwerkingsfout**: fouten die de onderzoeker maakt tijdens data-analyse. De onderzoeker kan gegevens verkeerd invoeren of overnemen, fouten maken bij (her)coderen, of de verkeerde toets uitvoeren.
+
+  Onder deze categorie vallen ook ethische fouten, zoals niet goed omgaan met vertrouwelijke gegevens.
+
+> Fouten hoeven niet altijd een gevaar te vormen voor het onderzoek. Als er sprake is van een willekeurige fout ('random error'), zal dat weinig invloed hebben op de resultaten. Alleen bij een systematische fout (aka bias), zoals bijvoorbeeld (perongeluk) mensen uitsluiten op een specifiek kenmerk, komt de validiteit in het geding.
+
+### Onderzoeksontwerpen
 
 - **Between-subjects** (dwarsdoorsnede<!--/cross-sectioneel--> panel): proefpersonen worden met elkaar vergeleken.
 
@@ -166,8 +243,72 @@ Het is ook mogelijk om een gewogen gemiddelde te berekenen. Daarbij tellen bepaa
   </div>
 
   > Volgorde-effecten houdt in dat de scores van eerdere meetmomenten invloed hebben op de scores van latere meetmomenten. Leereffecten (aka "panel conditioning") houdt in dat de prestatie verbetert over tijd, los van manipulatie. Beide worden opgelost door counterbalancing: het randomiseren van de volgorde.
-  
+
+## Databewerking
+
+### Filteren
+
+Het is mogelijk om rijen (bijv. uitschieters) uit de dataset te filteren. Klik daarvoor in het data-overzicht bovenin op <span><svg width="10px" height="10px" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1H15V4L10 10V16H6V10L1 4V1Z" fill="#000000"/></svg></span>. Je kan dan R-code typen of visueel een filter samenstellen. Een filter kan bijv. zijn:
+
+\\[(id \neq 12) \land (id \neq 16)\\]
+
+### Ompolen
+
+Het is mogelijk om nieuwe kolommen/variabelen te berekenen met een formule op basis van andere kolommen/variabelen, klik daarvoor <span>+</span> aan de rechterkant. Je kan dit gebruiken om variabelen om te polen. Dat doe je door deze formule:
+
+\\[\text{minimale waarde} + \text{maximale waarde} - \text{naam van kolom}\\]
+
+<details open>
+  <summary>Voorbeeld</summary>
+  Stel een item \(Q_5\) met een bereik van 3 tot 9. De formule voor \(Q_{5,R}\) is dan:
+  \[3 + 9 - Q_5\]
+</details>
+
+### Schaalscores
+
+Je kan dezelfde techniek gebruiken om kolommen/variabelen voor schaalscores toe te voegen. Er zijn twee soorten schaalscores:
+
+- Een **somscore** (\\(\Sigma M\\)) bereken je door \\(Q_1 + Q_2 + Q_3 ... Q_n\\)
+- Een **gemiddelde** (\\(\Sigma M/ n\\)) bereken je door \\((Q_1 + Q_2 + Q_3 ... Q_n) / n\\)
+
+De R-code voor het berekenen van een somscore is:
+
+```R
+apply(data.frame(Q1, Q2, Q3), 1, mean, na.rm=True)
+```
+
+<!--
+> Ik weet eerlijk gezegd niet wat het verschil is tussen dit en gewoon `Q1 + Q2 + Q3`.
+-->
+
+Het is ook mogelijk om een gewogen gemiddelde te berekenen. Daarbij tellen bepaalde vragen zwaarder mee dan anderen. Dit wordt niet behandeld bij TOE en is geen tentamenstof.
+
 ## Data-analyse
+
+### Beschrijvende statistieken
+
+Je kan beschrijvende statistieken opvragen voor één of meer variabelen opvragen via <span class="root">Descriptives</span> <span class="sub">Descriptive Statistics</span>.
+
+Het is ook mogelijk om te splitsen op een andere variabelen (via <span class="input">Split</span>). Deze variabele mag maximaal 10 niveau's hebben.
+
+#### Frequentietabellen
+
+Onder <span class="current">Tables</span> <span class="sub">Frequency tables</span> is het mogelijk om frequentietabellen op te vragen. Ook hierbij mag de variabele maximaal 10 niveau's hebben.
+
+#### Grafieken
+
+Je kan verschillende grafieken opvragen, afhankelijk van het meetniveau van de variabele:
+
+- **Categorische variabelen** (nominaal, ordinaal)
+
+  - Staafdiagram: <span class="current">Basic plots</span> <span class="sub">Distribution plots</span>
+  - Cirkeldiagram: <span class="current">Basic plots</span> <span class="sub">Pie charts</span>
+
+- **Schaal variabelen** (interval, ratio)
+
+  - Histrogram: <span class="current">Basic plots</span> <span class="sub">Distribution plots</span>
+  - Boxplots: <span class="current">Customizable plots</span> <span class="sub">Boxplots</span>
+  - Spreidingsdiagram: <span class="current">Customizable plots</span> <span class="sub">Scatter plots</span>
 
 ### Correlatie
 
@@ -311,7 +452,7 @@ De regressie geeft drie resultaten:
 
   - **Unstandardized** (\\(b\\)) geeft aan hoeveel punten de afhankelijke variabele stijgt als de predictorvariabele met één punt toeneemt. We noemen dit de richtingscoëfficient.
 
-  - **Standardized** (\\(\beta\\)) geeft aan hoeveel SD de afhankelijke variabele stijgt als de predictorvariabele met één SD toeneemt. Wordt gebruikt voor de \\(t\\)-toets, die aangeeft of de richtingscoëfficient invloed heeft (aka significant verschilt van nul).
+  - **Standardized** (\\(\beta\\)) geeft aan hoeveel \\(\text{SD}\\) de afhankelijke variabele stijgt als de predictorvariabele met één \\(\text{SD}\\) toeneemt. Wordt gebruikt voor de \\(t\\)-toets, die aangeeft of de richtingscoëfficient invloed heeft (aka significant verschilt van nul).
 
     <div class="box"><h4 class="inline">Hypotheses</h4> \(H_0: \beta = 0\) en \(H_A: \beta \neq 0\)</div>
 
@@ -371,14 +512,14 @@ De voorwaardes van steekproef, onafhankelijkheid en meetniveau kan je bepalen zo
 
 - De spreiding controlleer je ook via <span class="root">Descriptives</span> <span class="sub">Descriptive Statistics</span>. Kies weer de afhankelijke variabele en split op de onafhankelijke variabele. Vraag nu een boxplot op via <span class="current">Customizable plots</span> <span class="sub">Boxplots</span>, en check of de IQR ongeveer gelijk zijn.
 
-- Het is ook mogelijk om de spreiding te controlleren aan de hand van de \\(SD\\). Dit kan via <span class="root">Descriptives</span> <span class="sub">Descriptive Statistics</span> of door zometeen bij de analyse <span class="check">Descriptives</span> aan te vinken. Als de \\(SD\\)'s ongeveer gelijk zijn is het goed.
+- Het is ook mogelijk om de spreiding te controlleren aan de hand van de \\(\text{SD}\\). Dit kan via <span class="root">Descriptives</span> <span class="sub">Descriptive Statistics</span> of door zometeen bij de analyse <span class="check">Descriptives</span> aan te vinken. Als de \\(\text{SD}\\)'s ongeveer gelijk zijn is het goed.
 
 <details open>
   <summary>Wat als voorwaarde van spreiding geschonden is?</summary>
   Het is niet super erg, want de \(t\)-toets (en straks ook ANOVA) zijn robuust tegen kleine schendingen. Je mag de toets nog steeds uitvoeren als:
   <ul>
     <li>De grootste groep maximaal 4x groter is dan de kleinste groep, en:</li>
-    <li>de variantie (\(SD^2\)) van de grootste groep maximaal 10x groter.</li>
+    <li>de variantie (\(\text{SD}^2\)) van de grootste groep maximaal 10x groter.</li>
   </ul>
 </details>
 
