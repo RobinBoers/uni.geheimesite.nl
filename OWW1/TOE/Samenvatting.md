@@ -245,17 +245,49 @@ flowchart LR
   </ul>
 </details>
 
+<details open>
+  <summary>Etnografie</summary>
+  <p>Etnografie is onderzoekstype dat veel wordt gebruikt voor culturele en medische antropologie. Het is een vorm van methode-triangulatie, waarbij participerende observaties gecombineerd worden met interviews, focusgroepen en bestaande data.</p>
+  <p>Er is vaak sprake van een <em>gatekeeper</em> die toegang geeft tot de populatie en een <em>key informant</em> die een centrale positie met veel kennis en aanzien heeft binnen de populatie.</p>
+</details>
+
 ### Bestaande data
+
+<style class="t0">
+  .t0 + table td, .t0 + table th {
+    text-align: center
+  }
+</style>
 
 | Manifest | Latent |
 |--|--|
 | beschrijvend | interpretatief |
 | objectief | subjectief |
 | direct zichtbaar | onderliggende betekenis |
-| <br>**Voorbeeld** | |
-| Aantal keer dat woord \\(x\\) voorkomt. | Context van het woord \\(x\\). |
-| Hoeveelheid minuten \\(y\\) zichtbaar. | Manier van afbeelden van \\(y\\). |
-| Aantal afbeeldingen van \\(z\\). | Positionering van afbeeldingen van \\(z\\). |
+
+<details style="margin-top: 1em">
+  <summary>Voorbeeld</summary>
+  <table style="margin-top: 1em">
+  <thead>
+  <tr>
+  <th>Manifest</th>
+  <th>Latent</th>
+  </tr>
+  </thead>
+  <tbody><tr>
+  <td>Aantal keer dat woord \(x\) voorkomt.</td>
+  <td>Context van het woord \(x\).</td>
+  </tr>
+  <tr>
+  <td>Hoeveelheid minuten \(y\) zichtbaar.</td>
+  <td>Manier van afbeelden van \(y\).</td>
+  </tr>
+  <tr>
+  <td>Aantal afbeeldingen van \(z\).</td>
+  <td>Positionering van afbeeldingen van \(z\).</td>
+  </tr>
+  </tbody></table>
+</details>
 
 ### Fouten, effecten & bias
 
@@ -432,7 +464,7 @@ apply(data.frame(Q1, Q2, Q3), 1, mean, na.rm=True)
 
 Het is ook mogelijk om een gewogen gemiddelde te berekenen. Daarbij tellen bepaalde vragen zwaarder mee dan anderen. Dit wordt niet behandeld bij TOE en is geen tentamenstof.
 
-## Data-analyse
+## Data-analyse <small>(kwantitatief)</small>
 
 ### Beschrijvende statistieken
 
@@ -874,3 +906,70 @@ Een ander soort correctie is de MANOVA, maar deze wordt niet behandeld bij TOE i
 Je voert een ANOVA voor herhaalde metingen uit via <span class="root">ANOVA</span> <span class="sub">Classical</span> <span class="sub">Repeated Measures ANOVA</span>. Je sleept vervolgens de variabelen voor verschillende condities naar <span class="input">Repeated Measures Cells</span>.
 
 Je voert de Mauchly-test uit via <span class="current">Assumption Checks</span> <span class="sub">Sphericity tests</span>. Je gebruikt de hoogste waarde voor \\(\epsilon\\) die in de resultatentabel staat. Als er een correctie nodig is kan je die ook onder <span>Sphericity tests</span> aanklikken.
+
+## Data-analyse <small>(kwalitatief)</small>
+
+In kwalitatief onderzoek wordt tekstuele data geanalyseerd aan de hand van codes. Dit gaat in twee stappen:
+
+- **Decoding**: achterhalen wat bedoeld werd door een respondent.
+- **Encoding**: codes toewijzen die betekenis samenvatten.
+
+Er zijn drie soorten codes:
+
+- **Attribute codes** geven demografische gegevens en achtergrondkenmerken aan.
+- **Index codes** dienen als bladwijzers om de data gemakkelijk te navigeren.
+- **Analytic codes** vatten de betekenis van wat de respondent zegt samen.
+
+Welke analytische codes gebruikt worden hangt af van het type onderzoek:
+
+- **Inductief**: theorievorming op basis van data. Codes wordt "gegenereerd" door de data.
+- **Deductief**: theorietoetsing aan de hand van data. Codes komen uit het theoretisch kader.
+- **Abductief**: twee-stapsproces waarin eerst inductief een theorie wordt gevormd, en deze vervolgens met nieuwe data deductief wordt getoetst. Codes komen uit de eerste dataset.
+
+> Bij kwalitatief is een representatieve steekproef niet gewenst. Je wil juist een zo'n groot mogelijke verscheidenheid, om alle uitingsvormen te kunnen onderzoeken. Het doel is namelijk geen generaliseerbaarheid, maar een breed dekkend theoretisch model.<!-- Dit noemen we theoretical sampling(?)-->
+>
+> Daarom ga je expliciet op zoek naar negative cases (soort "uitschieters" of "outliers"): de gevallen die niet passen bij de voorlopige theorie.
+
+### Inductieve analyse
+
+Bij een inductieve data-analyse maak je gebruik van **grounded theory**. Dat houdt in dat de theorie zich vormt uit de data. De codes bedenk je ook tijdens het coderen, wanneer je ze nodig hebt. Het codeerproces gaat in drie stappen:
+
+- **Open coding**: de eerste stap gaat over het reduceren van de data, en overzicht creeëren. In deze stap maak je de meeste nieuwe codes, en identificeert je topics. Het is belangrijk dat je nog *geen* structuur aanbrengt in de codes.
+
+- **Axial coding**: de tweede stap gaat wél over het structureren van de codes. In deze stap identificeer je overkoepelende thema's, en breng je een hiërachie aan in de codes.
+
+- **Selective coding**: de derde stap gaat over het bouwen van een model. Je probeert "de puzzel op te lossen" en een antwoord te vinden op je onderzoeksvraag.
+
+Een fase wordt afgerond als **theoretische saturatie** bereikt is: nieuw data voegt geen nieuwe informatie meer toe. Dat betekent:
+
+- Bij **open coding**: uit nieuwe data volgen geen nieuwe codes.
+- Bij **axial coding**: uit nieuwe data volgen geen nieuwe definities of structuur.
+- Bij **selective coding**: uit nieuwe data volgen geen consequenties voor de theorie.
+
+Gedurende dit hele proces is er **constant comparison**. Dat houdt in dat je bij elke actie naloopt of je geen dubbele codes introduceert, of codes niet moeten worden samengevoegt of juist uitgesplitst, en of de structuur nog klopt. Dit voorkomt dat de laatste data bepalend wordt.
+
+<details open>
+  <summary>Criteria voor codes</summary>
+  Er zijn een aantal kenmerken waaraan codes moeten voldoen. We noemen dit de 3 C's:
+  <ul>
+    <li><strong>Context</strong>: de code moet een betekenisvol geheel omvatten.</li>
+    <li><strong>Content</strong>: de code moet inhoud samenvatten, niet een topic aanduiden.</li>
+    <li><strong>Coverage</strong>: de code moet maximaal één betekenis samenvatten.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Gerelateerde begrippen</summary>
+  <ul>
+  <li><p><strong>Sensitizing topics</strong> zijn richtinggevende begrippen of thema&#39;s. Het zijn geen vaststaande codes, maar meer verwachtingen van codes die je voorafgaand aan het onderzoek hebt, op basis van voorkennis. Sensitizing topics kunnen je helpen in de beginfases van de data-analyse, als je nog weinig codes hebt.</p>
+  </li>
+  <li><p><strong>A priori codes</strong> zijn wél specifieke vaststaande codes, die voorafgaand aan het onderzoek zijn opgesteld.</p>
+  </li>
+  </ul>
+</details>
+
+### Deductieve analyse
+
+Bij deductieve data-analyse maak je gebruik van een **categorisatiematrix**. Die bevat vooraf opgestelde thema's, op basis van de theorie. Deze tabel wordt vervolgens per respondent ingevuld, en dan wordt deze vergeleken met de theorie. We noemen dit "de fit bepalen".
+
+Het kan zijn dat je tijdens de data-verwerking niet-passende data tegenkomt. Deze geef je dan tijdelijk een label. Je kan deze gebruiken om achteraf inductief thema's toe te voegen aan de matrix, of gebruiken om de tekortkomingen van de matrix te documenteren in de discussie.
