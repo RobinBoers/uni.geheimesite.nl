@@ -2,7 +2,7 @@
 title: Toepassing van onderzoeksmethoden en statistiek
 ---
 
-> Deze is nog niet af. Ik verwacht 21 juni klaar te zijn. Deze samenvatting veronderstelt voorkennis van [KOM](../KOM/Samenvatting.md).
+> Deze samenvatting veronderstelt voorkennis van [KOM](../KOM/Samenvatting.md).
 
 <br>
 
@@ -61,8 +61,6 @@ title: Toepassing van onderzoeksmethoden en statistiek
 
 ## Dataverzameling
 
-### Vragenlijst
-
 <!--
 Correlationeel onderzoek verschilt van experimenteel onderzoek omdat er geen manipulatie plaatsvind. Je meet gegevens zoals ze zijn. Er zijn twee soorten data:
 
@@ -70,15 +68,47 @@ Correlationeel onderzoek verschilt van experimenteel onderzoek omdat er geen man
 - Organisch (bijv. bestaande data)
 -->
 
-Een meetinstrument dat je kan gebruiken voor het verzamelen van data is de vragenlijst. Er zijn verschillende kanalen ('modes') waarlangs je de vragenlijst kan afnemen:
+### Modes
 
-- online
-- face-to-face
-- telefonisch
-- via de post
-- op papier
+<details>
+  <summary>Modes van een vragenlijst</summary>
+  <ul>
+  <li>online</li>
+  <li>face-to-face</li>
+  <li>telefonisch</li>
+  <li>via de post</li>
+  <li>op papier</li>
+  </ul>
+</details>
 
-Deze verschillen in eigenschappen, zoals:
+<details>
+  <summary>Modes van een interview</summary>
+  <ul>
+  <li>face-to-face</li>
+  <li>telefonisch</li>
+  <li>online</li>
+  <li>go-along</li>
+  <li>etnografisch</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Modes van een focusgroep</summary>
+  <ul>
+  <li><strong>Dual-moderator</strong>: er zijn twee moderators die ieder een eigen taak hebben.</li>
+  <li><strong>Two-way</strong>: twee groepen wisselen elkaar af; luisteren en discussiëren om en om.</li>
+  <li><strong>Dueling moderators</strong>: er zijn twee moderators die een voorbeelddiscussie houden.</li>
+  <li><strong>Response moderator</strong>: één van de respondenten is de moderator.</li>
+  <li><strong>Online chat room</strong>: online meeting waar respondenten real-time communiceren.</li>
+  <li><strong>Online bulletin board</strong>: online forum waar respondenten asynchroon communiceren.</li>
+  </ul>
+</details>
+
+<!--
+> Een focusgroep is <strong>geen groepsinterview</strong>! Het is een geplande discussie waarbij interactie tussen participanten data genereert.
+-->
+
+#### Eigenschappen van modes
 
 - mate van betrokkenheid van de onderzoeker
 - mate van interactie met de respondent
@@ -87,13 +117,15 @@ Deze verschillen in eigenschappen, zoals:
 - kosten
 - drempel van deelname
 
-In een mixed-mode design worden verschillende modes afgewisseld. Bijvoorbeeld:
+#### Mixed-modes designs
 
 - verschillende modes voor verschillende leeftijsgroepen
 - verschillende modes voor werving en afname
 - een andere mode voor gevoelige vragen
 - herinneringen of follow-ups in een andere mode
 - bij een lage response-rate opnieuw afnemen in een andere mode
+
+### Vragenlijst
 
 Een vragenlijst bestaat uit vragen ('items'), die worden uitgevraagd als meerkeuze (nominaal) of Likert-schaal (ordinaal). Samenvoegen van itemscores geeft een [schaalscore](#schaalscores) (interval).
 
@@ -111,7 +143,7 @@ Een vragenlijst bestaat uit vragen ('items'), die worden uitgevraagd als meerkeu
   <p>Het is ook belangrijk om geen (statistisch) vakjaron in de vraagstelling te gebruiken.</p>
 </details>
 
-### Survey lifecycle
+#### Survey lifecycle
 
 <style class="p0">
   .p0 + pre {
@@ -147,9 +179,87 @@ flowchart LR
 
 ![](Survey-lifecycle.png)
 
-### Fouten & bias
+### Interviews & focusgroepen
 
-Er zijn verschillende soorten fouten die je kan maken bij het gebruik van een vragenlijst:
+<details open>
+  <summary>Elliciteren</summary>
+  <p>In interviews en focusgroepen kan je elliciteren: antwoorden uitlokken.</p>
+  <ul>
+  <li><p><strong>Probes</strong>: meer informatie over het huidige onderwerp.</p>
+  <ul>
+  <li>Bewuste stilte laten vallen <small>(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)</small></li>
+  <li>Ongerichte aanmoediging <small>(eheuh, yes, oke, ja, hmmm)</small></li>
+  <li>Vragen naar uitwijding <small>(kan je daarover meer vertellen?)</small></li>
+  <li>Vragen naar uitleg <small>(kan je dat verder toelichten?)</small></li>
+  <li>Reflectie, interpretatie samenvatten <small>(begrijp ik goed dat ...?)</small></li>
+  </ul>
+  </li>
+  <li><p><strong>Prompts</strong>: nieuwe onderwerpen aansnijden.</p>
+  </li>
+  </ul>
+  <p>Je kan elliciterende materialen gebruiken, zoals vignetten. Dat zijn korte impressies of casusen, gemaakt voor het onderzoek of uit bestaande data.</p>
+</details>
+
+### Observaties
+
+<details open>
+  <summary>Manieren van observatieonderzoek</summary>
+  <ul>
+  <li>Participerend vs niet-participerend</li>
+  <li>Verhuld ("covert") vs onverhuld ("overt")</li>
+  <li>Systematisch vs niet-systematisch</li>
+  </ul>
+  <table style="margin-left: 1em; width: 90%">
+  <thead>
+  <tr>
+  <th>term</th>
+  <th>betekenis</th>
+  </tr>
+  </thead>
+  <tbody><tr>
+  <td>Complete participant</td>
+  <td>verhuld &mdash; participerend</td>
+  </tr>
+  <tr>
+  <td>Participant observer</td>
+  <td>onverhuld &mdash; participerend</td>
+  </tr>
+  <tr>
+  <td>Observer</td>
+  <td>onverhuld &mdash; niet-participerend</td>
+  </tr>
+  <tr>
+  <td>Covert observer</td>
+  <td>verhuld &mdash; niet-participerend</td>
+  </tr>
+  </tbody></table>
+</details>
+
+<details open>
+  <summary>Soorten observaties</summary>
+  <ul>
+  <li><strong>Primary</strong>: dag, tijd, locatie, aanwezigen, gebeurtenissen.</li>
+  <li><strong>Secondary</strong>: opmerkingen <em>van anderen</em> over de gebeurtenissen.</li>
+  <li><strong>Experiental</strong>: eigen gevoelens, emoties, reflectie.</li>
+  <li><strong>Circumstantial</strong>: logistiek en organisatie.</li>
+  </ul>
+</details>
+
+### Bestaande data
+
+| Manifest | Latent |
+|--|--|
+| beschrijvend | interpretatief |
+| objectief | subjectief |
+| direct zichtbaar | onderliggende betekenis |
+| <br>**Voorbeeld** | |
+| Aantal keer dat woord \\(x\\) voorkomt. | Context van het woord \\(x\\). |
+| Hoeveelheid minuten \\(y\\) zichtbaar. | Manier van afbeelden van \\(y\\). |
+| Aantal afbeeldingen van \\(z\\). | Positionering van afbeeldingen van \\(z\\). |
+
+### Fouten, effecten & bias
+
+#### Fouten bij het gebruik van vragenlijsten
 
 - **Dekkingsfout**: niet alle mensen uit de populatie staan op de lijst (het steekproefkader) die gebruikt wordt bij een aselecte steekproef. Je kan per definitie niet weten of er een dekkingsfout gemaakt wordt en hoe groot die is.
 
@@ -170,11 +280,15 @@ Er zijn verschillende soorten fouten die je kan maken bij het gebruik van een vr
     Judgement --> Response
   ```
 
+  <!--<small>De rol van de onderzoeker is het faciliteren van dit proces op twee manieren: vragen stellen en motiveren tot antwoorden door rapport op te bouwen.</small>-->
+
   Veel voorkomende effecten:
 
   - **Telescoopeffect**<!--(retrieval & judgement)-->: mensen hebben onbewust de neiging om de gevraagde periode iets te verlengen aan beide kanten. Wordt veroorzaakt door onzekerheid over terughalen van informatie uit het verleden; hoe langer geleden, hoe sterker het effect.
 
   - **Volgorde-effect**<!--(comprehension & retrieval)-->: eerdere vragen kunnen het antwoord op latere vragen beïnvloeden, doordat ze een bepaalde context creeëren. Oplossingen: het randomiseren van de volgorde ('counterbalancing').
+
+  - **Doorknob-effect**<!--(comprehension & retrieval)-->: de respondent deelt belangrijke informatie als het interview nét klaar is (bij de deurknop op weg naar buiten). Oplossingen: opnameapparatuur aan laten staan tot respondenten zijn vertrokken.
 
   Vormen van 'question bias':
 
@@ -206,7 +320,15 @@ Er zijn verschillende soorten fouten die je kan maken bij het gebruik van een vr
 
 > Fouten hoeven niet altijd een gevaar te vormen voor het onderzoek. Als er sprake is van een willekeurige fout ('random error'), zal dat weinig invloed hebben op de resultaten. Echter, systematische fouten zorgen voor vertekening, en dan komt de validiteit in het geding.
 
-Er zijn ook een aantal effecten waar je rekening mee moet houden bij manipulatie:
+#### Bedreigingen bij observartieonderzoek
+
+- **Reactiviteit** ('Hawthorne-effect'): door de aanwezigheid van de onderzoeker vertonen deelnemers geen normaal gedrag meer.
+
+- **Naturalisatie**: door gewenning aan de aanwezigheid van de onderzoeker vertonen deelnemers weer normaal gedrag, ondanks aanwezigheid van de onderzoeker.
+
+- **Going native**: door langdurige participatie verliest de onderzoeker diens rol uit het oog.
+
+#### Bedreigingen voor interne validiteit
 
 - **Selectie-effecten**: groepen zijn niet vergelijkbaar bij aanvang van het experiment; er zijn bestaande verschillen. Opgelost door randomisatie middels een aselecte steekproef.
 
