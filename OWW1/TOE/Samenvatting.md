@@ -97,6 +97,8 @@ In een mixed-mode design worden verschillende modes afgewisseld. Bijvoorbeeld:
 
 Een vragenlijst bestaat uit vragen ('items'), die vaak worden uitgevraagd als meerkeuze (nominaal meetniveau) of Likert-schaal (ordinaal meetniveau). Door samenvoegen van itemscores kun je een [schaalscore berekenen](#schaalscores) (interval meetniveau).
 
+> De Likert-schaal kan een even of oneven aantal opties hebben; even voorkomt dat respondenten in het midden blijven hangen, maar forceert wel een dichotome keuze.
+
 Er zijn een aantal kenmerken waaraan vragen moeten voldoen:
 
 - **Uitputtend**: iedereen moet een optie kunnen kiezen, het mag niet zo zijn dat de juiste antwoordoptie er niet tussen staat. Oplossingen: 'Overig' of 'Anders' optie met vrije tekstinvoer.
@@ -104,8 +106,6 @@ Er zijn een aantal kenmerken waaraan vragen moeten voldoen:
 - **Uitsluitend**: kiezen moet mogelijk zijn, het mag niet zo zijn dat twee antwoordopties beide juist zijn. Oplossingen: antwoordopties mogen niet overlappen.
 
 Het is ook belangrijk om geen (statistisch) vakjaron in de vraagstelling te gebruiken.
-
-> De Likert-schaal kan een even of oneven aantal opties hebben; even voorkomt dat respondenten in het midden blijven hangen, maar forceert wel een dichotome keuze.
 
 <style class="p0">
   .p0 + pre {
@@ -168,7 +168,7 @@ Er zijn verschillende soorten fouten die je kan maken bij het gebruik van een vr
 
   - **Telescoopeffect**: mensen hebben onbewust de neiging om de gevraagde periode iets te verlengen aan beide kanten. Wordt veroorzaakt door onzekerheid over terughalen van informatie uit het verleden; hoe langer geleden, hoe sterker het effect.
 
-  - **Volgorde-effect**: eerdere vragen kunnen het antwoord op latere vragen beïnvloeden, doordat ze een bepaalde context creeëren. De oplossing hiervoor is het randomiseren van de volgorde ('counterbalancing').
+  - **Volgorde-effect**: eerdere vragen kunnen het antwoord op latere vragen beïnvloeden, doordat ze een bepaalde context creeëren. Oplossingen: het randomiseren van de volgorde ('counterbalancing').
 
   Vormen van 'question bias':
 
@@ -200,6 +200,28 @@ Er zijn verschillende soorten fouten die je kan maken bij het gebruik van een vr
 
 > Fouten hoeven niet altijd een gevaar te vormen voor het onderzoek. Als er sprake is van een willekeurige fout ('random error'), zal dat weinig invloed hebben op de resultaten. Alleen bij een systematische fout (aka bias), zoals bijvoorbeeld (perongeluk) mensen uitsluiten op een specifiek kenmerk, komt de validiteit in het geding.
 
+Er zijn ook een aantal effecten waar je rekening mee moet houden bij het gebruik van manipulatie:
+
+- **Selectie-effecten**: de groepen zijn niet vergelijkbaar bij aanvang van het experiment; er zijn bestaande verschillen. Opgelost door randomisatie middels een aselecte steekproef.
+
+- **Leereffecten** ('maturation threat'): prestatie verbetert over tijd, los van manipulatie. Opgelost door het toevoegen van een controlegroep, of randomisatie van de volgorde ('counterbalancing').
+
+- **Volgorde-effecten**: eerdere vragen kunnen het antwoord op latere vragen beïnvloeden, doordat ze een bepaalde context creeëren. Opgelost door randomisatie van de volgorde ('counterbalancing').
+
+- **History threat**: externe gebeurtenissen beïnvloeden meting, los van manipulatie. Opgelost door het toevoegen van een controlegroep, of randomisatie van de volgorde ('counterbalancing').
+
+- **Regression to the mean**: extremen waarden schuiven bij een tweede meting meestal richting het gemiddelde. Geen eenduidige oplossing, maar een effect waarvan je je bewust dient te zijn.
+
+- **Placebo**: respondenten ervaren verandering door verwachtingen of de onderzoekscontext, los van manipulatie. Opgelost met een blind experiment, waarbij de respondent niet weet in welke conditie hij zit, en de controlegroep een 'nepbehandeling' krijgt.
+
+- **Demand characteristics**: respondenten 'willen' dat het onderzoek slaagt en gedragen zich daardoor anders zodat de hypothese wordt bevestigd. Opgelost met een blind experiment, waarbij de respondent niet weet in welke conditie die zit.
+
+- **Observer bias**: de onderzoeker 'wil' dat het onderzoek slaagt en doet daardoor bewust of onbewust subjectieve rapportage. Opgelost met een dubbelblind experiment, waarbij zowel de onderzoeker als de respondent niet weet in welke conditie die zit.
+
+- **Testing-effect**: respondenten kennen soms het meetinstrument al (bijv. bij gepaarde of herhaalde metingen), en vullen antwoorden in uit hun geheugen. Geen eenduidige oplossing, maar een effect waarvan je je bewust dient te zijn.
+
+- **Instrumentation-effect**: als je een ander instrument gebruikt zijn de pre- en posttest mogelijk niet vergelijkbaar. Geen eenduidige oplossing, maar een effect waarvan je je bewust dient te zijn.
+
 ### Onderzoeksontwerpen
 
 - **Between-subjects** (dwarsdoorsnede<!--/cross-sectioneel--> panel): proefpersonen worden met elkaar vergeleken.
@@ -207,7 +229,7 @@ Er zijn verschillende soorten fouten die je kan maken bij het gebruik van een vr
   <div class="box">
   <h4>Voordelen</h4>
   <ul>
-  <li>Geen volgorde- of leereffecten.</li>
+  <li>Geen volgorde-, testing- of leereffecten.</li>
   <li>Lagere investering nodig<!--, lagere drempel voor deelname-->, minder uitval (attrition).</li>
   <li>Nuttig voor effecten op groepsniveau.</li>
   </ul>
@@ -216,7 +238,7 @@ Er zijn verschillende soorten fouten die je kan maken bij het gebruik van een vr
   <div class="box">
   <h4>Nadelen</h4>
   <ul>
-  <li>Bestaande verschillen. Oplossingen: randomisatie en grotere steekproef.</li>
+  <li>Selectie-effecten en bestaande verschillen. Oplossingen: randomisatie.</li>
   <li>Lagere power, meer observaties nodig. Oplossingen: grotere steekproef.</li>
   </ul>
   </div>
@@ -238,11 +260,10 @@ Er zijn verschillende soorten fouten die je kan maken bij het gebruik van een vr
   <ul>
   <li>Volgorde-effecten. Oplossingen: counterbalancing.</li>
   <li>Leereffecten. Oplossingen: counterbalancing.</li>
+  <li>Testing-effect.</li>
   <li>Grotere investering nodig<!--, hogere drempel voor deelname-->, meer uitval (attrition). Oplossingen: beloningen.</li>
   </ul>
   </div>
-
-  > Volgorde-effecten houdt in dat de scores van eerdere meetmomenten invloed hebben op de scores van latere meetmomenten. Leereffecten (aka "panel conditioning") houdt in dat de prestatie verbetert over tijd, los van manipulatie. Beide worden opgelost door counterbalancing: het randomiseren van de volgorde.
 
 ## Databewerking
 
