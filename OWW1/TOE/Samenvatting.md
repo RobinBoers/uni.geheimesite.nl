@@ -2,7 +2,7 @@
 title: Toepassing van onderzoeksmethoden en statistiek
 ---
 
-> Deze samenvatting veronderstelt voorkennis van [KOM](../KOM/Samenvatting.md).
+> Deze samenvatting veronderstelt voorkennis van [KOM](../KOM/Samenvatting.md). Hij is bijna compleet. Alleen Bayesiaanse analyse en ethiek ontbreekt nog.
 
 <br>
 
