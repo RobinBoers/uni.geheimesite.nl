@@ -845,7 +845,7 @@ Een alternatief voor geplande contrasten is de GORIC. Deze wordt niet behandeld 
 
 Een ANOVA voor herhaalde metingen gebruik je om een groep met zichzelf te vergelijken.
 
-[uitleggen waarvoor je een ANOVA voor herhaalde metingen gebruikt]
+<!--[uitleggen waarvoor je een ANOVA voor herhaalde metingen gebruikt]-->
 
 > De manier waarop de data gestructureerd is verschilt bij dit type ANOVA:
 >
