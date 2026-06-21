@@ -95,17 +95,23 @@ In een mixed-mode design worden verschillende modes afgewisseld. Bijvoorbeeld:
 - herinneringen of follow-ups in een andere mode
 - bij een lage response-rate opnieuw afnemen in een andere mode
 
-Een vragenlijst bestaat uit vragen ('items'), die vaak worden uitgevraagd als meerkeuze (nominaal meetniveau) of Likert-schaal (ordinaal meetniveau). Door samenvoegen van itemscores kun je een [schaalscore berekenen](#schaalscores) (interval meetniveau).
+Een vragenlijst bestaat uit vragen ('items'), die worden uitgevraagd als meerkeuze (nominaal) of Likert-schaal (ordinaal). Samenvoegen van itemscores geeft een [schaalscore](#schaalscores) (interval).
 
-> De Likert-schaal kan een even of oneven aantal opties hebben; even voorkomt dat respondenten in het midden blijven hangen, maar forceert wel een dichotome keuze.
+> De Likert-schaal kan een even of oneven aantal opties hebben; even voorkomt dat respondenten overal 'neutraal' invullen, maar forceert wel een dichotome keuze die mogelijk onterecht is.
 
-Er zijn een aantal kenmerken waaraan vragen moeten voldoen:
+<details open>
+  <summary>Criteria voor goede vragen</summary>
+  <p>Er zijn een aantal kenmerken waaraan vragen moeten voldoen:</p>
+  <ul>
+    <li><p><strong>Uitputtend</strong>: er moet een juiste optie voor iedereen zijn, het mag niet zo zijn dat de juiste antwoordoptie er niet tussen staat. Oplossingen: "Overig" of "Anders" optie met vrije tekstinvoer.</p>
+    </li>
+    <li><p><strong>Uitsluitend</strong>: er moet maximaal één juiste optie zijn, het mag niet zo zijn dat twee antwoordopties beide juist zijn. Oplossingen: zorgen dat antwoordopties niet overlappen.</p>
+    </li>
+  </ul>
+  <p>Het is ook belangrijk om geen (statistisch) vakjaron in de vraagstelling te gebruiken.</p>
+</details>
 
-- **Uitputtend**: iedereen moet een optie kunnen kiezen, het mag niet zo zijn dat de juiste antwoordoptie er niet tussen staat. Oplossingen: 'Overig' of 'Anders' optie met vrije tekstinvoer.
-
-- **Uitsluitend**: kiezen moet mogelijk zijn, het mag niet zo zijn dat twee antwoordopties beide juist zijn. Oplossingen: antwoordopties mogen niet overlappen.
-
-Het is ook belangrijk om geen (statistisch) vakjaron in de vraagstelling te gebruiken.
+### Survey lifecycle
 
 <style class="p0">
   .p0 + pre {
@@ -149,13 +155,13 @@ Er zijn verschillende soorten fouten die je kan maken bij het gebruik van een vr
 
 - **Steekproeffout**: de steekproef is niet representatief voor de populatie. Je kan de grootte van de steekproeffout niet weten, maar wel uitspraak doen over het gemiddelde van de steekproeffouten (de standaardfout). Waarbij grotere steekproef \\(\implies\\) kleinere \\(\text{SE}\\).
 
-- **Nonresponsefout**: geen antwoord krijgen van mensen die geselecteerd worden in de steekproef. Er zijn twee soorten: bij een unit-nonresponse weigert een respondent de volledige vragenlijst, bij een item-nonresponse weigert de respondent een enkele vraag.
+- **Nonresponsefout**: je krijgt geen antwoord van mensen die geselecteerd zijn in de steekproef. Twee soorten: bij een unit-nonresponse weigert een respondent de volledige vragenlijst, bij een item-nonresponse weigert de respondent een enkele vraag.
 
   Redenen kunnen zijn: technische problemen, gebrek aan motivatie, of gevoelige vragen.
 
-- **Response- of meetfout**: vragen zijn verkeerd beantwoord door de respondent. Dit kan een aantal oorzaken hebben: de mode van de vragenlijst ('mode effect'), de vraagstelling ('question bias'), de interviewer, de omgeving, of omdat de respondent niet bereid is eerlijk te antwoorden ('response bias').
+- **Response- of meetfout**: vragen zijn verkeerd beantwoord door de respondent. Aantal oorzaken: mode van de vragenlijst ('mode effect'), de vraagstelling ('question bias'), de respondent ('response bias'), de interviewer, of de omgeving.
 
-  Er gaat dan iets fout in het vraag-antwoordproces:
+  Er gaat ergens iets fout in het vraag-antwoordproces:
 
   ```mermaid
   flowchart LR
@@ -166,9 +172,9 @@ Er zijn verschillende soorten fouten die je kan maken bij het gebruik van een vr
 
   Veel voorkomende effecten:
 
-  - **Telescoopeffect**: mensen hebben onbewust de neiging om de gevraagde periode iets te verlengen aan beide kanten. Wordt veroorzaakt door onzekerheid over terughalen van informatie uit het verleden; hoe langer geleden, hoe sterker het effect.
+  - **Telescoopeffect**<!--(retrieval & judgement)-->: mensen hebben onbewust de neiging om de gevraagde periode iets te verlengen aan beide kanten. Wordt veroorzaakt door onzekerheid over terughalen van informatie uit het verleden; hoe langer geleden, hoe sterker het effect.
 
-  - **Volgorde-effect**: eerdere vragen kunnen het antwoord op latere vragen beïnvloeden, doordat ze een bepaalde context creeëren. Oplossingen: het randomiseren van de volgorde ('counterbalancing').
+  - **Volgorde-effect**<!--(comprehension & retrieval)-->: eerdere vragen kunnen het antwoord op latere vragen beïnvloeden, doordat ze een bepaalde context creeëren. Oplossingen: het randomiseren van de volgorde ('counterbalancing').
 
   Vormen van 'question bias':
 
@@ -190,19 +196,19 @@ Er zijn verschillende soorten fouten die je kan maken bij het gebruik van een vr
   
   - **Sociale wenselijkheid**: respondenten zijn niet bereid om eerlijk te antwoorden omdat ze bang zijn dat de onderzoeker of anderen slecht over ze gaan denken.
 
-- **Aanpassingsfout**: fouten die de onderzoeker maakt bij het opschonen van de data. De onderzoeker kan verkeerde correcties toepassen, verkeerde wegingen aan antwoorden toewijzen (bijv. bij een ondergerepresenteerde groep), of een fout maken bij imputatie.
+- **Aanpassingsfout**: de onderzoeker maakt een fout bij het opschonen van de data. De onderzoeker kan verkeerde correcties toepassen, verkeerde wegingen aan antwoorden toewijzen (bijv. bij een ondergerepresenteerde groep), of een fout maken bij imputatie.
 
   Bij imputatie worden ontbrekende gegevens geschat met een statistisch model, op basis van de antwoorden die wel gegeven zijn.
 
-- **Verwerkingsfout**: fouten die de onderzoeker maakt tijdens data-analyse. De onderzoeker kan gegevens verkeerd invoeren of overnemen, fouten maken bij (her)coderen, of de verkeerde toets uitvoeren.
+- **Verwerkingsfout**: de onderzoeker maakt een fout tijdens de data-analyse. De onderzoeker kan gegevens verkeerd invoeren of overnemen, fouten maken bij (her)coderen, of de verkeerde toets uitvoeren.
 
-  Onder deze categorie vallen ook ethische fouten, zoals niet goed omgaan met vertrouwelijke gegevens.
+  Onder deze categorie vallen ook ethische fouten, zoals slecht omgaan met vertrouwelijke gegevens.
 
-> Fouten hoeven niet altijd een gevaar te vormen voor het onderzoek. Als er sprake is van een willekeurige fout ('random error'), zal dat weinig invloed hebben op de resultaten. Alleen bij een systematische fout (aka bias), zoals bijvoorbeeld (perongeluk) mensen uitsluiten op een specifiek kenmerk, komt de validiteit in het geding.
+> Fouten hoeven niet altijd een gevaar te vormen voor het onderzoek. Als er sprake is van een willekeurige fout ('random error'), zal dat weinig invloed hebben op de resultaten. Echter, systematische fouten zorgen voor vertekening, en dan komt de validiteit in het geding.
 
-Er zijn ook een aantal effecten waar je rekening mee moet houden bij het gebruik van manipulatie:
+Er zijn ook een aantal effecten waar je rekening mee moet houden bij manipulatie:
 
-- **Selectie-effecten**: de groepen zijn niet vergelijkbaar bij aanvang van het experiment; er zijn bestaande verschillen. Opgelost door randomisatie middels een aselecte steekproef.
+- **Selectie-effecten**: groepen zijn niet vergelijkbaar bij aanvang van het experiment; er zijn bestaande verschillen. Opgelost door randomisatie middels een aselecte steekproef.
 
 - **Leereffecten** ('maturation threat'): prestatie verbetert over tijd, los van manipulatie. Opgelost door het toevoegen van een controlegroep, of randomisatie van de volgorde ('counterbalancing').
 
@@ -692,20 +698,20 @@ Een ANOVA voor herhaalde metingen gebruik je om een groep met zichzelf te vergel
 > - Bij een normale ANOVA worden proefpersonen met elkaar vergeleken. Er is kolom voor de score en voor de conditie, waarbij er drie of meer mogelijke waardes voor de conditie zijn, en de respondent bij één van deze condities hoort. Bijvoorbeeld:
 >
 >   | ID | Schaalscore | Conditie |
->   |--|--|--|
->   | 1 | 23 | Groep A |
->   | 2 | 42 | Groep C |
->   | 3 | 12 | Groep B |
->   | 4 | 18 | Groep B |
+>   |----|-------------|----------|
+>   | 1  | 23          | Groep A  |
+>   | 2  | 42          | Groep C  |
+>   | 3  | 12          | Groep B  |
+>   | 4  | 18          | Groep B  |
 >
 > - Bij een ANOVA voor herhaalde metingen worden proefpersonen met zichzelf vergeleken. Er is per conditie een kolom die de score bevat, en elke respondent hoort dus bij alle condities. Bijvoorbeeld:
 >
 >   | ID | Pretest | Posttest | Followup |
->   |--|--|--|--|
->   | 1 | 23 | 35 | 27 |
->   | 2 | 42 | 53 | 44 |
->   | 3 | 12 | 22 | 21 |
->   | 4 | 18 | 19 | 18 |
+>   |----|---------|----------|----------|
+>   | 1  | 23      | 35       | 27       |
+>   | 2  | 42      | 53       | 44       |
+>   | 3  | 12      | 22       | 21       |
+>   | 4  | 18      | 19       | 18       |
 
 <!--
 Het is ook mogelijk om de ANOVA voor herhaalde metingen te gebruiken voor een combinatie van within- en between-subjects designs (aka mixed ANOVA), maar dit wordt niet behandeld bij TOE en is geen tentamenstof.
