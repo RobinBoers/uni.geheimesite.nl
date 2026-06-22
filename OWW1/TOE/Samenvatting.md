@@ -2,7 +2,7 @@
 title: Toepassing van onderzoeksmethoden en statistiek
 ---
 
-> Deze samenvatting veronderstelt voorkennis van [KOM](../KOM/Samenvatting.md). Hij is bijna compleet. Alleen Bayesiaanse analyse en ethiek ontbreekt nog.
+> Deze samenvatting veronderstelt voorkennis van [KOM](../KOM/Samenvatting.md). Hij is bijna compleet. Alleen ethiek ontbreekt nog.
 
 <br>
 
@@ -1003,6 +1003,12 @@ Je krijgt daarom twee \\(BF\\) waardes:
 Andere waardes kan je berekenen door de \\(BF_{.u}\\) waardes voor hypotheses door elkaar te delen:
 
 \\[BF_{34} = BF_{3u} / BF_{4u}\\]
+
+Er zijn drie soorten \\(\text{PMP}\\)'s:
+
+- \\(\text{PMP}_a\\) geeft de kans tenopzichte van de set gespecificeerde hypotheses. Deze gebruik je als je set allesomvattend is (alle mogelijkheden bevat).
+- \\(\text{PMP}_b\\) geeft de kans tenopzichte van de unconstrained set. Deze gebruik je als je meerdere competing hypotheses evalueert.
+- \\(\text{PMP}_c\\) geeft de kans tenopzichte van de complement set. Deze gebruik je als je een afzonderlijke hypothese evalueert.
 
 ## Data-analyse <small>(kwalitatief)</small>
 
