@@ -657,6 +657,8 @@ Waarbij \\(b_0\\) het snijpunt met de \\(y\\)-as is, \\(b_n\\) de richtingscoëf
   <p>Het toevoegen van meer predictorvariabelen zal altijd zorgen voor een toename van \(R^2\) en een afname van \(\text{RMSE}\). Echter is het belangrijk om een balans te vinden tussen de hoeveelheid predictorvariabelen; het doel is een spaarzaam (‘parsimonious’) model dat eenvoudig én nauwkeurig is.</p>
 </details>
 
+## Data-analyse <small>(NHST)</small>
+
 ### \\(t\\)-toets
 
 Een \\(t\\)-toets gebruik je om twee groepen met elkaar te vergelijken, bij between-subjects designs. Als er sprake is van onafhankelijke groepen mag je de Indepentent Samples T-Test uitvoeren, bij afhankelijke groepen (bijv. bij gepaarde of herhaalde metingen) gebruik je de Paired Samples T-Test.
@@ -906,6 +908,101 @@ Een ander soort correctie is de MANOVA, maar deze wordt niet behandeld bij TOE i
 Je voert een ANOVA voor herhaalde metingen uit via <span class="root">ANOVA</span> <span class="sub">Classical</span> <span class="sub">Repeated Measures ANOVA</span>. Je sleept vervolgens de variabelen voor verschillende condities naar <span class="input">Repeated Measures Cells</span>.
 
 Je voert de Mauchly-test uit via <span class="current">Assumption Checks</span> <span class="sub">Sphericity tests</span>. Je gebruikt de hoogste waarde voor \\(\epsilon\\) die in de resultatentabel staat. Als er een correctie nodig is kan je die ook onder <span>Sphericity tests</span> aanklikken.
+
+## Data-analyse <small>(Bayesiaans)</small>
+
+Bij alle analyses tot nu toe heb je NHST gebruikt. Bij NHST maak je een dichotome beslissing over het al dan niet verwerpen van de nulhypothese, op basis van een \\(p\\)-waarde.
+
+Een andere manier om hypotheses te toetsen is Bayesian Hypothesis Evaluation (BHE). Bij BHE is er geen \\(p\\)-waarde, maar een Bayes Factor (\\(BF\\)), die uitdrukt hoe goed een hypothese bij de data past ("fit"). Daarbij wordt ook de specificiteit van de hypothese meegenomen.
+
+<p>
+<center>
+\(BF_{10}\) is het bewijs voor \(H_1\) tenopzichte van \(H_0\)<br>
+\(BF_{01}\) is het bewijs voor \(H_0\) tenopzichte van \(H_1\)<br>
+\[BF_{10} = \frac{1}{BF_{01}}\]
+</center>
+</p>
+
+We bepalen de Bayes factor aan de hand van Posterior Model Probabilities (\\(\text{PMP}\\)). Die geven de fit weer als een factor, waarbij \\(0 < \text{PMP} < 1\\). Samen tellen ze op tot \\(1\\).
+
+\\[BF\_{01} = \text{PMP}\_0 / \text{PMP}\_1\\]
+\\[BF\_{10} = \text{PMP}\_1 / \text{PMP}\_0\\]
+\\[\text{PMP}\_1 + \text{PMP}\_0 = 1\\]
+
+Hoe verder de \\(\text{PMP}\\)'s uit elkaar liggen, hoe groter de \\(BF\\) wordt, hoe makkelijker dus de interpretatie van de resultaten.
+
+<details>
+  <summary>Voorbeeld</summary>
+  Bij een \(BF_{01} = 4\), geldt \(\text{PMP}_0 = 0.8\) en \(\text{PMP}_1 = 0.2\), want:
+  \[BF_{01} = \text{PMP}_0 / \text{PMP}_1 = 0.8 / 0.2 = 4\]
+  \[\text{PMP}_1 + \text{PMP}_0 = 0.2 + 0.8 = 1\]
+</details>
+
+Daarbij is \\(\text{PMP}_0\\) de kans op een conditionele type I fout: kiezen we \\(H_1\\), is \\(\text{PMP}_0\\) de kans dat we dat onterecht doen. Andersom is \\(\text{PMP}_1\\) de kans op een conditionele type II fout; kiezen we \\(H_0\\), is \\(\text{PMP}_1\\) de kans dat we dat onterecht doen.
+
+Bij NHST nemen we de nulhypothese als uitgangspunt. Hebben we voldoende bewijs tegen, dan verwerpen we de nulhypothese. Bij BHE is de data het uitgangspunt, en kiezen we welke hypothese de beste fit heeft. Dit is genuanceerder, dus ook moeilijker te interpreteren.
+
+<details>
+  <summary>Voorbeeldconclusie NHST</summary>
+  Er is een significant verschil gevonden in groepsgemiddelden tussen de experimentele conditie en controlegroep, \(t(58) = 2.34, p = .023, d = 0.45\).
+</details>
+
+<details>
+  <summary>Voorbeeldconclusie BHE</summary>
+  \(H_1\) kreeg \(1.67\) keer meer ondersteuning dan \(H_0\).
+</details>
+
+### Bayesiaanse \\(t\\)-toets
+
+#### Analyse uitvoeren
+
+Je voert een Bayesiaanse \\(t\\)-toets uit via <span class="root">T-Tests</span> <span class="sub">Bayesian</span> <span class="sub">Indepentent Samples T-Test</span> of <span class="sub">Paired Samples T-Test</span>. Je kiest dan bij <span class="input">Dependent Variables</span> de afhankelijke variabele en bij <span class="input">Grouping Variable</span> de onafhankelijke, en selecteert de alternatieve hypothese onder <span class="radio">Alternative Hypothesis</span>.
+
+#### Resultaten interpreteren
+
+De \\(t\\)-toets geeft \\(BF_{01}\\) en \\(BF_{10}\\), en bijbehorende \\(\text{PMP}\\)'s. Deze interpreteer je zoals hierboven.
+
+### Bain ANOVA
+
+Je voert een Bayesiaanse ANOVA uit via <span class="root">Bain</span> <span class="sub">ANOVA</span> <span class="sub">ANOVA</span>. Je kiest dan bij <span class="input">Dependent Variables</span> de afhankelijke variabele en bij <span class="input">Fixed Factors</span> de onafhankelijke.
+
+<div class="box">
+  <h4>Instellingen</h4>
+  <ul>
+    <li><span class="opt">Descriptives</span> aan</li>
+    <li><span class="opt">Descriptives plot</span> aan</li>
+  </ul>
+</div>
+
+Er zijn twee manieren om een ANOVA uit te voeren:
+
+- **Exploratief** (ongericht): je hebt vooraf geen verwachting. Bij NHST: omnibus ANOVA.
+- **Confirmatief** (gericht): je hebt vooraf wel een verwachting. Bij NHST: ANOVA met geplande contrasten.
+
+Bij Bain ANOVA is dit verschil minder groot. Er zijn altijd hypotheses; je kiest zelf om alleen de nulhypothese te toetsen (ongericht), of om ook alternatieve hypotheses te toetsen (gericht).
+
+<details>
+  <summary>Let op!</summary>
+  In een Bain ANOVA heet de nulhypothese \(H_1\) (omdat het de eerste hypothese is) niet \(H_0\)!
+</details>
+
+Je kan hypotheses invullen via <span class="current">Model Constraints</span>. De nulhypothese is standaard al voor je ingevuld. Om de analyses opnieuw uit te voeren met de ingevulde hypotheses, doe je <kbd>Command</kbd> + <kbd>Enter</kbd> (MacOS) of <kbd>Control</kbd> + <kbd>Enter</kbd> (Windows of Linux).
+
+De ingevulde hypotheses worden genummerd van \\(H_0\\) tot \\(H_n\\). Er worden daar nog twee hypotheses automatisch aan toegevoegd:
+
+- \\(H_u\\) ('unconstrained'): elke mogelijke volgorde, inclusief de gespecificeerde hypotheses.
+- \\(H_c\\) ('complement'): elke volgorde die nog niet bij de gespecificeerde hypotheses staat.
+  > De \\(H_c\\) is het *complement van de set* van hypotheses. Dat zijn alle hypotheses die niet gespecificeerd waren. Daarnaast heeft elke hypothese *een eigen complement*. Dat zijn alle hypotheses behalve die specifieke hypothese. Dat wordt aangegeven met \\(H_{c,n}\\).
+
+Je krijgt daarom twee \\(BF\\) waardes:
+
+- \\(BF_{.u}\\) vergelijkt \\(H_n\\) en \\(H_u\\). Deze gebruik je om hypotheses onderling te vergelijken, want \\(H_u\\) is voor alle hypotheses hetzelfde.
+
+- \\(BF_{.c}\\) vergelijkt \\(H_n\\) en \\(H_{c,n}\\). Deze gebruik je om een afzonderlijke hypothese te evalueren.
+
+Andere waardes kan je berekenen door de \\(BF_{.u}\\) waardes voor hypotheses door elkaar te delen:
+
+\\[BF_{34} = BF_{3u} / BF_{4u}\\]
 
 ## Data-analyse <small>(kwalitatief)</small>
 
