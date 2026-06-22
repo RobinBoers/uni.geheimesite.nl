@@ -2,7 +2,7 @@
 title: Toepassing van onderzoeksmethoden en statistiek
 ---
 
-> Deze samenvatting veronderstelt voorkennis van [KOM](../KOM/Samenvatting.md). Hij is bijna compleet. Alleen ethiek ontbreekt nog.
+> Deze samenvatting veronderstelt voorkennis van [KOM](../KOM/Samenvatting.md) en [Wetenschapsfilosofie](../WETFIL/Samenvatting.md).
 
 <br>
 
@@ -1027,7 +1027,7 @@ Welke analytische codes gebruikt worden hangt af van het type onderzoek:
 
 - **Inductief**: theorievorming op basis van data. Codes wordt "gegenereerd" door de data.
 - **Deductief**: theorietoetsing aan de hand van data. Codes komen uit het theoretisch kader.
-- **Abductief**: twee-stapsproces waarin eerst inductief een theorie wordt gevormd, en deze vervolgens met nieuwe data deductief wordt getoetst. Codes komen uit de eerste dataset.
+- **Abductief**: interatief proces waarin eerst inductief een theorie wordt gevormd, en deze vervolgens met nieuwe data deductief wordt getoetst. Codes komen uit de eerste dataset.
 
 > Bij kwalitatief is een representatieve steekproef niet gewenst. Je wil juist een zo'n groot mogelijke verscheidenheid, om alle uitingsvormen te kunnen onderzoeken. Het doel is namelijk geen generaliseerbaarheid, maar een breed dekkend theoretisch model.<!-- Dit noemen we theoretical sampling(?)-->
 >
@@ -1071,8 +1071,82 @@ Gedurende dit hele proces is er **constant comparison**. Dat houdt in dat je bij
   </ul>
 </details>
 
+#### Theoriegebruik <small>(inductief)</small>
+
+```mermaid
+flowchart BT
+  D[Data]-- wordt gebruikt om te informeren over -->L[Theorie/literatuur]
+```
+
+#### Theoriegebruik <small>(abductief)</small>
+
+```mermaid
+flowchart BT
+  D[Data]-- wordt gebruikt om te informeren over -->L[Theorie/literatuur]
+  L-- maakt sensitief en vormt lens voor verzamelen van -->D
+```
+
 ### Deductieve analyse
 
 Bij deductieve data-analyse maak je gebruik van een **categorisatiematrix**. Die bevat vooraf opgestelde thema's, op basis van de theorie. Deze tabel wordt vervolgens per respondent ingevuld, en dan wordt deze vergeleken met de theorie. We noemen dit "de fit bepalen".
 
 Het kan zijn dat je tijdens de data-verwerking niet-passende data tegenkomt. Deze geef je dan tijdelijk een label. Je kan deze gebruiken om achteraf inductief thema's toe te voegen aan de matrix, of gebruiken om de tekortkomingen van de matrix te documenteren in de discussie.
+
+#### Theoriegebruik
+
+```mermaid
+flowchart TB
+  L[Theorie/literatuur] --> V[Hypotheses opstellen]
+  V --> D[Data]
+  D --> T[Hypotheses toetsen]
+  T --> V
+```
+
+## Ethiek
+
+### Kwesties in kwalitatief onderzoek
+
+Het kan zijn dat er bedoeld of onbedoeld gevoelige persoonlijke informatie wordt gedeeld in kwalitatief onderzoek. We kunnen deze kwesties opdelen in drie categorieën:
+
+| Kwestie          | Relevant? | Onderzoeker wil weten? | Respondent wil vertellen? |
+| ---------------- | --------- | ---------------------- | ------------------------- |
+| Pseudo-intimacy  | Ja        | Ja                     | Nee                       |
+| Undue intrusion  | Nee       | Ja                     | Nee                       |
+| Script deviation | Nee       | Nee                    | Ja                        |
+
+<!--
+### Filosofie
+
+- Ontologie (zijnsleer) beschrijft wat je wil onderzoeken.
+- Epistemologie (kennisleer) beschrijft hoe je onderzoekt.
+-->
+
+### Perspectieven
+
+- **Utilitatian** ('teleologie'): kijkt naar de actie, de consequenties, en weegt de kosten en baten van tegen elkaar af. Daarin is het grotere goed belangrijker. Als de actie tot een betere wereld leidt dan is het goed, zo niet is het slecht.
+
+  > "Persoon A heeft geen recht om het medicijn te stelen. De actie van Persoon A levert geen betere uitkomst voor de maatschappij op."
+
+- **Universalisme** ('deontologie'): kijkt naar de actie, en toetst deze tegen altijd en overal geldende regels. Als de actie goed is dan is het goed, als de actie slecht is dan is het slecht.
+
+  > "Persoon A stal het medicijn, en het is zeer simpel: stelen is fout, te allen tijde. Wat Persoon A deed is fout."
+
+- **Virtue ethics**: kijkt naar de persoon, een goed persoon doet goede dingen. De actie zelf is irrelevant. Als een persoon van nature goed is, is de actie goed. Als de persoon van nature slecht is, is de actie slecht.
+
+  > "Persoon A is van nature (g)een goed person. Wat A deed is daarom (niet) goed."
+
+- **Relational ethics**: kijkt naar de persoon, en naar machtsverhoudingen. Op basis daarvan wordt bepaald of de actie wel of niet goedgekeurd kan worden:
+
+  > "Gezien de rol van Persoon A in de maatschappij, is de actie ..."
+
+- **Casuistry**: kijkt naar de casus, en eerdere beslissingen genomen in vergelijkbare casussen (soort "jurisprudentie"). Op basis daarvan wordt een oordeel geveld over de huidige situatie.
+
+  > "In eerdere situaties werd het afgekeerd als mensen iets stalen, zelfs als het in het belang van anderen was. Daarom is wat Persoon A deed fout."
+
+<details open style="margin-top: 3em">
+  <summary>Andere belangrijke afkortingen</summary>
+  <ul>
+    <li>FAIR: Findable, Accessible, Interoperable, Reusable</li>
+    <li>PRIDE: Privacy, Data, Ethics</li>
+  </ul>
+</details>
