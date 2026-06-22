@@ -1102,6 +1102,14 @@ flowchart TB
   T --> V
 ```
 
+<!--
+"Goed" onderoek voldoet aan drie criteria:
+
+- Rigor: opzet?
+- Reflexiviteit: belangen?
+- Ethiek: omgang?
+-->
+
 ## Ethiek
 
 ### Kwesties in kwalitatief onderzoek
@@ -1148,5 +1156,15 @@ Het kan zijn dat er bedoeld of onbedoeld gevoelige persoonlijke informatie wordt
   <ul>
     <li>FAIR: Findable, Accessible, Interoperable, Reusable</li>
     <li>PRIDE: Privacy, Data, Ethics</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Criteria voor rigoreus onderzoek</summary>
+  <ul>
+  <li><strong>Credibility</strong> (truth value): zijn de resultaten plausibel?</li>
+  <li><strong>Dependendability</strong> (consistentie): zijn de resultaten stabiel?</li>
+  <li><strong>Confirmability</strong> (neutraliteit): zijn de resultaten niet beïnvloed?</li>
+  <li><strong>Transferability</strong> (toepasbaarheid): zijn de resultaten toepasbaar?</li>
   </ul>
 </details>
