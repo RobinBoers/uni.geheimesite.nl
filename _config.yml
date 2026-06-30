@@ -1,13 +1,12 @@
-title: School shtuff
-email: 4410@schravenlant.nl
+title: University shtuff
+email: r.boers1@students.uu.nl
 lang: nl
 description: >-
-  Dit is een website die ik even snel heb gemaakt voor mijn school stuff. Ik plaats hier mijn samenvattingen en leerplanningen voor de toetsweek in de hoop dat iemand anders er ook nog iets aan heeft.
-url: "https://school.geheimesite.nl"
+  Dit is een kopie van mijn originele school stuff website, maar dan voor de universiteit. Ik plaats hier mijn samenvattingen in de hoop dat iemand anders er nog iets aan heeft.
+url: "https://uni.geheimesite.nl"
 github_username: RobinBoers
 exclude:
   - Bakefile
-  - generate-index.sh
 plugins:
   - jekyll-default-layout
   - jekyll-readme-index
