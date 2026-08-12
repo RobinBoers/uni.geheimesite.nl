@@ -30,7 +30,7 @@ Dit is een kopie van mijn [originele site](//school.geheimesite.nl), maar dan vo
 
   function extractDOI(input) {
     const match = input.match(/10\.\d{4,9}\/[-._;()/:A-Z0-9]+/i);
-    return match ? match[0].replace(/["'<>\s]/g, '') : null;
+    return match ? match[0].replace(/[.,;:]+$/, "") : null;
   }
 
   async function findDOI(url) {
