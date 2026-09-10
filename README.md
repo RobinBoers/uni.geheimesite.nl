@@ -102,9 +102,9 @@ Dit is een kopie van mijn [originele site](//school.geheimesite.nl), maar dan vo
 
 ## OWW1
 
-- [Inleiding in de onderwijswetenschappen](/OWW1/IOWW/Samenvatting.md)
-- [Kennismaking met onderzoeksmethoden en statistiek](/OWW1/KOM/Samenvatting.md)
-- [Ontwerpen van leersituaties](/OWW1/OVL/Samenvatting.md)
-- [Education & ICT](/OWW1/EICT/Samenvatting.md)
-- [Wetenschapsfilosofie](/OWW1/WETFIL/Samenvatting.md)
-- [Toepassing van onderzoeksmethoden en statistiek](/OWW1/TOE/Samenvatting.md)
+- [Inleiding in de onderwijswetenschappen](OWW1/IOWW/Samenvatting.md)
+- [Kennismaking met onderzoeksmethoden en statistiek](OWW1/KOM/Samenvatting.md)
+- [Ontwerpen van leersituaties](OWW1/OVL/Samenvatting.md)
+- [Education & ICT](OWW1/EICT/Samenvatting.md)
+- [Wetenschapsfilosofie](OWW1/WETFIL/Samenvatting.md)
+- [Toepassing van onderzoeksmethoden en statistiek](OWW1/TOE/Samenvatting.md)
