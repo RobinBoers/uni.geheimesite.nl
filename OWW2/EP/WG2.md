@@ -2,6 +2,8 @@
   i. I think a very clear example would be the use of AI in our workplace (I work as a software developer). When we use AI to create or maintain products, we have a very high performance (we get a lot of work done in a short amount of time, and the clients are very happy with that), but the learning is low. This is especially noticable for new collagues, who have very little knowledge of what the system or product actually works like.
   ii. A lot of people think that ideal learning should feel effortless and easy. So if something gets done quickly and with high quality (aka high performance), we feel like we've learned a lot, while in reality we might not have learned anything (because learning and performing is not the same).
 
+  ^je kan alleen performance toetsen.
+
 2.
   i. "‘Gewenste moeilijkheden’ die inspanning vergen resulteren in meer leeropbrengsten dan minder inspannende methoden zoals highlighten of het bekijken van filmpjes." -> this is a direct reference to the "desirable difficulties", discussed in the article by Yan et al.
      "Studenten die zichzelf overhoren worden geconfronteerd met wat ze nog niet goed beheersen, en overschatten zichzelf minder snel." -> this is a direct reference to the "testing effect", also discussed in Yan et al.
