@@ -55,7 +55,9 @@ a) Negative transfer
 b) Lateral transfer
 c) Retroactive inhibition
 
-Correct: A, p. 420, bloom: remember
+Correct: A, p. 420
+Why: Lateral/vertical transfer is about prior knowledge and task complexity, and inhibition is an explanation for forgetting, not transfer.
+Bloom: remember
 
 2. Why is negative reinforcement not the same as punishment?
 
@@ -63,8 +65,12 @@ a) Negative reinforcement decreases a behavior by removing a pleasant stimulus, 
 b) Negative reinforcement increases a behavior by removing an unpleasant stimulus, punishment decreases a behavior.
 c) Negative reinforcement uses only unpleasant stimuli, punishment uses only pleasant ones.
 
-Correct: B, p. 60-73, bloom: understand
+Correct: B, p. 60-73
+Why: Reinforcement is a form of rewarding. The "negative" is about the stimulus: you take it away, it does not mean "bad". People confuse this with punishment. Option B is correct, option A would be chosen if negative reinforcement is only semi-understood (if people know it's "negative = taking something away", but don't understand that reinforcement = reward), and C is the obvious bogus answer.
+Bloom: understand
 
 3. A teacher wants that a very shy student presents in front of class. She does this by first praising him when answering a question sitting down, later by only praising him when standing up, and after that, only if he presents something in a small group, and finally only when presenting for the whole class. What is this operant conditioning technique called?
 
-Answer: shaping, p. 62, bloom: apply
+Answer: shaping, p. 62
+Why: The target behaviour doesn't exist yet, so can't be reinforced. Instead, the teacher reinforces closer and closer approximations of the behaviour.
+Bloom: apply
