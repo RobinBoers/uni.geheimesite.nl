@@ -49,8 +49,22 @@ Classroom assessment practices should include measures of transfer and problem s
 
 Assignment 2
 
-1.
+1. When something learned in one situation hinders a person’s ability to learn or perform in another situation, this is called:
 
-2.
+a) Negative transfer
+b) Lateral transfer
+c) Retroactive inhibition
 
-3.
+Correct: A, p. 420, bloom: remember
+
+2. Why is negative reinforcement not the same as punishment?
+
+a) Negative reinforcement decreases a behavior by removing a pleasant stimulus, punishment decreases it by presenting an unpleasant one.
+b) Negative reinforcement increases a behavior by removing an unpleasant stimulus, punishment decreases a behavior.
+c) Negative reinforcement uses only unpleasant stimuli, punishment uses only pleasant ones.
+
+Correct: B, p. 60-73, bloom: understand
+
+3. A teacher wants that a very shy student presents in front of class. She does this by first praising him when answering a question sitting down, later by only praising him when standing up, and after that, only if he presents something in a small group, and finally only when presenting for the whole class. What is this operant conditioning technique called?
+
+Answer: shaping, p. 62, bloom: apply
