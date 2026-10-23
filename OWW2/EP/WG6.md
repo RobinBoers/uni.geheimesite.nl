@@ -94,6 +94,19 @@ argumenten:
 
 "[...] little or no correlation between factors that should correlate with the classification of learning styles, and that it does not enjoy a general acceptance of its usefulness, particularly for research purposes."
 
+9. PBL is niet geschikt voor medische/clinische kennis.
+
+"[...] the hypothetico-deductive method may not be the most efficient way of solving clinical problems."
+
+"[...] once basic science knowledge is contextualized, it is difficult to separate it from the particular clinical problems into which it has been integrated."
+
+"[...] participants trained in PBL retained the backward-directed reasoning pattern, but did not seem to acquire forward-directed reasoning, which is a hallmark of expertise"
+
+"Experts use schema-based pattern recognition to deter-
+mine the cause of a patient’s illness. According to Elstein (1994) knowledge organization and schema acquisition are more important for the development of expertise than the use of particular methods of problem solving."
+
+^het grappige is dat dit dus *juist* komt omdat PBL dus *niet* gebruik maakt van de methodes/procedures van de discipline zelf...
+
 2.
 
 Schmidt et al. (2007)
