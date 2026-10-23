@@ -156,3 +156,20 @@ bewijs voor directe instructie betreft problemen die CLT-wel-complex en PBL-niet
 
 ik kom er net achter dat ik de perongeluk geswitched ben naar het nederlands ipv engels tijdens het samenvatten. sorry! de rest is engels:
 
+Cognitive load & distributed learning/cognition: PBL reduces cognitive load in two ways: it is clearly structured in seven steps, and if stuck a tutor can provide additional information. Both reduce extraneous load. And, complex problems are handed to groups, exactly because of limited working memory capacity. The group can bundle their working memory capacity (each member holding a little bit of the problem) and prior knowledge. This is called distributed cognition.
+
+So yes, there is higher cognitive load then in direct instruction, but it is also distributed among a group, and if the load is still too high, a tutor can step in and help.
+
+Scaffolding & expertise-reversal effect: PBL uses scaffolding with fading. There is a tutor with instructions if the group gets stuck, the resources are provided and get less specific/specified with more expertise, and problems go from simple to complex with more expertise. According to the expertise reversal-effect, guidance should shrink as expertise increases. PBL does that with scaffolding/fading, direct instruction doesn't.
+
+Does PBL then only work with scaffolding? -> yes, but so does direct instruction. a bad lecture is a bad lecture.
+
+Activating prior knowledge & meaningful learning: group discussion in PBL leads to better recall because it activates prior knowledge. It is also a form of elaboration and can be a desirable difficulty (slowing you down to think more clearly). All of these are known to lead to better learning. The effect holds up if activated knowledge is wrong and is biggest for novice learners especially.
+
+(^And another thing: PBL is a trigger to study. The actual studying still happens individually from the provided resources. The problem is not solely the method by which you learn. Not sure how this fits in with either Schmidt's or Kirschner's arguments tbh.)
+
+Transfer: PBL isn't necessarily better for learning new knowledge or skills, but does help with transfer to new situations.
+
+(^But I am still confused about this, because the paper by Kirschner said it didn't matter for transfer. Maybe it has something to do with the different types of transfer? In general I did not quite understand the whole section in Schmidt's paper on transfer.)
+
+Autonomy & situational interest: PBL can be very motivating for students because they have a high level of autonomy, which according to self-determination theory can lead to increaed intrinsic motivation, and problems posed by PBL can create situational interest. Both are known to increase learning.
