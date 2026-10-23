@@ -1,0 +1,5 @@
+- do you feel capable? why (not), and what can you do about it?
+  -> self-efficacy, more study strategies
+- can you do it together? or otherwise talk about it with others?
+- do you do this because you want to yourself, or because you need it for something?
+  - if yes, this is extrinsic regulation. explain that people need to turn this into intrinsic/identified regulation (aka doing something because you think its important and maybe it can even become fun)
