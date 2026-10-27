@@ -15,7 +15,15 @@ title: Educational Psychology
 }
 </style>
 
-> De lijnen tussen verschillende theorieën en perspectieven zijn soms vaag, en dat is oké. Geen enkele theorie kan leren in alle situaties uitleggen. De combinatie van perspectieven geeft ons juist een compleet beeld. Het is niet nodig om scherp onderscheid te maken.
+<details>
+  <summary>Valse dichotomie</summary>
+  <p>De lijnen tussen verschillende theorieën en perspectieven zijn soms vaag, en dat is oké. Geen enkele theorie kan leren in alle situaties uitleggen. De combinatie van perspectieven geeft ons juist een compleet beeld. Het is niet nodig om scherp onderscheid te maken.</p>
+</details>
+
+<details>
+  <summary>The map of not the territory</summary>
+  <p>Alfred Korzybski zei ooit "The map is not the territory": geen enkele menselijke abstractie kan de realiteit volledig en objectief beschrijven, omdat het per definitie versimpelingen van de werkelijkheid zijn, om haar begrijpbaarder te maken. Houdt dit in gedachten tijdens het lezen van de literatuur voor dit vak.</p>
+</details>
 
 # Behaviourisme
 
@@ -181,11 +189,11 @@ Contextuele theoriën stellen dat leren niet alleen een process is in het hoofd 
 
 ### Dual-storemodel
 
-Het dual-storemodel van geheugen stelt dat het geheugen uit twee delen bestaat: voor korte termijn en voor lange termijn.
+Het dual-storemodel van geheugen stelt dat het geheugen uit drie componenten bestaat, waarbij informatie wordt opgeslagen op één van twee plekken, afhankelijk van korte of lange termijn:
 
 ![](dual-store.png)
 
-> Dit is een versimpeld conceptueel model: SM, STM, en LTM zijn geen "plekken" in het brein, en de cognitieve processen die we beschrijven bestaan neurologisch niet.
+> Dit is een versimpeld conceptueel model: SM, STM, en LTM zijn geen "plekken" in het brein, en de cognitieve processen die we beschrijven bestaan neurologisch gezien niet.
 
 1. **Sensorisch geheugen**: in het sensorisch geheugen wordt zintuigelijke informatie na binnenkomst voor korte tijd (\\(0\text{-}2\text{s}\\)) vastgehouden, in de modaliteit dat het binnenkwam.
 
@@ -268,6 +276,39 @@ Het dual-storemodel van geheugen stelt dat het geheugen uit twee delen bestaat: 
   </details>
 
 <!-- argumentatie van pagina 184-186 begrijpen en samenvatten -->
+
+### Levels of processing
+
+Het levels-of-processingmodel van geheugen stelt dat geheugen het resultaat is van verwerking door een **central processor**, waarbij de mate van verwerking bepaalt hoe goed en hoe lang iets wordt opgeslagen:
+
+1. **Geen verwerking**: alleen een korte indruk, vergelijkbaar met sensorisch geheugen van dual-storemode.
+
+2. **Oppervlakkige verwerking**: alleen aandacht voor <dfn title="kleur, vorm, helderheid, grootte, klank, geur etc.">oppervlaktekenmerken</dfn>, vergelijkbaar met werkgeheugen van dual-storemodel.
+
+3. **Diepe verwerking**: interpretatie en koppeling aan voorkennis, vergelijkbaar met langetermijngeheugen van dual-storemodel.
+
+> Mensen met de intentie om te leren ('intention to learn') verwerken informatie dieper en leren daardoor meer. Maar mensen die informatie diep verwerken zonder dat ze actief proberen te leren, leren het even goed ('incidental learning').
+
+<details>
+  <summary>Kritiek op levels-of-processingmodel</summary>
+  <ul>
+    <li>"Niveau" van verwerking en "diepgang" zijn vaag en moeilijk te definiëren.</li>
+    <li>Informatie die vaak herhaald wordt, wordt beter geleerd, ongeacht diepgang.</li>
+    <li>In sommige gevallen leidt oppervlakkige verwerking (eg. rijmen) tot betere recall dan diepe verwerking (eg. relateren aan voorkennis).</li>
+  </ul>
+</details>
+
+### Activation
+
+Het activatiemodel van geheugen stelt dat de verschillende soorten geheugens activatiestaten zijn van één geheugen, waarin informatie actief of inactief kan zijn.
+
+Aan actieve informatie wordt aandacht besteedt en deze wordt bewust verwerkt. Dit kan nieuwe informatie zijn of voorkennis. Als aandacht verschuift, wordt andere informatie actief, en wordt de voorheen geactiveerde informatie langzaam inactief. Het grootste deel van de informatie in ons geheugen is inactief, en we zijn ons hier niet van bewust.
+
+Als informatie geactiveerd wordt, activeert dit ook automatisch geassocieerde informatie, waardoor deze makkelijker op te halen wordt. Dit heet **priming**.
+
+<!--
+> In dit model zijn werkgeheugen en langetermijngeheugen simpelweg activatietoestanden: actieve informatie is "in werkgeheugen", en inactieve informatie is "in langetermijn".
+-->
 
 <!--
 # Social cognitive theory
