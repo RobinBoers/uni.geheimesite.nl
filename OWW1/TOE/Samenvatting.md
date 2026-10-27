@@ -981,8 +981,8 @@ Er zijn twee manieren om een ANOVA uit te voeren:
 
 Bij Bain ANOVA is dit verschil minder groot. Er zijn altijd hypotheses; je kiest zelf om alleen de nulhypothese te toetsen (ongericht), of om ook alternatieve hypotheses te toetsen (gericht).
 
-<details>
-  <summary>Let op!</summary>
+<details open>
+  <summary>Let op:</summary>
   In een Bain ANOVA heet de nulhypothese \(H_1\) (omdat het de eerste hypothese is) niet \(H_0\)!
 </details>
 

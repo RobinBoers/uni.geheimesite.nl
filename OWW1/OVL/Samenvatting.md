@@ -396,7 +396,10 @@ Een critical incident analyse geeft inzicht in **processen** die <!--in tegen&sh
 
 Deze analyse gaat uit van episodische kennis: welke factoren zijn kenmerken voor het slagen of falen van een proces? Hiervoor worden heel veel casussen onderzocht voor patronen.
 
-> Let op: dit heeft **niks te maken met critical incident needs**. Ja, dat is iid fking verwarrend.
+<details open>
+  <summary>Let op:</summary>
+  Dit heeft <strong>niks te maken met critical incident needs</strong>. Ja, dat is iid fking verwarrend.
+</details>
 
 ## Leerdoelen
 

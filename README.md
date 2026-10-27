@@ -100,9 +100,9 @@ Dit is een kopie van mijn [originele site](//school.geheimesite.nl), maar dan vo
   }
 </style>
 
-## OWW2
+<!-- ## OWW2
 
-- [Educational Psychology](OWW2/EP/Samenvatting.md)
+- [Educational Psychology](OWW2/EP/Samenvatting.md) -->
 
 ## OWW1
 

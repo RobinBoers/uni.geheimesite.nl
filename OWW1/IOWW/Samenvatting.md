@@ -166,9 +166,9 @@ Operante conditionering is gebaseerd op Skinner's onderzoek naar het **bekrachti
 Bij reinforcement moedig je gewenst gedrag aan door te belonen. Bij punishment moedig je ongewenst gedrag af door te straffen. Dit doe je door prikkels toe te voegen (positive) of weg te nemen (negative).
 
 <!--
-<details>
-  <summary>Let op!</summary>
-  <p>"positive" en "negative" zeggen dus <em>niks</em> over of het gedrag gewenst of ongewenst is, of dat de beloning of straf wel of niet fijn is voor de leerling. Het betekent puur en alleen of er een prikkel wordt <strong>toegevoegd</strong> of <strong>weggenomen</strong>!</p>
+<details open>
+  <summary>Let op:</summary>
+  De "positive" en "negative" zeggen dus <em>niks</em> over of het gedrag gewenst of ongewenst is, of dat de beloning of straf wel of niet fijn is voor de leerling. Het betekent puur en alleen of er een prikkel wordt <strong>toegevoegd</strong> of <strong>weggenomen</strong>!
 </details>
 -->
 
