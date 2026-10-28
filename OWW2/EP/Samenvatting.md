@@ -116,7 +116,7 @@ De unconditioned en conditioned response kunnen ook van elkaar verschillen. Vaak
 
 - Leren is **actief**: informatie wordt niet passief geabsorbeerd, maar actief verwerkt.
 
-<details open>
+<details>
   <summary>Gestaltpsychologie</summary>
   <p>Gestaltpsychologie (Duits voor "gestructureerd geheel") beschrijft drie principes die beschrijven hoe mensen op gelijke, voorspelbare manier informatie organiseren:</p>
   <ul>
@@ -124,11 +124,7 @@ De unconditioned en conditioned response kunnen ook van elkaar verschillen. Vaak
     <li><b>Law of similarity</b>: dingen die op elkaar lijken groeperen.</li>
     <li><b>Law of closure</b>: dingen die onafgemaakt of incompleet zijn mentaal afmaken.</li>
   </ul>
-  <!-- <p>Nog een extra principe, te maken met aandacht:</p>
-    <ul>
-      <li><b>Figure-ground</b>: als aandacht gevestigd is op een object ("figure"), verdwijnt de rest in de achtergrond ("ground").</li>
-    </ul>
-   -->
+  <blockquote><p>Een ander concept genaamd <b>figure-ground</b> heeft te maken met aandacht: als aandacht gevestigd is op een object ("figure"), verdwijnt de rest in de achtergrond ("ground").</p></blockquote>
 </details>
 <details>
   <summary>Gedragstaken</summary>
@@ -139,7 +135,7 @@ De unconditioned en conditioned response kunnen ook van elkaar verschillen. Vaak
   <blockquote><p>Deze taken maken gebruik van korte woorden of lettergrepen, en zijn daarom minder geschikt voor het onderzoeken van complexere cognitieve processen, zoals problem solving of critical thinking.</p></blockquote>
 </details>
 
-## Perspectieven
+## Perspectieven op leren
 
 ### Information processing theory
 
@@ -180,7 +176,7 @@ Contextuele theoriën stellen dat leren niet alleen een process is in het hoofd 
 - **Distributed cognition**: mensen werken effectiever als ze samenwerken met anderen en/of gebruikmaken van de fysieke omgeving en culturele tools.
 - **Systems theory**: context bestaat uit <dfn title="lichaam, directe fysieke omgeving, familiesfeer en vriendenkring, lokale gemeenschappen, landelijke en internationale cultuur">lagen</dfn> die elkaar en de lerende beïnvloeden.
 
-## Geheugen
+## Perspectieven op geheugen
 
 <details open>
   <summary>Let op:</summary>
@@ -237,7 +233,7 @@ Het dual-storemodel van geheugen stelt dat het geheugen uit drie componenten bes
 
       - **Episodisch geheugen**: herinneringen van persoonlijke ervaringen of gebeurtenissen.
 
-      - **Semantisch geheugen**: feitenkennis, taal, conceptuele kennis
+      - **Semantisch geheugen**: algemene feitenkennis, taal, conceptuele kennis
 
     - **Non-declaratief geheugen** <small>(impliciet geheugen)</small>
 
@@ -260,6 +256,18 @@ Het dual-storemodel van geheugen stelt dat het geheugen uit drie componenten bes
       </li>
       <li>
         <p><strong>Maintenance rehearsal</strong>: informatie herhalen zodat het vastgehouden blijft in het werkgeheugen en niet verdwijnt door interference of decay.</p>
+      </li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>Andere soorten geheugen</summary>
+    <ul>
+      <li>
+        <p><strong>Conditioneel geheugen</strong>: procedureel geheugen met IF-THEN regels.</p>
+      </li>
+      <li>
+        <p><strong>Conceptueel geheugen</strong>: de combinatie van declaratief en non-declaratief geheugen, dat ons een compleet beeld van een situatie geeft.</p>
       </li>
     </ul>
   </details>
@@ -304,11 +312,169 @@ Het activatiemodel van geheugen stelt dat de verschillende soorten geheugens act
 
 Aan actieve informatie wordt aandacht besteedt en deze wordt bewust verwerkt. Dit kan nieuwe informatie zijn of voorkennis. Als aandacht verschuift, wordt andere informatie actief, en wordt de voorheen geactiveerde informatie langzaam inactief. Het grootste deel van de informatie in ons geheugen is inactief, en we zijn ons hier niet van bewust.
 
-Als informatie geactiveerd wordt, activeert dit ook automatisch geassocieerde informatie, waardoor deze makkelijker op te halen wordt. Dit heet **priming**.
-
 <!--
 > In dit model zijn werkgeheugen en langetermijngeheugen simpelweg activatietoestanden: actieve informatie is "in werkgeheugen", en inactieve informatie is "in langetermijn".
 -->
+
+Als informatie geactiveerd wordt, activeert dit ook automatisch geassocieerde informatie, waardoor deze makkelijker op te halen wordt. Dit heet **priming**.
+
+## Perspectieven op kennis
+
+### Propositional networks
+
+Informatie wordt opgeslagen als **proposities** in een **propositioneel netwerk**. Een propositie is kennis over objecten en personen, en de relaties daartussen.
+
+Leren (en dan specifiek 'meaningful learning') kan worden beschreven als het verbinden van nieuwe proposities met bestaande proposities in dit netwerk.
+
+<details>
+  <summary>Kritiek propositional networks</summary>
+  <ul>
+    <li>Proposities zijn nogal zwart-wit: ze zijn waar of niet waar. Daarmee kan je niet beschrijven hoe complexe interpretaties of emotionele reacties worden opgeslagen.</li>
+  </ul>
+</details>
+
+### Parallel distributed processing
+
+Informatie wordt verspreid ('distributed') opgeslagen over *nodes* op verschillende plekken in het brein. Als informatie wordt opgehaald worden deze nodes gelijktijdig ('parallel') verwerkt.
+
+Leren kan worden beschreven als een proces van versterken van associaties tussen nodes.
+
+<!-- Deze theorie kan uitleggen waarom we incomplete informatie zo makkelijk mentaal aanvullen ('law of closure'): als genoeg nodes activeren, worden gerelateerde nodes ook makkelijker actief. -->
+
+> Deze theorie komt voort uit neurologische bevindingen dat bij het ophalen van informatie veel verschillende hersengebieden actief worden. Informatie wordt dus ogenschijnlijk niet op één plek opgeslagen.
+
+<details>
+  <summary>Kritiek parallel distributed processing</summary>
+  <ul>
+    <li>Het model geeft geen duidelijkheid over situaties waarin we snel leren, analogiën trekken tussen ongerelateerde situaties, of overtuigd worden van argumentatie. <!-- maar waarom zouden nodes niet *snel* geassocieerd kunnen worden? --></li>
+    <li>Sterk geautomatiseerde cognitieve taken lijken wel gelocaliseerd te zijn in het brein.</li>
+  </ul>
+</details>
+
+## Soorten kennis
+
+### Concepten
+
+Een concept is een mentale groepering van vergelijkbare objecten of gebeurtenissen.
+
+- **Concrete objecten** hebben fysieke gelijkenissen die makkelijk te observeren zijn.
+- **Abstracte concepten** hebben gelijkenissen die moeilijker te observeren zijn.
+
+Een **positieve instance** is een voorbeeld van een concept, een **negatieve instance** juist niet.
+
+- **Ondergeneralisatie** is een onvermogen om alle positieve instances te identificeren.
+- **Overgeneralisatie** is een onvermogen om alle negatieve instances weg te filteren.
+
+Een positieve instance wordt gekenmerkt door bepaalde *features*:
+
+- **Defining features** zijn essentieel voor het concept en komen in *alle* instances voor.
+- **Correlationele features** zijn niet essentieel, maar komen wel in *veel* instances voor.
+- **Irrelevante features** zijn ongerelateerd, maar komen wel in *sommige* instances voor.
+
+> Concepten kunnen worden geleerd door passieve opbouw van associaties, of door actief de defining features van een concept te leren.
+
+Sommige concepten hebben een typisch voorbeeld, genaamd een **prototype**. Andere concepten hebben niet één specifiek voorbeeld, daarbij worden verschillende **exemplars** gebruikt.
+
+> Lerenden maken initieel veel gebruik van prototypes en exemplars; later ontwikkelen zij een meer abstract begrip, soms met een formele definitie.
+
+<details>
+  <summary>Factoren die het leren van concepten bevorderen</summary>
+  <ul>
+    <li><p>Defining features zo duidelijk mogelijk maken: highlight de defining features, en downplay de correlationele en irrelevante features.</p></li>
+    <li><p>Definities die defining features benoemen en het concept beschrijven in termen van concepten waar lerenden al voorkennis van hebben.</p></li>
+    <li><p>Veel en gevarieerde positieve instances geven, eerst duidelijke voorbeelden met zo min mogelijk irrelevante features, later steeds vagere voorbeelden, om ondergeneralisatie te voorkomen.</p></li>
+    <li><p>Veel en gevarieerde negatieve instances geven, vooral bijna-wel-voorbeelden zijn belangrijk, om overgeneralisatie te voorkomen.</p></li>
+    <li><p>Positieve en negatieve instances moeten tegelijk worden gegeven, in plaats van sequentieel.</p></li>
+  </ul>
+</details>
+
+### Schema's en scripts
+
+Een schema is een groepering van gerelateerde ideeën en concepten, gekoppeld aan een object of gebeurtenis. Schema's gekoppeld aan een gebeurtenis noemen we soms een script.
+
+> Het is onduidelijk wat schema's precies *zijn*, en de cognitieve processen voor het vormen van schema's zijn ook onduidelijk.
+>
+> a.k.a. je kan hier dus echt net niks mee.. maar hey, das like 90% van deze studie right?
+
+### Personal theories
+
+Lerenden vormen persoonlijke <dfn title="'coherente overtuigingen die oorzaak-gevolgrelaties bevatten'">theorieën</dfn> over o.a. de fysieke wereld, sociale relaties, biologie, politiek, cognitie en de mens.
+
+Theory theory beschrijft hoe mensen deze persoonlijke theorieën vormen. <!-- Is dat alles dat we weten over theory theory? -->
+
+<!--
+> Jonge kinderen maken onderscheid tussen kunstmatige objecten en biologische entiteiten. Kunstmatige objecten worden gedefinieerd door hun functie, biologische entiteiten door hun oorsprong.
+-->
+
+> Het is onmogelijk om te weten wat "echt" of "waar" is. Alle kennis over de wereld is geconstrueerd; het zijn modellen om de werkelijkheid te duiden. Echter, sommige modellen zijn *nuttiger* dan andere, omdat ze de werkelijkheid beter beschrijven en voorspellen.
+
+### Wereldbeelden
+
+Persoonlijke theorieën richten zich op één domein of verschijnsel. Een wereldbeeld is breder: een verzameling overtuigingen en veronderstellingen over de werkelijkheid in het algemeen.
+
+Wereldbeelden zijn deels cultureel bepaald en zijn meestal impliciete kennis, waar we ons niet altijd bewust van zijn.
+
+<details>
+  <summary>Voorbeelden van wereldbeelden</summary>
+  <ul>
+    <li><p>Leven en universum zijn willekeurig ontstaan of door een hogere macht.</p></li>
+    <li><p>Objecten hebben bewustzijn of niet.</p></li>
+    <li><p>Mensen zijn onderdanig aan de natuur, leven in samenspel met de natuur, of staan boven de natuur.</p></li>
+    <li><p>Succes en falen zijn resultaat van acties, een hogere macht, het lot, of willekeur.</p></li>
+    <li><p>Alle mensen hebben evenveel recht op middelen, of sommige mensen hebben meer recht dan andere.</p></li>
+    <li><p>Mensen zijn inherent goed, of inherent slecht, of geen van beide.</p></li>
+  </ul>
+</details>
+
+### Epistemic beliefs
+
+## Conceptual change
+
+Het rechtzetten van een misconceptie is makkelijk als het simpele feitenkennis betreft. Maar soms is een misconceptie onderdeel van een persoonlijke theorie, wereldbeeld, of epistemic belief, die dan aangepast of vervangen dient te worden. Dit noemen we **conceptual change**.
+
+> Dit is verwarrende benaming: het draait niet zo zeer om simpele concepten, maar om het geheel van samenhangende overtuigingen van een theorie, wereldbeeld of epistemic belief.
+
+Conceptual change is moeilijk. Mensen houden vaak lang vast aan misconcepties, zelfs na expliciete instructie en tegenbewijs.
+
+<details>
+  <summary>Redenen dat mensen vasthouden aan misconcepties</summary>
+  <ul>
+    <li>
+      <p>Nieuwe informatie wordt geinterpreteerd zodat deze overeenkomt met bestaande overtuigingen.</p>
+    </li>
+    <li>
+      <p>Inconsistentie tussen nieuwe informatie en bestaande overtuigingen wordt niet herkend, waardoor zowel correcte en foute representatie in het geheugen wordt opgeslagen.</p>
+    </li>
+    <li>
+      <p>Confirmation bias zorgt ervoor dat gewenste informatie wordt aangenomen en tegenstrijdig bewijs wordt genegeerd.</p>
+    </li>
+    <li>
+      <p>Bestaande overtuigingen zijn vaak over consistent met ervaringen in het allerdaagse leven.</p>
+    </li>
+    <li>
+      <p>Bestaande overtuigingen zijn vaak diep geïntegreerd met andere overtuigingen.</p>
+    </li>
+    <li>
+      <p>Bestaande overtuigingen hebben vaak persoonlijke of emotionele waarde (cultuur, religie, identiteit).</p>
+    </li>
+    <li>
+      <p>Bestaande overtuigingen worden ondersteund en aangemoedigd door de sociale omgeving.</p>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>Factoren die conceptual change bevorderen</summary>
+  <ul>
+    <li>
+      <p>Vooraf misconcepties vaststellen zodat deze effectiever geadresseerd kunnen worden.</p>
+    </li>
+    <li>
+      <p>Bestaande overtuigingen kunnen een kern van waarheid bevatten waarom voortgebouwd kan worden.</p>
+    </li>
+    <!-- de rest ook nog... -->
+  </ul>
+</details>
 
 <!--
 # Social cognitive theory
