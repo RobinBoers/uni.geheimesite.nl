@@ -149,7 +149,7 @@ Information processing theory legt uit hoe mensen informatie verwerken, door men
 
 De theorie heeft limitaties: het ontleedt cognitie in processen, maar kan niet uitleggen hoe die processen samenspelen; het legt uit *hoe* mensen leren, niet *wat* er bij leren gebeurt of ontstaat.
 
-### Constructivisme <small>(Piaget)</small>
+### Constructivisme
 
 Constructivisme stelt dat kennis niet wordt opgenomen of overgedragen door de omgeving, maar door de lerenden zelf wordt geconstrueerd, individueel of samen:
 
@@ -164,9 +164,7 @@ De theorie verschuift de nadruk van *hoe* mensen leren, naar *wat* er bij leren 
 
 <!-- Misschien een passief vs actief of learner-control spectrum diagrammetje maken? En benoemen dat extremen niet altijd ideaal zijn? -->
 
-### Sociocultural theory <small>(Vygotsky)</small> <small>[Zie eigen hoofdstuk &rarr;](#sociocultural-theory)</small>
-
-Sociocultural theory legt de focus op de rol van volwassenen en de cultuur (en de *tools* die ze aanreiken) waarin een kind opgroeit op de ontwikkeling en het leerproces van een kind.
+<!-- specifiek individueel constructivisme is piaget -->
 
 ### Contextuele theorieën <small>[Zie eigen hoofdstuk &rarr;](#contextuele-theorieen)</small>
 
@@ -175,6 +173,8 @@ Contextuele theoriën stellen dat leren niet alleen een process is in het hoofd 
 - **Embodiment**: het brein werkt samen met het lichaam en concrete voorwerpen in de directe omgeving.
 - **Distributed cognition**: mensen werken effectiever als ze samenwerken met anderen en/of gebruikmaken van de fysieke omgeving en culturele tools.
 - **Systems theory**: context bestaat uit <dfn title="lichaam, directe fysieke omgeving, familiesfeer en vriendenkring, lokale gemeenschappen, landelijke en internationale cultuur">lagen</dfn> die elkaar en de lerende beïnvloeden.
+
+<!-- constructivisme + sociocultural + contextual = cognitive developmental theories -> focus op hoe denkprocessen veranderen met tijd en ervaring. -->
 
 ## Perspectieven op geheugen
 
@@ -396,7 +396,7 @@ Een schema is een groepering van gerelateerde ideeën en concepten, gekoppeld aa
 >
 > a.k.a. je kan hier dus echt net niks mee.. maar hey, das like 90% van deze studie right?
 
-### Personal theories
+### Persoonlijke theorieën
 
 Lerenden vormen persoonlijke <dfn title="'coherente overtuigingen die oorzaak-gevolgrelaties bevatten'">theorieën</dfn> over o.a. de fysieke wereld, sociale relaties, biologie, politiek, cognitie en de mens.
 
@@ -428,13 +428,15 @@ Wereldbeelden zijn deels cultureel bepaald en zijn meestal impliciete kennis, wa
 
 ### Epistemic beliefs
 
+...
+
 ## Conceptual change
 
-Het rechtzetten van een misconceptie is makkelijk als het simpele feitenkennis betreft. Maar soms is een misconceptie onderdeel van een persoonlijke theorie, wereldbeeld, of epistemic belief, die dan aangepast of vervangen dient te worden. Dit noemen we **conceptual change**.
+Het rechtzetten van misconcepties is makkelijk voor simpele feitenkennis, maar mensen houden vaak lang vast aan misconcepties (zelfs na expliciete instructie en tegenbewijs) als deze deel zijn van een persoonlijke theorie, wereldbeeld, of epistemic belief.
+
+Het vervangen of aanpassen van zo'n theorie, wereldbeeld of belief noemen we **conceptual change**, en gebeurt als XXX.
 
 > Dit is verwarrende benaming: het draait niet zo zeer om simpele concepten, maar om het geheel van samenhangende overtuigingen van een theorie, wereldbeeld of epistemic belief.
-
-Conceptual change is moeilijk. Mensen houden vaak lang vast aan misconcepties, zelfs na expliciete instructie en tegenbewijs.
 
 <details>
   <summary>Redenen dat mensen vasthouden aan misconcepties</summary>
@@ -496,3 +498,177 @@ Social cognitive theory is een combinatie van behaviourisme en cognitivisme, met
 
 as maken met passief vs actief of hoeveelheid controle die de lerende heeft?
 -->
+
+# Constructivisme
+
+## Piaget's theorie
+
+Piaget gebruikte de clinical method: hij gaf taken aan kinderen en stelde hen vragen. De vragen en vervolgvragen die hij stelde verschilden van kind tot kind.
+
+> Piaget's theorieën komen uit 1920, kwamen pas in 1960 onder de aandacht, omdat ze toen vertaald werden naar het Engels. Daarnaast gebruikte hij cognitieve concepten, die niet geaccepteerd werden door behaviouristen.
+
+### Principes
+
+- Leren is **actief**: kinderen reageren niet alleen op stimuli, maar manipuleren stimuli ook.
+
+- **Organisatie**: kinderen absorberen kennis niet als losse feiten, maar construeren **schemes** waarin informatie geïntegreerd wordt, en combineren die tot **cognitieve structuren**. <!-- Schemes zijn eerst gedragsmatig, daarna mentaal, en uiteindelijk abstract. -->
+
+- Leren wordt gedefinieerd als veranderingen in schemes en cognitieve structuren.
+
+- Interactie met de fysieke omgeving geeft de aanleiding tot de vorming en aanpassing van schemes door processen van **assimilatie** en **accomodatie**:
+
+  - **Assimilatie**: nieuwe informatie integreren in een bestaand scheme; de perceptie van de omgeving verandert om in het scheme te passen.
+
+  - **Accomodatie**: schemes aanpassen of nieuwe schemes maken; het scheme verandert om de perceptie van de omgeving te plaatsen.
+
+  > Een situatie waarin schemes adequaat zijn om de omgeving te interpreteren noemen we **equilibrium**. Een situatie waarin observaties niet comfortabel geïntegreerd kunnen worden noemen we **disequilibrium**. <small>(In cognitivisme: cognitive dissonance.)</small>
+  >
+  > Op den duur leidt dit tot accomodatie. De overgang van disequilibrium terug naar equilibrium noemen we **equilibration**. <small>(In cognitivisme: conceptual change.)</small>
+
+<!-- Leren wordt gedefinieerd als accomodatie (veranderingen in schemes), maar assimilatie (relateren aan voorkennis) is daarvoor een voorwaarde. vraag: als assimilatie al lukt, waarom is accomodatie dan nodig? ik dacht dat accomodatie de plan b was als assimilatie niet lukt. of is het een voorwaarde in de sense: je probeert te integreren maar het lukt niet. dus het proberen is de voorwaarde? -->
+
+- **Socio-cognitive conflict**: interactie met anderen die van mening verschillen zorgt ervoor dat kinderen herkennen dat hun eigen perspectief niet altijd volledig klopt.
+
+<!--
+- leeftijdsgenoten spreken op hetzelfde niveau
+- met leeftijdsgenoten kan je in discussie gaan (argumenten van volwassenen worden snel als waarheid overgenomen)
+-
+-->
+
+- **Discovery learning**: kinderen leren door te ontdekken, en sturen zichzelf hierin zonder begeleiding van volwassenen.
+
+- Kinderen denken op kwalitatief verschillende manieren afhankelijk van leeftijd<!-- (als gevolg van neurologische maturiteit)-->, en dit kan beschreven worden met vier universele **stages** die elk kind doorloopt.
+
+### Piaget's stages
+
+1. **Sensorimotor stage** (\\(< 2\text{yo}\\)): schemes bevatten vooral percepties en gedrag. Kinderen begrijpen de wereld door hun fysieke interacties.
+
+    - Aan het begin van eerste levensjaar is gedrag nog spontaan en ongepland. Richting het einde van het jaar vertonen kinderen ook gedrag met een doel ('goal-directed').
+
+    - Tot het einde van het eerste levensjaar hebben kinderen geen **object permanence**: begrip dat entiteiten blijven bestaan buiten het gezichtsveld.
+
+    - In de tweede helft van het tweede levensjaar ontwikkelen kinderen **symbolisch denken**: XXX.
+
+2. **Preoperational stage** (\\(2\text{-}6\text{yo}\\)): schemes zijn meer symbolisch, en kinderen beginnen te redeneren, maar logica werkt anders.
+
+    <!-- - Taal geeft kinderen de mogelijkheid zich uit te drukken en informatie te ontvangen, en versterkt het symbolisch denken (buiten het hier-en-nu).
+    -->
+
+    - Verwarren van mentale belevingswereld (gedachten, emoties etc.) met fysieke werkelijkheid (bijvoorbeeld door het toekennen van emoties aan levenloze objecten).
+
+    - Moeite met **class inclusion**: een object herkennen als tegelijkertijd onderdeel van een categorie en een subcategorie.
+
+    - Moeite met **conservation**: herkennen dat hoeveelheid niet veranderd als er niks bijkomt of afgaat, ongeacht veranderingen in vorm.
+
+    - Denken en logica zijn sterk afhankelijk van perceptie; dingen die er verschillend uitzien zijn ook anders.
+
+    - **Egocentrisme**: een onvermogen om situaties vanuit het perspectief van een ander te bekijken (bijvoorbeeld door een verhaal gefragmenteerd te vertellen).
+
+- **Concrete operational stage** (\\(7\text{-}11\text{yo}\\)): ontwikkeling van cognitieve structuren voor logisch redeneren over concrete situaties, en besef van andere perspectieven.
+
+    - Besef het eigen perspectief niet altijd gedeeld wordt door anderen, en gebaseerd kan zijn op mening in plaats vanr werkelijkheid. Hierdoor zoeken kinderen meer naar externe validatie.
+
+- **Formal operational stage** (\\(12\text{yo}+\\)): ontwikkeling van cognitieve structuren voor logisch redeneren over abstracte, hypotetische of tegenstrijdige situaties.
+
+    - **Proportional thinking**: het vermogen te redeneren over verhoudingen, zoals breuken, decimalen, percentages en ratios.
+
+    - Begrip van **variabelen** en controlegroepen, waarbij één variabelen getoetst wordt terwijl de rest constant blijft.
+
+    - **Metacognitie**: het toepassen van mentale operaties op andere mentale operaties ('denken over eigen denken').
+
+    - **Idealisme** over sociale, politieke of ethische problemen, maar onvermogen eigen logica te plaatsen met andere perspectieven of praktische overwegingen.
+
+<details>
+  <summary>Kritiek op Piaget</summary>
+  <ul>
+    <li><p>De processen van accomodatie, assimilatie en equilibration zijn vaag omschreven.</p></li>
+    <li><p>Interactie met de omgeving is minder belangrijk dan Piaget dacht, want kinderen met een handicap ontwikkelen zich cognitief ongeveer hetzelfde als kinderen zonder handicap.</p></li>
+    <li><p>Kinderen leren meer van kennis aangereikt door volwassenen en cultuur (zie <a href="#sociocultural-theory">sociocultural theory</a>), dan van persoonlijke ervaring.</p></li>
+    <li><p><i>De volgorde van de stages lijkt te kloppen, maar:</i></p></li>
+    <li><p>Kinderen van \(2\frac{1}{2}\text{mo}\) hebben al object permanence.</p></li>
+    <li><p>Kinderen kunnen al (symbolisch) denken binnen hun eerste levensjaar.</p></li>
+    <li><p>Kinderen vertonen niet altijd egocentrisme.</p></li>
+    <li><p>Kinderen zijn onder sommige omstandigheden wél in staat tot class inclusion en conservation.</p></li>
+    <li><p>Kinderen vertonen al eerder beginselen van abstract denken</p></li>
+    <li><p>Kinderen kunnen al eerder werken met simpele breuken</p></li>
+    <li><p>Expliciete training zorgt ervoor dat logisch redeneren al veel eerder ontwikkeld wordt.</p></li>
+    <li><p><i>Én, Piaget overschat volwassenen misschien:</i></p></li>
+    <li><p>Formal operations lijken zich veel langzamer te ontwikkelen</p></li>
+    <li><p>Volwassenen maken soms teveel gebruik van voorkennis</p></li>
+    <li><p>Volwassenen hebben moeite logica van werkelijkheid te onderscheiden</p></li>
+    <li><p>Formele operations beschrijft mogelijk ons <em>beste redeneren</em>, niet <em>dag-tot-dag redeneren</em>.</p></li>
+    <li><p>Volwassenen gebruiken formal operations alleen voor domeinen waarvan ze veel voorkennis hebben, en concrete operations voor andere domeinen.</p></li>
+  </ul>
+</details>
+
+## Neo-Piagetiaanse theorie & Case's theorie
+
+Neo-Piagetiaanse theorie combineert Piaget's theorie met information processing theory.
+
+### Principes
+
+- Er is een bovengrens aan ontwikkeling van kinderen, door neurologische maturatie van de capaciteit van het werkgeheugen.
+
+- Kinderen kunnen intentioneel (door actieve kennisconstructie) als niet-intentioneel (door passieve patroonherkenning) leren.
+
+- Algemene ontwikkeling heeft geen stages, maar ontwikkeling binnen een domein (soms) wel, maar er zijn vaak meerdere mogelijke paden.
+
+- Formeel onderwijs kan cognitieve ontwikkeling versterken binnen de grenzen van de neurologische maturatie van het werkgeheugen.
+
+### Case's cognitieve structuren
+
+Denken is het resultaat van drie netwerken van concepten en processen, genaamd **centrale conceptuele structuren**, die zich parallel van elkaar ontwikkelen:
+
+- **Rekenvaardigheid**: werken met hoeveelheden, wiskundige operaties etc.
+- **Ruimtelijk inzicht**: motorische vaardigheden, kaartlezen, geometrie etc.
+- **Sociaal denken**: interpersoonlijke relaties, scripts, interpretatie etc.
+
+## Sociocultural theory
+
+Sociocultural theory legt de focus op de rol van volwassenen en de cultuur (en de tools die ze aanreiken) waarin een kind opgroeit op de ontwikkeling en het leerproces van een kind.
+
+<!-- sociocultural theory is één van de contextuele theoriën -->
+
+### Principes
+
+- Onderscheid tussen **lower mental functions** die biologisch aangelegd zijn, en **higher mental functions** die alleen met hulp van cultuur aangeleerd worden.
+
+- Cultuur biedt fysieke en cognitieve **tools** voor higher mental functions.
+
+- Taal maakt denken mogelijk: tegen zichzelf praten ('self talk') helpt kinderen denken. Eerst hardop (**private speech**), later in het hoofd (**inner speech**).
+
+- Higher mental functions worden geleerd door **internalisatie** van sociale interacties (met zowel volwassenen en leeftijdsgenoten).
+
+- **Appropriation**: bij het internaliseren worden aanpassingen gemaakt aan de tools die de cultuur aanreikt.
+
+    > Dit is lichtelijk 'constructivistisch'.
+
+- Kinderen hebben een hoger niveau als ze ondersteund worden door een competenter individu.
+
+  De **actual developmental level** is wat een kind zelfstandig kan, en de **level of potential development** is wat een kind met ondersteuning kan. Om een goed beeld te krijgen van de ontwikkeling van een kind, moet naar beide niveau's gekeken worden.
+
+  Tussen deze niveau's ligt het ideale niveau voor leren: taken die ingewikkeld genoeg zijn dat lerenden het (nog) niet zelfstandig kunnen, maar makkelijk genoeg dat ze het zouden kunnen leren met ondersteuning. We noemen dit de **zone of proximal development**.
+
+- Spelen kan een laagdrempelige manier zijn voor kinderen om te "oefenen" met gedrag voor oudere kinderen.
+
+<!-- piaget: wat een kind alleen kan doen, vygotsky: wat een kind met ondersteuning kan doen -->
+
+<details>
+  <summary>Overeenkomsten tussen Piaget en Vygotsky</summary>
+  <ul>
+    <li><p>Kinderen denken kwalitatief verschillend afhankelijk van leeftijd. Piaget omschrijft dit als vier stages, Vygotsky noemt het een gevolg van internalisation.</p></li>
+    <li><p>Voor leren is uitdaging nodig. Piaget noemt dit disequilibrium, Vygotsky noemt het de zone of proximal development.</p></li>
+    <li><p>Voor leren is voorkennis nodig. Volgens Piaget is accomodatie pas mogelijk als een bepaalde vorm van assimilatie mogelijk is, volgens Vygotsky moet het actual developmental level van voldoende zijn.</p></li>
+    <li><p>Sociale interactie is belangrijk bij leren. Volgens Piaget zorgt sociale interactie door middel van socio-cognitive conflict voor disequilibrium. Volgens Vygotsky is leren de internalisatie van sociale interacties, en leren in de zone of proximal development is per definitie alleen mogelijk met ondersteuning van een competenter individu.</p></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Verschillen tussen Piaget en Vygotsky</summary>
+  <ul>
+    <li><p>Piaget bepaalt niveau aan de hand van wat een kind zelfstandig kan. Vygotsky bepaalt niveau aan de hand van wat een kind met ondersteuning kan.</p></li>
+    <li><p>Volgens Piaget is taal voornamelijk een communicatiemiddel. Volgens Vygotsky is taal een voorwaarde voor denken, en vindt leren door middel van internalisatie plaats door taalgestuurde processen (door self-talk).</p></li>
+    <li><p>Volgens Piaget is zelf-gestuurde ontdekking de beste manier om schemes te construeren. Volgens Vygotsky zouden leeractiviteiten gestuurd moeten worden door competentere individuen.</p></li>
+    <li><p>Piaget benadrukt sociale interacties met leeftijdsgenoten (door socio-cognitive conflict), Vygotsky benadrukt sociale interacties met volwassenen (door zone of proximal development).</p></li>
+  </ul>
+</details>
