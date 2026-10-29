@@ -689,11 +689,16 @@ Sociocultural theory legt de focus op de rol van volwassenen en de cultuur (en d
 
 - Teveel ondersteuning is ook slecht, omdat het werkgeheugen kan overbelasten. Het doel is optimaliseren voor onafhankelijkheid.
 
-- Het bieden van ondersteuning aan een minder competent individu kan ook bijdragen aan leren.
+- Het bieden van ondersteuning aan een minder competent individu kan ook bijdragen aan het leren van het meer competente individu.
 
 - **Dynamic assesment**: niet alleen het actual developmental level toetsen, maar ook het level of potential development.
 
   Dit biedt optimistischere resultaten dan toetsen voor alleen actual developmental level, maar kan heel nuttig zijn voor lerenden met een cultureel diverse achtergrond.
+
+- **Intersubjectiviteit**: om van elkaar te leren is in sociale interacties een gedeeld begrip ('mutual understanting') nodig. Hierbij spelen twee processen een rol:
+
+  - **Joint attention**: beide focussen op hetzelfde object of dezelfde gebeurtenis.
+  - **Social referencing**: kijken hoe een ander reageert of zich voelt, vooral in nieuwe of onverwachte situaties.
 
 <details>
   <summary>Stappen voor dynamic assesment</summary>
