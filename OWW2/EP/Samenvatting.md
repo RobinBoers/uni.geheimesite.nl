@@ -647,11 +647,21 @@ Sociocultural theory legt de focus op de rol van volwassenen en de cultuur (en d
 
   De **actual developmental level** is wat een kind zelfstandig kan, en de **level of potential development** is wat een kind met ondersteuning kan. Om een goed beeld te krijgen van de ontwikkeling van een kind, moet naar beide niveau's gekeken worden.
 
-  Tussen deze niveau's ligt het ideale niveau voor leren: taken die ingewikkeld genoeg zijn dat lerenden het (nog) niet zelfstandig kunnen, maar makkelijk genoeg dat ze het zouden kunnen leren met ondersteuning. We noemen dit de **zone of proximal development**.
+  Tussen deze niveau's ligt het ideale niveau voor leren: taken die ingewikkeld genoeg zijn dat lerenden het (nog) niet zelfstandig kunnen, maar makkelijk genoeg dat ze het zouden kunnen leren met ondersteuning. We noemen dit de **zone of proximal development**. (In cognitivisme: scaffolding.)
+
+- **Mediated learning experience**: Volwassenen ondersteunen kinderen in het interpreteren van de omgeving door helpen betekenis te geven aan objecten of gebeurtenissen.
 
 - Spelen kan een laagdrempelige manier zijn voor kinderen om te "oefenen" met gedrag voor oudere kinderen.
 
 <!-- piaget: wat een kind alleen kan doen, vygotsky: wat een kind met ondersteuning kan doen -->
+
+<details>
+  <summary>Kritiek op Vygotsky</summary>
+  <ul>
+    <!--<li><p>Vygotsky identificeert een aantal stages (geen tentamenstof), maar de beschrijvingen zijn te algemeen en vaag.</p></li>-->
+    <li><p>De theorie is wat speculatief en vaag, en daardoor moeilijk te toetsen.</p></li>
+  </ul>
+</details>
 
 <details>
   <summary>Overeenkomsten tussen Piaget en Vygotsky</summary>
@@ -671,4 +681,25 @@ Sociocultural theory legt de focus op de rol van volwassenen en de cultuur (en d
     <li><p>Volgens Piaget is zelf-gestuurde ontdekking de beste manier om schemes te construeren. Volgens Vygotsky zouden leeractiviteiten gestuurd moeten worden door competentere individuen.</p></li>
     <li><p>Piaget benadrukt sociale interacties met leeftijdsgenoten (door socio-cognitive conflict), Vygotsky benadrukt sociale interacties met volwassenen (door zone of proximal development).</p></li>
   </ul>
+</details>
+
+## Toevoegingen
+
+- De zone of proximal development is hetzelfde als het bieden van scaffolding.
+
+- Teveel ondersteuning is ook slecht, omdat het werkgeheugen kan overbelasten. Het doel is optimaliseren voor onafhankelijkheid.
+
+- Het bieden van ondersteuning aan een minder competent individu kan ook bijdragen aan leren.
+
+- **Dynamic assesment**: niet alleen het actual developmental level toetsen, maar ook het level of potential development.
+
+  Dit biedt optimistischere resultaten dan toetsen voor alleen actual developmental level, maar kan heel nuttig zijn voor lerenden met een cultureel diverse achtergrond.
+
+<details>
+  <summary>Stappen voor dynamic assesment</summary>
+  <ol>
+    <li>Bepalen welke taken een kind niet onafhankelijk kan doen.</li>
+    <li>Instructie en oefening bieden voor deze taken.</li>
+    <li>Bepalen of/hoeveel het kind heeft geleerd van deze ondersteuning.</li>
+  </ol>
 </details>
