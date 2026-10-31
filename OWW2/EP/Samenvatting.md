@@ -15,6 +15,7 @@ title: Educational Psychology
 }
 </style>
 
+<!--
 <details>
   <summary>Valse dichotomie</summary>
   <p>De lijnen tussen verschillende theorieën en perspectieven zijn soms vaag, en dat is oké. Geen enkele theorie kan leren in alle situaties uitleggen. De combinatie van perspectieven geeft ons juist een compleet beeld. Het is niet nodig om scherp onderscheid te maken.</p>
@@ -24,10 +25,13 @@ title: Educational Psychology
   <summary>The map of not the territory</summary>
   <p>Alfred Korzybski zei ooit "The map is not the territory": geen enkele menselijke abstractie kan de realiteit volledig en objectief beschrijven, omdat het per definitie versimpelingen van de werkelijkheid zijn, om haar begrijpbaarder te maken. Houdt dit in gedachten tijdens het lezen van de literatuur voor dit vak.</p>
 </details>
+-->
 
 # Behaviourisme
 
-Behaviourisme legt de focus op observeerbaar gedrag. Het is een reactie op instrospectie, een methode die gebruik maakte van diepe zelfreflectie. Dat is volgens behaviouristen subjectief en inaccuraat. Om psychologie een "echte" wetenschap te maken moest het gebruikmaken van systematische empirische observaties, en alleen gedrag kan objectief gemeten worden.
+Behaviourisme legt de focus op observeerbaar gedrag. 
+
+Het is een reactie op instrospectie, een methode die gebruik maakte van diepe zelfreflectie. Dat is volgens behaviouristen subjectief en inaccuraat. Om psychologie een "echte" wetenschap te maken moest het gebruikmaken van systematische empirische observaties, en alleen gedrag kan objectief gemeten worden.
 
 ## Principes
 
@@ -43,7 +47,7 @@ Behaviourisme legt de focus op observeerbaar gedrag. Het is een reactie op instr
 
 - De meest objectieve manier om leren te onderzoeken is door te kijken naar **stimuli** (\\(S\\)) en de daar op volgende **response** (\\(R\\)). (Ookwel \\(\text{S-R}\\) psychologie genoemd).
 
-- Een organisme is een **black box**: interne (mentale) processen kunnen niet objectief gemeten worden en blijven dus buiten beschouwing.
+- Een organisme is een **black box**: interne (mentale) processen kunnen niet objectief gemeten worden (<dfn title="Tenminste, niet toen, denk ik? Lijkt me dat het tegenwoordig wel zou kunnen bijv. fMRI scans en dergelijke?">?</dfn>) met en blijven dus buiten beschouwing.
 
   > Een recente(re) stroming genaamd het **neobehaviourisme** geeft wel een plek aan interne factoren (motivatie, associatie) binnen het organisme (\\(O\\)). (Ookwel \\(\text{S-O-R}\\) psychologie genoemd).
 
@@ -55,9 +59,7 @@ Behaviourisme legt de focus op observeerbaar gedrag. Het is een reactie op instr
 
 - Leren is **passief**: lerenden hebben geen invloed op het leren. "Learning happens to the organism, not by the organism."
 
-## Conditioning
-
-### Classical conditioning <small>[Zie ook inleiding onderwijswetenschappen &rarr;](/OWW1/IOWW/Samenvatting.html#leertheorieën)</small>
+## Classical conditioning
 
 Bij klassieke conditonering wordt een biologisch reflex op een bestaande stimulus door middel van associatie gekoppeld aan een nieuwe stimulus.
 
@@ -83,19 +85,53 @@ Bij klassieke conditonering wordt een biologisch reflex op een bestaande stimulu
 </details>
 -->
 
-<!--
+<!-- Het gaat vaak best snel, tussen één tot zes pogingen. -->
 
-Het gaat vaak best snel, tussen één tot zes pogingen. Het werkt het best als neutrale stimulus vlak voor (~500ms) de ongeconditioneerde stimulus gepresenteerd wordt.
-
-> Het wordt daarom ookwel **signal learning** genoemd, omdat de neutrale stimulus een signaal is dat de komst van de ongeconditioneerde stimulus voorspelt.
+Niet alleen nabijheid in tijd ('**contiguity**') is belangrijk, maar ook voorspelbaarheid ('**contingency**'): de neutrale stimulus moet een signaal zijn dat de komst van de ongeconditioneerde stimulus voorspelt. Het wordt daarom ookwel **signal learning** genoemd.
 
 De unconditioned en conditioned response kunnen ook van elkaar verschillen. Vaak gaat dit om lengte of intensiteit, maar soms is het ook een andere reactie.
 
 > Dit is bijvoorbeeld het geval bij bepaalde medicijnen. Daar geeft het lichaam een tegengestelde reactie, waarschijnlijk om een evenwicht te houden.
 
--->
+### Extinctie
 
-### Operant conditioning
+Als de geconditioneerde stimulus te vaak wordt gepresenteerd zonder de ongeconditioneerde stimulus, is het geen goed signaal meer, en zal dus de geconditioneerde response op den duur niet meer optreden. Dit heet **extinctie**.
+
+> In het geval van angst gebeurt dit vaak niet, omdat mensen de geconditioneerde stimulus vaak actief uit de weg gaan.
+
+> Soms vindt extinctie plaats in één specifieke context, en blijft de geconditioneerde response in andere contexten wel intact.
+
+Soms komt de geconditioneerde response terug als de extinctie gevolgd wordt door een rustperiode. Dit noemen we **spontanious recovery**. Hierna is de geconditioneerde response vaak wel zwakker, en de kans op extinctie groter.
+
+### Generalisatie
+
+Vaak komt de geconditioneerde response ook voor bij stimuli die  lijken op de geconditioneerde stimulus. Dit noemen we **generalisatie**.
+
+Dit kan worden opgelost met **stimulus discriminatie**. De andere stimulus (\\(\text{CS}-\\)) wordt zonder de ongeconditioneerde stimulus gepresenteerd, en de geconditioneerde stimulus (\\(\text{CS}+\\)) met, waardoor de geconditioneerde response verdwijnt door middel van extinctie.
+
+### Higher-order conditioning
+
+In **higher-order conditioning** wordt de geconditioneerde stimulus (\\(\text{CS}\_n\\)) gebruikt in de rol van de ongeconditioneerde stimulus, om een nieuwe geconditioneerde stimulus (\\(\text{CS}\_{n+1}\\)) te creëren.
+
+### Counter-conditioning
+
+Voor het afleren van een geconditioneerde response is alleen extinctie niet genoeg, omdat spontanious recovery mogelijk is. In plaats daarvan moet de associatie tussen stimulus en response worden vervangen met een nieuwe associatie. Dit heet **counter-conditioning**.
+
+<details>
+    <summary>Voorwaarden voor counter-conditioning</summary>
+    <ul>
+      <li>De vervangende response moet <dfn title="In het geval van emoties betekent dit de tegenovergestelde emotie.">incompatible</dfn> zijn met de oude response.</li>
+      <li>De vervangende response moet sterker zijn dan de bestaande response.</li>
+      <li>De nieuwe ongeconditioneerde stimulus moet deze nieuwe response oproepen.</li>
+      <li>De nieuwe ongeconditioneerde stimulus wordt gepresenteerd, en de geconditioneerde stimulus wordt geleidelijk toegevoegd.</li>
+    </ul>
+</details>
+<details open>
+    <summary>Let op:</summary>
+    Counter-conditioning met <em>afbeeldingen</em> van een stimulus is ineffectief tegen de daadwerkelijke stimulus.
+</details>
+
+## Operant conditioning
 
 <!--
 | classical | operant|
