@@ -803,6 +803,46 @@ Er is onderscheidt tussen self-efficacy voor leren, en self-efficacy voor perfor
 
 ## Self-regulation
 
+Self-regulation houdt in dat lerenden bepalen welk gedrag ze belangrijk vinden en vervolgens hun acties daarop aanpassen. Dit draagt bij aan hun **personal agency**.
+
+Een belangrijk component van self-regulation is **effortful control**: het onderdrukken van ongewenst gedrag en uitstellen van beloningen.
+
+<details>
+<summary>Elementen van self-regulation</summary>
+<ol>
+  <li>
+    <p><strong>Doelen en standaarden bepalen</strong>: de lerende bepaalt wat ze belangrijk vinden. Dit doen ze op onder andere op basis van de doelen en standaarden die ze zien bij models.</p>
+  </li>
+  <li>
+    <p><strong>Self-observation</strong>: objectief eigen gedrag en performance bekijken, zowel positieve als negatieve aspecten.</p>
+  </li>
+  <li>
+    <p><strong>Self-evaluation</strong>: objectief eigen gedrag en performance toetsen aan de hand van de gestelde doelen en standaarden.</p>
+  </li>
+  <li>
+    <p><strong>Self-reinforcement</strong>: intrinsieke reinforcement (self-praise) of punishment (self-criticism), blijkt even effectief als reinforcement en punishment van anderen.</p>
+  </li>
+  <li>
+    <p><strong>Self-reflection</strong>: kritisch reflecteren op doelen, gedrag of overtuigingen, en mogelijk aanpassingen maken, aan de hand van de zelf-evaluatie.</p>
+  </li>
+</ol>
+</details>
+<details>
+<summary>Factoren die self-regulation bevorderen</summary>
+<ol>
+  <li>
+    <p><strong>Self-instruction</strong>: lerende internaliseert (zie <a href="#vygotskys-socialcultural-theory">Vygotsky's sociocultural theory</a>), instructies die een model geeft bij het gedrag.</p>
+  </li>
+  <li>
+    <p><strong>Self-monitoring</strong>: het opnemen en bekijken van eigen gedrag; het opnemen van gedrag alleen is vaak al voldoende voor een gedragsverandering.</p>
+  </li>
+  <li>
+    <p><strong>Self-imposed stimulus control</strong>: een omgeving opzoeken die het gewenste gedrag versterkt of het ongewenste gedrag afzwakt.</p>
+  </li>
+</ol>
+</details>
+
+
 # Contextuele theorieën
 
 Contextuele theorieën stellen dat leren niet alleen een process is in het hoofd van de lerende, maar ook beïnvloed en ondersteund wordt door de context waarin het leren plaatsvindt.
@@ -1095,7 +1135,7 @@ De verschillende contexten <!-- die zijn beschreven: [lichaam](#embodiment), [em
 > OMG ik krijg zo erg flashbacks naar [inleiding onderwijswetenschappen](/OWW1/IOWW/Samenvatting.md) right now, ew!
 
 ---
-Annotations: 0,63432 SHA-256 0f74f2790362dfe7f647  
+Annotations: 0,65378 SHA-256 e1ddb3d824b91df4989e  
 &Claude: 43621,24 43650,11  
-@Robin <geheimesite.nl>: 12402,16 12435,26 12524,3 12602,2502 15131,865 37128,5 37342,4 37442 37490 37494,25 37521 37586 37685,34 37753,342 38238,527 38770,575 39350,744 40114,18 40176,142 40328,752 41081,2 41084,7 41092,962 42059,1562 43645,5 43661,324  
+@Robin <geheimesite.nl>: 12402,16 12435,26 12524,3 12602,2502 15131,865 37128,5 37342,4 37442 37490 37494,25 37521 37586 37685,34 37753,342 38238,527 38770,575 39350,744 40114,18 40176,142 40328,752 41081,2 41084,7 41092,962 42059,1562 43645,5 43661,691 44588,16 44737,4 44742,10 44894,4 44899,13 45096,15 45263,81 45371,16 45398,156 45589,15 45614,42 45657,79 45771,29 45811,88 45918,13  
 ...
