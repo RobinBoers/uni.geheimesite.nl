@@ -57,7 +57,7 @@ Behaviourisme legt de focus op observeerbaar gedrag. Het is een reactie op instr
 
 ## Conditioning
 
-### Classical conditioning <small>[Zie ook inleiding onderwijswetenschappen &rarr;](/OWW1/IOWW/Samenvatting.html#leertheoriën)</small>
+### Classical conditioning <small>[Zie ook inleiding onderwijswetenschappen &rarr;](/OWW1/IOWW/Samenvatting.html#leertheorieën)</small>
 
 Bij klassieke conditonering wordt een biologisch reflex op een bestaande stimulus door middel van associatie gekoppeld aan een nieuwe stimulus.
 
@@ -165,14 +165,6 @@ De theorie verschuift de nadruk van *hoe* mensen leren, naar *wat* er bij leren 
 <!-- Misschien een passief vs actief of learner-control spectrum diagrammetje maken? En benoemen dat extremen niet altijd ideaal zijn? -->
 
 <!-- specifiek individueel constructivisme is piaget -->
-
-### Contextuele theorieën <small>[Zie eigen hoofdstuk &rarr;](#contextuele-theorieen)</small>
-
-Contextuele theoriën stellen dat leren niet alleen een process is in het hoofd van de lerende, maar ook beïnvloed en ondersteund wordt door de context waarin het leren plaatsvindt.
-
-- **Embodiment**: het brein werkt samen met het lichaam en concrete voorwerpen in de directe omgeving.
-- **Distributed cognition**: mensen werken effectiever als ze samenwerken met anderen en/of gebruikmaken van de fysieke omgeving en culturele tools.
-- **Systems theory**: context bestaat uit <dfn title="lichaam, directe fysieke omgeving, familiesfeer en vriendenkring, lokale gemeenschappen, landelijke en internationale cultuur">lagen</dfn> die elkaar en de lerende beïnvloeden.
 
 <!-- constructivisme + sociocultural + contextual = cognitive developmental theories -> focus op hoe denkprocessen veranderen met tijd en ervaring. -->
 
@@ -308,7 +300,7 @@ Het levels-of-processingmodel van geheugen stelt dat geheugen het resultaat is v
 
 ### Activation
 
-Het activatiemodel van geheugen stelt dat de verschillende soorten geheugens activatiestaten zijn van één geheugen, waarin informatie actief of inactief kan zijn.
+Het activatiemodel van geheugen stelt dat de verschillende soorten geheugens activatietoestanden zijn van één geheugen, waarin informatie actief of inactief kan zijn.
 
 Aan actieve informatie wordt aandacht besteedt en deze wordt bewust verwerkt. Dit kan nieuwe informatie zijn of voorkennis. Als aandacht verschuift, wordt andere informatie actief, en wordt de voorheen geactiveerde informatie langzaam inactief. Het grootste deel van de informatie in ons geheugen is inactief, en we zijn ons hier niet van bewust.
 
@@ -499,7 +491,9 @@ Social cognitive theory is een combinatie van behaviourisme en cognitivisme, met
 as maken met passief vs actief of hoeveelheid controle die de lerende heeft?
 -->
 
-# Constructivisme
+# Contextuele theorieën
+
+Contextuele theorieën stellen dat leren niet alleen een process is in het hoofd van de lerende, maar ook beïnvloed en ondersteund wordt door de context waarin het leren plaatsvindt.
 
 ## Piaget's theorie
 
@@ -623,11 +617,9 @@ Denken is het resultaat van drie netwerken van concepten en processen, genaamd *
 - **Ruimtelijk inzicht**: motorische vaardigheden, kaartlezen, geometrie etc.
 - **Sociaal denken**: interpersoonlijke relaties, scripts, interpretatie etc.
 
-## Sociocultural theory
+## Vygotsky's sociocultural theory
 
 Sociocultural theory legt de focus op de rol van volwassenen en de cultuur (en de tools die ze aanreiken) waarin een kind opgroeit op de ontwikkeling en het leerproces van een kind.
-
-<!-- sociocultural theory is één van de contextuele theoriën -->
 
 ### Principes
 
@@ -712,3 +704,80 @@ Sociocultural theory legt de focus op de rol van volwassenen en de cultuur (en d
     <li>Bepalen of/hoeveel het kind heeft geleerd van deze ondersteuning.</li>
   </ol>
 </details>
+
+## Overige contextuele theorieën
+
+### Embodiment
+
+Ons lichaam het brein werkt samen met het lichaam en concrete voorwerpen in de directe omgeving:
+
+- Informatie in het langetermijngeheugen is opgeslagen als fysieke handelingen.
+- Cognititieve processen voor leren en geheugen maken soms gebruik van neuronen in spieren.
+- We maken inschattingen op basis van onze lichamelijke staat (langere mensen schatten afstanden korter in, heuvels lijken steiler als we moe zijn).
+- We maken gebruik van gebaren voor communicatie en het off-loaden van cognitive load.
+
+### Emotionele context
+
+Emotie is kortdurende een fysiologisch-gebaseerde psychologische toestand die aandacht trekt en diepgaande cognitieve verwerking stimuleert.<!-- (Als tegenpool van puur-psychologische *feelings*, en langdurende *moods*.) -->
+
+<!-- Onze aandacht wordt getrokken door emotie-elliciterende stimuli, en we denken/elaboreren/onthouden meer informatie als die emotioneel geladen is. -->
+
+Emotie-gedreven cognitieve processen noemen we **hot cognition**. Emotie-vrije cognitieve processen noemen we **cold cognition**.
+
+Emoties worden opgeroepen door bepaalde triggers, die extern, fysiologisch, of cognitief kunnen zijn, en beïnvloeden vervolgens direct en indirect vier processen:
+
+- **Arousal**: energie en aandacht, gecorreleerd met <dfn title="bloeddruk, hartslag, spierspanning">fysiologische factoren</dfn>.
+- **Cognitie**: diepgang van verwerking, vooral bij cognitive dissonance.
+- **Prestatie**: gedrag en daaruitvolgende uitkomsten.
+- **Emotionele regulatie**: tegenreactie om emoties te onderdrukken.
+
+![](emotie.png)
+
+**Mood-dependent memory** stelt dat informatie makkelijker wordt opgehaald als we dezelfde mood hebben als bij het opslaan. En over het algemeen is informatie ophalen makkelijker als we in een goed humeur zijn.
+
+Tot slot kan emotie een manier van organisatiemechanisme zijn voor informatie (net als concepten en schema's dat zijn), en kan het zelf als informatiebron dienen.
+
+<!--
+#### Voorbeeld: anxiety
+
+Zowel angst als anxiety hebben een hoog niveau van arousal. Het verschil is dat angst gericht is, en anxiety ongericht.  Anxiety bestaat uit twee componenten: **worry** (gedachten, twijfel) en **emotionality** (fysiologische reactie, gedrag).
+
+Een klein beetje anxiety kan goed zijn voor leren ('**facilitating anxiety**'), maar te veel anxiety ('**debilitating anxiety**') is juist slecht voor leren.
+
+Er is een optimum. Waar dit optimum ligt is afhankelijk van de complexiteit van de taak; er is interactie tussen arousal en complexiteit, daardoor ligt het optimum bij complexe taken lager.
+
+Lerenden kunnen een taak als **threat** <small>(aka kleine kans van succes)</small> of **challenge** <small>(aka kans van succes bij inzet)</small> zien. Een threat zorgt voor debilitating anxiety, een challenge voor facilitating anxiety.
+
+Drie soorten anxiety:
+
+- **Mathematics anxiety**, veroorzaakt door te vroeg te beginnen en eerst abstracte concepten te introduceren.
+
+- **Test anxiety**, veroorzaakt door een angst negatief beoordeeld te worden en de consequenties daarvan, vooral voor mensen uit etnische minderheden en mensen met beperkingen.
+
+- **Stereotype threat**, veroorzaakt door kennis van een negatief stereotype. Vaak dalen hierdoor daadwerkelijke prestaties ook.
+
+    > Dit effect neemt af als mense niet beoordeeld of vergeleken te worden op basis van competentie.
+-->
+
+### Situated vs distributed cognition
+
+**Situated cognition** houdt in dat leren in bepaalde contexten makkelijker is dan in anderen, of dat wat geleerd is in één context niet toegepast wordt in andere contexten <small>(aka geen transfer)</small>.
+
+**Distributed cognition** houdt in dat leren makkelijker is als cognitive load off-loaded kan worden op <dfn title="factoren die leren makkelijker maken, zoals dus fysieke objecten, culturele tools, sociale situaties, kansen etc.">**affordances**</dfn> zoals de fysieke omgeving, culturele tools, of andere personen.
+
+### Culturele context
+
+...
+
+## Bronfenbrenner's <!--(bioecological)--> systems theory
+
+De verschillende contexten <!-- die zijn beschreven: [lichaam](#embodiment), [emotionele context](#emotionele-context), [fysieke en sociale omgeving](#situated-vs-distributed-cognition), [culturele context](#culturele-context)--> kunnen worden gezien als **lagen** die lerenden beïnvloeden, maar ook onderling interactie hebben:
+
+- **Laag 1: het kind**: individuele kenmerken en maturiteit.
+- **Laag 2: microsysteem**: de directe omgeving (zoals familie, vrienden, school, opvang).
+- **Laag 3: mesosysteem**: interne interactie tussen de verschillende microsystemen.
+- **Laag 4: exosysteem**: externe invloed van mensen en instituties op de microsystemen.
+- **Laag 5: macrosysteem**: bredere cultuur en maatschappij.
+- **Laag 6: chronosysteem**: verandering van systemen over de tijd heen.
+
+> OMG ik krijg zo erg flashbacks naar [inleiding onderwijswetenschappen](/OWW1/IOWW/Samenvatting.md) right now, ew!
