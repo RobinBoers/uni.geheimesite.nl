@@ -29,9 +29,7 @@ title: Educational Psychology
 
 # Behaviourisme
 
-Behaviourisme legt de focus op observeerbaar gedrag. 
-
-Het is een reactie op instrospectie, een methode die gebruik maakte van diepe zelfreflectie. Dat is volgens behaviouristen subjectief en inaccuraat. Om psychologie een "echte" wetenschap te maken moest het gebruikmaken van systematische empirische observaties, en alleen gedrag kan objectief gemeten worden.
+Behaviourisme legt de focus op observeerbaar gedrag. Het is een reactie op instrospectie, een methode die gebruik maakte van diepe zelfreflectie. Dat is volgens behaviouristen subjectief en inaccuraat. Om psychologie een "echte" wetenschap te maken moest het gebruikmaken van systematische empirische observaties, en alleen gedrag kan objectief gemeten worden.
 
 ## Principes
 
@@ -41,7 +39,7 @@ Het is een reactie op instrospectie, een methode die gebruik maakte van diepe ze
 
   <!-- ^Deze definitie is mogelijk achterhaald, maar wel toepasbaar voor het uitleggen van **performance** van geleerd gedrag. -->
 
-- **Equipotentiality**: alle diersoorten (inclusief mensen) leren op dezelfde manier. Daarom wordt het woord *organisme* gebruikt.
+- **Equipotentiality**: alle diersoorten (inclusief mensen) leren op dezelfde manier. Daarom wordt het woord "organisme" gebruikt.
 
 - **Determinisme**: met complete informatie  over alle omgevingsfactoren van een organisme in het verleden en heden, is het mogelijk het toekomstige gedrag perfect te voorspellen.
 
@@ -133,10 +131,180 @@ Voor het afleren van een geconditioneerde response is alleen extinctie niet geno
 
 ## Operant conditioning
 
+Bij operante conditionering wordt gedrag bekrachtigd ('reinforcement') waardoor het in frequentie toeneemt. Dit is gebaseerd op onderzoek van eerst Thorndike en later Skinner.
+
+<details open>
+    <summary>Thorndikes law of effect</summary>
+    Responses to a situation followed by satisfaction are strenghthened; responses that are followed by discomfort are weakened.
+</details>
+
 <!--
-| classical | operant|
-| involuntary | volentary |
+> Punishment is minder effectief dan reinforcement, en heeft een indirect effect: discomfort maakt het ongewenste gedrag moeilijker.
 -->
+
+<!--
+> We noemen het een "reinforcer" en geen "reward", omdat dat het anders niet objectief zou zijn.
+-->
+
+<!--
+<details>
+    <summary>Transitutional generality</summary>
+    <p>Operant conditioneren wordt gedefinieerd als het toenemen van frequentie van gedrag door middel van reinforcers.</p>
+    <p>Een <b>reinforcer</b> wordt gedefineerd als een stimulus die de frequentie van het gedrag die het volgt verhoogt.</p>
+    <p>Dit is een circulaire definitie. Daarom wordt toegevoegd dat reinforcers de frequentie van gedrag over het algemeen, in verschillende situaties, verhogen. Door deze <b>transitional generality</b> wordt de circulaire definitie verbroken.</p>
+    <p>Denk er niet te hard over na, anders explodeert je hoofd.</p>
+</details>
+-->
+
+De reinforcer (\\(\text{S}_{Rf}\\)) komt direct na de response (\\(\text{R}\\)), niet later ('delayed reinforcement'), en alleen bij gewenste de response ('contingency').
+
+<details open>
+    <summary>Verschillen tussen classical en operant conditioning</summary>
+    <table style="margin-top: 0.75em"><thead>
+      <tr>
+        <th>Classical conditioning</th>
+        <th>Operant conditioning</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>\(\text{CS}\) voor de response</td>
+        <td>\(\text{S}_{Rf}\) na de response</td>
+      </tr>
+      <tr>
+        <td>Associatie: \(\text{CS} \to \text{CR}\)</td>
+        <td>Associatie: \(\text{R} \to \text{S}_{Rf}\)</td>
+      </tr>
+      <tr>
+        <td>Involuntary (ellicited)</td>
+        <td>Voluntary (emitted)</td>
+      </tr>
+    </tbody>
+    </table>
+</details>
+
+### Reinforcers
+
+Een reinforcer kan **positief** of **negatief** zijn. Bij postive reinforcement wordt er een gewenste stimulus toegevoegd. Bij negative reinforcement wordt een ongewenste stimulus weggehaald.
+
+Er zijn twee soorten reinforcers:
+
+- **Primaire reinforcers**: het vervullen van een biologische behoefte of verlangen.<br><small>(eten, water, warmte, sociale binding, seks)</small>
+- **Secondaire reinforcers**: een signaal voor een latere primaire reinforcer.<br><small>(complimenten, goede cijfers, geld)</small>
+
+> Een secondaire reinforcer wordt via klassieke conditionering geassocieerd met een primaire reinforcer. We noemen het daarom ookwel een **conditioned reinforcer**.
+
+De effectiviteit van een reinforcer is afhankelijk van de omgeving.
+
+<details>
+    <summary>Voorbeelden van positieve reinforcers</summary>
+    <ul>
+      <li>
+        <p><strong>Social reinforcers</strong>: positieve sociale interactie (eg. praise, lachen, aanmoedigen).</p>
+      </li>
+      <li>
+        <p><strong>Activity reinforcers</strong>: mogelijkheid om een bepaalde activiteit te mogen doen.</p>
+      </li>
+      <li>
+        <p><strong>Token reinforcers</strong>: besteedbare punten, gebruikt in <strong>token economies</strong>.</p>
+      </li>
+      <li>
+        <p><strong>Material or tangible reinforcers</strong>: fysieke objecten (eg. speelgoed). Zeer effectief maar ook afleidend, en zouden daarom alleen als laatste redmiddel gebruikt moeten worden.</p>
+      </li>
+    </ul>
+</details>
+
+<!--
+<details open>
+    <summary>Premack principle of activity reinforcement</summary>
+   When an oppurtunity to make a normally high-frequency [aka enjoyable] response is contingent on first making a normally low-frequency [aka unenjoyable] response, the high-frequency response will increase the frequency of the low-frequency response.
+</details>
+-->
+
+<details>
+    <summary>Voorbeelden van negatieve reinforcers</summary>
+    <ul>
+        <li><p>Het wegnemen van schuldgevoel of anxiety is een zeer sterke negatieve reinforcer, en verklaart veel van het escape-gedrag dat mensen vertonen.</p></li>
+    </ul>
+</details>
+
+<details open>
+    <summary>Reinforcers die niet goed binnen behaviourisme passen</summary>
+    <ul>
+      <li>
+        <p><strong>Feedback</strong>: zowel positieve als negatieve feedback zorgt voor toename van gewenst gedrag. Het lijkt <em>bijna</em> alsof lerenden nadenken (gasp!) over de feedback!</p>
+      </li>
+      <li>
+        <p><strong>Intrinsieke reinforcers</strong>: fijne gevoelens zoals trots of opluchting. Dit zijn mentale concepten, en dat is een big no no!</p>
+      </li>
+    </ul>
+</details>
+
+### Punishment
+
+### Bijgeloof
+
+Willekeurige reinforcement leidt tot bijgeloof, omdat het onduidelijk is welke response (als überhaupt een response) de oorzaak is voor de reinforcement.
+
+### Shaping
+
+Door middel van **shaping** is het mogelijk gewenst gedrag aan te leren dat nog niet wordt vertoond, door gedrag te reinforcen dat steeds dichter bij het gewenste gedrag komt.
+
+### Chaining
+
+Door middel van **chaining** kan een specifieke sequentie van gedrag worden reinforced.
+
+### Extinctie
+
+Bij **extinctie** neemt gewenst gedrag in frequentie af omdat het niet langer reinforced wordt. Soms neemt het gedrag eerst kort in frequentie toe, vaak met meer variatie. Dit noemen we een **extinction burst**.
+
+- Bij **continious reinforcement** wordt altijd reinforced. Hiermee is conditioneren snel, maar de kans op extinctie groter.
+
+- Bij **intermittent reinforcement** wordt soms reinforced. Daarmee is conditioneren minder snel, maar de kans op extinctie kleiner.
+
+De beste resultaten worden behaald door continuous reinforcement te gebruiken voor het opbouwen van gedrag, en intermittent reinforcement voor het behouden van gedrag.
+
+### Schedules
+
+Het **reinforcement schedule** bepaalt hoe vaak gedrag wordt reinforced:
+
+- **Fixed-ratio** (FR): bij elke \\(n\\)de response.
+- **Variable-ratio** (VR): bij elke \\(n\\)de response gemiddeld.
+- **Fixed-interval** (FI): bij eerste response na \\(n\\) tijd.
+- **Variable-interval** (VI): bij eerste response na \\(n\\) tijd gemiddeld.
+- **Differential rate of high responding** (DHR): bij \\(x\\) of meer responses in \\(n\\) tijd.
+- **Differential rate of low responding** (DLR): bij \\(x\\) of minder responses in \\(n\\) tijd.
+
+Een DLR-schedule is lastig omdat het inhoudt voorheen reinforced gedrag *niet* te vertonen.
+
+### Antecedent stimulus
+
+**Antecedent stimuli** en **antecedent responses** gaan vooraf aan gedrag en beïnvloeden de kans dat bepaald gedrag optreedt.
+
+Een **distriminative stimulus** (\\(\text{S}+\\)) is een antecedent stimulus die als signaal dient voor een grotere of kleiner kans op reinforcement. Als een organisme hierdoor ander gedrag vertoont, zeggen we dat het onder **stimulus control** is. Het presenteren van een distriminative stimulus noemen we **prompting** of **cueing**.
+
+> Soms kan een gehele situatie ('**setting event**') als distriminative stimulus dienen.
+
+Voor antecedent stimuli kan net als bij klassieke conditionering **generalisatie** optreden: het organisme past gedrag aan bij vergelijkbare stimuli.
+
+In operante conditionering, houdt **stimulus discriminatie** in dat gedrag alleen wordt reinforced bij een bepaalde stimulus (\\(\text{S}+\\)) maar niet bij andere stimuli (\\(\text{S}-\\)).
+
+![](stimulus-discriminatie2.png)
+
+Bij **behavioural momentum** is de kans op een response groter als vergelijkbaar gedrag al wordt vertoond.
+
+### Avoidance learning
+
+**Avoidance learning** houdt in dat mensen leren weg te blijven bij **aversive stimuli** (eg. pijn, anxiety, frustratie), als die vooraf gegaan worden door een **pre-aversive stimulus** als signal.
+
+- **Active avoidance behaviour**: actief actie ondernemen om de aversive stimulus te ontlopen.
+- ⁣**Passief avoidance behaviour**: juist iets niet doen om daarmee de aversive stimulus te ontlopen.
+
+> Avoidance behaviour is moeilijk af te leren, omdat de extinctie van de pre-aversive stimulus niet gebeurt, ook niet als de aversive stimuli niet meer aversive is, omdat organismes de aversive stimulus actief ontlopen.
+
+<!-- wat zijn nou de verschillen tussen antecedent stimuli en classic conditioning?? -->
+
+<!-- punishment -->
 
 # Cognitivisme
 
@@ -748,7 +916,7 @@ Sociocultural theory legt de focus op de rol van volwassenen en de cultuur (en d
 Ons lichaam het brein werkt samen met het lichaam en concrete voorwerpen in de directe omgeving:
 
 - Informatie in het langetermijngeheugen is opgeslagen als fysieke handelingen.
-- Cognititieve processen voor leren en geheugen maken soms gebruik van neuronen in spieren.
+- Cognititieve processen maken soms gebruik van neuronen in spieren.
 - We maken inschattingen op basis van onze lichamelijke staat (langere mensen schatten afstanden korter in, heuvels lijken steiler als we moe zijn).
 - We maken gebruik van gebaren voor communicatie en het off-loaden van cognitive load.
 
@@ -817,3 +985,9 @@ De verschillende contexten <!-- die zijn beschreven: [lichaam](#embodiment), [em
 - **Laag 6: chronosysteem**: verandering van systemen over de tijd heen.
 
 > OMG ik krijg zo erg flashbacks naar [inleiding onderwijswetenschappen](/OWW1/IOWW/Samenvatting.md) right now, ew!
+
+---
+Annotations: 0,57243 SHA-256 6a72936e86a82a64a7d1  
+&Claude:   
+@Robin <geheimesite.nl>: 12402,16 12435,26 12524,3 12602,2502 15131,864  
+...
