@@ -304,7 +304,7 @@ Bij **behavioural momentum** is de kans op een response groter als vergelijkbaar
 
 <!-- wat zijn nou de verschillen tussen antecedent stimuli en classic conditioning?? -->
 
-<!-- punishment -->
+<!-- punishment -->`
 
 # Cognitivisme
 
@@ -674,19 +674,29 @@ Het vervangen of aanpassen van zo'n theorie, wereldbeeld of belief noemen we **c
   </ul>
 </details>
 
-<!--
 # Social cognitive theory
 
 Social cognitive theory is een combinatie van behaviourisme en cognitivisme, met een focus op leren door observatie en modeling.
 
+<!--
 > Het is ontstaan als *social learning theory*, op basis van behaviouristische principes. Door de toevoeging van steeds meer cognitieve concepten is het uiteindelijk uitgegroeid tot *social cognitive theory*.
+-->
 
 ## Principes
 
 - Leren door observatie van het gedrag van anderen, en de consequenties daarvan.
+
 - Leren is mogelijk zonder gedragsverandering.
-- **Attention** en **retention** spelen een belangrijke rol in leren.
+
+- Cognitieve processen van **attention** en **retention** spelen een belangrijke rol in leren.
+
 - Leren is **actief** en lerenden hebben **personal agency**: invloed op zichzelf en de omgeving.
+
+- Lerenden zijn zich bewust van response–consequence contingencies en vormen hier verwachtingen over.
+
+- Het niet plaatsvinden van verwachte reinforcement kan een vorm van punishment zijn, en het niet plaatsvinden van verwachte punishment een vorm van reinforcement.
+
+- Onverwachte reinforcement of punishment (of gebrek eraan) geeft een sterkere emotionele reactie dan verwachte reinforcement of punishment.
 
 <!--
 | behaviourisme | sct |
@@ -694,6 +704,104 @@ Social cognitive theory is een combinatie van behaviourisme en cognitivisme, met
 
 as maken met passief vs actief of hoeveelheid controle die de lerende heeft?
 -->
+
+## Perspectieven
+
+### Behaviouristisch perspectief
+
+Het gedrag van een ander is een discriminative stimulus voor reinforcement bij een **imitative response**. Het imitatiegedrag wordt behouden door een intermittent reinforcement schedule, waardoor het langzaam een gewoonte wordt. Dit noemen we **generalised imitation**.
+
+Imitatie wordt reinforced door het model, door een ander, of door directe consequenties van het imitatiegedrag zelf.
+
+<details open>
+    <summary>Problemen met behavouristisch perspectief</summary>
+    <ul>
+      <li>
+        <p>Het is mogelijk om meteen volledig nieuw gedrag te leren door er alleen naar te kijken, zonder het langzame proces van shaping.</p>
+      </li>
+      <li>
+        <p>Het is mogelijk dat gedrag pas later vertoont wordt (‘<strong>delayed imitation</strong>’), maar bij een discriminative stimulus zou de response meteen moeten plaatsvinden.</p>
+      </li>
+      <li>
+        <p>Het komt ook voor dat reinforcement bij het gedrag van het model leidt tot gedragsverandering bij de observer (‘<strong>vicarious reinforcement</strong>’).</p>
+      </li>
+    </ul>
+</details>
+
+### Cognitivistisch perspectief
+
+Social cognitive theory draait om verwachtingen. Lerenden maken op verwachtingen over toekomstige toekomstige response-reinforcement contingencies ('**outcome expectations**'), en een inschattingen van hun eigen vermogen het gedrag uit te voeren ('**efficacy expectations**').
+
+> Dus in operant conditioning zorgt reinforcement voor leren van het gedrag die het volgt. Bij social cognitive theory zorgt reinforcement voor het leren van gedrag dat nog moet komen.
+
+De acties van een persoon hebben vervolgens invloed op de omgeving (<!--'environment', -->\\(E\\)), de persoon (<!--'person', -->\\(P\\)) zelf, en later gedrag (<!--'behaviour', -->\\(B\\)). De interactie tussen deze drie noemen we **reciprocal causation**.
+
+## Modeling
+
+<details open>
+  <summary>Let op:</summary>
+  modeling kan twee dingen betekenen: het demonstreren van gedrag door een <b>model</b>, of het imiteren van gedrag door een <b>observer</b>.
+</details>
+
+Modeling betreft het demonstreren van gedrag door een **model** en het imiteren van gedrag door een **observer**.
+
+Het kan worden gebruikt voor het aanleren van nieuw gedrag, het veranderen van frequentie van bestaand of vergelijkbaar gedrag, of het aanmoedigen van voorheen verboden gedrag. 
+
+Een model kan een echt persoon zijn ('live model'), een fictief personage ('symbolic model'), of er kunnen verbale instructies gegeven worden.
+
+1. **Aandacht <small>('attention')</small>**
+
+    De observer moet aandacht hebben voor (het gedrag van) het model.
+
+2. **Geheugen <small>('retention')</small>**
+
+    De observer moet het gedrag van het model opslaan in het geheugen. Op korte termijn gebeurt dit door **rehearsal**. Op lange termijn door verbale en visuele **memory codes**.
+
+3. **Motorische reproductie <small>('motor reproduction')</small>**
+
+    De observer moet het gedrag van het model kunnen reproduceren, daarvoor is vaardigheid nodig, maar ook de mogelijkheid, het liefst tijdens het kijken naar het model.
+
+    > Een bijkomend voordeel is dat het gedrag niet alleen verbaal en visueel in het geheugen wordt opgeslagen, maar ook motorisch en kinetisch.
+
+4. **Motivatie <small>('motivation')</small>**
+
+   De observer moet voldoende motivatie hebben om aandacht te vestigen op het gedrag van het model, en het vervolgens te imiteren.
+
+<details>
+  <summary>Kenmerken van een goed model</summary>
+  De observer moet de perceptie hebben dat het model:
+    <ul style="margin-top: 0.2em">
+      <li>competent is.</li>
+      <li>een goede reputatie, hoge sociale status, en/of macht heeft.</li>
+      <li>zich gender-stereotypisch gedraagt.</li>
+      <li>gedrag vertoont is dat relevant is voor de observer.</li>
+    </ul>
+</details>
+
+## Self-efficacy
+
+Self-efficacy is het zelfvertrouwen van een lerenden over competentie in een specifiek domein.
+
+> Dit verschilt van self-concept ('wie ben ik?') en self-esteem ('hoe goed ben ik?'), omdat dat beide algemene concepten zijn. Self-efficacy is gericht op een specifiek domein.
+
+Het beïnvloedt welke activiteiten lerenden kiezen te doen, de doelen die zij voor zichzelf zetten, en hoe goed zij hun best doen en hoelang ze door blijven gaan bij falen.
+
+Er is onderscheidt tussen self-efficacy voor leren, en self-efficacy voor performance. Self-efficacy voor leren moet optimistisch zijn, en self-efficacy voor performance conservatiever.
+
+**Resilient self-efficacy** ontstaat als mensen succesvol zijn, en houdt in dat falen nog weinig invloed heeft op self-efficacy.
+
+<details>
+  <summary>Factoren die self-efficacy beïnvloeden</summary>
+  <ul>
+    <li><p><b>Eigen behaalde resultaten</b>: consistente goede resultaten leiden tot resilient self-efficacy, en consistente slechte resultaten tot pessimisme en lage self-efficacy.</p></li>
+    <li><p><b>Fysiologische toestand</b>: interpretatie van lichamelijke sensaties, zoals bijv. "vlinders" kunnen self-efficacy beïnvloeden.</p></li>
+    <li><p><b>Communicatie van anderen</b>: aanmoedigende of ontmoedigende communicatie van anderen heeft een kortdurend effect op self-efficacy.</p></li>
+    <li><p><b>Behaalde resultaten van anderen</b>: resultaten van anderen met vergelijkbaar niveau kunnen een indicator voor eigen resultaten zijn.</p><blockquote><p>Een <b>coping model</b> dat aanvankelijk moeite heeft en geleidelijk beter wordt is het best voor self-efficacy.</p></blockquote></li>
+    <li><p><b>Collectieve self-efficacy</b>: de self-efficacy van een groep als geheel wordt bepaald door perceptie van individuele competentieniveau's en samenwerking, en beïnvloed individuele self-efficacy.</p></li>
+  </ul>
+</details>
+
+## Self-regulation
 
 # Contextuele theorieën
 
@@ -987,7 +1095,7 @@ De verschillende contexten <!-- die zijn beschreven: [lichaam](#embodiment), [em
 > OMG ik krijg zo erg flashbacks naar [inleiding onderwijswetenschappen](/OWW1/IOWW/Samenvatting.md) right now, ew!
 
 ---
-Annotations: 0,57243 SHA-256 6a72936e86a82a64a7d1  
-&Claude:   
-@Robin <geheimesite.nl>: 12402,16 12435,26 12524,3 12602,2502 15131,864  
+Annotations: 0,63432 SHA-256 0f74f2790362dfe7f647  
+&Claude: 43621,24 43650,11  
+@Robin <geheimesite.nl>: 12402,16 12435,26 12524,3 12602,2502 15131,865 37128,5 37342,4 37442 37490 37494,25 37521 37586 37685,34 37753,342 38238,527 38770,575 39350,744 40114,18 40176,142 40328,752 41081,2 41084,7 41092,962 42059,1562 43645,5 43661,324  
 ...
