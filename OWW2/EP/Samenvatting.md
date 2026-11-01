@@ -304,7 +304,7 @@ Bij **behavioural momentum** is de kans op een response groter als vergelijkbaar
 
 <!-- wat zijn nou de verschillen tussen antecedent stimuli en classic conditioning?? -->
 
-<!-- punishment -->`
+<!-- punishment -->
 
 # Cognitivisme
 
@@ -602,6 +602,10 @@ Theory theory beschrijft hoe mensen deze persoonlijke theorieën vormen. <!-- Is
 > Jonge kinderen maken onderscheid tussen kunstmatige objecten en biologische entiteiten. Kunstmatige objecten worden gedefinieerd door hun functie, biologische entiteiten door hun oorsprong.
 -->
 
+<!--
+> Een belangrijke persoonlijke theorie is de **theory of mind**, over gedachten, overtuigingen, gevoelens, motieven en intenties. Jonge kinderen begrijpen bijvoorbeeld het verschil tussen "vergeten" en "niet weten" nog niet.
+-->
+
 > Het is onmogelijk om te weten wat "echt" of "waar" is. Alle kennis over de wereld is geconstrueerd; het zijn modellen om de werkelijkheid te duiden. Echter, sommige modellen zijn *nuttiger* dan andere, omdat ze de werkelijkheid beter beschrijven en voorspellen.
 
 ### Wereldbeelden
@@ -624,7 +628,30 @@ Wereldbeelden zijn deels cultureel bepaald en zijn meestal impliciete kennis, wa
 
 ### Epistemic beliefs
 
-...
+Epistemic beliefs zijn zijn persoonlijke overtuigingen over de aard van kennis en leren.
+
+Epistemic beliefs zijn vaak gebonden aan een bepaald soort kennis <small>(\\(2+2\\) staat vaster dan kwantum&shy;mechanica)</small> en het specifieke domein <small>(wiskunde staat vaster dan sociale wetenschappen)</small>.
+
+<!-- Dit wordt deels veroorzaakt door hoe het onderwijs bepaalde domeinen typeert. -->
+
+- **Realist view** (\\(3\text{yo}\\)): kennis is wat mensen zeggen of doen; wat een ander beweert, wordt zonder meer aangenomen.
+
+- **Absolutist view** (\\(4\text{yo}\\)): kennis is niet altijd hetzelfde als wat mensen zeggen of doen, maar het is wel zeker en eenduidig; absoluut goed of absoluut fout.
+
+- **Multiplist view** (sommige adolescenten): kennis is onzeker; alle perspectieven zijn even legitiem.
+
+- **Evaluativist view** (sommige volwassenen): kennis is onzeker; perspectieven kunnen meer of minder legitiem zijn afhankelijk van bewijsvoering en logica.
+
+<details>
+  <summary>Voorbeelden van epistemic beliefs</summary>
+  <ul>
+      <li><strong>Stabiliteit</strong>: vaststaande vs voorlopig</li>
+      <li><strong>Structuur</strong>: losse feiten vs samenhangende ideeën</li>
+      <li><strong>Bron</strong>: overgedragen door autoriteit vs zelf geconstrueerd</li>
+      <li><strong>Vertrouwen</strong>: autoriteit vs bewijs</li>
+      <li><strong>Intelligentie</strong>: aangeboren vs aangeleerd</li>
+  </ul>
+</details>
 
 ## Conceptual change
 
@@ -807,39 +834,44 @@ Self-regulation houdt in dat lerenden bepalen welk gedrag ze belangrijk vinden e
 
 Een belangrijk component van self-regulation is **effortful control**: het onderdrukken van ongewenst gedrag en uitstellen van beloningen.
 
+Bij het leren van self-regulation kan scaffolding nuttig zijn. Dit kan door regelmatig kansen te bieden voor zelf-gestuurde activiteiten, modeling van self-regulation, of door co-regulation.
+
+**Co-regulation** is een tussenstap tussen externe regulation en self-regulation, waarbij twee of meer mensen samen hun gedrag monitoren en sturen.
+
 <details>
-<summary>Elementen van self-regulation</summary>
-<ol>
-  <li>
-    <p><strong>Doelen en standaarden bepalen</strong>: de lerende bepaalt wat ze belangrijk vinden. Dit doen ze op onder andere op basis van de doelen en standaarden die ze zien bij models.</p>
-  </li>
-  <li>
-    <p><strong>Self-observation</strong>: objectief eigen gedrag en performance bekijken, zowel positieve als negatieve aspecten.</p>
-  </li>
-  <li>
-    <p><strong>Self-evaluation</strong>: objectief eigen gedrag en performance toetsen aan de hand van de gestelde doelen en standaarden.</p>
-  </li>
-  <li>
-    <p><strong>Self-reinforcement</strong>: intrinsieke reinforcement (self-praise) of punishment (self-criticism), blijkt even effectief als reinforcement en punishment van anderen.</p>
-  </li>
-  <li>
-    <p><strong>Self-reflection</strong>: kritisch reflecteren op doelen, gedrag of overtuigingen, en mogelijk aanpassingen maken, aan de hand van de zelf-evaluatie.</p>
-  </li>
-</ol>
-</details>
-<details>
-<summary>Factoren die self-regulation bevorderen</summary>
-<ol>
-  <li>
-    <p><strong>Self-instruction</strong>: lerende internaliseert (zie <a href="#vygotskys-socialcultural-theory">Vygotsky's sociocultural theory</a>), instructies die een model geeft bij het gedrag.</p>
-  </li>
-  <li>
-    <p><strong>Self-monitoring</strong>: het opnemen en bekijken van eigen gedrag; het opnemen van gedrag alleen is vaak al voldoende voor een gedragsverandering.</p>
-  </li>
-  <li>
-    <p><strong>Self-imposed stimulus control</strong>: een omgeving opzoeken die het gewenste gedrag versterkt of het ongewenste gedrag afzwakt.</p>
-  </li>
-</ol>
+    <summary>Factoren die self-regulation bevorderen</summary>
+    <ul>
+      <li>
+        <p><strong>Goal-setting</strong>: de lerenden bepalen hun doelen en standaarden, en stellen deadlines, soms op basis van doelen en standaarden van models.</p>
+      </li>
+      <li>
+        <p><strong>Planning</strong>: XXX.</p>
+      </li>
+      <li>
+        <p><strong>Self-observation</strong>: objectief eigen gedrag en performance bekijken, zowel positieve als negatieve aspecten.</p>
+      </li>
+      <li>
+        <p><strong>Help-seeking</strong>: weten wanneer hulp nodig is en dan actief op hulp vragen.</p>
+      </li>
+      <li>
+        <p><strong>Self-evaluation</strong>: objectief eigen gedrag en performance toetsen aan de hand van de gestelde doelen en standaarden.</p>
+      </li>
+      <li>
+        <p><strong>Self-reinforcement</strong>: intrinsieke reinforcement (self-praise) of punishment (self-criticism), blijkt even effectief als reinforcement en punishment van anderen.</p>
+      </li>
+      <li>
+        <p><strong>Self-reflection</strong>: kritisch reflecteren op doelen, gedrag of overtuigingen, en mogelijk aanpassingen maken of alternatieven zoeken.</p>
+      </li>
+      <li>
+        <p><strong>Self-instruction</strong>: lerende internaliseert (zie <a href="#vygotskys-socialcultural-theory">Vygotsky's sociocultural theory</a>), instructies die een model geeft bij het gedrag.</p>
+      </li>
+      <li>
+        <p><strong>Self-monitoring</strong>: het opnemen en bekijken van eigen gedrag; het opnemen van gedrag alleen is vaak al voldoende voor een gedragsverandering.</p>
+      </li>
+      <li>
+        <p><strong>Self-imposed stimulus control</strong>: een omgeving opzoeken die het gewenste gedrag versterkt of het ongewenste gedrag afzwakt.</p>
+      </li>
+    </ul>
 </details>
 
 
@@ -883,9 +915,9 @@ Piaget gebruikte de clinical method: hij gaf taken aan kinderen en stelde hen vr
 
 - **Discovery learning**: kinderen leren door te ontdekken, en sturen zichzelf hierin zonder begeleiding van volwassenen.
 
-- Kinderen denken op kwalitatief verschillende manieren afhankelijk van leeftijd<!-- (als gevolg van neurologische maturiteit)-->, en dit kan beschreven worden met vier universele **stages** die elk kind doorloopt.
+- Kinderen denken op kwalitatief verschillende manieren afhankelijk van leeftijd<!-- (als gevolg van neurologische maturiteit)-->, en dit kan beschreven worden met vier universele **fases** die elk kind doorloopt.
 
-### Piaget's stages
+### Piaget's fases
 
 1. **Sensorimotor stage** (\\(< 2\text{yo}\\)): schemes bevatten vooral percepties en gedrag. Kinderen begrijpen de wereld door hun fysieke interacties.
 
@@ -930,7 +962,7 @@ Piaget gebruikte de clinical method: hij gaf taken aan kinderen en stelde hen vr
     <li><p>De processen van accomodatie, assimilatie en equilibration zijn vaag omschreven.</p></li>
     <li><p>Interactie met de omgeving is minder belangrijk dan Piaget dacht, want kinderen met een handicap ontwikkelen zich cognitief ongeveer hetzelfde als kinderen zonder handicap.</p></li>
     <li><p>Kinderen leren meer van kennis aangereikt door volwassenen en cultuur (zie <a href="#sociocultural-theory">sociocultural theory</a>), dan van persoonlijke ervaring.</p></li>
-    <li><p><i>De volgorde van de stages lijkt te kloppen, maar:</i></p></li>
+    <li><p><i>De volgorde van de fases lijkt te kloppen, maar:</i></p></li>
     <li><p>Kinderen van \(2\frac{1}{2}\text{mo}\) hebben al object permanence.</p></li>
     <li><p>Kinderen kunnen al (symbolisch) denken binnen hun eerste levensjaar.</p></li>
     <li><p>Kinderen vertonen niet altijd egocentrisme.</p></li>
@@ -957,7 +989,7 @@ Neo-Piagetiaanse theorie combineert Piaget's theorie met information processing 
 
 - Kinderen kunnen intentioneel (door actieve kennisconstructie) als niet-intentioneel (door passieve patroonherkenning) leren.
 
-- Algemene ontwikkeling heeft geen stages, maar ontwikkeling binnen een domein (soms) wel, maar er zijn vaak meerdere mogelijke paden.
+- Algemene ontwikkeling heeft geen fases, maar ontwikkeling binnen een domein (soms) wel, maar er zijn vaak meerdere mogelijke paden.
 
 - Formeel onderwijs kan cognitieve ontwikkeling versterken binnen de grenzen van de neurologische maturatie van het werkgeheugen.
 
@@ -1002,7 +1034,7 @@ Sociocultural theory legt de focus op de rol van volwassenen en de cultuur (en d
 <details>
   <summary>Kritiek op Vygotsky</summary>
   <ul>
-    <!--<li><p>Vygotsky identificeert een aantal stages (geen tentamenstof), maar de beschrijvingen zijn te algemeen en vaag.</p></li>-->
+    <!--<li><p>Vygotsky identificeert een aantal fases (geen tentamenstof), maar de beschrijvingen zijn te algemeen en vaag.</p></li>-->
     <li><p>De theorie is wat speculatief en vaag, en daardoor moeilijk te toetsen.</p></li>
   </ul>
 </details>
@@ -1010,7 +1042,7 @@ Sociocultural theory legt de focus op de rol van volwassenen en de cultuur (en d
 <details>
   <summary>Overeenkomsten tussen Piaget en Vygotsky</summary>
   <ul>
-    <li><p>Kinderen denken kwalitatief verschillend afhankelijk van leeftijd. Piaget omschrijft dit als vier stages, Vygotsky noemt het een gevolg van internalisation.</p></li>
+    <li><p>Kinderen denken kwalitatief verschillend afhankelijk van leeftijd. Piaget omschrijft dit als vier fases, Vygotsky noemt het een gevolg van internalisation.</p></li>
     <li><p>Voor leren is uitdaging nodig. Piaget noemt dit disequilibrium, Vygotsky noemt het de zone of proximal development.</p></li>
     <li><p>Voor leren is voorkennis nodig. Volgens Piaget is accomodatie pas mogelijk als een bepaalde vorm van assimilatie mogelijk is, volgens Vygotsky moet het actual developmental level van voldoende zijn.</p></li>
     <li><p>Sociale interactie is belangrijk bij leren. Volgens Piaget zorgt sociale interactie door middel van socio-cognitive conflict voor disequilibrium. Volgens Vygotsky is leren de internalisatie van sociale interacties, en leren in de zone of proximal development is per definitie alleen mogelijk met ondersteuning van een competenter individu.</p></li>
@@ -1027,7 +1059,7 @@ Sociocultural theory legt de focus op de rol van volwassenen en de cultuur (en d
   </ul>
 </details>
 
-## Toevoegingen
+### Toevoegingen
 
 - De zone of proximal development is hetzelfde als het bieden van scaffolding.
 
@@ -1132,10 +1164,118 @@ De verschillende contexten <!-- die zijn beschreven: [lichaam](#embodiment), [em
 - **Laag 5: macrosysteem**: bredere cultuur en maatschappij.
 - **Laag 6: chronosysteem**: verandering van systemen over de tijd heen.
 
+<!--
 > OMG ik krijg zo erg flashbacks naar [inleiding onderwijswetenschappen](/OWW1/IOWW/Samenvatting.md) right now, ew!
+--->
+
+# Metacognitie
+
+Metacognitie is het bewust nadenken over eigen denkprocessen.
+
+<details>
+    <summary>Goede lezers...</summary>
+    <ul style="margin-top: 0.2em">
+      <li>hebben een duidelijk doel tijdens het lezen.</li>
+      <li>maken onderscheid tussen hoofd- en bijzaken.</li>
+      <li>bekijken de illustraties en diagrammen.</li>
+      <li><dfn title="conclusies trekken, relaties herkennen, voorbeelden of toepassingen bedenken">elaboreren</dfn> op wat ze lezen.</li>
+      <li>stellen zichzelf vragen.</li>
+      <li>controleren regelmatig of ze het nog snappen.</li>
+      <li>verduidelijken ambiguïteiten.</li>
+      <li>zijn persistent.</li>
+      <li>zoeken naar inconsistencies tijdens het lezen.</li>
+      <li>zijn bereid tot conceptual change.</li>
+      <li>denken kritisch na over wat ze lezen.</li>
+      <li>vatten samen wat ze lezen.</li>
+    </ul>
+</details>
+
+## Self-regulation
+
+### Leerstrategieën
+
+Een **leerstrategie** is het bewust inzetten van één of meer cognitieve processen voor leren.
+
+Leerstrategieën kunnen **overt** (gedragsmatig), of **covert** (mentaal) zijn. Hieronder worden enkele gedragsmatige strategieën beschreven:
+
+1. **Notities maken**
+
+    Het maken van notities houdt de aandacht bij de stof, zorgt voor zowel verbale en visuele encoding, en kan ook een vorm van externe opslag zijn om het werkgeheugen te ontlasten.
+    
+    Docenten kunnen de notities van studenten verbeteren door belangrijke punten geschreven aan te bieden en vaak te herhalen, of een **organisational framework** te bieden.
+
+2. **Hoofd- en bijzaken scheiden**
+
+    Het herkennen van hoofdzaken, omdat niet alle informatie opgeslagen kan worden.
+    
+    Tekstboeken kunnen studenten hierin ondersteunen door middel van **signals**.
+
+   <!--
+   > WOW ook flashbacks naar [ontwerpen van leersituaties](/OWW1/OVL/Samenvatting.md)!!-->
+
+    Dit is lastig voor studenten met weinig voorkennis. Zij zien vaak signals over het hoofd en gebruiken <dfn title="alleen eerste/laatste zin lezen, overmatig richten op definities etc.">oppervlakkige strategieën</dfn>.
+    
+    > **Highlighting** kan nuttig zijn. Het kost minder tijd dan aantekeningen maken, en houdt informatie in originele context. Het is echter alleen effectief als *echt alleen* belangrijke informatie gehighlight wordt. (Alles highlighten heeft geen zin.)
+
+3. **Organiseren**
+
+    Structuur aanbrengen (zie [Gestaltpsychologie](#)) door het maken van outlines of grafische representaties. Dit helpt lerenden informatie effectiever te encoden en ophalen.
+    
+    Dit is lastig. Docenten kunnen studenten hierin ondersteunen door scaffolding of co-regulated activiteiten te bieden.
+
+4. **Samenvatten**
+
+   Samenvatten, en daarbij informatie inkorteren, integreren, abstraheren en structureren.
+
+   Dit is lastig. Docenten kunnen studenten hierin ondersteunen door scaffolding te bieden:
+
+   - Beginnen met fill-gapopdrachten.
+   - Topic sentence + subconcepten identificeren.
+   - Beginnen met korte<!-- gestructureerde--> teksten, en geleidelijk langere<!-- complexere--> teksten aanbieden.
+   - Lerenden samenvattingen laten vergelijken.
+   
+5. **Comprehension monitoring**
+
+   Regelmatig controleren van eigen begrip.
+
+   <!-- blah blah de rest ook nog -->
+
+6. **Mnemonics gebruiken**
+
+   Sommige informatie is niet goed gestructureerd of logisch, maar moet toch onthouden worden. Daarvoor kan je mnemonics gebruiken:
+
+   - **Verbal mediation**: associatie tussen twee woorden door een mediating woord.
+   
+       | Duits woord | Engels woord | Mediator |
+       |-------------|--------------|----------|
+       | Hund        | dog          | hound    |
+       | Schwein     | pig          | swine    |
+       | Gans        | goose        | gander   |
+       | Stier       | bull         | steer    |
+     
+   - **Locimethode**: verbind elk item met een beeld aan een vaste plek langs een bekende route en loop die route later in gedachten af.
+   
+   - **Pegwordmethode**: verbind elk item met een beeld aan een item van een vaste, bekende lijst, zoals een rijmpje.
+  
+   - **Keywordmethode**: een combinatie van verbal mediation met visuele beelden, waarbij je voor elke mediator een beeld met het originele woord vormt.
+   
+   - **Superimposed meaningful structure**: verbind informatie aan een ongerelateerde <dfn title="afkorting, gedicht, verhaal, ezelsbruggetje etc.">structuur</dfn> die kan dienen als **retrieval cue**, zodat het beter te onthouden wordt.
+   
+     > Dit verschilt met normaal organiseren omdat de bron van de structuur niet inhoudelijk is, maar opgelegd ('**superimposed**'). De informatie wordt alleen onthouden, er is geen begrip.
+   
+     > Ik vind het woord "meaningful" in deze context misleidend. De structuur is juist *niet betekenisvol*, maar ongerelateerd.
+
+Leerprocessen zijn vaak aanvankelijk onbewust, later worden bewust leerstrategieën ingezet, en uiteindelijk worden deze geautomatiseerd, waardoor ze weer onbewust worden.
+
+<!-- > De laatste "onbewust" is niet hetzelfde als de eerste "onbewust"; de geautomatiseerde strategieën zijn veel ingewikkelder/complexer dan passief leren dat aanvankelijk gebeurt. -->
+
+   
+      
+
+# Motivatie
 
 ---
-Annotations: 0,65378 SHA-256 e1ddb3d824b91df4989e  
-&Claude: 43621,24 43650,11  
-@Robin <geheimesite.nl>: 12402,16 12435,26 12524,3 12602,2502 15131,865 37128,5 37342,4 37442 37490 37494,25 37521 37586 37685,34 37753,342 38238,527 38770,575 39350,744 40114,18 40176,142 40328,752 41081,2 41084,7 41092,962 42059,1562 43645,5 43661,691 44588,16 44737,4 44742,10 44894,4 44899,13 45096,15 45263,81 45371,16 45398,156 45589,15 45614,42 45657,79 45771,29 45811,88 45918,13  
+Annotations: 0,72731 SHA-256 e38f9e68657d9a3493f3  
+&Claude: 35211,31 35664 35680,26 35859,33 45287,24 45316,11 71385,8 71402,14 71419,80 71536,10 71549,18  
+@Robin <geheimesite.nl>: 12402,16 12435,26 12524,3 12602,2502 15131,864 33680,235 35188,23 35242,422 35665,15 35706,56 35768,91 35892,48 35957,47 36015,31 36063,161 36229,378 36612,12 38794,5 39008,4 39108 39156 39160,25 39187 39252 39351,34 39419,342 39904,527 40436,575 41016,744 41780,18 41842,142 41994,752 42747,2 42750,7 42758,962 43725,1562 45311,5 45327,2163 47497,605 48104,2 48107,13 51123,5 51169,5 54435,5 56148,5 58863,5 59251,5 60951 67445,5 67566,873 68444,2941 71393,9 71416,3 71499,37 71546,3 71567,1164  
 ...
