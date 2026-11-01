@@ -336,7 +336,7 @@ Bij **behavioural momentum** is de kans op een response groter als vergelijkbaar
     <li><p><b>Serial learning</b>: een lijst aan items onthouden en reproduceren in originele volgorde.</p></li>
     <li><b>Paired-associate learning</b>: verschillende items worden aan elkaar gekoppeld, en aan de hand van één van de twee items, moet de andere gereproduceerd worden.</li>
   </ul>
-  <blockquote><p>Deze taken maken gebruik van korte woorden of lettergrepen, en zijn daarom minder geschikt voor het onderzoeken van complexere cognitieve processen, zoals problem solving of critical thinking.</p></blockquote>
+  <blockquote><p>Deze taken maken gebruik van korte woorden of lettergrepen, en zijn daarom minder geschikt voor het onderzoeken van complexere cognitieve processen, zoals problem-solving of critical thinking.</p></blockquote>
 </details>
 
 ## Perspectieven op leren
@@ -700,6 +700,21 @@ Het vervangen of aanpassen van zo'n theorie, wereldbeeld of belief noemen we **c
     <!-- de rest ook nog... -->
   </ul>
 </details>
+
+## Transfer
+
+Transfer is een process waarbij iets dat geleerd is in een bepaalde situatie, toegepast wordt in nieuwe, andere situaties. Het is essentieel voor leren en moet de hoogste prioriteit hebben in het onderwijs.
+
+> Een gebrek aan transfer noemen we **inert knowledge**: kennis die nooit buiten school gebruikt wordt.
+
+Er zijn vier dimensies voor transfer:
+
+- **Positief vs negatief**: de transfer geeft de lerende een voordeel of een nadeel.
+- **Verticaal vs lateraal**: de transfer is een voorwaarde voor het leren van stof, of niet.
+- **Near vs far**: de taken of situaties hebben vergelijkbare oppervlaktekenmerken, of niet.
+- **Specific vs general**: de taken of situaties lijken inhoudelijk op elkaar, of niet.
+
+<!-- details: Factoren die transfer bevorderen -->
 
 # Social cognitive theory
 
@@ -1269,13 +1284,87 @@ Leerprocessen zijn vaak aanvankelijk onbewust, later worden bewust leerstrategie
 
 <!-- > De laatste "onbewust" is niet hetzelfde als de eerste "onbewust"; de geautomatiseerde strategieën zijn veel ingewikkelder/complexer dan passief leren dat aanvankelijk gebeurt. -->
 
+<!-- details voor intetional learner -->
+<!-- details voor Redenen dat mensen ineffectieve strategieën gebruiken -->
+<!-- details voor Factoren die effectief gebruik van leerstrategieën bevorderen -->
+
+## Problem-solving
    
-      
+Een probleem heeft drie componenten: een **doel**, bepaalde informatie ('**givens**'), en acties die ondernomen kunnen worden ('**operations**'), vaak in de vorm van conditionele procedures.
+
+- **Well-defined problem**: het doel is duidelijk, de informatie is compleet en beschikbaar, en een bepaalde sequentie operaties leidt tot het doel.
+
+- **Ill-defined problems**: het doel is ambigue, de informatie is incompleet of onbeschikbaar, en er is geen duidelijke sequentie aan operaties tot het doel.
+
+Een well-defined problem heeft één duidelijke oplossing, terwijl voor een ill-defined problem meerdere oplossingsrichtingen mogelijk zijn.
+
+### Behaviouristisch perspectief
+
+Volgens het behaviourisme lossen we problemen op door **trial-and-error**, en ontstaat er een **response hierarchy** omdat bepaalde responses reinforced worden.
+
+### Cognitivistisch perspectief
+
+Volgens het cognitivisme lossen we problem op door het mentaal herstructureren van problemen tot we een oplossing vinden ('**insight**'), hierbij gebruiken we vier stappen:
+
+<details>
+  <summary>Wallas' stappen voor problem-solving</summary>
+  <ol>
+    <li><strong>Preparation</strong>: probleem definiëren en informatie verzamelen.</li>
+    <li><strong>Incubation</strong>: onbewust nadenken over het probleem tijdens andere activiteiten.</li>
+    <li><strong>Inspiration</strong>: plotselinge insight leidt tot de oplossing van het probleem.</li>
+    <li><strong>Verification</strong>: controleren of de oplossing correct is.</li>
+  </ol>
+</details>
+
+<details>
+  <summary>Polya's stappen voor problem-solving</summary>
+  <ol>
+    <li><strong>Understanding</strong>: probleem definiëren en informatie verzamelen.</li>
+    <li><strong>Planning</strong>: acties bepalen voor het oplossen van het probleem.</li>
+    <li><strong>Executing</strong>: het plan uitvoeren en monitoren voor effectiviteit.</li>
+    <li><strong>Evaluating</strong>: evalueren of het plan effectief was, en hier mogelijk van leren voor toekomstige problem-solving.</li>
+  </ol>
+</details>
+
+<details>
+  <summary>Neuropsychologische stappen voor problem-solving</summary>
+  <ol>
+    <li><strong>Encoding</strong>: probleem definiëren en informatie verzamelen.</li>
+    <li><strong>Planning</strong>: acties bepalen voor het oplossen van het probleem.</li>
+    <li><strong>Solving</strong>: het plan uitvoeren en monitoren voor effectiviteit.</li>
+    <li><strong>Responding</strong>: op een bepaalde manier reageren.</li>
+  </ol>
+  <blockquote><p>De eerste drie stappen komen overeen met Polya's perspectief.</p></blockquote>
+</details>
+
+Lerenden hebben **problem schemas** waar ze problemen mee indelen: kennis over verschillende soorten problemen en bijbehorende oplossingsrichtingen.
+
+> Experts hebben beter ontwikkelde problem schemas. Beginners richten zich vaker op oppervlaktekenmerken. Daarnaast besteden experts vaak meer tijd aan het definiëren van ill-defined problems voordat ze beginnen met oplossen.
+
+Lerenden hebben ook **mental sets**: neigingen om problemen op bepaalde manier op te lossen. Een voorbeeld is **functional fixedness**, waarbij mensen voor een object één functie herkennen, en mogelijke andere functies niet herkennen.
+
+Een probleem tijdelijke neerleggen en andere activiteiten ondernemen ('**incubation**') kan positieve effecten hebben. Factoren die problem-solving negatief beïnvloeden kunnen tijdens de rustperiode verdwijnen, en het langetermijngeheugen kan breder doorzocht worden.
+
+Er kan onderscheid gemaakt worden tussen **algoritmes** en **heuristics**:
+
+- **Algoritmes**: domeinspecifieke stap-voor-stap procedure die altijd tot één oplossing leidt.
+- **Heuristics**: algemene strategieën die altijd kunnen worden toegepast maar niet altijd tot een oplossing leiden.
+
+<!-- er was iets met means-ends analysis -->
+
+<!-- details voor Factoren die problem-solving bevorderen -->
+
+   
+## Critical thinking
+
+Critical thinking is het evalueren van nauwkeurigheid, betrouwbaarheid van informatie en redeneringen.
+
+<!-- blah blah blah -->
 
 # Motivatie
 
 ---
-Annotations: 0,72731 SHA-256 e38f9e68657d9a3493f3  
-&Claude: 35211,31 35664 35680,26 35859,33 45287,24 45316,11 71385,8 71402,14 71419,80 71536,10 71549,18  
-@Robin <geheimesite.nl>: 12402,16 12435,26 12524,3 12602,2502 15131,864 33680,235 35188,23 35242,422 35665,15 35706,56 35768,91 35892,48 35957,47 36015,31 36063,161 36229,378 36612,12 38794,5 39008,4 39108 39156 39160,25 39187 39252 39351,34 39419,342 39904,527 40436,575 41016,744 41780,18 41842,142 41994,752 42747,2 42750,7 42758,962 43725,1562 45311,5 45327,2163 47497,605 48104,2 48107,13 51123,5 51169,5 54435,5 56148,5 58863,5 59251,5 60951 67445,5 67566,873 68444,2941 71393,9 71416,3 71499,37 71546,3 71567,1164  
+Annotations: 0,77957 SHA-256 adbd7b1f4a4253459c05  
+&Claude: 35431,31 35884 35900,26 36079,33 46284,24 46313,11 72382,8 72399,14 72416,80 72533,10 72546,18  
+@Robin <geheimesite.nl>: 1033,220 12622,16 12655,26 12744,3 12822,2502 15351,864 17986 33900,235 35408,23 35462,422 35885,15 35926,56 35988,91 36112,48 36177,47 36235,31 36283,161 36449,378 36832,12 38857,260 39132,502 39791,5 40005,4 40105 40153 40157,25 40184 40249 40348,34 40416,342 40901,527 41433,575 42013,744 42777,18 42839,142 42991,752 43744,2 43747,7 43755,962 44722,1562 46308,5 46324,2163 48494,605 49101,2 49104,13 52120,5 52166,5 55432,5 57145,5 59860,5 60248,5 61948 68442,5 68563,873 69441,2941 72390,9 72413,3 72496,37 72543,3 72564,2207 74797,3160  
 ...
