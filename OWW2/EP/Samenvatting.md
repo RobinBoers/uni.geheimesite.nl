@@ -27,6 +27,8 @@ title: Educational Psychology
 </details>
 -->
 
+> Hey everyone! Ik was echt super gemotiveerd toen ik begon met deze samenvatting, maar het gaat me niet lukken hem nog voor het tentamen af te maken. Er zitten dus gaten in, en de losse artikelen ontbreken ook. Sorry!
+
 # Behaviourisme
 
 Behaviourisme legt de focus op observeerbaar gedrag. Het is een reactie op instrospectie, een methode die gebruik maakte van diepe zelfreflectie. Dat is volgens behaviouristen subjectief en inaccuraat. Om psychologie een "echte" wetenschap te maken moest het gebruikmaken van systematische empirische observaties, en alleen gedrag kan objectief gemeten worden.
@@ -229,7 +231,7 @@ De effectiviteit van een reinforcer is afhankelijk van de omgeving.
 </details>
 
 <details open>
-    <summary>Reinforcers die niet goed binnen behaviourisme passen</summary>
+    <summary>Kritiek op behaviourisme</summary>
     <ul>
       <li>
         <p><strong>Feedback</strong>: zowel positieve als negatieve feedback zorgt voor toename van gewenst gedrag. Het lijkt <em>bijna</em> alsof lerenden nadenken (gasp!) over de feedback!</p>
@@ -239,8 +241,6 @@ De effectiviteit van een reinforcer is afhankelijk van de omgeving.
       </li>
     </ul>
 </details>
-
-### Punishment
 
 ### Bijgeloof
 
@@ -1363,8 +1363,44 @@ Critical thinking is het evalueren van nauwkeurigheid, betrouwbaarheid van infor
 
 # Motivatie
 
+Motivatie is een interne toestand die zorgt voor actie, doelen en aandacht. Het zorgt voor drie soorten engagement: gedragsmatig, cognitief, en emotioneel.
+
+<!--
+**Situated motivation** is motivatie die ontstaat als resultaat van de directe omgeving.
+-->
+
+Ongemotiveerd bestaat niet: iedereen is altijd gemotiveerd, de vraag is alleen *waarvoor*. Het is geen aan-uit switch, maar een combinatie van factoren.
+
+Motivatie kan **intrinsiek** of **extrinsiek** zijn. Intrinsieke motivatie komt vanuit de taak of de lerende: de lerende vindt de taak leuk of waardevol. Extrinsieke motivatie komt van buitenaf.
+
+<!--
+> Extrinsiek gemotiveerde leerlingen doen vaak minimale moeite om de taak succesvol af te ronden, en stoppen met de taak als reinforcement stopt.
+-->
+
+**Flow** is een intense vorm van intrinsieke motivatie, gekenmerkt door complete absorptie en diepe focus en concentratie, waarbij de lerende de tijd vergeet en andere taken volledig negeert.
+
+## Drive theory
+
+Drive theory stelt dat motivatie ontstaat door een disbalans van fysiologische homeostasis. Een **drive** is een behoefte balans te herstellen voor optimaal functioneren.
+
+De intensiteit van de response is vervolgens het product van drive, conditionering ('**habit**'), en verwachte reinforcement ('**incentive**').
+
+\\[R = \text{Drive} \times \text{Habit} \times \text{Incentive}\\]
+
+> Sommig gedrag heeft geen biologische basis. Er is dan sprake van **acquired drives**: drives die ontstaan door conditionering van een drive-reducing stimulus.
+<!-- Reinforcement is dan vermindering van drive in plaats van vermindering van fysiologische behoefte. -->
+
+<details>
+  <summary>Kritiek op drive theory</summary>
+  <ul><li><p>Menselijk gedrag is vaak gericht op doelen voor de lange termijn, en niet behoeftes op de korte termijn.</p></li>
+  <li><p>Organismes gedragen zich soms op manieren die drives juist vergroten ('<b>sensation seeking</b>').</p></li>
+  </ul>
+</details>
+
+oke laat maar
+
 ---
-Annotations: 0,77957 SHA-256 adbd7b1f4a4253459c05  
-&Claude: 35431,31 35884 35900,26 36079,33 46284,24 46313,11 72382,8 72399,14 72416,80 72533,10 72546,18  
-@Robin <geheimesite.nl>: 1033,220 12622,16 12655,26 12744,3 12822,2502 15351,864 17986 33900,235 35408,23 35462,422 35885,15 35926,56 35988,91 36112,48 36177,47 36235,31 36283,161 36449,378 36832,12 38857,260 39132,502 39791,5 40005,4 40105 40153 40157,25 40184 40249 40348,34 40416,342 40901,527 41433,575 42013,744 42777,18 42839,142 42991,752 43744,2 43747,7 43755,962 44722,1562 46308,5 46324,2163 48494,605 49101,2 49104,13 52120,5 52166,5 55432,5 57145,5 59860,5 60248,5 61948 68442,5 68563,873 69441,2941 72390,9 72413,3 72496,37 72543,3 72564,2207 74797,3160  
+Annotations: 0,79872 SHA-256 bee53d819205ce67e127  
+&Claude: 35386,31 35839 35855,26 36034,33 46239,24 46268,11 72337,8 72354,14 72371,80 72488,10 72501,18  
+@Robin <geheimesite.nl>: 1033,220 12135,24 12610,26 12699,3 12777,2502 15306,864 17941 33855,235 35363,23 35417,422 35840,15 35881,56 35943,91 36067,48 36132,47 36190,31 36238,161 36404,378 36787,12 38812,260 39087,502 39746,5 39960,4 40060 40108 40112,25 40139 40204 40303,34 40371,342 40856,527 41388,575 41968,744 42732,18 42794,142 42946,752 43699,2 43702,7 43710,962 44677,1562 46263,5 46279,2163 48449,605 49056,2 49059,13 52075,5 52121,5 55387,5 57100,5 59815,5 60203,5 61903 68397,5 68518,873 69396,2941 72345,9 72368,3 72451,37 72498,3 72519,2207 74752,3265 78027,936 78975,830 79815,57  
 ...
